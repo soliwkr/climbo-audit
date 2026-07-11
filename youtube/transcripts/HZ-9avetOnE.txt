@@ -1,0 +1,4209 @@
+(from cache)
+{
+  "videoId": "HZ-9avetOnE",
+  "language": "en",
+  "kind": "asr",
+  "segments": [
+    {
+      "start_ms": 240,
+      "duration_ms": 6000,
+      "text": "Um, see tomorrow or the next days the"
+    },
+    {
+      "start_ms": 3919,
+      "duration_ms": 5041,
+      "text": "new features that we are announcing"
+    },
+    {
+      "start_ms": 6240,
+      "duration_ms": 6880,
+      "text": "today. Thanks Paul for letting me know"
+    },
+    {
+      "start_ms": 8960,
+      "duration_ms": 7280,
+      "text": "that you can all see me and hear me."
+    },
+    {
+      "start_ms": 13120,
+      "duration_ms": 5200,
+      "text": "Hello Francois, Harold and Paul. So"
+    },
+    {
+      "start_ms": 16240,
+      "duration_ms": 5840,
+      "text": "hello guys."
+    },
+    {
+      "start_ms": 18320,
+      "duration_ms": 6879,
+      "text": "Uh, we can start. So let's share the"
+    },
+    {
+      "start_ms": 22080,
+      "duration_ms": 5680,
+      "text": "screen. Uh, we have some cool new"
+    },
+    {
+      "start_ms": 25199,
+      "duration_ms": 7441,
+      "text": "features to announce."
+    },
+    {
+      "start_ms": 27760,
+      "duration_ms": 7520,
+      "text": "um not a big uh big feature as for"
+    },
+    {
+      "start_ms": 32640,
+      "duration_ms": 5680,
+      "text": "example the last week where we took the"
+    },
+    {
+      "start_ms": 35280,
+      "duration_ms": 6160,
+      "text": "entire week uh to develop the affiliate"
+    },
+    {
+      "start_ms": 38320,
+      "duration_ms": 6800,
+      "text": "system. Uh but we have multiple small"
+    },
+    {
+      "start_ms": 41440,
+      "duration_ms": 8639,
+      "text": "features that I'm going to show you uh"
+    },
+    {
+      "start_ms": 45120,
+      "duration_ms": 7360,
+      "text": "today and let's start from uh here. So"
+    },
+    {
+      "start_ms": 50079,
+      "duration_ms": 6800,
+      "text": "the first thing that I want to show you"
+    },
+    {
+      "start_ms": 52480,
+      "duration_ms": 7200,
+      "text": "is the uh redesigned billing section for"
+    },
+    {
+      "start_ms": 56879,
+      "duration_ms": 5520,
+      "text": "uh your clients. So as you know in the"
+    },
+    {
+      "start_ms": 59680,
+      "duration_ms": 5839,
+      "text": "last month we have developed uh a lot of"
+    },
+    {
+      "start_ms": 62399,
+      "duration_ms": 7040,
+      "text": "new features. So, of course, we had to"
+    },
+    {
+      "start_ms": 65519,
+      "duration_ms": 6801,
+      "text": "redesign the plans uh card."
+    },
+    {
+      "start_ms": 69439,
+      "duration_ms": 6881,
+      "text": "And now, as you can see, for example, in"
+    },
+    {
+      "start_ms": 72320,
+      "duration_ms": 7200,
+      "text": "this uh client, we have the three uh"
+    },
+    {
+      "start_ms": 76320,
+      "duration_ms": 6240,
+      "text": "paid plans, gold, silver, and bronze."
+    },
+    {
+      "start_ms": 79520,
+      "duration_ms": 6560,
+      "text": "And as you can see, the plans card uh"
+    },
+    {
+      "start_ms": 82560,
+      "duration_ms": 6160,
+      "text": "firstly shows the uh price. Uh if you"
+    },
+    {
+      "start_ms": 86080,
+      "duration_ms": 4960,
+      "text": "have both monthly price and annual"
+    },
+    {
+      "start_ms": 88720,
+      "duration_ms": 6960,
+      "text": "price, the annual price will be shown"
+    },
+    {
+      "start_ms": 91040,
+      "duration_ms": 7680,
+      "text": "here. Um here we can see if the plan"
+    },
+    {
+      "start_ms": 95680,
+      "duration_ms": 6799,
+      "text": "accept or not of retrial. Then we have"
+    },
+    {
+      "start_ms": 98720,
+      "duration_ms": 8719,
+      "text": "the plan's limits terms of SMS, email,"
+    },
+    {
+      "start_ms": 102479,
+      "duration_ms": 8881,
+      "text": "WhatsApp and um AI tokens. And then"
+    },
+    {
+      "start_ms": 107439,
+      "duration_ms": 8161,
+      "text": "clicking on uh more information we can"
+    },
+    {
+      "start_ms": 111360,
+      "duration_ms": 7439,
+      "text": "see if uh specific features are enabled"
+    },
+    {
+      "start_ms": 115600,
+      "duration_ms": 5360,
+      "text": "or uh disabled for uh each plan. So as"
+    },
+    {
+      "start_ms": 118799,
+      "duration_ms": 5680,
+      "text": "you can see there are the three sections"
+    },
+    {
+      "start_ms": 120960,
+      "duration_ms": 6560,
+      "text": "uh reputation, visibility and engagement"
+    },
+    {
+      "start_ms": 124479,
+      "duration_ms": 6480,
+      "text": "and for each uh of the section we can"
+    },
+    {
+      "start_ms": 127520,
+      "duration_ms": 6000,
+      "text": "see if the related features are enabled"
+    },
+    {
+      "start_ms": 130959,
+      "duration_ms": 6321,
+      "text": "or uh disabled. For example in this"
+    },
+    {
+      "start_ms": 133520,
+      "duration_ms": 8160,
+      "text": "silver plan the employees feature is uh"
+    },
+    {
+      "start_ms": 137280,
+      "duration_ms": 8080,
+      "text": "disabled as you can easily uh see. And"
+    },
+    {
+      "start_ms": 141680,
+      "duration_ms": 5360,
+      "text": "then if of course I want to switch the"
+    },
+    {
+      "start_ms": 145360,
+      "duration_ms": 3680,
+      "text": "plan"
+    },
+    {
+      "start_ms": 147040,
+      "duration_ms": 4960,
+      "text": "uh I just click on the button select"
+    },
+    {
+      "start_ms": 149040,
+      "duration_ms": 7040,
+      "text": "plan. For example, now my active plan is"
+    },
+    {
+      "start_ms": 152000,
+      "duration_ms": 6560,
+      "text": "the uh gold plan."
+    },
+    {
+      "start_ms": 156080,
+      "duration_ms": 6560,
+      "text": "Clicking here I can see the pricing"
+    },
+    {
+      "start_ms": 158560,
+      "duration_ms": 7679,
+      "text": "details of uh the um silver plan in this"
+    },
+    {
+      "start_ms": 162640,
+      "duration_ms": 6560,
+      "text": "case. If the silver plan has uh multiple"
+    },
+    {
+      "start_ms": 166239,
+      "duration_ms": 6161,
+      "text": "pricing like for example monthly or"
+    },
+    {
+      "start_ms": 169200,
+      "duration_ms": 5440,
+      "text": "annual both the"
+    },
+    {
+      "start_ms": 172400,
+      "duration_ms": 4000,
+      "text": "uh options will be visible here and then"
+    },
+    {
+      "start_ms": 174640,
+      "duration_ms": 4480,
+      "text": "of course clicking here I will be"
+    },
+    {
+      "start_ms": 176400,
+      "duration_ms": 7199,
+      "text": "redirected to the customer portal where"
+    },
+    {
+      "start_ms": 179120,
+      "duration_ms": 6720,
+      "text": "I can uh switch my plan. So this is the"
+    },
+    {
+      "start_ms": 183599,
+      "duration_ms": 5201,
+      "text": "first uh thing that I want to do I"
+    },
+    {
+      "start_ms": 185840,
+      "duration_ms": 6399,
+      "text": "wanted to show you. Uh there's um"
+    },
+    {
+      "start_ms": 188800,
+      "duration_ms": 6640,
+      "text": "another thing related to this um section"
+    },
+    {
+      "start_ms": 192239,
+      "duration_ms": 7121,
+      "text": "here. So to the billing section uh which"
+    },
+    {
+      "start_ms": 195440,
+      "duration_ms": 8240,
+      "text": "is related to um coupon codes uh because"
+    },
+    {
+      "start_ms": 199360,
+      "duration_ms": 9120,
+      "text": "as you know uh there was this um problem"
+    },
+    {
+      "start_ms": 203680,
+      "duration_ms": 8800,
+      "text": "let's say uh that when a customer um for"
+    },
+    {
+      "start_ms": 208480,
+      "duration_ms": 7759,
+      "text": "example is in a free trial um the"
+    },
+    {
+      "start_ms": 212480,
+      "duration_ms": 6640,
+      "text": "customer cannot add uh himself a coupon"
+    },
+    {
+      "start_ms": 216239,
+      "duration_ms": 6481,
+      "text": "code uh during the free trial. the"
+    },
+    {
+      "start_ms": 219120,
+      "duration_ms": 7520,
+      "text": "coupon code could be added just at the"
+    },
+    {
+      "start_ms": 222720,
+      "duration_ms": 6799,
+      "text": "uh payment link. So at the uh day one of"
+    },
+    {
+      "start_ms": 226640,
+      "duration_ms": 6000,
+      "text": "the free trial uh during the free trial,"
+    },
+    {
+      "start_ms": 229519,
+      "duration_ms": 6561,
+      "text": "the only way to add a coupon code was uh"
+    },
+    {
+      "start_ms": 232640,
+      "duration_ms": 7599,
+      "text": "by um triggering a subscription update."
+    },
+    {
+      "start_ms": 236080,
+      "duration_ms": 9519,
+      "text": "So for example changing the plan or the"
+    },
+    {
+      "start_ms": 240239,
+      "duration_ms": 8720,
+      "text": "um turnaround was uh that you as agency"
+    },
+    {
+      "start_ms": 245599,
+      "duration_ms": 8401,
+      "text": "manually had to add the uh coupon code"
+    },
+    {
+      "start_ms": 248959,
+      "duration_ms": 9041,
+      "text": "from uh here. So um we fixed this"
+    },
+    {
+      "start_ms": 254000,
+      "duration_ms": 9600,
+      "text": "problem. So now basically um if a client"
+    },
+    {
+      "start_ms": 258000,
+      "duration_ms": 8560,
+      "text": "is in a um paid plan and want to apply a"
+    },
+    {
+      "start_ms": 263600,
+      "duration_ms": 5440,
+      "text": "coupon code the client doesn't need to"
+    },
+    {
+      "start_ms": 266560,
+      "duration_ms": 4960,
+      "text": "trigger a subscription update to add the"
+    },
+    {
+      "start_ms": 269040,
+      "duration_ms": 4480,
+      "text": "coupon code himself but just need to"
+    },
+    {
+      "start_ms": 271520,
+      "duration_ms": 4399,
+      "text": "click here and as you can see here we"
+    },
+    {
+      "start_ms": 273520,
+      "duration_ms": 5280,
+      "text": "have two option option one open the"
+    },
+    {
+      "start_ms": 275919,
+      "duration_ms": 5761,
+      "text": "billing portal option two finally we"
+    },
+    {
+      "start_ms": 278800,
+      "duration_ms": 6880,
+      "text": "have apply coupon so the customer does"
+    },
+    {
+      "start_ms": 281680,
+      "duration_ms": 7120,
+      "text": "not need to uh ask you to add the coupon"
+    },
+    {
+      "start_ms": 285680,
+      "duration_ms": 6560,
+      "text": "code or trigger a subscription update to"
+    },
+    {
+      "start_ms": 288800,
+      "duration_ms": 6800,
+      "text": "add the coupon code. Um the client just"
+    },
+    {
+      "start_ms": 292240,
+      "duration_ms": 6959,
+      "text": "need to click here apply coupon code and"
+    },
+    {
+      "start_ms": 295600,
+      "duration_ms": 6159,
+      "text": "can insert the coupon code uh directly"
+    },
+    {
+      "start_ms": 299199,
+      "duration_ms": 5681,
+      "text": "here and so the coupon code will be"
+    },
+    {
+      "start_ms": 301759,
+      "duration_ms": 6880,
+      "text": "applied to the uh subscription. So when"
+    },
+    {
+      "start_ms": 304880,
+      "duration_ms": 6640,
+      "text": "the payment happens uh of course the"
+    },
+    {
+      "start_ms": 308639,
+      "duration_ms": 8241,
+      "text": "coupon code is already applied and the"
+    },
+    {
+      "start_ms": 311520,
+      "duration_ms": 7440,
+      "text": "client will pay less. So now um a client"
+    },
+    {
+      "start_ms": 316880,
+      "duration_ms": 5039,
+      "text": "for example during the free trial but"
+    },
+    {
+      "start_ms": 318960,
+      "duration_ms": 6640,
+      "text": "also a client that is subscribed to a"
+    },
+    {
+      "start_ms": 321919,
+      "duration_ms": 6961,
+      "text": "specific plan uh can add coupon codes"
+    },
+    {
+      "start_ms": 325600,
+      "duration_ms": 5520,
+      "text": "coupon codes without the need to uh"
+    },
+    {
+      "start_ms": 328880,
+      "duration_ms": 5200,
+      "text": "change their uh plan which was the"
+    },
+    {
+      "start_ms": 331120,
+      "duration_ms": 6320,
+      "text": "problem we had uh before. So very very"
+    },
+    {
+      "start_ms": 334080,
+      "duration_ms": 6320,
+      "text": "simple the client click here and apply"
+    },
+    {
+      "start_ms": 337440,
+      "duration_ms": 6240,
+      "text": "the uh the coupon code. Uh because for"
+    },
+    {
+      "start_ms": 340400,
+      "duration_ms": 6639,
+      "text": "example it can happen that a client sign"
+    },
+    {
+      "start_ms": 343680,
+      "duration_ms": 7840,
+      "text": "up for the free trial uh but they forget"
+    },
+    {
+      "start_ms": 347039,
+      "duration_ms": 6880,
+      "text": "to add the coupon code at the um sign up"
+    },
+    {
+      "start_ms": 351520,
+      "duration_ms": 5840,
+      "text": "where there is the uh box to add the"
+    },
+    {
+      "start_ms": 353919,
+      "duration_ms": 6481,
+      "text": "coupon code uh but they want to add the"
+    },
+    {
+      "start_ms": 357360,
+      "duration_ms": 5839,
+      "text": "coupon code before the trial ends. So"
+    },
+    {
+      "start_ms": 360400,
+      "duration_ms": 6079,
+      "text": "now very very easily they click here and"
+    },
+    {
+      "start_ms": 363199,
+      "duration_ms": 7041,
+      "text": "they apply the uh coupon code. So you do"
+    },
+    {
+      "start_ms": 366479,
+      "duration_ms": 7121,
+      "text": "not need to do it manually from uh here."
+    },
+    {
+      "start_ms": 370240,
+      "duration_ms": 5120,
+      "text": "So now it's 100% delegated to the uh to"
+    },
+    {
+      "start_ms": 373600,
+      "duration_ms": 3920,
+      "text": "the client."
+    },
+    {
+      "start_ms": 375360,
+      "duration_ms": 6320,
+      "text": "Then there's an another important"
+    },
+    {
+      "start_ms": 377520,
+      "duration_ms": 7920,
+      "text": "feature related to the um business mode"
+    },
+    {
+      "start_ms": 381680,
+      "duration_ms": 6639,
+      "text": "that was highly uh requested"
+    },
+    {
+      "start_ms": 385440,
+      "duration_ms": 5680,
+      "text": "which is a new notification"
+    },
+    {
+      "start_ms": 388319,
+      "duration_ms": 6720,
+      "text": "uh which is this notification here. So"
+    },
+    {
+      "start_ms": 391120,
+      "duration_ms": 6560,
+      "text": "Google connection uh expired uh because"
+    },
+    {
+      "start_ms": 395039,
+      "duration_ms": 6720,
+      "text": "uh we have seen that it can happen"
+    },
+    {
+      "start_ms": 397680,
+      "duration_ms": 8079,
+      "text": "sometimes that uh the Google integration"
+    },
+    {
+      "start_ms": 401759,
+      "duration_ms": 7440,
+      "text": "is uh disabled uh by Google when for"
+    },
+    {
+      "start_ms": 405759,
+      "duration_ms": 6241,
+      "text": "example the client changes the password"
+    },
+    {
+      "start_ms": 409199,
+      "duration_ms": 6161,
+      "text": "of uh his Google account. So if the"
+    },
+    {
+      "start_ms": 412000,
+      "duration_ms": 7120,
+      "text": "client uh for any reason has to change"
+    },
+    {
+      "start_ms": 415360,
+      "duration_ms": 6080,
+      "text": "the password of the uh Google account uh"
+    },
+    {
+      "start_ms": 419120,
+      "duration_ms": 4639,
+      "text": "automatically Google is disconnected"
+    },
+    {
+      "start_ms": 421440,
+      "duration_ms": 5360,
+      "text": "from the uh platform and this is"
+    },
+    {
+      "start_ms": 423759,
+      "duration_ms": 5601,
+      "text": "something that we cannot control."
+    },
+    {
+      "start_ms": 426800,
+      "duration_ms": 6160,
+      "text": "So of course uh Google want to"
+    },
+    {
+      "start_ms": 429360,
+      "duration_ms": 6880,
+      "text": "disconnect the uh Google account of the"
+    },
+    {
+      "start_ms": 432960,
+      "duration_ms": 6320,
+      "text": "user from every platform when the"
+    },
+    {
+      "start_ms": 436240,
+      "duration_ms": 7040,
+      "text": "password is uh changed."
+    },
+    {
+      "start_ms": 439280,
+      "duration_ms": 7120,
+      "text": "uh or it can happen for any other reason"
+    },
+    {
+      "start_ms": 443280,
+      "duration_ms": 7199,
+      "text": "that are not under our control that the"
+    },
+    {
+      "start_ms": 446400,
+      "duration_ms": 7199,
+      "text": "Google connection uh expires. Um of"
+    },
+    {
+      "start_ms": 450479,
+      "duration_ms": 5440,
+      "text": "course we want to notify the client as"
+    },
+    {
+      "start_ms": 453599,
+      "duration_ms": 5521,
+      "text": "soon as possible that Google has been"
+    },
+    {
+      "start_ms": 455919,
+      "duration_ms": 5680,
+      "text": "disconnected so they can"
+    },
+    {
+      "start_ms": 459120,
+      "duration_ms": 6320,
+      "text": "uh log into the platform and connect it"
+    },
+    {
+      "start_ms": 461599,
+      "duration_ms": 7361,
+      "text": "again so they do not lose any uh data."
+    },
+    {
+      "start_ms": 465440,
+      "duration_ms": 5360,
+      "text": "And so here they simply uh enable this"
+    },
+    {
+      "start_ms": 468960,
+      "duration_ms": 4400,
+      "text": "uh notification."
+    },
+    {
+      "start_ms": 470800,
+      "duration_ms": 4959,
+      "text": "So uh very very easily whenever Google"
+    },
+    {
+      "start_ms": 473360,
+      "duration_ms": 4320,
+      "text": "is disconnected they receive an email"
+    },
+    {
+      "start_ms": 475759,
+      "duration_ms": 3761,
+      "text": "saying that uh Google has been"
+    },
+    {
+      "start_ms": 477680,
+      "duration_ms": 5760,
+      "text": "disconnected. There is of course the"
+    },
+    {
+      "start_ms": 479520,
+      "duration_ms": 7600,
+      "text": "login link in the email so they can um"
+    },
+    {
+      "start_ms": 483440,
+      "duration_ms": 6400,
+      "text": "login and reconnect Google. So this was"
+    },
+    {
+      "start_ms": 487120,
+      "duration_ms": 5840,
+      "text": "highly requested because uh it's a big"
+    },
+    {
+      "start_ms": 489840,
+      "duration_ms": 6160,
+      "text": "problem if a client lose the Google"
+    },
+    {
+      "start_ms": 492960,
+      "duration_ms": 6799,
+      "text": "connection and they are not notified"
+    },
+    {
+      "start_ms": 496000,
+      "duration_ms": 6080,
+      "text": "uh especially if it's a free trial. So"
+    },
+    {
+      "start_ms": 499759,
+      "duration_ms": 6560,
+      "text": "if you wanted to convert this client"
+    },
+    {
+      "start_ms": 502080,
+      "duration_ms": 7679,
+      "text": "into paying uh client and um so this is"
+    },
+    {
+      "start_ms": 506319,
+      "duration_ms": 7200,
+      "text": "live and you enable it very easily just"
+    },
+    {
+      "start_ms": 509759,
+      "duration_ms": 6241,
+      "text": "by clicking here. Then let's switch to"
+    },
+    {
+      "start_ms": 513519,
+      "duration_ms": 4640,
+      "text": "the agency mode."
+    },
+    {
+      "start_ms": 516000,
+      "duration_ms": 5440,
+      "text": "uh because we have also a few features"
+    },
+    {
+      "start_ms": 518159,
+      "duration_ms": 7281,
+      "text": "uh that we've uh uh released related to"
+    },
+    {
+      "start_ms": 521440,
+      "duration_ms": 7440,
+      "text": "the agency mode. All right, so let me uh"
+    },
+    {
+      "start_ms": 525440,
+      "duration_ms": 5200,
+      "text": "switch and let's go to settings"
+    },
+    {
+      "start_ms": 528880,
+      "duration_ms": 5360,
+      "text": "team."
+    },
+    {
+      "start_ms": 530640,
+      "duration_ms": 7280,
+      "text": "All right, we have a an um a new"
+    },
+    {
+      "start_ms": 534240,
+      "duration_ms": 6880,
+      "text": "improvement of the uh team section uh"
+    },
+    {
+      "start_ms": 537920,
+      "duration_ms": 7280,
+      "text": "specifically related to uh staff users."
+    },
+    {
+      "start_ms": 541120,
+      "duration_ms": 8240,
+      "text": "So now when you add a staff user uh by"
+    },
+    {
+      "start_ms": 545200,
+      "duration_ms": 7440,
+      "text": "default you have uh all clients and all"
+    },
+    {
+      "start_ms": 549360,
+      "duration_ms": 7039,
+      "text": "plans activated. It means that the staff"
+    },
+    {
+      "start_ms": 552640,
+      "duration_ms": 6639,
+      "text": "user that we are adding now has access"
+    },
+    {
+      "start_ms": 556399,
+      "duration_ms": 5601,
+      "text": "access to all the current and future"
+    },
+    {
+      "start_ms": 559279,
+      "duration_ms": 7441,
+      "text": "clients and all the current and future"
+    },
+    {
+      "start_ms": 562000,
+      "duration_ms": 7519,
+      "text": "plans. Um, if you want to limit the um,"
+    },
+    {
+      "start_ms": 566720,
+      "duration_ms": 5360,
+      "text": "access of the specific user to uh,"
+    },
+    {
+      "start_ms": 569519,
+      "duration_ms": 6320,
+      "text": "specific clients or specific plans, you"
+    },
+    {
+      "start_ms": 572080,
+      "duration_ms": 7040,
+      "text": "simply disable the uh, button here and"
+    },
+    {
+      "start_ms": 575839,
+      "duration_ms": 6401,
+      "text": "you select the specific client that you"
+    },
+    {
+      "start_ms": 579120,
+      "duration_ms": 6960,
+      "text": "want the user to uh, access to. And the"
+    },
+    {
+      "start_ms": 582240,
+      "duration_ms": 6640,
+      "text": "same thing for the uh, plans. Uh but uh"
+    },
+    {
+      "start_ms": 586080,
+      "duration_ms": 4560,
+      "text": "last week I mean two weeks ago when we"
+    },
+    {
+      "start_ms": 588880,
+      "duration_ms": 5440,
+      "text": "announced the team feature we didn't"
+    },
+    {
+      "start_ms": 590640,
+      "duration_ms": 7040,
+      "text": "have this possibility to allow the user"
+    },
+    {
+      "start_ms": 594320,
+      "duration_ms": 7040,
+      "text": "to access to all the current and future"
+    },
+    {
+      "start_ms": 597680,
+      "duration_ms": 6880,
+      "text": "clients and plans and now this is uh"
+    },
+    {
+      "start_ms": 601360,
+      "duration_ms": 5200,
+      "text": "live. So also this was highly requested"
+    },
+    {
+      "start_ms": 604560,
+      "duration_ms": 3839,
+      "text": "two weeks ago when the when we released"
+    },
+    {
+      "start_ms": 606560,
+      "duration_ms": 5920,
+      "text": "this feature."
+    },
+    {
+      "start_ms": 608399,
+      "duration_ms": 8641,
+      "text": "So now this is uh this is possible"
+    },
+    {
+      "start_ms": 612480,
+      "duration_ms": 9680,
+      "text": "and um then we have other things. Um"
+    },
+    {
+      "start_ms": 617040,
+      "duration_ms": 9840,
+      "text": "firstly let's talk about the uh history"
+    },
+    {
+      "start_ms": 622160,
+      "duration_ms": 7520,
+      "text": "of your um uh emails. All right. As you"
+    },
+    {
+      "start_ms": 626880,
+      "duration_ms": 6399,
+      "text": "know from the uh platform, you can"
+    },
+    {
+      "start_ms": 629680,
+      "duration_ms": 6000,
+      "text": "automatically send uh emails uh both to"
+    },
+    {
+      "start_ms": 633279,
+      "duration_ms": 6481,
+      "text": "your uh clients. For example, the"
+    },
+    {
+      "start_ms": 635680,
+      "duration_ms": 7200,
+      "text": "welcome email, the email uh of reset"
+    },
+    {
+      "start_ms": 639760,
+      "duration_ms": 5759,
+      "text": "password, uh the emails that are sent"
+    },
+    {
+      "start_ms": 642880,
+      "duration_ms": 5600,
+      "text": "automatically three days before the"
+    },
+    {
+      "start_ms": 645519,
+      "duration_ms": 5841,
+      "text": "trial ends, the email that is sent uh"
+    },
+    {
+      "start_ms": 648480,
+      "duration_ms": 6000,
+      "text": "when the trial ends and the payment"
+    },
+    {
+      "start_ms": 651360,
+      "duration_ms": 6960,
+      "text": "succeed, etc., etc. Trial ended, no"
+    },
+    {
+      "start_ms": 654480,
+      "duration_ms": 7520,
+      "text": "payment. Um you have also emails that"
+    },
+    {
+      "start_ms": 658320,
+      "duration_ms": 7360,
+      "text": "are sent to your uh agency team. So the"
+    },
+    {
+      "start_ms": 662000,
+      "duration_ms": 6320,
+      "text": "welcome email to your uh team members."
+    },
+    {
+      "start_ms": 665680,
+      "duration_ms": 6320,
+      "text": "There is a password and also the emails"
+    },
+    {
+      "start_ms": 668320,
+      "duration_ms": 6560,
+      "text": "for the uh affiliates team. Uh now you"
+    },
+    {
+      "start_ms": 672000,
+      "duration_ms": 4959,
+      "text": "have this new section history"
+    },
+    {
+      "start_ms": 674880,
+      "duration_ms": 6240,
+      "text": "uh which is super important for you"
+    },
+    {
+      "start_ms": 676959,
+      "duration_ms": 10000,
+      "text": "because you can see the all history of"
+    },
+    {
+      "start_ms": 681120,
+      "duration_ms": 10000,
+      "text": "the uh emails that are sent from uh your"
+    },
+    {
+      "start_ms": 686959,
+      "duration_ms": 6641,
+      "text": "um agency email to your clients or your"
+    },
+    {
+      "start_ms": 691120,
+      "duration_ms": 6240,
+      "text": "uh team members. So as you can see each"
+    },
+    {
+      "start_ms": 693600,
+      "duration_ms": 8239,
+      "text": "card uh represent an email. On the top"
+    },
+    {
+      "start_ms": 697360,
+      "duration_ms": 7120,
+      "text": "left we have the uh type of the email we"
+    },
+    {
+      "start_ms": 701839,
+      "duration_ms": 6401,
+      "text": "are sending. For example, this is an"
+    },
+    {
+      "start_ms": 704480,
+      "duration_ms": 6720,
+      "text": "email um a welcome email to uh our"
+    },
+    {
+      "start_ms": 708240,
+      "duration_ms": 5440,
+      "text": "agency team members. This is the subject"
+    },
+    {
+      "start_ms": 711200,
+      "duration_ms": 5199,
+      "text": "of the email. This is of course the"
+    },
+    {
+      "start_ms": 713680,
+      "duration_ms": 5920,
+      "text": "recipient and this is the text of the uh"
+    },
+    {
+      "start_ms": 716399,
+      "duration_ms": 6560,
+      "text": "email. Uh here for example"
+    },
+    {
+      "start_ms": 719600,
+      "duration_ms": 6640,
+      "text": "uh yesterday at 12:55"
+    },
+    {
+      "start_ms": 722959,
+      "duration_ms": 6320,
+      "text": "uh we sent an email to this client here"
+    },
+    {
+      "start_ms": 726240,
+      "duration_ms": 6159,
+      "text": "and the email was related to this event."
+    },
+    {
+      "start_ms": 729279,
+      "duration_ms": 6641,
+      "text": "So trial ended no payment and of course"
+    },
+    {
+      "start_ms": 732399,
+      "duration_ms": 8641,
+      "text": "here we have the subject and the body of"
+    },
+    {
+      "start_ms": 735920,
+      "duration_ms": 9760,
+      "text": "the uh email. So here you can monitor uh"
+    },
+    {
+      "start_ms": 741040,
+      "duration_ms": 9359,
+      "text": "uh emails and so you can double check"
+    },
+    {
+      "start_ms": 745680,
+      "duration_ms": 7680,
+      "text": "that everything is working um correctly"
+    },
+    {
+      "start_ms": 750399,
+      "duration_ms": 6721,
+      "text": "and uh this is a v1 so it's just a list"
+    },
+    {
+      "start_ms": 753360,
+      "duration_ms": 6719,
+      "text": "of emails. H of course down the road we"
+    },
+    {
+      "start_ms": 757120,
+      "duration_ms": 6159,
+      "text": "will improve this section adding maybe"
+    },
+    {
+      "start_ms": 760079,
+      "duration_ms": 6560,
+      "text": "some filters where we can maybe filter"
+    },
+    {
+      "start_ms": 763279,
+      "duration_ms": 6321,
+      "text": "for a type of email. uh you can filter"
+    },
+    {
+      "start_ms": 766639,
+      "duration_ms": 5921,
+      "text": "for uh date"
+    },
+    {
+      "start_ms": 769600,
+      "duration_ms": 5679,
+      "text": "and other things. Uh but basically now"
+    },
+    {
+      "start_ms": 772560,
+      "duration_ms": 5519,
+      "text": "you can double check for example that"
+    },
+    {
+      "start_ms": 775279,
+      "duration_ms": 5201,
+      "text": "welcome emails are sent. So if uh you"
+    },
+    {
+      "start_ms": 778079,
+      "duration_ms": 5440,
+      "text": "check the platform and you see that"
+    },
+    {
+      "start_ms": 780480,
+      "duration_ms": 6960,
+      "text": "today you have onboarded uh let's say"
+    },
+    {
+      "start_ms": 783519,
+      "duration_ms": 7041,
+      "text": "free uh users in a free trial uh you"
+    },
+    {
+      "start_ms": 787440,
+      "duration_ms": 6000,
+      "text": "want to check that the welcome emails uh"
+    },
+    {
+      "start_ms": 790560,
+      "duration_ms": 5600,
+      "text": "were has been sent to these users. So"
+    },
+    {
+      "start_ms": 793440,
+      "duration_ms": 5360,
+      "text": "you just go here and you see and you"
+    },
+    {
+      "start_ms": 796160,
+      "duration_ms": 4400,
+      "text": "check that the welcome emails are uh"
+    },
+    {
+      "start_ms": 798800,
+      "duration_ms": 5120,
+      "text": "sent."
+    },
+    {
+      "start_ms": 800560,
+      "duration_ms": 6719,
+      "text": "And then last but not least we have also"
+    },
+    {
+      "start_ms": 803920,
+      "duration_ms": 7120,
+      "text": "another another thing that was uh highly"
+    },
+    {
+      "start_ms": 807279,
+      "duration_ms": 5281,
+      "text": "requested uh which is related to uh"
+    },
+    {
+      "start_ms": 811040,
+      "duration_ms": 6080,
+      "text": "SMTP."
+    },
+    {
+      "start_ms": 812560,
+      "duration_ms": 8560,
+      "text": "Uh so as you know we um used the same"
+    },
+    {
+      "start_ms": 817120,
+      "duration_ms": 6959,
+      "text": "SMTP connection for your"
+    },
+    {
+      "start_ms": 821120,
+      "duration_ms": 6800,
+      "text": "um emails uh notification that you send"
+    },
+    {
+      "start_ms": 824079,
+      "duration_ms": 9281,
+      "text": "to your clients and also to your uh team"
+    },
+    {
+      "start_ms": 827920,
+      "duration_ms": 8560,
+      "text": "members and uh we uh use the this SMTP"
+    },
+    {
+      "start_ms": 833360,
+      "duration_ms": 5680,
+      "text": "also for uh review request. So the"
+    },
+    {
+      "start_ms": 836480,
+      "duration_ms": 5840,
+      "text": "review request that your clients send to"
+    },
+    {
+      "start_ms": 839040,
+      "duration_ms": 7039,
+      "text": "their end customers. uh now we have"
+    },
+    {
+      "start_ms": 842320,
+      "duration_ms": 9040,
+      "text": "divided the two SMTP connection. So you"
+    },
+    {
+      "start_ms": 846079,
+      "duration_ms": 7681,
+      "text": "can have a uh specific uh email uh"
+    },
+    {
+      "start_ms": 851360,
+      "duration_ms": 6080,
+      "text": "related to notifications."
+    },
+    {
+      "start_ms": 853760,
+      "duration_ms": 7519,
+      "text": "So the email that you as uh platform"
+    },
+    {
+      "start_ms": 857440,
+      "duration_ms": 6240,
+      "text": "send to uh your clients and also to your"
+    },
+    {
+      "start_ms": 861279,
+      "duration_ms": 4560,
+      "text": "uh team members. And here we have a"
+    },
+    {
+      "start_ms": 863680,
+      "duration_ms": 3839,
+      "text": "review request. So you can connect a"
+    },
+    {
+      "start_ms": 865839,
+      "duration_ms": 6240,
+      "text": "specific"
+    },
+    {
+      "start_ms": 867519,
+      "duration_ms": 7921,
+      "text": "um uh SMTP connection just uh dedicated"
+    },
+    {
+      "start_ms": 872079,
+      "duration_ms": 7361,
+      "text": "to uh review request. Uh maybe you can"
+    },
+    {
+      "start_ms": 875440,
+      "duration_ms": 8000,
+      "text": "have a different uh domain or uh a"
+    },
+    {
+      "start_ms": 879440,
+      "duration_ms": 8560,
+      "text": "different email with the same uh domain."
+    },
+    {
+      "start_ms": 883440,
+      "duration_ms": 8240,
+      "text": "uh this is let's say uh also a uh v1"
+    },
+    {
+      "start_ms": 888000,
+      "duration_ms": 5199,
+      "text": "related to this uh process where we want"
+    },
+    {
+      "start_ms": 891680,
+      "duration_ms": 5120,
+      "text": "to"
+    },
+    {
+      "start_ms": 893199,
+      "duration_ms": 7760,
+      "text": "uh allow your clients in the end to use"
+    },
+    {
+      "start_ms": 896800,
+      "duration_ms": 8479,
+      "text": "their own SMTP. This will be uh done uh"
+    },
+    {
+      "start_ms": 900959,
+      "duration_ms": 9521,
+      "text": "down the road. Uh for now you can have a"
+    },
+    {
+      "start_ms": 905279,
+      "duration_ms": 9601,
+      "text": "specific SMTP for uh review. Uh but down"
+    },
+    {
+      "start_ms": 910480,
+      "duration_ms": 8640,
+      "text": "the road in the future we will uh let uh"
+    },
+    {
+      "start_ms": 914880,
+      "duration_ms": 7280,
+      "text": "your clients of course if they want to"
+    },
+    {
+      "start_ms": 919120,
+      "duration_ms": 6480,
+      "text": "uh to connect their own uh SMTP"
+    },
+    {
+      "start_ms": 922160,
+      "duration_ms": 8320,
+      "text": "optionally uh so by default they will"
+    },
+    {
+      "start_ms": 925600,
+      "duration_ms": 7280,
+      "text": "use your um SMTP to send a review"
+    },
+    {
+      "start_ms": 930480,
+      "duration_ms": 5599,
+      "text": "request. So when they are on boarded in"
+    },
+    {
+      "start_ms": 932880,
+      "duration_ms": 6319,
+      "text": "the platform they have emails um"
+    },
+    {
+      "start_ms": 936079,
+      "duration_ms": 5841,
+      "text": "activated from the day one and they can"
+    },
+    {
+      "start_ms": 939199,
+      "duration_ms": 5200,
+      "text": "start sending emails with your SMTP"
+    },
+    {
+      "start_ms": 941920,
+      "duration_ms": 6960,
+      "text": "connection. Uh but there will be the"
+    },
+    {
+      "start_ms": 944399,
+      "duration_ms": 8401,
+      "text": "option to u connect their own SMTP. So"
+    },
+    {
+      "start_ms": 948880,
+      "duration_ms": 6959,
+      "text": "if of course they want the sender of the"
+    },
+    {
+      "start_ms": 952800,
+      "duration_ms": 5920,
+      "text": "email uh to be under their domain they"
+    },
+    {
+      "start_ms": 955839,
+      "duration_ms": 6560,
+      "text": "will have the option to connect"
+    },
+    {
+      "start_ms": 958720,
+      "duration_ms": 6239,
+      "text": "SMTP from uh here. Uh so this will be"
+    },
+    {
+      "start_ms": 962399,
+      "duration_ms": 5761,
+      "text": "done in the next uh weeks or months but"
+    },
+    {
+      "start_ms": 964959,
+      "duration_ms": 7521,
+      "text": "for now uh we have developed this uh"
+    },
+    {
+      "start_ms": 968160,
+      "duration_ms": 7840,
+      "text": "highly requested feature where um you"
+    },
+    {
+      "start_ms": 972480,
+      "duration_ms": 6400,
+      "text": "can have a different SMTP connection"
+    },
+    {
+      "start_ms": 976000,
+      "duration_ms": 4959,
+      "text": "for uh email review request."
+    },
+    {
+      "start_ms": 978880,
+      "duration_ms": 3600,
+      "text": "Um all right guys that's all for this"
+    },
+    {
+      "start_ms": 980959,
+      "duration_ms": 3841,
+      "text": "week."
+    },
+    {
+      "start_ms": 982480,
+      "duration_ms": 4799,
+      "text": "So free new feature for the business"
+    },
+    {
+      "start_ms": 984800,
+      "duration_ms": 5120,
+      "text": "mode and free new feature uh for the"
+    },
+    {
+      "start_ms": 987279,
+      "duration_ms": 6560,
+      "text": "clients mode. Uh so we have dedicated"
+    },
+    {
+      "start_ms": 989920,
+      "duration_ms": 8240,
+      "text": "this week to let's say um multiple uh"
+    },
+    {
+      "start_ms": 993839,
+      "duration_ms": 8401,
+      "text": "fixes and uh improvements and so just a"
+    },
+    {
+      "start_ms": 998160,
+      "duration_ms": 6640,
+      "text": "quick recap and then we switch to uh Q&A"
+    },
+    {
+      "start_ms": 1002240,
+      "duration_ms": 5680,
+      "text": "um free feature for the business mode."
+    },
+    {
+      "start_ms": 1004800,
+      "duration_ms": 7360,
+      "text": "So the plant uh section sorry the"
+    },
+    {
+      "start_ms": 1007920,
+      "duration_ms": 7039,
+      "text": "billing section is uh redesigned"
+    },
+    {
+      "start_ms": 1012160,
+      "duration_ms": 5919,
+      "text": "and uh there is the"
+    },
+    {
+      "start_ms": 1014959,
+      "duration_ms": 5201,
+      "text": "possibility to uh add the coupon codes"
+    },
+    {
+      "start_ms": 1018079,
+      "duration_ms": 5521,
+      "text": "directly"
+    },
+    {
+      "start_ms": 1020160,
+      "duration_ms": 6080,
+      "text": "uh from the um billing section without"
+    },
+    {
+      "start_ms": 1023600,
+      "duration_ms": 5280,
+      "text": "the need for your clients to ask you to"
+    },
+    {
+      "start_ms": 1026240,
+      "duration_ms": 4640,
+      "text": "add the coupon code for them or without"
+    },
+    {
+      "start_ms": 1028880,
+      "duration_ms": 4959,
+      "text": "the need for them to trigger a"
+    },
+    {
+      "start_ms": 1030880,
+      "duration_ms": 6079,
+      "text": "subscription uh update because that was"
+    },
+    {
+      "start_ms": 1033839,
+      "duration_ms": 6321,
+      "text": "the only way to add coupon codes. Um"
+    },
+    {
+      "start_ms": 1036959,
+      "duration_ms": 6641,
+      "text": "then we have the new notification"
+    },
+    {
+      "start_ms": 1040160,
+      "duration_ms": 5120,
+      "text": "when Google connection is expired. These"
+    },
+    {
+      "start_ms": 1043600,
+      "duration_ms": 6480,
+      "text": "are the free feature for the business"
+    },
+    {
+      "start_ms": 1045280,
+      "duration_ms": 7040,
+      "text": "mode. And then agency mode we have um"
+    },
+    {
+      "start_ms": 1050080,
+      "duration_ms": 6240,
+      "text": "staff."
+    },
+    {
+      "start_ms": 1052320,
+      "duration_ms": 7040,
+      "text": "So you can uh have a staff team member"
+    },
+    {
+      "start_ms": 1056320,
+      "duration_ms": 5040,
+      "text": "that automatically get access to all the"
+    },
+    {
+      "start_ms": 1059360,
+      "duration_ms": 5199,
+      "text": "current and future clients and all the"
+    },
+    {
+      "start_ms": 1061360,
+      "duration_ms": 7120,
+      "text": "current and future plans."
+    },
+    {
+      "start_ms": 1064559,
+      "duration_ms": 7441,
+      "text": "You have uh the history of agency emails"
+    },
+    {
+      "start_ms": 1068480,
+      "duration_ms": 6720,
+      "text": "here. Very cool. And then as we have"
+    },
+    {
+      "start_ms": 1072000,
+      "duration_ms": 5440,
+      "text": "seen the SMTP connection for uh review"
+    },
+    {
+      "start_ms": 1075200,
+      "duration_ms": 5359,
+      "text": "request."
+    },
+    {
+      "start_ms": 1077440,
+      "duration_ms": 5280,
+      "text": "All right guys, let's switch to Q&A."
+    },
+    {
+      "start_ms": 1080559,
+      "duration_ms": 5601,
+      "text": "Uh so let me know if you have any"
+    },
+    {
+      "start_ms": 1082720,
+      "duration_ms": 6640,
+      "text": "question related to this or uh other"
+    },
+    {
+      "start_ms": 1086160,
+      "duration_ms": 4800,
+      "text": "features. Uh, as you have seen, I've"
+    },
+    {
+      "start_ms": 1089360,
+      "duration_ms": 5360,
+      "text": "also"
+    },
+    {
+      "start_ms": 1090960,
+      "duration_ms": 6959,
+      "text": "done a post early this week about some"
+    },
+    {
+      "start_ms": 1094720,
+      "duration_ms": 7280,
+      "text": "um uh prohibited activity that was going"
+    },
+    {
+      "start_ms": 1097919,
+      "duration_ms": 8721,
+      "text": "on in the uh in the chat. Unfortunately,"
+    },
+    {
+      "start_ms": 1102000,
+      "duration_ms": 7919,
+      "text": "some um a climber started to promote his"
+    },
+    {
+      "start_ms": 1106640,
+      "duration_ms": 5919,
+      "text": "own uh product in competition with"
+    },
+    {
+      "start_ms": 1109919,
+      "duration_ms": 4241,
+      "text": "climbber. And thank you for the people"
+    },
+    {
+      "start_ms": 1112559,
+      "duration_ms": 5281,
+      "text": "who"
+    },
+    {
+      "start_ms": 1114160,
+      "duration_ms": 6639,
+      "text": "uh texted me about this activity. So we"
+    },
+    {
+      "start_ms": 1117840,
+      "duration_ms": 5360,
+      "text": "were able to uh block this activity."
+    },
+    {
+      "start_ms": 1120799,
+      "duration_ms": 5041,
+      "text": "This is very dangerous for us because"
+    },
+    {
+      "start_ms": 1123200,
+      "duration_ms": 5920,
+      "text": "people new people are joining the"
+    },
+    {
+      "start_ms": 1125840,
+      "duration_ms": 8560,
+      "text": "community every day and of course we do"
+    },
+    {
+      "start_ms": 1129120,
+      "duration_ms": 8880,
+      "text": "not want to uh have uh um spammers who"
+    },
+    {
+      "start_ms": 1134400,
+      "duration_ms": 7519,
+      "text": "uh immediately send them messages"
+    },
+    {
+      "start_ms": 1138000,
+      "duration_ms": 8240,
+      "text": "promoting uh uh paid products. And so"
+    },
+    {
+      "start_ms": 1141919,
+      "duration_ms": 8721,
+      "text": "luckily this was um stopped. And um so"
+    },
+    {
+      "start_ms": 1146240,
+      "duration_ms": 6559,
+      "text": "as you have seen in my post I uh"
+    },
+    {
+      "start_ms": 1150640,
+      "duration_ms": 5039,
+      "text": "reshared again the rules of the"
+    },
+    {
+      "start_ms": 1152799,
+      "duration_ms": 5760,
+      "text": "community to remember everyone that in"
+    },
+    {
+      "start_ms": 1155679,
+      "duration_ms": 6880,
+      "text": "the community we have rules and it's our"
+    },
+    {
+      "start_ms": 1158559,
+      "duration_ms": 6240,
+      "text": "duty to uh make the members of the"
+    },
+    {
+      "start_ms": 1162559,
+      "duration_ms": 5201,
+      "text": "community respect the rules. So we are"
+    },
+    {
+      "start_ms": 1164799,
+      "duration_ms": 4721,
+      "text": "100% focused on the goal of the"
+    },
+    {
+      "start_ms": 1167760,
+      "duration_ms": 3840,
+      "text": "community"
+    },
+    {
+      "start_ms": 1169520,
+      "duration_ms": 5120,
+      "text": "which is help you grow your business"
+    },
+    {
+      "start_ms": 1171600,
+      "duration_ms": 4959,
+      "text": "with uh with climbo. So all the other"
+    },
+    {
+      "start_ms": 1174640,
+      "duration_ms": 4960,
+      "text": "things that are not related to this"
+    },
+    {
+      "start_ms": 1176559,
+      "duration_ms": 6801,
+      "text": "topic of course are not allowed. So you"
+    },
+    {
+      "start_ms": 1179600,
+      "duration_ms": 8160,
+      "text": "all know that we are here for uh for"
+    },
+    {
+      "start_ms": 1183360,
+      "duration_ms": 6400,
+      "text": "climbbo. So we are 100% uh focused. Uh"
+    },
+    {
+      "start_ms": 1187760,
+      "duration_ms": 4080,
+      "text": "all right I see a question from uh"
+    },
+    {
+      "start_ms": 1189760,
+      "duration_ms": 4400,
+      "text": "Frana."
+    },
+    {
+      "start_ms": 1191840,
+      "duration_ms": 4959,
+      "text": "Uh is there a plan to create a referral"
+    },
+    {
+      "start_ms": 1194160,
+      "duration_ms": 5519,
+      "text": "system that allows an already active"
+    },
+    {
+      "start_ms": 1196799,
+      "duration_ms": 8081,
+      "text": "customer to refer a prospects and earn a"
+    },
+    {
+      "start_ms": 1199679,
+      "duration_ms": 5201,
+      "text": "coupon code one free month for example?"
+    },
+    {
+      "start_ms": 1207520,
+      "duration_ms": 6320,
+      "text": "Very cool question."
+    },
+    {
+      "start_ms": 1210559,
+      "duration_ms": 4961,
+      "text": "Yes, I think this is possible."
+    },
+    {
+      "start_ms": 1213840,
+      "duration_ms": 3520,
+      "text": "Um,"
+    },
+    {
+      "start_ms": 1215520,
+      "duration_ms": 5279,
+      "text": "this is possible and this could be very"
+    },
+    {
+      "start_ms": 1217360,
+      "duration_ms": 7439,
+      "text": "powerful because local business owners,"
+    },
+    {
+      "start_ms": 1220799,
+      "duration_ms": 6000,
+      "text": "they know each other. Uh, if you are a"
+    },
+    {
+      "start_ms": 1224799,
+      "duration_ms": 4801,
+      "text": "restaurant owner, you know all the other"
+    },
+    {
+      "start_ms": 1226799,
+      "duration_ms": 5801,
+      "text": "restaurant owners in the area"
+    },
+    {
+      "start_ms": 1229600,
+      "duration_ms": 3000,
+      "text": "and"
+    },
+    {
+      "start_ms": 1233120,
+      "duration_ms": 7039,
+      "text": "We I think there's a way to do this."
+    },
+    {
+      "start_ms": 1235440,
+      "duration_ms": 7440,
+      "text": "This is a little bit technical, but um"
+    },
+    {
+      "start_ms": 1240159,
+      "duration_ms": 5921,
+      "text": "we can create this type of system that"
+    },
+    {
+      "start_ms": 1242880,
+      "duration_ms": 7919,
+      "text": "works around the coupon code"
+    },
+    {
+      "start_ms": 1246080,
+      "duration_ms": 7120,
+      "text": "because we can automatically create um"
+    },
+    {
+      "start_ms": 1250799,
+      "duration_ms": 7841,
+      "text": "coupon codes"
+    },
+    {
+      "start_ms": 1253200,
+      "duration_ms": 10000,
+      "text": "and um so I think there's a way to uh to"
+    },
+    {
+      "start_ms": 1258640,
+      "duration_ms": 6240,
+      "text": "do it. um every uh local business maybe"
+    },
+    {
+      "start_ms": 1263200,
+      "duration_ms": 5040,
+      "text": "can"
+    },
+    {
+      "start_ms": 1264880,
+      "duration_ms": 5520,
+      "text": "have a coupon code uh for them but also"
+    },
+    {
+      "start_ms": 1268240,
+      "duration_ms": 3760,
+      "text": "a coupon code that they can share with"
+    },
+    {
+      "start_ms": 1270400,
+      "duration_ms": 4480,
+      "text": "others."
+    },
+    {
+      "start_ms": 1272000,
+      "duration_ms": 7120,
+      "text": "And so if we have new user that sign up"
+    },
+    {
+      "start_ms": 1274880,
+      "duration_ms": 8880,
+      "text": "with that coupon code, we can match that"
+    },
+    {
+      "start_ms": 1279120,
+      "duration_ms": 7439,
+      "text": "sale with the um uh with your client. So"
+    },
+    {
+      "start_ms": 1283760,
+      "duration_ms": 6799,
+      "text": "we know that that customer come is"
+    },
+    {
+      "start_ms": 1286559,
+      "duration_ms": 6561,
+      "text": "coming from uh the um the from your"
+    },
+    {
+      "start_ms": 1290559,
+      "duration_ms": 5521,
+      "text": "client and so we can attribute that sale"
+    },
+    {
+      "start_ms": 1293120,
+      "duration_ms": 5840,
+      "text": "to your client. Um, I think there's a"
+    },
+    {
+      "start_ms": 1296080,
+      "duration_ms": 5760,
+      "text": "way to do it and u"
+    },
+    {
+      "start_ms": 1298960,
+      "duration_ms": 6800,
+      "text": "later this year maybe we can start"
+    },
+    {
+      "start_ms": 1301840,
+      "duration_ms": 6560,
+      "text": "working on this because this is super"
+    },
+    {
+      "start_ms": 1305760,
+      "duration_ms": 5680,
+      "text": "powerful as the affiliate system that we"
+    },
+    {
+      "start_ms": 1308400,
+      "duration_ms": 5519,
+      "text": "built uh last week also this could be"
+    },
+    {
+      "start_ms": 1311440,
+      "duration_ms": 5280,
+      "text": "very powerful to help you uh increase"
+    },
+    {
+      "start_ms": 1313919,
+      "duration_ms": 8321,
+      "text": "sales."
+    },
+    {
+      "start_ms": 1316720,
+      "duration_ms": 7360,
+      "text": "Uh if Franis you have other um ways to"
+    },
+    {
+      "start_ms": 1322240,
+      "duration_ms": 4240,
+      "text": "do it"
+    },
+    {
+      "start_ms": 1324080,
+      "duration_ms": 5360,
+      "text": "of course limited to what we can do"
+    },
+    {
+      "start_ms": 1326480,
+      "duration_ms": 5520,
+      "text": "because you know how climbbo works you"
+    },
+    {
+      "start_ms": 1329440,
+      "duration_ms": 5280,
+      "text": "know how we can track sales. So coupon"
+    },
+    {
+      "start_ms": 1332000,
+      "duration_ms": 4559,
+      "text": "codes is a good way to track sales but"
+    },
+    {
+      "start_ms": 1334720,
+      "duration_ms": 5439,
+      "text": "if you have other ideas feel free to do"
+    },
+    {
+      "start_ms": 1336559,
+      "duration_ms": 7521,
+      "text": "a post in the in the community. Uh but"
+    },
+    {
+      "start_ms": 1340159,
+      "duration_ms": 7921,
+      "text": "this is something that we want to do."
+    },
+    {
+      "start_ms": 1344080,
+      "duration_ms": 5920,
+      "text": "Uh Marco uh could partner receive one"
+    },
+    {
+      "start_ms": 1348080,
+      "duration_ms": 5599,
+      "text": "year fee"
+    },
+    {
+      "start_ms": 1350000,
+      "duration_ms": 6679,
+      "text": "uh even on uh monthly on on monthly"
+    },
+    {
+      "start_ms": 1353679,
+      "duration_ms": 3000,
+      "text": "plan."
+    },
+    {
+      "start_ms": 1359200,
+      "duration_ms": 6280,
+      "text": "So with partner I think you mean uh"
+    },
+    {
+      "start_ms": 1362480,
+      "duration_ms": 3000,
+      "text": "affiliates"
+    },
+    {
+      "start_ms": 1365679,
+      "duration_ms": 5601,
+      "text": "um this is not possible. So the"
+    },
+    {
+      "start_ms": 1368240,
+      "duration_ms": 7200,
+      "text": "affiliate earns"
+    },
+    {
+      "start_ms": 1371280,
+      "duration_ms": 6080,
+      "text": "um two types of commission. One is a"
+    },
+    {
+      "start_ms": 1375440,
+      "duration_ms": 5599,
+      "text": "fixed commission"
+    },
+    {
+      "start_ms": 1377360,
+      "duration_ms": 8400,
+      "text": "on the first payment or uh a recurring"
+    },
+    {
+      "start_ms": 1381039,
+      "duration_ms": 10000,
+      "text": "commission on the um recurring payment."
+    },
+    {
+      "start_ms": 1385760,
+      "duration_ms": 8320,
+      "text": "So if the recurring uh payment is um um"
+    },
+    {
+      "start_ms": 1391039,
+      "duration_ms": 8281,
+      "text": "a monthly plan, the commission is earned"
+    },
+    {
+      "start_ms": 1394080,
+      "duration_ms": 5240,
+      "text": "on the uh monthly plan."
+    },
+    {
+      "start_ms": 1399440,
+      "duration_ms": 7280,
+      "text": "So you cannot earn a yearly commission"
+    },
+    {
+      "start_ms": 1402799,
+      "duration_ms": 7521,
+      "text": "uh on the monthly plan also because if a"
+    },
+    {
+      "start_ms": 1406720,
+      "duration_ms": 6800,
+      "text": "client subscribe with a monthly plan"
+    },
+    {
+      "start_ms": 1410320,
+      "duration_ms": 6640,
+      "text": "uh they can uh charge after two months"
+    },
+    {
+      "start_ms": 1413520,
+      "duration_ms": 6480,
+      "text": "maybe and if you pay the early"
+    },
+    {
+      "start_ms": 1416960,
+      "duration_ms": 6320,
+      "text": "commission on the first uh month you"
+    },
+    {
+      "start_ms": 1420000,
+      "duration_ms": 5200,
+      "text": "risk to make a loss. So"
+    },
+    {
+      "start_ms": 1423280,
+      "duration_ms": 4080,
+      "text": "if the plan is a monthly plan, the"
+    },
+    {
+      "start_ms": 1425200,
+      "duration_ms": 5800,
+      "text": "affiliate receive"
+    },
+    {
+      "start_ms": 1427360,
+      "duration_ms": 3640,
+      "text": "a monthly commission."
+    },
+    {
+      "start_ms": 1431360,
+      "duration_ms": 5520,
+      "text": "I already use it in another business and"
+    },
+    {
+      "start_ms": 1434000,
+      "duration_ms": 5679,
+      "text": "it's very powerful. Yeah, I totally"
+    },
+    {
+      "start_ms": 1436880,
+      "duration_ms": 5039,
+      "text": "agree because I also deal a lot with"
+    },
+    {
+      "start_ms": 1439679,
+      "duration_ms": 4880,
+      "text": "local business owners uh since I've"
+    },
+    {
+      "start_ms": 1441919,
+      "duration_ms": 5681,
+      "text": "started working in uh climbot to of"
+    },
+    {
+      "start_ms": 1444559,
+      "duration_ms": 6881,
+      "text": "course study the the markets and they"
+    },
+    {
+      "start_ms": 1447600,
+      "duration_ms": 6480,
+      "text": "see that they all know uh each other and"
+    },
+    {
+      "start_ms": 1451440,
+      "duration_ms": 5839,
+      "text": "if they have an an opportunity to save"
+    },
+    {
+      "start_ms": 1454080,
+      "duration_ms": 5520,
+      "text": "uh money easily uh they they do it. So"
+    },
+    {
+      "start_ms": 1457279,
+      "duration_ms": 4880,
+      "text": "if they know that they can just share a"
+    },
+    {
+      "start_ms": 1459600,
+      "duration_ms": 4720,
+      "text": "coupon code with their uh colleagues,"
+    },
+    {
+      "start_ms": 1462159,
+      "duration_ms": 6640,
+      "text": "let's say, so with the other business"
+    },
+    {
+      "start_ms": 1464320,
+      "duration_ms": 6959,
+      "text": "owners in the area and save uh uh I"
+    },
+    {
+      "start_ms": 1468799,
+      "duration_ms": 5120,
+      "text": "don't know $30 $50 per month. They will"
+    },
+    {
+      "start_ms": 1471279,
+      "duration_ms": 6000,
+      "text": "they will do it."
+    },
+    {
+      "start_ms": 1473919,
+      "duration_ms": 5601,
+      "text": "Um Paul, hi Jako, question about the"
+    },
+    {
+      "start_ms": 1477279,
+      "duration_ms": 5681,
+      "text": "affiliate program. Could you explain how"
+    },
+    {
+      "start_ms": 1479520,
+      "duration_ms": 6399,
+      "text": "it works without a a coupon code? you"
+    },
+    {
+      "start_ms": 1482960,
+      "duration_ms": 6079,
+      "text": "explained it in the last AMA event and I"
+    },
+    {
+      "start_ms": 1485919,
+      "duration_ms": 8640,
+      "text": "tried it, but you still have to use a"
+    },
+    {
+      "start_ms": 1489039,
+      "duration_ms": 9760,
+      "text": "coupon code. Um, yes. So, for this V1"
+    },
+    {
+      "start_ms": 1494559,
+      "duration_ms": 9120,
+      "text": "um it's still I think mandatory to add"
+    },
+    {
+      "start_ms": 1498799,
+      "duration_ms": 7120,
+      "text": "uh coupon codes. So, basically when um"
+    },
+    {
+      "start_ms": 1503679,
+      "duration_ms": 5521,
+      "text": "you add an affiliate, of course, you add"
+    },
+    {
+      "start_ms": 1505919,
+      "duration_ms": 6161,
+      "text": "an affiliate via two different ways. So,"
+    },
+    {
+      "start_ms": 1509200,
+      "duration_ms": 6880,
+      "text": "manually or uh automatically."
+    },
+    {
+      "start_ms": 1512080,
+      "duration_ms": 7599,
+      "text": "uh if you had an affiliate uh manually"
+    },
+    {
+      "start_ms": 1516080,
+      "duration_ms": 8479,
+      "text": "you have to assign a coupon code. So we"
+    },
+    {
+      "start_ms": 1519679,
+      "duration_ms": 7521,
+      "text": "know that that sale uh come from"
+    },
+    {
+      "start_ms": 1524559,
+      "duration_ms": 5441,
+      "text": "uh that specific affiliate"
+    },
+    {
+      "start_ms": 1527200,
+      "duration_ms": 5280,
+      "text": "um if you add the affiliate uh"
+    },
+    {
+      "start_ms": 1530000,
+      "duration_ms": 5840,
+      "text": "automatically"
+    },
+    {
+      "start_ms": 1532480,
+      "duration_ms": 5920,
+      "text": "you have to um insert here the value of"
+    },
+    {
+      "start_ms": 1535840,
+      "duration_ms": 5199,
+      "text": "the coupon code. So for now it's still"
+    },
+    {
+      "start_ms": 1538400,
+      "duration_ms": 7120,
+      "text": "not possible to add affiliates uh"
+    },
+    {
+      "start_ms": 1541039,
+      "duration_ms": 7281,
+      "text": "without coupon code. Uh but we plan to"
+    },
+    {
+      "start_ms": 1545520,
+      "duration_ms": 5360,
+      "text": "work on a v2 of this system. So we can"
+    },
+    {
+      "start_ms": 1548320,
+      "duration_ms": 6560,
+      "text": "make it work even without uh coupon"
+    },
+    {
+      "start_ms": 1550880,
+      "duration_ms": 6159,
+      "text": "code. Um but for now this is not uh"
+    },
+    {
+      "start_ms": 1554880,
+      "duration_ms": 5919,
+      "text": "possible. So for now this is still not"
+    },
+    {
+      "start_ms": 1557039,
+      "duration_ms": 7601,
+      "text": "possible but it will be possible to for"
+    },
+    {
+      "start_ms": 1560799,
+      "duration_ms": 7921,
+      "text": "example here in the uh widget"
+    },
+    {
+      "start_ms": 1564640,
+      "duration_ms": 8080,
+      "text": "uh you will be able to allow affiliates"
+    },
+    {
+      "start_ms": 1568720,
+      "duration_ms": 7520,
+      "text": "to uh sign up and when they sign up they"
+    },
+    {
+      "start_ms": 1572720,
+      "duration_ms": 6160,
+      "text": "uh do not have a coupon code"
+    },
+    {
+      "start_ms": 1576240,
+      "duration_ms": 6400,
+      "text": "and uh without coupon code of course we"
+    },
+    {
+      "start_ms": 1578880,
+      "duration_ms": 6640,
+      "text": "do not have automated assignment of uh"
+    },
+    {
+      "start_ms": 1582640,
+      "duration_ms": 5600,
+      "text": "affiliates to specific clients."
+    },
+    {
+      "start_ms": 1585520,
+      "duration_ms": 7519,
+      "text": "So you will have to manually assign"
+    },
+    {
+      "start_ms": 1588240,
+      "duration_ms": 8160,
+      "text": "clients to uh affiliate and uh yes also"
+    },
+    {
+      "start_ms": 1593039,
+      "duration_ms": 6481,
+      "text": "without uh widget it will be uh possible"
+    },
+    {
+      "start_ms": 1596400,
+      "duration_ms": 7040,
+      "text": "because when you add an affiliate you"
+    },
+    {
+      "start_ms": 1599520,
+      "duration_ms": 6720,
+      "text": "can simply select no coupon here. So you"
+    },
+    {
+      "start_ms": 1603440,
+      "duration_ms": 7119,
+      "text": "just add an affiliate without a coupon"
+    },
+    {
+      "start_ms": 1606240,
+      "duration_ms": 7439,
+      "text": "code uh assigned and uh in this way you"
+    },
+    {
+      "start_ms": 1610559,
+      "duration_ms": 6720,
+      "text": "have to manually assign affiliates to uh"
+    },
+    {
+      "start_ms": 1613679,
+      "duration_ms": 7041,
+      "text": "clients. So coupon codes uh are needed"
+    },
+    {
+      "start_ms": 1617279,
+      "duration_ms": 5601,
+      "text": "for automated assignment. Uh if we do"
+    },
+    {
+      "start_ms": 1620720,
+      "duration_ms": 4480,
+      "text": "not have coupon code, you still will"
+    },
+    {
+      "start_ms": 1622880,
+      "duration_ms": 5919,
+      "text": "have the possibility to add affiliates."
+    },
+    {
+      "start_ms": 1625200,
+      "duration_ms": 7440,
+      "text": "But if an affiliate close a client, they"
+    },
+    {
+      "start_ms": 1628799,
+      "duration_ms": 7441,
+      "text": "will have to tell you that that client"
+    },
+    {
+      "start_ms": 1632640,
+      "duration_ms": 8159,
+      "text": "come from uh their uh work and you have"
+    },
+    {
+      "start_ms": 1636240,
+      "duration_ms": 8720,
+      "text": "to go here manually uh click on edit and"
+    },
+    {
+      "start_ms": 1640799,
+      "duration_ms": 8801,
+      "text": "assign the uh client here manually to"
+    },
+    {
+      "start_ms": 1644960,
+      "duration_ms": 8480,
+      "text": "the um affiliate. Uh in this way if new"
+    },
+    {
+      "start_ms": 1649600,
+      "duration_ms": 7840,
+      "text": "payments comes from uh this client the"
+    },
+    {
+      "start_ms": 1653440,
+      "duration_ms": 7839,
+      "text": "commission will be um uh paid to the"
+    },
+    {
+      "start_ms": 1657440,
+      "duration_ms": 6960,
+      "text": "affiliate. If uh the affiliate has a uh"
+    },
+    {
+      "start_ms": 1661279,
+      "duration_ms": 6161,
+      "text": "one-time commission plan they just earn"
+    },
+    {
+      "start_ms": 1664400,
+      "duration_ms": 6399,
+      "text": "a percentage on the first payment that"
+    },
+    {
+      "start_ms": 1667440,
+      "duration_ms": 6800,
+      "text": "happens after the client is assigned to"
+    },
+    {
+      "start_ms": 1670799,
+      "duration_ms": 8641,
+      "text": "the affiliate. uh if the commission plan"
+    },
+    {
+      "start_ms": 1674240,
+      "duration_ms": 8400,
+      "text": "is recurring of course all the uh next"
+    },
+    {
+      "start_ms": 1679440,
+      "duration_ms": 6479,
+      "text": "uh payments will pay a commission to the"
+    },
+    {
+      "start_ms": 1682640,
+      "duration_ms": 6320,
+      "text": "uh to the affiliate. So in order to make"
+    },
+    {
+      "start_ms": 1685919,
+      "duration_ms": 6480,
+      "text": "the affiliate program work uh without"
+    },
+    {
+      "start_ms": 1688960,
+      "duration_ms": 5599,
+      "text": "coupon uh we just need a small fix. So I"
+    },
+    {
+      "start_ms": 1692399,
+      "duration_ms": 5041,
+      "text": "think we can do it"
+    },
+    {
+      "start_ms": 1694559,
+      "duration_ms": 7441,
+      "text": "uh next week. So we just need to allow"
+    },
+    {
+      "start_ms": 1697440,
+      "duration_ms": 8800,
+      "text": "you to uh add affiliates uh without"
+    },
+    {
+      "start_ms": 1702000,
+      "duration_ms": 6480,
+      "text": "selecting coupon codes uh here. And also"
+    },
+    {
+      "start_ms": 1706240,
+      "duration_ms": 6960,
+      "text": "related to the widget, we just need to"
+    },
+    {
+      "start_ms": 1708480,
+      "duration_ms": 8400,
+      "text": "need you uh need to uh let you uh set up"
+    },
+    {
+      "start_ms": 1713200,
+      "duration_ms": 5599,
+      "text": "the widget settings uh with uh no coupon"
+    },
+    {
+      "start_ms": 1716880,
+      "duration_ms": 5760,
+      "text": "code. So there will be here the"
+    },
+    {
+      "start_ms": 1718799,
+      "duration_ms": 6161,
+      "text": "possibility to um"
+    },
+    {
+      "start_ms": 1722640,
+      "duration_ms": 5519,
+      "text": "uh deselect coupon code. So basically"
+    },
+    {
+      "start_ms": 1724960,
+      "duration_ms": 6400,
+      "text": "when the affiliate sign up, no coupon"
+    },
+    {
+      "start_ms": 1728159,
+      "duration_ms": 6880,
+      "text": "code is uh created. So it's a small fix."
+    },
+    {
+      "start_ms": 1731360,
+      "duration_ms": 6640,
+      "text": "So I think we can do it uh next week."
+    },
+    {
+      "start_ms": 1735039,
+      "duration_ms": 5921,
+      "text": "Frana, could it be possible to have the"
+    },
+    {
+      "start_ms": 1738000,
+      "duration_ms": 5840,
+      "text": "possibility to make a coupon code of 0%."
+    },
+    {
+      "start_ms": 1740960,
+      "duration_ms": 4640,
+      "text": "Actually not possible h and like it"
+    },
+    {
+      "start_ms": 1743840,
+      "duration_ms": 5680,
+      "text": "could be possible to don't make"
+    },
+    {
+      "start_ms": 1745600,
+      "duration_ms": 8480,
+      "text": "discount. Um yes I think this is exactly"
+    },
+    {
+      "start_ms": 1749520,
+      "duration_ms": 6879,
+      "text": "what we have talked about uh now. So you"
+    },
+    {
+      "start_ms": 1754080,
+      "duration_ms": 6640,
+      "text": "can"
+    },
+    {
+      "start_ms": 1756399,
+      "duration_ms": 6321,
+      "text": "uh have uh let's say both uh"
+    },
+    {
+      "start_ms": 1760720,
+      "duration_ms": 5520,
+      "text": "you you can have the option because I"
+    },
+    {
+      "start_ms": 1762720,
+      "duration_ms": 9199,
+      "text": "think that with 0% coupon codes I think"
+    },
+    {
+      "start_ms": 1766240,
+      "duration_ms": 8080,
+      "text": "that the end customers is not uh"
+    },
+    {
+      "start_ms": 1771919,
+      "duration_ms": 4801,
+      "text": "if it's a 0% coupon code they will not"
+    },
+    {
+      "start_ms": 1774320,
+      "duration_ms": 5760,
+      "text": "add the coupon code at checkout because"
+    },
+    {
+      "start_ms": 1776720,
+      "duration_ms": 5360,
+      "text": "they know that it's a 0% coupon code. Uh"
+    },
+    {
+      "start_ms": 1780080,
+      "duration_ms": 5520,
+      "text": "so with the no coupon code I think the"
+    },
+    {
+      "start_ms": 1782080,
+      "duration_ms": 7680,
+      "text": "best way to make this uh system work is"
+    },
+    {
+      "start_ms": 1785600,
+      "duration_ms": 8959,
+      "text": "the uh uh manual work because it will"
+    },
+    {
+      "start_ms": 1789760,
+      "duration_ms": 7919,
+      "text": "happen that if it's a 0% coupon code"
+    },
+    {
+      "start_ms": 1794559,
+      "duration_ms": 6561,
+      "text": "uh no uh a lot of clients will not add"
+    },
+    {
+      "start_ms": 1797679,
+      "duration_ms": 6480,
+      "text": "it also it's not possible to create 0%"
+    },
+    {
+      "start_ms": 1801120,
+      "duration_ms": 6960,
+      "text": "coupon code with stripe so stripe does"
+    },
+    {
+      "start_ms": 1804159,
+      "duration_ms": 6240,
+      "text": "not allow 0% coupon codes. So these"
+    },
+    {
+      "start_ms": 1808080,
+      "duration_ms": 6160,
+      "text": "coupon codes here are striped coupon"
+    },
+    {
+      "start_ms": 1810399,
+      "duration_ms": 7681,
+      "text": "codes. So via API we cannot uh create"
+    },
+    {
+      "start_ms": 1814240,
+      "duration_ms": 8400,
+      "text": "them. So the only two ways are with"
+    },
+    {
+      "start_ms": 1818080,
+      "duration_ms": 7280,
+      "text": "coupon code or without uh coupon code."
+    },
+    {
+      "start_ms": 1822640,
+      "duration_ms": 6399,
+      "text": "we cannot have let's say a tradeoff with"
+    },
+    {
+      "start_ms": 1825360,
+      "duration_ms": 6319,
+      "text": "the 0% uh coupon code both because"
+    },
+    {
+      "start_ms": 1829039,
+      "duration_ms": 6561,
+      "text": "Stripe does not allow it and also"
+    },
+    {
+      "start_ms": 1831679,
+      "duration_ms": 8600,
+      "text": "because end customers will not uh add"
+    },
+    {
+      "start_ms": 1835600,
+      "duration_ms": 4679,
+      "text": "them because it's a 0% code."
+    },
+    {
+      "start_ms": 1844399,
+      "duration_ms": 8000,
+      "text": "Next week um we have in plan some u big"
+    },
+    {
+      "start_ms": 1849360,
+      "duration_ms": 7600,
+      "text": "features related to Strive."
+    },
+    {
+      "start_ms": 1852399,
+      "duration_ms": 8801,
+      "text": "Uh so we are going to add"
+    },
+    {
+      "start_ms": 1856960,
+      "duration_ms": 7680,
+      "text": "um both uh more uh components related to"
+    },
+    {
+      "start_ms": 1861200,
+      "duration_ms": 7680,
+      "text": "Stripe. Um there are a lot of uh"
+    },
+    {
+      "start_ms": 1864640,
+      "duration_ms": 8399,
+      "text": "accounting components that are needed."
+    },
+    {
+      "start_ms": 1868880,
+      "duration_ms": 7600,
+      "text": "So you can uh download for example um"
+    },
+    {
+      "start_ms": 1873039,
+      "duration_ms": 5520,
+      "text": "reports with your uh sales of the last"
+    },
+    {
+      "start_ms": 1876480,
+      "duration_ms": 4799,
+      "text": "month"
+    },
+    {
+      "start_ms": 1878559,
+      "duration_ms": 6720,
+      "text": "payout reconciliation. We have also"
+    },
+    {
+      "start_ms": 1881279,
+      "duration_ms": 6321,
+      "text": "direct integration with or uh QuickBooks"
+    },
+    {
+      "start_ms": 1885279,
+      "duration_ms": 4961,
+      "text": "uh that will probably come uh next week."
+    },
+    {
+      "start_ms": 1887600,
+      "duration_ms": 5920,
+      "text": "So we build this direct integration"
+    },
+    {
+      "start_ms": 1890240,
+      "duration_ms": 6720,
+      "text": "thanks to uh Stripe Connect that allows"
+    },
+    {
+      "start_ms": 1893520,
+      "duration_ms": 6960,
+      "text": "allow us to uh easily develop this uh"
+    },
+    {
+      "start_ms": 1896960,
+      "duration_ms": 6240,
+      "text": "integration. So if you use Sero or"
+    },
+    {
+      "start_ms": 1900480,
+      "duration_ms": 4880,
+      "text": "QuickBooks for your accounting, you will"
+    },
+    {
+      "start_ms": 1903200,
+      "duration_ms": 5440,
+      "text": "be able to automatically"
+    },
+    {
+      "start_ms": 1905360,
+      "duration_ms": 7520,
+      "text": "uh see the payments of your clients in"
+    },
+    {
+      "start_ms": 1908640,
+      "duration_ms": 7919,
+      "text": "your QuickBooks and uh Excel account."
+    },
+    {
+      "start_ms": 1912880,
+      "duration_ms": 7120,
+      "text": "And um so this is probably in plan for"
+    },
+    {
+      "start_ms": 1916559,
+      "duration_ms": 7360,
+      "text": "uh for next week since we are working uh"
+    },
+    {
+      "start_ms": 1920000,
+      "duration_ms": 6640,
+      "text": "in these days with the uh with Stripe."
+    },
+    {
+      "start_ms": 1923919,
+      "duration_ms": 5600,
+      "text": "A question from how how to use affiliate"
+    },
+    {
+      "start_ms": 1926640,
+      "duration_ms": 6159,
+      "text": "if we are not using stripe but another"
+    },
+    {
+      "start_ms": 1929519,
+      "duration_ms": 7441,
+      "text": "payment method. The only way to do it is"
+    },
+    {
+      "start_ms": 1932799,
+      "duration_ms": 8401,
+      "text": "as said before um without coupon codes"
+    },
+    {
+      "start_ms": 1936960,
+      "duration_ms": 6719,
+      "text": "you manually assign affiliates to um"
+    },
+    {
+      "start_ms": 1941200,
+      "duration_ms": 5839,
+      "text": "specific clients. Uh this of course"
+    },
+    {
+      "start_ms": 1943679,
+      "duration_ms": 6401,
+      "text": "requires some manual uh process"
+    },
+    {
+      "start_ms": 1947039,
+      "duration_ms": 6480,
+      "text": "and um of course if you have the"
+    },
+    {
+      "start_ms": 1950080,
+      "duration_ms": 5439,
+      "text": "possibility to use uh stripe,"
+    },
+    {
+      "start_ms": 1953519,
+      "duration_ms": 4561,
+      "text": "I strongly suggest you to use stripe"
+    },
+    {
+      "start_ms": 1955519,
+      "duration_ms": 4880,
+      "text": "because down the road you will see in"
+    },
+    {
+      "start_ms": 1958080,
+      "duration_ms": 6319,
+      "text": "this year we will develop a lot of"
+    },
+    {
+      "start_ms": 1960399,
+      "duration_ms": 7681,
+      "text": "things integrated with uh stripe connect"
+    },
+    {
+      "start_ms": 1964399,
+      "duration_ms": 6961,
+      "text": "and I know that some of you are not um"
+    },
+    {
+      "start_ms": 1968080,
+      "duration_ms": 6319,
+      "text": "using uh stripe because of uh"
+    },
+    {
+      "start_ms": 1971360,
+      "duration_ms": 6080,
+      "text": "accounting. And this is why next week we"
+    },
+    {
+      "start_ms": 1974399,
+      "duration_ms": 6000,
+      "text": "are going to um embed more stripe"
+    },
+    {
+      "start_ms": 1977440,
+      "duration_ms": 6640,
+      "text": "components to simplify your accounting"
+    },
+    {
+      "start_ms": 1980399,
+      "duration_ms": 7201,
+      "text": "and also direct integration with sero or"
+    },
+    {
+      "start_ms": 1984080,
+      "duration_ms": 6800,
+      "text": "um QuickBooks."
+    },
+    {
+      "start_ms": 1987600,
+      "duration_ms": 5199,
+      "text": "Uh you know we charge a 0% uh"
+    },
+    {
+      "start_ms": 1990880,
+      "duration_ms": 4240,
+      "text": "commission. So the only commission that"
+    },
+    {
+      "start_ms": 1992799,
+      "duration_ms": 6961,
+      "text": "you have when you use our stripe"
+    },
+    {
+      "start_ms": 1995120,
+      "duration_ms": 8640,
+      "text": "integration is the uh common uh two 3%"
+    },
+    {
+      "start_ms": 1999760,
+      "duration_ms": 5919,
+      "text": "uh stripe uh commission. So uh if you"
+    },
+    {
+      "start_ms": 2003760,
+      "duration_ms": 3600,
+      "text": "have the possibility to use stripe, I"
+    },
+    {
+      "start_ms": 2005679,
+      "duration_ms": 5360,
+      "text": "suggest you to use stripe also because"
+    },
+    {
+      "start_ms": 2007360,
+      "duration_ms": 7199,
+      "text": "you have all the automations that we are"
+    },
+    {
+      "start_ms": 2011039,
+      "duration_ms": 7841,
+      "text": "uh building. Clients have access to the"
+    },
+    {
+      "start_ms": 2014559,
+      "duration_ms": 7441,
+      "text": "billing portal uh directly inside the uh"
+    },
+    {
+      "start_ms": 2018880,
+      "duration_ms": 5360,
+      "text": "platform. So here they just open the"
+    },
+    {
+      "start_ms": 2022000,
+      "duration_ms": 7600,
+      "text": "billing portal and they do not need to"
+    },
+    {
+      "start_ms": 2024240,
+      "duration_ms": 8319,
+      "text": "contact you to switch the plan or to uh"
+    },
+    {
+      "start_ms": 2029600,
+      "duration_ms": 5919,
+      "text": "pay you if they have to uh add the"
+    },
+    {
+      "start_ms": 2032559,
+      "duration_ms": 5201,
+      "text": "credit card. So they can do everything"
+    },
+    {
+      "start_ms": 2035519,
+      "duration_ms": 4721,
+      "text": "uh autonomously."
+    },
+    {
+      "start_ms": 2037760,
+      "duration_ms": 4480,
+      "text": "And um"
+    },
+    {
+      "start_ms": 2040240,
+      "duration_ms": 4880,
+      "text": "most importantly down the road this year"
+    },
+    {
+      "start_ms": 2042240,
+      "duration_ms": 6800,
+      "text": "we will develop more things about uh"
+    },
+    {
+      "start_ms": 2045120,
+      "duration_ms": 9039,
+      "text": "Stripe. Also a new things uh coming is"
+    },
+    {
+      "start_ms": 2049040,
+      "duration_ms": 7599,
+      "text": "the um a kind of dashboard uh in your uh"
+    },
+    {
+      "start_ms": 2054159,
+      "duration_ms": 8161,
+      "text": "agency mode where you'll be able to"
+    },
+    {
+      "start_ms": 2056639,
+      "duration_ms": 9681,
+      "text": "track important metrics such as uh MR or"
+    },
+    {
+      "start_ms": 2062320,
+      "duration_ms": 6559,
+      "text": "uh uh trial to paid uh conversion rates"
+    },
+    {
+      "start_ms": 2066320,
+      "duration_ms": 4640,
+      "text": "and other things like that that of"
+    },
+    {
+      "start_ms": 2068879,
+      "duration_ms": 5040,
+      "text": "course you can see just if you have"
+    },
+    {
+      "start_ms": 2070960,
+      "duration_ms": 4719,
+      "text": "Stripe uh enabled."
+    },
+    {
+      "start_ms": 2073919,
+      "duration_ms": 6321,
+      "text": "Of course, you can use the platform"
+    },
+    {
+      "start_ms": 2075679,
+      "duration_ms": 6561,
+      "text": "without uh Stripe. Uh we suggest it we"
+    },
+    {
+      "start_ms": 2080240,
+      "duration_ms": 4879,
+      "text": "suggest to use it without Stripe if you"
+    },
+    {
+      "start_ms": 2082240,
+      "duration_ms": 5359,
+      "text": "want to uh for example give away the"
+    },
+    {
+      "start_ms": 2085119,
+      "duration_ms": 5520,
+      "text": "platform as an add-on. But if you want"
+    },
+    {
+      "start_ms": 2087599,
+      "duration_ms": 5921,
+      "text": "to sell the platform, Stripe is highly"
+    },
+    {
+      "start_ms": 2090639,
+      "duration_ms": 4401,
+      "text": "uh suggested."
+    },
+    {
+      "start_ms": 2093520,
+      "duration_ms": 4240,
+      "text": "Question from Paul. Could you add that"
+    },
+    {
+      "start_ms": 2095040,
+      "duration_ms": 5200,
+      "text": "the Thai language for our customers? We"
+    },
+    {
+      "start_ms": 2097760,
+      "duration_ms": 5280,
+      "text": "want to go to the Thai market. All"
+    },
+    {
+      "start_ms": 2100240,
+      "duration_ms": 6320,
+      "text": "right. Uh, so I guess you're talking"
+    },
+    {
+      "start_ms": 2103040,
+      "duration_ms": 6559,
+      "text": "about the business mode. So we probably"
+    },
+    {
+      "start_ms": 2106560,
+      "duration_ms": 8160,
+      "text": "do not have this language and so yeah,"
+    },
+    {
+      "start_ms": 2109599,
+      "duration_ms": 10641,
+      "text": "we can add it. So I make sure that my"
+    },
+    {
+      "start_ms": 2114720,
+      "duration_ms": 9040,
+      "text": "tech team uh knows about it"
+    },
+    {
+      "start_ms": 2120240,
+      "duration_ms": 8160,
+      "text": "so we can add it as soon as possible. As"
+    },
+    {
+      "start_ms": 2123760,
+      "duration_ms": 9160,
+      "text": "since I'm already here in my team chat,"
+    },
+    {
+      "start_ms": 2128400,
+      "duration_ms": 4520,
+      "text": "I'm going to tell them immediately"
+    },
+    {
+      "start_ms": 2134000,
+      "duration_ms": 5359,
+      "text": "Thai language."
+    },
+    {
+      "start_ms": 2136400,
+      "duration_ms": 5679,
+      "text": "So, we make sure that uh maybe next week"
+    },
+    {
+      "start_ms": 2139359,
+      "duration_ms": 4401,
+      "text": "we have this language."
+    },
+    {
+      "start_ms": 2142079,
+      "duration_ms": 5121,
+      "text": "If you have other languages that you"
+    },
+    {
+      "start_ms": 2143760,
+      "duration_ms": 6319,
+      "text": "want to add, feel free to tell us. For"
+    },
+    {
+      "start_ms": 2147200,
+      "duration_ms": 6480,
+      "text": "us, it's very easy to add new languages"
+    },
+    {
+      "start_ms": 2150079,
+      "duration_ms": 6961,
+      "text": "with uh AI. Thanks we have AI right now."
+    },
+    {
+      "start_ms": 2153680,
+      "duration_ms": 7520,
+      "text": "So uh AI will take care of the"
+    },
+    {
+      "start_ms": 2157040,
+      "duration_ms": 6640,
+      "text": "translation of the uh of the platform."
+    },
+    {
+      "start_ms": 2161200,
+      "duration_ms": 7760,
+      "text": "also something very very important that"
+    },
+    {
+      "start_ms": 2163680,
+      "duration_ms": 9439,
+      "text": "is coming soon and I've talked about it"
+    },
+    {
+      "start_ms": 2168960,
+      "duration_ms": 8000,
+      "text": "uh with my team uh in these days um is"
+    },
+    {
+      "start_ms": 2173119,
+      "duration_ms": 8081,
+      "text": "something related to"
+    },
+    {
+      "start_ms": 2176960,
+      "duration_ms": 6560,
+      "text": "the uh history of uh your client's uh"
+    },
+    {
+      "start_ms": 2181200,
+      "duration_ms": 5200,
+      "text": "results because it's very important for"
+    },
+    {
+      "start_ms": 2183520,
+      "duration_ms": 8079,
+      "text": "you to prove that the platform is"
+    },
+    {
+      "start_ms": 2186400,
+      "duration_ms": 9040,
+      "text": "working and to uh show them that uh"
+    },
+    {
+      "start_ms": 2191599,
+      "duration_ms": 6401,
+      "text": "every month they are growing the number"
+    },
+    {
+      "start_ms": 2195440,
+      "duration_ms": 4560,
+      "text": "of their reviews, they are growing their"
+    },
+    {
+      "start_ms": 2198000,
+      "duration_ms": 7119,
+      "text": "uh rating."
+    },
+    {
+      "start_ms": 2200000,
+      "duration_ms": 10400,
+      "text": "Uh they are growing their uh uh ranking."
+    },
+    {
+      "start_ms": 2205119,
+      "duration_ms": 8881,
+      "text": "Um they have more and more uh calls or"
+    },
+    {
+      "start_ms": 2210400,
+      "duration_ms": 6480,
+      "text": "direction we impressions. Uh right now"
+    },
+    {
+      "start_ms": 2214000,
+      "duration_ms": 4880,
+      "text": "all these sections are uh let's say"
+    },
+    {
+      "start_ms": 2216880,
+      "duration_ms": 4239,
+      "text": "static section. You can just see the"
+    },
+    {
+      "start_ms": 2218880,
+      "duration_ms": 5120,
+      "text": "improvements comparing to the previous"
+    },
+    {
+      "start_ms": 2221119,
+      "duration_ms": 5441,
+      "text": "month. Uh but luckily since the"
+    },
+    {
+      "start_ms": 2224000,
+      "duration_ms": 5760,
+      "text": "beginning we saved all the data. So for"
+    },
+    {
+      "start_ms": 2226560,
+      "duration_ms": 5600,
+      "text": "every month uh we know for example the"
+    },
+    {
+      "start_ms": 2229760,
+      "duration_ms": 4560,
+      "text": "number of impression of like six month"
+    },
+    {
+      "start_ms": 2232160,
+      "duration_ms": 5199,
+      "text": "ago the number of impression of five"
+    },
+    {
+      "start_ms": 2234320,
+      "duration_ms": 6320,
+      "text": "month ago of four month ago. Uh so soon"
+    },
+    {
+      "start_ms": 2237359,
+      "duration_ms": 6881,
+      "text": "your clients will have very nice uh"
+    },
+    {
+      "start_ms": 2240640,
+      "duration_ms": 6240,
+      "text": "charts where they see for example that"
+    },
+    {
+      "start_ms": 2244240,
+      "duration_ms": 5440,
+      "text": "in the last six months or in the last"
+    },
+    {
+      "start_ms": 2246880,
+      "duration_ms": 5600,
+      "text": "year their their impressions are"
+    },
+    {
+      "start_ms": 2249680,
+      "duration_ms": 7040,
+      "text": "growing, the number of calls are growing"
+    },
+    {
+      "start_ms": 2252480,
+      "duration_ms": 8320,
+      "text": "and so they easily see the uh ROI and so"
+    },
+    {
+      "start_ms": 2256720,
+      "duration_ms": 6879,
+      "text": "they keep uh paying you. This is a big"
+    },
+    {
+      "start_ms": 2260800,
+      "duration_ms": 4799,
+      "text": "uh important feature that soon is uh"
+    },
+    {
+      "start_ms": 2263599,
+      "duration_ms": 4801,
+      "text": "coming."
+    },
+    {
+      "start_ms": 2265599,
+      "duration_ms": 6480,
+      "text": "Uh I think that within one month we'll"
+    },
+    {
+      "start_ms": 2268400,
+      "duration_ms": 8880,
+      "text": "start uh working in uh this feature. Uh"
+    },
+    {
+      "start_ms": 2272079,
+      "duration_ms": 8881,
+      "text": "luckily we have uh uh data since uh the"
+    },
+    {
+      "start_ms": 2277280,
+      "duration_ms": 6240,
+      "text": "beginning. So uh since like one year"
+    },
+    {
+      "start_ms": 2280960,
+      "duration_ms": 5200,
+      "text": "ago. So if you have client that are in"
+    },
+    {
+      "start_ms": 2283520,
+      "duration_ms": 6240,
+      "text": "the platform for example since uh six"
+    },
+    {
+      "start_ms": 2286160,
+      "duration_ms": 6720,
+      "text": "months ago uh when we release this uh"
+    },
+    {
+      "start_ms": 2289760,
+      "duration_ms": 5599,
+      "text": "charts they will be able to see the uh"
+    },
+    {
+      "start_ms": 2292880,
+      "duration_ms": 5680,
+      "text": "improvements in the last uh six months"
+    },
+    {
+      "start_ms": 2295359,
+      "duration_ms": 6201,
+      "text": "because we have all the data um already"
+    },
+    {
+      "start_ms": 2298560,
+      "duration_ms": 3000,
+      "text": "saved."
+    },
+    {
+      "start_ms": 2304880,
+      "duration_ms": 3760,
+      "text": "Tik Tok and Apple Maps are still in"
+    },
+    {
+      "start_ms": 2306960,
+      "duration_ms": 3520,
+      "text": "progress."
+    },
+    {
+      "start_ms": 2308640,
+      "duration_ms": 4640,
+      "text": "And luckily we had a rejection today"
+    },
+    {
+      "start_ms": 2310480,
+      "duration_ms": 6639,
+      "text": "from Tik Tok. So there are still a few"
+    },
+    {
+      "start_ms": 2313280,
+      "duration_ms": 6240,
+      "text": "things to fix. Uh but luckily we know"
+    },
+    {
+      "start_ms": 2317119,
+      "duration_ms": 5921,
+      "text": "what we need to fix."
+    },
+    {
+      "start_ms": 2319520,
+      "duration_ms": 6720,
+      "text": "Um Apple still waiting. I think they"
+    },
+    {
+      "start_ms": 2323040,
+      "duration_ms": 7120,
+      "text": "have a lot of work and we are very far"
+    },
+    {
+      "start_ms": 2326240,
+      "duration_ms": 6320,
+      "text": "in the pipeline but we are there"
+    },
+    {
+      "start_ms": 2330160,
+      "duration_ms": 4720,
+      "text": "and these are the two integrations uh"
+    },
+    {
+      "start_ms": 2332560,
+      "duration_ms": 4880,
+      "text": "work in progress and also linkadine. If"
+    },
+    {
+      "start_ms": 2334880,
+      "duration_ms": 4880,
+      "text": "I talk with my team today, the next week"
+    },
+    {
+      "start_ms": 2337440,
+      "duration_ms": 4639,
+      "text": "we'll keep working on LinkedIn since we"
+    },
+    {
+      "start_ms": 2339760,
+      "duration_ms": 4880,
+      "text": "have already started the server"
+    },
+    {
+      "start_ms": 2342079,
+      "duration_ms": 5921,
+      "text": "integration with LinkedIn."
+    },
+    {
+      "start_ms": 2344640,
+      "duration_ms": 5520,
+      "text": "Uh but there's uh more things to do. Uh"
+    },
+    {
+      "start_ms": 2348000,
+      "duration_ms": 4640,
+      "text": "but for sure this free integration will"
+    },
+    {
+      "start_ms": 2350160,
+      "duration_ms": 6679,
+      "text": "come for sure this year. So Tik Tok,"
+    },
+    {
+      "start_ms": 2352640,
+      "duration_ms": 4199,
+      "text": "LinkedIn and Apple Maps."
+    },
+    {
+      "start_ms": 2357119,
+      "duration_ms": 3361,
+      "text": "Paul that will be amazing. Now I do"
+    },
+    {
+      "start_ms": 2358880,
+      "duration_ms": 3600,
+      "text": "everything manually. I have a monthly"
+    },
+    {
+      "start_ms": 2360480,
+      "duration_ms": 4800,
+      "text": "Excel sheet that I send to my customer."
+    },
+    {
+      "start_ms": 2362480,
+      "duration_ms": 6000,
+      "text": "I can share it maybe for inspiration."
+    },
+    {
+      "start_ms": 2365280,
+      "duration_ms": 4960,
+      "text": "Yes, please share it with us or maybe do"
+    },
+    {
+      "start_ms": 2368480,
+      "duration_ms": 4560,
+      "text": "a post in the community because this is"
+    },
+    {
+      "start_ms": 2370240,
+      "duration_ms": 6320,
+      "text": "something coming soon. And so if we have"
+    },
+    {
+      "start_ms": 2373040,
+      "duration_ms": 8400,
+      "text": "more feedbacks about how to build this"
+    },
+    {
+      "start_ms": 2376560,
+      "duration_ms": 8000,
+      "text": "uh let's say uh chart uh section"
+    },
+    {
+      "start_ms": 2381440,
+      "duration_ms": 8560,
+      "text": "uh of course we have more uh insights"
+    },
+    {
+      "start_ms": 2384560,
+      "duration_ms": 8320,
+      "text": "and we can do um a good job. Um"
+    },
+    {
+      "start_ms": 2390000,
+      "duration_ms": 5920,
+      "text": "we have still to decide if we want to do"
+    },
+    {
+      "start_ms": 2392880,
+      "duration_ms": 5760,
+      "text": "let's say a single section with all the"
+    },
+    {
+      "start_ms": 2395920,
+      "duration_ms": 5760,
+      "text": "uh charts. So your clients have a unique"
+    },
+    {
+      "start_ms": 2398640,
+      "duration_ms": 6880,
+      "text": "place a unique dashboard where they can"
+    },
+    {
+      "start_ms": 2401680,
+      "duration_ms": 7280,
+      "text": "see their uh growth. All right. So"
+    },
+    {
+      "start_ms": 2405520,
+      "duration_ms": 8720,
+      "text": "easily they can see that in the last for"
+    },
+    {
+      "start_ms": 2408960,
+      "duration_ms": 7920,
+      "text": "example six month the um uh outcomes are"
+    },
+    {
+      "start_ms": 2414240,
+      "duration_ms": 5760,
+      "text": "growing and this is what they want. Of"
+    },
+    {
+      "start_ms": 2416880,
+      "duration_ms": 7040,
+      "text": "course, as we all know, uh they don't"
+    },
+    {
+      "start_ms": 2420000,
+      "duration_ms": 7920,
+      "text": "want features, uh dashboards,"
+    },
+    {
+      "start_ms": 2423920,
+      "duration_ms": 7280,
+      "text": "uh they just want outcomes, which are"
+    },
+    {
+      "start_ms": 2427920,
+      "duration_ms": 5760,
+      "text": "reviews, uh visibility, calls, uh"
+    },
+    {
+      "start_ms": 2431200,
+      "duration_ms": 4639,
+      "text": "direction, requests, impressions. This"
+    },
+    {
+      "start_ms": 2433680,
+      "duration_ms": 7120,
+      "text": "is why they pay you. So, we have of"
+    },
+    {
+      "start_ms": 2435839,
+      "duration_ms": 10841,
+      "text": "course to improve um this uh view"
+    },
+    {
+      "start_ms": 2440800,
+      "duration_ms": 5880,
+      "text": "so it's easier for you to um to sell"
+    },
+    {
+      "start_ms": 2446880,
+      "duration_ms": 7120,
+      "text": "Um Harold, is there a way to improve the"
+    },
+    {
+      "start_ms": 2449520,
+      "duration_ms": 6400,
+      "text": "rank tracker inside the platform?"
+    },
+    {
+      "start_ms": 2454000,
+      "duration_ms": 5440,
+      "text": "I think you're talking about this uh"
+    },
+    {
+      "start_ms": 2455920,
+      "duration_ms": 7439,
+      "text": "rank tracker. Um"
+    },
+    {
+      "start_ms": 2459440,
+      "duration_ms": 9200,
+      "text": "yes. So for now uh this is what we uh"
+    },
+    {
+      "start_ms": 2463359,
+      "duration_ms": 9361,
+      "text": "track. So basically every month uh we um"
+    },
+    {
+      "start_ms": 2468640,
+      "duration_ms": 7280,
+      "text": "check your client uh ranking in uh"
+    },
+    {
+      "start_ms": 2472720,
+      "duration_ms": 5760,
+      "text": "Google maps uh in different uh"
+    },
+    {
+      "start_ms": 2475920,
+      "duration_ms": 5760,
+      "text": "locations. Uh this of course in the"
+    },
+    {
+      "start_ms": 2478480,
+      "duration_ms": 6560,
+      "text": "middle is the address of your client and"
+    },
+    {
+      "start_ms": 2481680,
+      "duration_ms": 6720,
+      "text": "here we are for example uh uh this is"
+    },
+    {
+      "start_ms": 2485040,
+      "duration_ms": 6319,
+      "text": "the radius. So we are 5 kilometer in the"
+    },
+    {
+      "start_ms": 2488400,
+      "duration_ms": 6080,
+      "text": "right, five kilometer in the left, 5"
+    },
+    {
+      "start_ms": 2491359,
+      "duration_ms": 7521,
+      "text": "kilometer in the top etc. And so we are"
+    },
+    {
+      "start_ms": 2494480,
+      "duration_ms": 7359,
+      "text": "able to monitor the ranking on the uh"
+    },
+    {
+      "start_ms": 2498880,
+      "duration_ms": 5040,
+      "text": "different positions. As you know if we"
+    },
+    {
+      "start_ms": 2501839,
+      "duration_ms": 4721,
+      "text": "click here"
+    },
+    {
+      "start_ms": 2503920,
+      "duration_ms": 5280,
+      "text": "we can see the whole ranking. So we can"
+    },
+    {
+      "start_ms": 2506560,
+      "duration_ms": 7120,
+      "text": "see that in our address"
+    },
+    {
+      "start_ms": 2509200,
+      "duration_ms": 7040,
+      "text": "uh we are ranking uh fourth. So this is"
+    },
+    {
+      "start_ms": 2513680,
+      "duration_ms": 4720,
+      "text": "a bad ranking because in our address we"
+    },
+    {
+      "start_ms": 2516240,
+      "duration_ms": 5040,
+      "text": "should rank first. But of course this is"
+    },
+    {
+      "start_ms": 2518400,
+      "duration_ms": 5840,
+      "text": "one of my uh test Google business"
+    },
+    {
+      "start_ms": 2521280,
+      "duration_ms": 6079,
+      "text": "profile. So this is not a real business."
+    },
+    {
+      "start_ms": 2524240,
+      "duration_ms": 5440,
+      "text": "Uh but yeah, we can improve it."
+    },
+    {
+      "start_ms": 2527359,
+      "duration_ms": 4401,
+      "text": "If you have some feedbacks, uh we will"
+    },
+    {
+      "start_ms": 2529680,
+      "duration_ms": 6960,
+      "text": "take them into consideration. We"
+    },
+    {
+      "start_ms": 2531760,
+      "duration_ms": 9680,
+      "text": "improved this uh chart here thanks to um"
+    },
+    {
+      "start_ms": 2536640,
+      "duration_ms": 7600,
+      "text": "a climber I think Mateo uh who uh"
+    },
+    {
+      "start_ms": 2541440,
+      "duration_ms": 6480,
+      "text": "proposed a new design for this uh"
+    },
+    {
+      "start_ms": 2544240,
+      "duration_ms": 6560,
+      "text": "competitor analysis uh chart and we"
+    },
+    {
+      "start_ms": 2547920,
+      "duration_ms": 5520,
+      "text": "replicate replicated exactly his uh"
+    },
+    {
+      "start_ms": 2550800,
+      "duration_ms": 5760,
+      "text": "design that he shared in the uh"
+    },
+    {
+      "start_ms": 2553440,
+      "duration_ms": 5840,
+      "text": "community. And so"
+    },
+    {
+      "start_ms": 2556560,
+      "duration_ms": 5440,
+      "text": "if you want to share some uh"
+    },
+    {
+      "start_ms": 2559280,
+      "duration_ms": 5200,
+      "text": "improvements for the local rank tracker"
+    },
+    {
+      "start_ms": 2562000,
+      "duration_ms": 5440,
+      "text": "uh feel free to share them."
+    },
+    {
+      "start_ms": 2564480,
+      "duration_ms": 6160,
+      "text": "And of course uh if we like the design"
+    },
+    {
+      "start_ms": 2567440,
+      "duration_ms": 5440,
+      "text": "we can uh implement it. And also if the"
+    },
+    {
+      "start_ms": 2570640,
+      "duration_ms": 6320,
+      "text": "other climbers uh like it because we"
+    },
+    {
+      "start_ms": 2572880,
+      "duration_ms": 6800,
+      "text": "want to see um if there are um positive"
+    },
+    {
+      "start_ms": 2576960,
+      "duration_ms": 7720,
+      "text": "comments about it"
+    },
+    {
+      "start_ms": 2579680,
+      "duration_ms": 5000,
+      "text": "and we can uh we can do it."
+    },
+    {
+      "start_ms": 2587599,
+      "duration_ms": 5240,
+      "text": "All right guys, let me know if you have"
+    },
+    {
+      "start_ms": 2589520,
+      "duration_ms": 3319,
+      "text": "other question."
+    },
+    {
+      "start_ms": 2595839,
+      "duration_ms": 6801,
+      "text": "So I've updated you about what we"
+    },
+    {
+      "start_ms": 2598800,
+      "duration_ms": 5360,
+      "text": "probably will do next week. Um we want"
+    },
+    {
+      "start_ms": 2602640,
+      "duration_ms": 4560,
+      "text": "to"
+    },
+    {
+      "start_ms": 2604160,
+      "duration_ms": 5040,
+      "text": "do both a lot of uh fixes and"
+    },
+    {
+      "start_ms": 2607200,
+      "duration_ms": 4879,
+      "text": "improvements. So, a lot of small"
+    },
+    {
+      "start_ms": 2609200,
+      "duration_ms": 5840,
+      "text": "features that we still have in the uh"
+    },
+    {
+      "start_ms": 2612079,
+      "duration_ms": 6481,
+      "text": "pipeline uh because of course we keep"
+    },
+    {
+      "start_ms": 2615040,
+      "duration_ms": 5039,
+      "text": "receiving feedbacks. Um thanks for"
+    },
+    {
+      "start_ms": 2618560,
+      "duration_ms": 4559,
+      "text": "sharing feedbacks in the community"
+    },
+    {
+      "start_ms": 2620079,
+      "duration_ms": 6321,
+      "text": "because I always uh read them and so we"
+    },
+    {
+      "start_ms": 2623119,
+      "duration_ms": 5761,
+      "text": "have a big pipeline of small uh fixes"
+    },
+    {
+      "start_ms": 2626400,
+      "duration_ms": 4320,
+      "text": "and improvements that we want to do. So"
+    },
+    {
+      "start_ms": 2628880,
+      "duration_ms": 5680,
+      "text": "probably we're going to do a lot of them"
+    },
+    {
+      "start_ms": 2630720,
+      "duration_ms": 6800,
+      "text": "during next week. Plus we want to u"
+    },
+    {
+      "start_ms": 2634560,
+      "duration_ms": 6799,
+      "text": "conclude the integration uh with the"
+    },
+    {
+      "start_ms": 2637520,
+      "duration_ms": 7839,
+      "text": "stripe and so we're going to uh embed"
+    },
+    {
+      "start_ms": 2641359,
+      "duration_ms": 8161,
+      "text": "stripe apps for QuickBooks and"
+    },
+    {
+      "start_ms": 2645359,
+      "duration_ms": 8000,
+      "text": "also add new components for accounting."
+    },
+    {
+      "start_ms": 2649520,
+      "duration_ms": 7599,
+      "text": "Um this is also in order to stimulate"
+    },
+    {
+      "start_ms": 2653359,
+      "duration_ms": 7041,
+      "text": "more and more clients to um use our"
+    },
+    {
+      "start_ms": 2657119,
+      "duration_ms": 8720,
+      "text": "direct integration with Stripe because I"
+    },
+    {
+      "start_ms": 2660400,
+      "duration_ms": 9760,
+      "text": "talked um with some big climbers uh last"
+    },
+    {
+      "start_ms": 2665839,
+      "duration_ms": 7681,
+      "text": "week and one of them who is managing a"
+    },
+    {
+      "start_ms": 2670160,
+      "duration_ms": 7360,
+      "text": "lot of clients, big clients"
+    },
+    {
+      "start_ms": 2673520,
+      "duration_ms": 6799,
+      "text": "um he uh is still not using Stripe. Uh,"
+    },
+    {
+      "start_ms": 2677520,
+      "duration_ms": 5280,
+      "text": "and I asked him why"
+    },
+    {
+      "start_ms": 2680319,
+      "duration_ms": 6000,
+      "text": "and he replied because I manage"
+    },
+    {
+      "start_ms": 2682800,
+      "duration_ms": 6400,
+      "text": "everything in a QuickBooks and I cannot"
+    },
+    {
+      "start_ms": 2686319,
+      "duration_ms": 5921,
+      "text": "I use um your direct integration with"
+    },
+    {
+      "start_ms": 2689200,
+      "duration_ms": 6560,
+      "text": "Strive because I need payments in my uh"
+    },
+    {
+      "start_ms": 2692240,
+      "duration_ms": 5839,
+      "text": "QuickBooks as QuickBooks account. So um"
+    },
+    {
+      "start_ms": 2695760,
+      "duration_ms": 4400,
+      "text": "I guess there are more and more climbers"
+    },
+    {
+      "start_ms": 2698079,
+      "duration_ms": 4000,
+      "text": "in this situation. So this is why we"
+    },
+    {
+      "start_ms": 2700160,
+      "duration_ms": 4320,
+      "text": "want to"
+    },
+    {
+      "start_ms": 2702079,
+      "duration_ms": 5760,
+      "text": "uh develop this uh integration with"
+    },
+    {
+      "start_ms": 2704480,
+      "duration_ms": 6359,
+      "text": "accounting system so everyone can use uh"
+    },
+    {
+      "start_ms": 2707839,
+      "duration_ms": 3000,
+      "text": "stripe."
+    },
+    {
+      "start_ms": 2713599,
+      "duration_ms": 5041,
+      "text": "All right guys if you do not have other"
+    },
+    {
+      "start_ms": 2716240,
+      "duration_ms": 4240,
+      "text": "question I think we can stop here the"
+    },
+    {
+      "start_ms": 2718640,
+      "duration_ms": 5199,
+      "text": "event."
+    },
+    {
+      "start_ms": 2720480,
+      "duration_ms": 6800,
+      "text": "Uh thanks for coming as always."
+    },
+    {
+      "start_ms": 2723839,
+      "duration_ms": 10081,
+      "text": "Let me disable screen sharing."
+    },
+    {
+      "start_ms": 2727280,
+      "duration_ms": 9360,
+      "text": "Thanks for coming and um sorry for uh uh"
+    },
+    {
+      "start_ms": 2733920,
+      "duration_ms": 5679,
+      "text": "letting you know just today about the"
+    },
+    {
+      "start_ms": 2736640,
+      "duration_ms": 7439,
+      "text": "changes in my uh plan, but I'm happy"
+    },
+    {
+      "start_ms": 2739599,
+      "duration_ms": 8480,
+      "text": "that uh many of you came and so as"
+    },
+    {
+      "start_ms": 2744079,
+      "duration_ms": 6481,
+      "text": "always uh wait for my post tomorrow"
+    },
+    {
+      "start_ms": 2748079,
+      "duration_ms": 5481,
+      "text": "and have an amazing weekend."
+    },
+    {
+      "start_ms": 2750560,
+      "duration_ms": 3000,
+      "text": "Bye-bye."
+    }
+  ],
+  "text": "Um, see tomorrow or the next days the new features that we are announcing today. Thanks Paul for letting me know that you can all see me and hear me. Hello Francois, Harold and Paul. So hello guys. Uh, we can start. So let's share the screen. Uh, we have some cool new features to announce. um not a big uh big feature as for example the last week where we took the entire week uh to develop the affiliate system. Uh but we have multiple small features that I'm going to show you uh today and let's start from uh here. So the first thing that I want to show you is the uh redesigned billing section for uh your clients. So as you know in the last month we have developed uh a lot of new features. So, of course, we had to redesign the plans uh card. And now, as you can see, for example, in this uh client, we have the three uh paid plans, gold, silver, and bronze. And as you can see, the plans card uh firstly shows the uh price. Uh if you have both monthly price and annual price, the annual price will be shown here. Um here we can see if the plan accept or not of retrial. Then we have the plan's limits terms of SMS, email, WhatsApp and um AI tokens. And then clicking on uh more information we can see if uh specific features are enabled or uh disabled for uh each plan. So as you can see there are the three sections uh reputation, visibility and engagement and for each uh of the section we can see if the related features are enabled or uh disabled. For example in this silver plan the employees feature is uh disabled as you can easily uh see. And then if of course I want to switch the plan uh I just click on the button select plan. For example, now my active plan is the uh gold plan. Clicking here I can see the pricing details of uh the um silver plan in this case. If the silver plan has uh multiple pricing like for example monthly or annual both the uh options will be visible here and then of course clicking here I will be redirected to the customer portal where I can uh switch my plan. So this is the first uh thing that I want to do I wanted to show you. Uh there's um another thing related to this um section here. So to the billing section uh which is related to um coupon codes uh because as you know uh there was this um problem let's say uh that when a customer um for example is in a free trial um the customer cannot add uh himself a coupon code uh during the free trial. the coupon code could be added just at the uh payment link. So at the uh day one of the free trial uh during the free trial, the only way to add a coupon code was uh by um triggering a subscription update. So for example changing the plan or the um turnaround was uh that you as agency manually had to add the uh coupon code from uh here. So um we fixed this problem. So now basically um if a client is in a um paid plan and want to apply a coupon code the client doesn't need to trigger a subscription update to add the coupon code himself but just need to click here and as you can see here we have two option option one open the billing portal option two finally we have apply coupon so the customer does not need to uh ask you to add the coupon code or trigger a subscription update to add the coupon code. Um the client just need to click here apply coupon code and can insert the coupon code uh directly here and so the coupon code will be applied to the uh subscription. So when the payment happens uh of course the coupon code is already applied and the client will pay less. So now um a client for example during the free trial but also a client that is subscribed to a specific plan uh can add coupon codes coupon codes without the need to uh change their uh plan which was the problem we had uh before. So very very simple the client click here and apply the uh the coupon code. Uh because for example it can happen that a client sign up for the free trial uh but they forget to add the coupon code at the um sign up where there is the uh box to add the coupon code uh but they want to add the coupon code before the trial ends. So now very very easily they click here and they apply the uh coupon code. So you do not need to do it manually from uh here. So now it's 100% delegated to the uh to the client. Then there's an another important feature related to the um business mode that was highly uh requested which is a new notification uh which is this notification here. So Google connection uh expired uh because uh we have seen that it can happen sometimes that uh the Google integration is uh disabled uh by Google when for example the client changes the password of uh his Google account. So if the client uh for any reason has to change the password of the uh Google account uh automatically Google is disconnected from the uh platform and this is something that we cannot control. So of course uh Google want to disconnect the uh Google account of the user from every platform when the password is uh changed. uh or it can happen for any other reason that are not under our control that the Google connection uh expires. Um of course we want to notify the client as soon as possible that Google has been disconnected so they can uh log into the platform and connect it again so they do not lose any uh data. And so here they simply uh enable this uh notification. So uh very very easily whenever Google is disconnected they receive an email saying that uh Google has been disconnected. There is of course the login link in the email so they can um login and reconnect Google. So this was highly requested because uh it's a big problem if a client lose the Google connection and they are not notified uh especially if it's a free trial. So if you wanted to convert this client into paying uh client and um so this is live and you enable it very easily just by clicking here. Then let's switch to the agency mode. uh because we have also a few features uh that we've uh uh released related to the agency mode. All right, so let me uh switch and let's go to settings team. All right, we have a an um a new improvement of the uh team section uh specifically related to uh staff users. So now when you add a staff user uh by default you have uh all clients and all plans activated. It means that the staff user that we are adding now has access access to all the current and future clients and all the current and future plans. Um, if you want to limit the um, access of the specific user to uh, specific clients or specific plans, you simply disable the uh, button here and you select the specific client that you want the user to uh, access to. And the same thing for the uh, plans. Uh but uh last week I mean two weeks ago when we announced the team feature we didn't have this possibility to allow the user to access to all the current and future clients and plans and now this is uh live. So also this was highly requested two weeks ago when the when we released this feature. So now this is uh this is possible and um then we have other things. Um firstly let's talk about the uh history of your um uh emails. All right. As you know from the uh platform, you can automatically send uh emails uh both to your uh clients. For example, the welcome email, the email uh of reset password, uh the emails that are sent automatically three days before the trial ends, the email that is sent uh when the trial ends and the payment succeed, etc., etc. Trial ended, no payment. Um you have also emails that are sent to your uh agency team. So the welcome email to your uh team members. There is a password and also the emails for the uh affiliates team. Uh now you have this new section history uh which is super important for you because you can see the all history of the uh emails that are sent from uh your um agency email to your clients or your uh team members. So as you can see each card uh represent an email. On the top left we have the uh type of the email we are sending. For example, this is an email um a welcome email to uh our agency team members. This is the subject of the email. This is of course the recipient and this is the text of the uh email. Uh here for example uh yesterday at 12:55 uh we sent an email to this client here and the email was related to this event. So trial ended no payment and of course here we have the subject and the body of the uh email. So here you can monitor uh uh emails and so you can double check that everything is working um correctly and uh this is a v1 so it's just a list of emails. H of course down the road we will improve this section adding maybe some filters where we can maybe filter for a type of email. uh you can filter for uh date and other things. Uh but basically now you can double check for example that welcome emails are sent. So if uh you check the platform and you see that today you have onboarded uh let's say free uh users in a free trial uh you want to check that the welcome emails uh were has been sent to these users. So you just go here and you see and you check that the welcome emails are uh sent. And then last but not least we have also another another thing that was uh highly requested uh which is related to uh SMTP. Uh so as you know we um used the same SMTP connection for your um emails uh notification that you send to your clients and also to your uh team members and uh we uh use the this SMTP also for uh review request. So the review request that your clients send to their end customers. uh now we have divided the two SMTP connection. So you can have a uh specific uh email uh related to notifications. So the email that you as uh platform send to uh your clients and also to your uh team members. And here we have a review request. So you can connect a specific um uh SMTP connection just uh dedicated to uh review request. Uh maybe you can have a different uh domain or uh a different email with the same uh domain. uh this is let's say uh also a uh v1 related to this uh process where we want to uh allow your clients in the end to use their own SMTP. This will be uh done uh down the road. Uh for now you can have a specific SMTP for uh review. Uh but down the road in the future we will uh let uh your clients of course if they want to uh to connect their own uh SMTP optionally uh so by default they will use your um SMTP to send a review request. So when they are on boarded in the platform they have emails um activated from the day one and they can start sending emails with your SMTP connection. Uh but there will be the option to u connect their own SMTP. So if of course they want the sender of the email uh to be under their domain they will have the option to connect SMTP from uh here. Uh so this will be done in the next uh weeks or months but for now uh we have developed this uh highly requested feature where um you can have a different SMTP connection for uh email review request. Um all right guys that's all for this week. So free new feature for the business mode and free new feature uh for the clients mode. Uh so we have dedicated this week to let's say um multiple uh fixes and uh improvements and so just a quick recap and then we switch to uh Q&A um free feature for the business mode. So the plant uh section sorry the billing section is uh redesigned and uh there is the possibility to uh add the coupon codes directly uh from the um billing section without the need for your clients to ask you to add the coupon code for them or without the need for them to trigger a subscription uh update because that was the only way to add coupon codes. Um then we have the new notification when Google connection is expired. These are the free feature for the business mode. And then agency mode we have um staff. So you can uh have a staff team member that automatically get access to all the current and future clients and all the current and future plans. You have uh the history of agency emails here. Very cool. And then as we have seen the SMTP connection for uh review request. All right guys, let's switch to Q&A. Uh so let me know if you have any question related to this or uh other features. Uh, as you have seen, I've also done a post early this week about some um uh prohibited activity that was going on in the uh in the chat. Unfortunately, some um a climber started to promote his own uh product in competition with climbber. And thank you for the people who uh texted me about this activity. So we were able to uh block this activity. This is very dangerous for us because people new people are joining the community every day and of course we do not want to uh have uh um spammers who uh immediately send them messages promoting uh uh paid products. And so luckily this was um stopped. And um so as you have seen in my post I uh reshared again the rules of the community to remember everyone that in the community we have rules and it's our duty to uh make the members of the community respect the rules. So we are 100% focused on the goal of the community which is help you grow your business with uh with climbo. So all the other things that are not related to this topic of course are not allowed. So you all know that we are here for uh for climbbo. So we are 100% uh focused. Uh all right I see a question from uh Frana. Uh is there a plan to create a referral system that allows an already active customer to refer a prospects and earn a coupon code one free month for example? Very cool question. Yes, I think this is possible. Um, this is possible and this could be very powerful because local business owners, they know each other. Uh, if you are a restaurant owner, you know all the other restaurant owners in the area and We I think there's a way to do this. This is a little bit technical, but um we can create this type of system that works around the coupon code because we can automatically create um coupon codes and um so I think there's a way to uh to do it. um every uh local business maybe can have a coupon code uh for them but also a coupon code that they can share with others. And so if we have new user that sign up with that coupon code, we can match that sale with the um uh with your client. So we know that that customer come is coming from uh the um the from your client and so we can attribute that sale to your client. Um, I think there's a way to do it and u later this year maybe we can start working on this because this is super powerful as the affiliate system that we built uh last week also this could be very powerful to help you uh increase sales. Uh if Franis you have other um ways to do it of course limited to what we can do because you know how climbbo works you know how we can track sales. So coupon codes is a good way to track sales but if you have other ideas feel free to do a post in the in the community. Uh but this is something that we want to do. Uh Marco uh could partner receive one year fee uh even on uh monthly on on monthly plan. So with partner I think you mean uh affiliates um this is not possible. So the affiliate earns um two types of commission. One is a fixed commission on the first payment or uh a recurring commission on the um recurring payment. So if the recurring uh payment is um um a monthly plan, the commission is earned on the uh monthly plan. So you cannot earn a yearly commission uh on the monthly plan also because if a client subscribe with a monthly plan uh they can uh charge after two months maybe and if you pay the early commission on the first uh month you risk to make a loss. So if the plan is a monthly plan, the affiliate receive a monthly commission. I already use it in another business and it's very powerful. Yeah, I totally agree because I also deal a lot with local business owners uh since I've started working in uh climbot to of course study the the markets and they see that they all know uh each other and if they have an an opportunity to save uh money easily uh they they do it. So if they know that they can just share a coupon code with their uh colleagues, let's say, so with the other business owners in the area and save uh uh I don't know $30 $50 per month. They will they will do it. Um Paul, hi Jako, question about the affiliate program. Could you explain how it works without a a coupon code? you explained it in the last AMA event and I tried it, but you still have to use a coupon code. Um, yes. So, for this V1 um it's still I think mandatory to add uh coupon codes. So, basically when um you add an affiliate, of course, you add an affiliate via two different ways. So, manually or uh automatically. uh if you had an affiliate uh manually you have to assign a coupon code. So we know that that sale uh come from uh that specific affiliate um if you add the affiliate uh automatically you have to um insert here the value of the coupon code. So for now it's still not possible to add affiliates uh without coupon code. Uh but we plan to work on a v2 of this system. So we can make it work even without uh coupon code. Um but for now this is not uh possible. So for now this is still not possible but it will be possible to for example here in the uh widget uh you will be able to allow affiliates to uh sign up and when they sign up they uh do not have a coupon code and uh without coupon code of course we do not have automated assignment of uh affiliates to specific clients. So you will have to manually assign clients to uh affiliate and uh yes also without uh widget it will be uh possible because when you add an affiliate you can simply select no coupon here. So you just add an affiliate without a coupon code uh assigned and uh in this way you have to manually assign affiliates to uh clients. So coupon codes uh are needed for automated assignment. Uh if we do not have coupon code, you still will have the possibility to add affiliates. But if an affiliate close a client, they will have to tell you that that client come from uh their uh work and you have to go here manually uh click on edit and assign the uh client here manually to the um affiliate. Uh in this way if new payments comes from uh this client the commission will be um uh paid to the affiliate. If uh the affiliate has a uh one-time commission plan they just earn a percentage on the first payment that happens after the client is assigned to the affiliate. uh if the commission plan is recurring of course all the uh next uh payments will pay a commission to the uh to the affiliate. So in order to make the affiliate program work uh without coupon uh we just need a small fix. So I think we can do it uh next week. So we just need to allow you to uh add affiliates uh without selecting coupon codes uh here. And also related to the widget, we just need to need you uh need to uh let you uh set up the widget settings uh with uh no coupon code. So there will be here the possibility to um uh deselect coupon code. So basically when the affiliate sign up, no coupon code is uh created. So it's a small fix. So I think we can do it uh next week. Frana, could it be possible to have the possibility to make a coupon code of 0%. Actually not possible h and like it could be possible to don't make discount. Um yes I think this is exactly what we have talked about uh now. So you can uh have uh let's say both uh you you can have the option because I think that with 0% coupon codes I think that the end customers is not uh if it's a 0% coupon code they will not add the coupon code at checkout because they know that it's a 0% coupon code. Uh so with the no coupon code I think the best way to make this uh system work is the uh uh manual work because it will happen that if it's a 0% coupon code uh no uh a lot of clients will not add it also it's not possible to create 0% coupon code with stripe so stripe does not allow 0% coupon codes. So these coupon codes here are striped coupon codes. So via API we cannot uh create them. So the only two ways are with coupon code or without uh coupon code. we cannot have let's say a tradeoff with the 0% uh coupon code both because Stripe does not allow it and also because end customers will not uh add them because it's a 0% code. Next week um we have in plan some u big features related to Strive. Uh so we are going to add um both uh more uh components related to Stripe. Um there are a lot of uh accounting components that are needed. So you can uh download for example um reports with your uh sales of the last month payout reconciliation. We have also direct integration with or uh QuickBooks uh that will probably come uh next week. So we build this direct integration thanks to uh Stripe Connect that allows allow us to uh easily develop this uh integration. So if you use Sero or QuickBooks for your accounting, you will be able to automatically uh see the payments of your clients in your QuickBooks and uh Excel account. And um so this is probably in plan for uh for next week since we are working uh in these days with the uh with Stripe. A question from how how to use affiliate if we are not using stripe but another payment method. The only way to do it is as said before um without coupon codes you manually assign affiliates to um specific clients. Uh this of course requires some manual uh process and um of course if you have the possibility to use uh stripe, I strongly suggest you to use stripe because down the road you will see in this year we will develop a lot of things integrated with uh stripe connect and I know that some of you are not um using uh stripe because of uh accounting. And this is why next week we are going to um embed more stripe components to simplify your accounting and also direct integration with sero or um QuickBooks. Uh you know we charge a 0% uh commission. So the only commission that you have when you use our stripe integration is the uh common uh two 3% uh stripe uh commission. So uh if you have the possibility to use stripe, I suggest you to use stripe also because you have all the automations that we are uh building. Clients have access to the billing portal uh directly inside the uh platform. So here they just open the billing portal and they do not need to contact you to switch the plan or to uh pay you if they have to uh add the credit card. So they can do everything uh autonomously. And um most importantly down the road this year we will develop more things about uh Stripe. Also a new things uh coming is the um a kind of dashboard uh in your uh agency mode where you'll be able to track important metrics such as uh MR or uh uh trial to paid uh conversion rates and other things like that that of course you can see just if you have Stripe uh enabled. Of course, you can use the platform without uh Stripe. Uh we suggest it we suggest to use it without Stripe if you want to uh for example give away the platform as an add-on. But if you want to sell the platform, Stripe is highly uh suggested. Question from Paul. Could you add that the Thai language for our customers? We want to go to the Thai market. All right. Uh, so I guess you're talking about the business mode. So we probably do not have this language and so yeah, we can add it. So I make sure that my tech team uh knows about it so we can add it as soon as possible. As since I'm already here in my team chat, I'm going to tell them immediately Thai language. So, we make sure that uh maybe next week we have this language. If you have other languages that you want to add, feel free to tell us. For us, it's very easy to add new languages with uh AI. Thanks we have AI right now. So uh AI will take care of the translation of the uh of the platform. also something very very important that is coming soon and I've talked about it uh with my team uh in these days um is something related to the uh history of uh your client's uh results because it's very important for you to prove that the platform is working and to uh show them that uh every month they are growing the number of their reviews, they are growing their uh rating. Uh they are growing their uh uh ranking. Um they have more and more uh calls or direction we impressions. Uh right now all these sections are uh let's say static section. You can just see the improvements comparing to the previous month. Uh but luckily since the beginning we saved all the data. So for every month uh we know for example the number of impression of like six month ago the number of impression of five month ago of four month ago. Uh so soon your clients will have very nice uh charts where they see for example that in the last six months or in the last year their their impressions are growing, the number of calls are growing and so they easily see the uh ROI and so they keep uh paying you. This is a big uh important feature that soon is uh coming. Uh I think that within one month we'll start uh working in uh this feature. Uh luckily we have uh uh data since uh the beginning. So uh since like one year ago. So if you have client that are in the platform for example since uh six months ago uh when we release this uh charts they will be able to see the uh improvements in the last uh six months because we have all the data um already saved. Tik Tok and Apple Maps are still in progress. And luckily we had a rejection today from Tik Tok. So there are still a few things to fix. Uh but luckily we know what we need to fix. Um Apple still waiting. I think they have a lot of work and we are very far in the pipeline but we are there and these are the two integrations uh work in progress and also linkadine. If I talk with my team today, the next week we'll keep working on LinkedIn since we have already started the server integration with LinkedIn. Uh but there's uh more things to do. Uh but for sure this free integration will come for sure this year. So Tik Tok, LinkedIn and Apple Maps. Paul that will be amazing. Now I do everything manually. I have a monthly Excel sheet that I send to my customer. I can share it maybe for inspiration. Yes, please share it with us or maybe do a post in the community because this is something coming soon. And so if we have more feedbacks about how to build this uh let's say uh chart uh section uh of course we have more uh insights and we can do um a good job. Um we have still to decide if we want to do let's say a single section with all the uh charts. So your clients have a unique place a unique dashboard where they can see their uh growth. All right. So easily they can see that in the last for example six month the um uh outcomes are growing and this is what they want. Of course, as we all know, uh they don't want features, uh dashboards, uh they just want outcomes, which are reviews, uh visibility, calls, uh direction, requests, impressions. This is why they pay you. So, we have of course to improve um this uh view so it's easier for you to um to sell Um Harold, is there a way to improve the rank tracker inside the platform? I think you're talking about this uh rank tracker. Um yes. So for now uh this is what we uh track. So basically every month uh we um check your client uh ranking in uh Google maps uh in different uh locations. Uh this of course in the middle is the address of your client and here we are for example uh uh this is the radius. So we are 5 kilometer in the right, five kilometer in the left, 5 kilometer in the top etc. And so we are able to monitor the ranking on the uh different positions. As you know if we click here we can see the whole ranking. So we can see that in our address uh we are ranking uh fourth. So this is a bad ranking because in our address we should rank first. But of course this is one of my uh test Google business profile. So this is not a real business. Uh but yeah, we can improve it. If you have some feedbacks, uh we will take them into consideration. We improved this uh chart here thanks to um a climber I think Mateo uh who uh proposed a new design for this uh competitor analysis uh chart and we replicate replicated exactly his uh design that he shared in the uh community. And so if you want to share some uh improvements for the local rank tracker uh feel free to share them. And of course uh if we like the design we can uh implement it. And also if the other climbers uh like it because we want to see um if there are um positive comments about it and we can uh we can do it. All right guys, let me know if you have other question. So I've updated you about what we probably will do next week. Um we want to do both a lot of uh fixes and improvements. So, a lot of small features that we still have in the uh pipeline uh because of course we keep receiving feedbacks. Um thanks for sharing feedbacks in the community because I always uh read them and so we have a big pipeline of small uh fixes and improvements that we want to do. So probably we're going to do a lot of them during next week. Plus we want to u conclude the integration uh with the stripe and so we're going to uh embed stripe apps for QuickBooks and also add new components for accounting. Um this is also in order to stimulate more and more clients to um use our direct integration with Stripe because I talked um with some big climbers uh last week and one of them who is managing a lot of clients, big clients um he uh is still not using Stripe. Uh, and I asked him why and he replied because I manage everything in a QuickBooks and I cannot I use um your direct integration with Strive because I need payments in my uh QuickBooks as QuickBooks account. So um I guess there are more and more climbers in this situation. So this is why we want to uh develop this uh integration with accounting system so everyone can use uh stripe. All right guys if you do not have other question I think we can stop here the event. Uh thanks for coming as always. Let me disable screen sharing. Thanks for coming and um sorry for uh uh letting you know just today about the changes in my uh plan, but I'm happy that uh many of you came and so as always uh wait for my post tomorrow and have an amazing weekend. Bye-bye."
+}

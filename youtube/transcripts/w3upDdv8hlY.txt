@@ -1,0 +1,3518 @@
+{
+  "videoId": "w3upDdv8hlY",
+  "language": "en",
+  "kind": "asr",
+  "segments": [
+    {
+      "start_ms": 1280,
+      "duration_ms": 7520,
+      "text": "Welcome, welcome, welcome guys."
+    },
+    {
+      "start_ms": 5600,
+      "duration_ms": 7119,
+      "text": "Welcome Kristoff. Welcome David, Ranis,"
+    },
+    {
+      "start_ms": 8800,
+      "duration_ms": 7920,
+      "text": "Harold, Joanni, Powell, Quincy. Welcome"
+    },
+    {
+      "start_ms": 12719,
+      "duration_ms": 6720,
+      "text": "everyone. Let me know guys if you can"
+    },
+    {
+      "start_ms": 16720,
+      "duration_ms": 6000,
+      "text": "hear me and see me. I'm calling you from"
+    },
+    {
+      "start_ms": 19439,
+      "duration_ms": 6721,
+      "text": "a different location today. I'm in my in"
+    },
+    {
+      "start_ms": 22720,
+      "duration_ms": 5920,
+      "text": "my house. I have a train later, so I had"
+    },
+    {
+      "start_ms": 26160,
+      "duration_ms": 4400,
+      "text": "to leave the office."
+    },
+    {
+      "start_ms": 28640,
+      "duration_ms": 6880,
+      "text": "Please guys let me know in the chat if"
+    },
+    {
+      "start_ms": 30560,
+      "duration_ms": 9519,
+      "text": "you can see me and we can uh start. So"
+    },
+    {
+      "start_ms": 35520,
+      "duration_ms": 9280,
+      "text": "as I announced last week uh this week"
+    },
+    {
+      "start_ms": 40079,
+      "duration_ms": 7521,
+      "text": "has been dedicated to uh a review of the"
+    },
+    {
+      "start_ms": 44800,
+      "duration_ms": 6880,
+      "text": "whole platform uh to make sure that"
+    },
+    {
+      "start_ms": 47600,
+      "duration_ms": 6479,
+      "text": "everything is uh super uh stable. Uh as"
+    },
+    {
+      "start_ms": 51680,
+      "duration_ms": 6160,
+      "text": "you know we are here for the uh long"
+    },
+    {
+      "start_ms": 54079,
+      "duration_ms": 6401,
+      "text": "term. So uh every let's say two months"
+    },
+    {
+      "start_ms": 57840,
+      "duration_ms": 5760,
+      "text": "uh we think that it's good we if we take"
+    },
+    {
+      "start_ms": 60480,
+      "duration_ms": 8160,
+      "text": "an entire week to re review the entire"
+    },
+    {
+      "start_ms": 63600,
+      "duration_ms": 8160,
+      "text": "code. Uh but we also uh fixed some uh"
+    },
+    {
+      "start_ms": 68640,
+      "duration_ms": 6560,
+      "text": "features and also uh released some uh"
+    },
+    {
+      "start_ms": 71760,
+      "duration_ms": 6800,
+      "text": "minor features that I'm happy to uh to"
+    },
+    {
+      "start_ms": 75200,
+      "duration_ms": 5680,
+      "text": "present to you today. Uh okay, thanks"
+    },
+    {
+      "start_ms": 78560,
+      "duration_ms": 4720,
+      "text": "Harold for your message in the chat. So"
+    },
+    {
+      "start_ms": 80880,
+      "duration_ms": 5520,
+      "text": "I suppose you can all uh see me and hear"
+    },
+    {
+      "start_ms": 83280,
+      "duration_ms": 6080,
+      "text": "me. Um today is going to be a little bit"
+    },
+    {
+      "start_ms": 86400,
+      "duration_ms": 5280,
+      "text": "less than an hour maybe uh 40 45 minutes"
+    },
+    {
+      "start_ms": 89360,
+      "duration_ms": 5600,
+      "text": "since I have a uh I have this train"
+    },
+    {
+      "start_ms": 91680,
+      "duration_ms": 6960,
+      "text": "later that I cannot miss. Uh so uh let's"
+    },
+    {
+      "start_ms": 94960,
+      "duration_ms": 6479,
+      "text": "start let's try to do uh this 20 minutes"
+    },
+    {
+      "start_ms": 98640,
+      "duration_ms": 6240,
+      "text": "of uh new feature announcements and then"
+    },
+    {
+      "start_ms": 101439,
+      "duration_ms": 6441,
+      "text": "20 minutes uh Q&A. So let me share the"
+    },
+    {
+      "start_ms": 104880,
+      "duration_ms": 3000,
+      "text": "screen."
+    },
+    {
+      "start_ms": 110880,
+      "duration_ms": 6160,
+      "text": "All right,"
+    },
+    {
+      "start_ms": 113600,
+      "duration_ms": 5760,
+      "text": "my screen is shared."
+    },
+    {
+      "start_ms": 117040,
+      "duration_ms": 5759,
+      "text": "The first thing that I want to show you"
+    },
+    {
+      "start_ms": 119360,
+      "duration_ms": 6719,
+      "text": "today is something that was already"
+    },
+    {
+      "start_ms": 122799,
+      "duration_ms": 6401,
+      "text": "announced uh I think two weeks ago uh"
+    },
+    {
+      "start_ms": 126079,
+      "duration_ms": 6321,
+      "text": "which is the uh demo client per"
+    },
+    {
+      "start_ms": 129200,
+      "duration_ms": 6640,
+      "text": "category. So right now uh your uh demo"
+    },
+    {
+      "start_ms": 132400,
+      "duration_ms": 5600,
+      "text": "client inside your uh client uh section"
+    },
+    {
+      "start_ms": 135840,
+      "duration_ms": 5280,
+      "text": "has a new button. This button here on"
+    },
+    {
+      "start_ms": 138000,
+      "duration_ms": 7280,
+      "text": "the top left. Uh if you click the button"
+    },
+    {
+      "start_ms": 141120,
+      "duration_ms": 6320,
+      "text": "here, you can uh select which of the uh"
+    },
+    {
+      "start_ms": 145280,
+      "duration_ms": 5679,
+      "text": "different pre-built clients that we"
+    },
+    {
+      "start_ms": 147440,
+      "duration_ms": 6560,
+      "text": "created you want to uh launch. Uh we"
+    },
+    {
+      "start_ms": 150959,
+      "duration_ms": 5521,
+      "text": "have created a few pre-built clients for"
+    },
+    {
+      "start_ms": 154000,
+      "duration_ms": 4879,
+      "text": "different categories, a coffee shop, a"
+    },
+    {
+      "start_ms": 156480,
+      "duration_ms": 5680,
+      "text": "tech business, uh a wireless business,"
+    },
+    {
+      "start_ms": 158879,
+      "duration_ms": 7360,
+      "text": "auto repair, etc. As we said a few weeks"
+    },
+    {
+      "start_ms": 162160,
+      "duration_ms": 7680,
+      "text": "ago, our goal is to create uh more of"
+    },
+    {
+      "start_ms": 166239,
+      "duration_ms": 6561,
+      "text": "these clients in order to cover every uh"
+    },
+    {
+      "start_ms": 169840,
+      "duration_ms": 5039,
+      "text": "specific industry. Uh but basically, you"
+    },
+    {
+      "start_ms": 172800,
+      "duration_ms": 5760,
+      "text": "just select the business that you want"
+    },
+    {
+      "start_ms": 174879,
+      "duration_ms": 6161,
+      "text": "to uh uh to see. For example, let's"
+    },
+    {
+      "start_ms": 178560,
+      "duration_ms": 4640,
+      "text": "select the fitness club. All right, we"
+    },
+    {
+      "start_ms": 181040,
+      "duration_ms": 5680,
+      "text": "save. And then just clicking on the uh"
+    },
+    {
+      "start_ms": 183200,
+      "duration_ms": 6480,
+      "text": "view client, we are going to open this"
+    },
+    {
+      "start_ms": 186720,
+      "duration_ms": 6320,
+      "text": "uh specific uh demo client. in this case"
+    },
+    {
+      "start_ms": 189680,
+      "duration_ms": 6639,
+      "text": "the um the client in the uh fitness"
+    },
+    {
+      "start_ms": 193040,
+      "duration_ms": 7360,
+      "text": "industry. And so we have the uh clients"
+    },
+    {
+      "start_ms": 196319,
+      "duration_ms": 8000,
+      "text": "mode with uh reviews and photos related"
+    },
+    {
+      "start_ms": 200400,
+      "duration_ms": 7360,
+      "text": "to uh that uh industry. And uh so this"
+    },
+    {
+      "start_ms": 204319,
+      "duration_ms": 5920,
+      "text": "is uh live from uh probably tomorrow."
+    },
+    {
+      "start_ms": 207760,
+      "duration_ms": 5119,
+      "text": "And so you just need to firstly select"
+    },
+    {
+      "start_ms": 210239,
+      "duration_ms": 4801,
+      "text": "which uh client you want to launch uh"
+    },
+    {
+      "start_ms": 212879,
+      "duration_ms": 4321,
+      "text": "you save and then you basically click"
+    },
+    {
+      "start_ms": 215040,
+      "duration_ms": 4479,
+      "text": "here or on the bottom view client. And"
+    },
+    {
+      "start_ms": 217200,
+      "duration_ms": 6480,
+      "text": "as you know a new tab is going to be"
+    },
+    {
+      "start_ms": 219519,
+      "duration_ms": 6401,
+      "text": "open uh with that specific uh client in"
+    },
+    {
+      "start_ms": 223680,
+      "duration_ms": 5360,
+      "text": "the industry that you choose. Uh so"
+    },
+    {
+      "start_ms": 225920,
+      "duration_ms": 6959,
+      "text": "that's the first uh new thing of uh this"
+    },
+    {
+      "start_ms": 229040,
+      "duration_ms": 8960,
+      "text": "week. Another one uh big thing that was"
+    },
+    {
+      "start_ms": 232879,
+      "duration_ms": 10241,
+      "text": "uh highly requested and is um live is"
+    },
+    {
+      "start_ms": 238000,
+      "duration_ms": 9280,
+      "text": "the uh client uh filter. So let me"
+    },
+    {
+      "start_ms": 243120,
+      "duration_ms": 7199,
+      "text": "quickly show it to you. So in your uh"
+    },
+    {
+      "start_ms": 247280,
+      "duration_ms": 6159,
+      "text": "client uh area you have a new button"
+    },
+    {
+      "start_ms": 250319,
+      "duration_ms": 7760,
+      "text": "here on the uh top right called filter."
+    },
+    {
+      "start_ms": 253439,
+      "duration_ms": 7040,
+      "text": "So super uh uh super easy to to find. So"
+    },
+    {
+      "start_ms": 258079,
+      "duration_ms": 6081,
+      "text": "filter button you just click it and you"
+    },
+    {
+      "start_ms": 260479,
+      "duration_ms": 7761,
+      "text": "can filter the clients uh per uh name uh"
+    },
+    {
+      "start_ms": 264160,
+      "duration_ms": 6080,
+      "text": "subscription status uh email or also uh"
+    },
+    {
+      "start_ms": 268240,
+      "duration_ms": 4480,
+      "text": "plan. So if you want you can see just"
+    },
+    {
+      "start_ms": 270240,
+      "duration_ms": 4480,
+      "text": "the clients in the gold plan, just the"
+    },
+    {
+      "start_ms": 272720,
+      "duration_ms": 4560,
+      "text": "clients in the free trial. you can"
+    },
+    {
+      "start_ms": 274720,
+      "duration_ms": 6000,
+      "text": "search for a specific client. So, this"
+    },
+    {
+      "start_ms": 277280,
+      "duration_ms": 7280,
+      "text": "is super useful for those of you who has"
+    },
+    {
+      "start_ms": 280720,
+      "duration_ms": 6400,
+      "text": "have like many clients. I know a lot of"
+    },
+    {
+      "start_ms": 284560,
+      "duration_ms": 5359,
+      "text": "uh you climbers with already uh more"
+    },
+    {
+      "start_ms": 287120,
+      "duration_ms": 5440,
+      "text": "than 100 clients uh that you're managing"
+    },
+    {
+      "start_ms": 289919,
+      "duration_ms": 6401,
+      "text": "inside the uh platform. So, now it's"
+    },
+    {
+      "start_ms": 292560,
+      "duration_ms": 7199,
+      "text": "super easy to uh to find the specific"
+    },
+    {
+      "start_ms": 296320,
+      "duration_ms": 6319,
+      "text": "clients through this filters uh button."
+    },
+    {
+      "start_ms": 299759,
+      "duration_ms": 7361,
+      "text": "All right. Uh then another big thing"
+    },
+    {
+      "start_ms": 302639,
+      "duration_ms": 8721,
+      "text": "that was uh highly uh requested is the"
+    },
+    {
+      "start_ms": 307120,
+      "duration_ms": 6400,
+      "text": "um SMS and WhatsApp cost per country. So"
+    },
+    {
+      "start_ms": 311360,
+      "duration_ms": 6160,
+      "text": "uh now when you go to settings uh"
+    },
+    {
+      "start_ms": 313520,
+      "duration_ms": 7440,
+      "text": "balance as you can see we uh rebuilt a"
+    },
+    {
+      "start_ms": 317520,
+      "duration_ms": 7600,
+      "text": "little bit this uh section and uh"
+    },
+    {
+      "start_ms": 320960,
+      "duration_ms": 7920,
+      "text": "basically now the cost of um each SMS"
+    },
+    {
+      "start_ms": 325120,
+      "duration_ms": 7200,
+      "text": "and uh WhatsApp is uh the exact cost"
+    },
+    {
+      "start_ms": 328880,
+      "duration_ms": 7680,
+      "text": "that we pay for uh each uh country. As"
+    },
+    {
+      "start_ms": 332320,
+      "duration_ms": 6719,
+      "text": "you know, we are charged by uh Bird and"
+    },
+    {
+      "start_ms": 336560,
+      "duration_ms": 8320,
+      "text": "Meta, which are our tech partners for"
+    },
+    {
+      "start_ms": 339039,
+      "duration_ms": 9600,
+      "text": "SMS and um and WhatsApp. And um be um"
+    },
+    {
+      "start_ms": 344880,
+      "duration_ms": 7200,
+      "text": "like until today we had a system where"
+    },
+    {
+      "start_ms": 348639,
+      "duration_ms": 6560,
+      "text": "we grouped together"
+    },
+    {
+      "start_ms": 352080,
+      "duration_ms": 6640,
+      "text": "uh SMS sent for example to Europe and"
+    },
+    {
+      "start_ms": 355199,
+      "duration_ms": 6641,
+      "text": "you were paying a fixed uh unique fee to"
+    },
+    {
+      "start_ms": 358720,
+      "duration_ms": 6160,
+      "text": "uh if you were sending SMS to recipients"
+    },
+    {
+      "start_ms": 361840,
+      "duration_ms": 5359,
+      "text": "in the old Europe. Now if you send for"
+    },
+    {
+      "start_ms": 364880,
+      "duration_ms": 5439,
+      "text": "example SMS to let's say let's do an"
+    },
+    {
+      "start_ms": 367199,
+      "duration_ms": 5921,
+      "text": "example Italy uh this is what you pay uh"
+    },
+    {
+      "start_ms": 370319,
+      "duration_ms": 6081,
+      "text": "you pay for example fourth uh cent per"
+    },
+    {
+      "start_ms": 373120,
+      "duration_ms": 6480,
+      "text": "SMS and 7 cent per uh WhatsApp message."
+    },
+    {
+      "start_ms": 376400,
+      "duration_ms": 6320,
+      "text": "If you send SMS or WhatsApp to India"
+    },
+    {
+      "start_ms": 379600,
+      "duration_ms": 6400,
+      "text": "this is what you pay uh 5 cent for SMS"
+    },
+    {
+      "start_ms": 382720,
+      "duration_ms": 6240,
+      "text": "and two uh cent for WhatsApp."
+    },
+    {
+      "start_ms": 386000,
+      "duration_ms": 5520,
+      "text": "This is uh United States. So 1 cent SMS"
+    },
+    {
+      "start_ms": 388960,
+      "duration_ms": 6239,
+      "text": "3 cent for uh WhatsApp which is the"
+    },
+    {
+      "start_ms": 391520,
+      "duration_ms": 8959,
+      "text": "exact amount that we pay to uh our tech"
+    },
+    {
+      "start_ms": 395199,
+      "duration_ms": 7041,
+      "text": "partners. So bird and uh meta and um you"
+    },
+    {
+      "start_ms": 400479,
+      "duration_ms": 4641,
+      "text": "have also"
+    },
+    {
+      "start_ms": 402240,
+      "duration_ms": 5440,
+      "text": "uh an option to select the preferred uh"
+    },
+    {
+      "start_ms": 405120,
+      "duration_ms": 5280,
+      "text": "destination. So of course if you are"
+    },
+    {
+      "start_ms": 407680,
+      "duration_ms": 6079,
+      "text": "based for example in Italy, most of your"
+    },
+    {
+      "start_ms": 410400,
+      "duration_ms": 5519,
+      "text": "clients are going to send SMS to Italian"
+    },
+    {
+      "start_ms": 413759,
+      "duration_ms": 5041,
+      "text": "uh phone numbers. So selecting your"
+    },
+    {
+      "start_ms": 415919,
+      "duration_ms": 6481,
+      "text": "preferred destination, you can see here"
+    },
+    {
+      "start_ms": 418800,
+      "duration_ms": 7600,
+      "text": "uh how many uh SMS and WhatsApp you you"
+    },
+    {
+      "start_ms": 422400,
+      "duration_ms": 7280,
+      "text": "have uh left based on your uh remaining"
+    },
+    {
+      "start_ms": 426400,
+      "duration_ms": 7840,
+      "text": "uh balance. And also when you create uh"
+    },
+    {
+      "start_ms": 429680,
+      "duration_ms": 7760,
+      "text": "pricing plan uh you can see the uh uh"
+    },
+    {
+      "start_ms": 434240,
+      "duration_ms": 6480,
+      "text": "spending cap which is calculated"
+    },
+    {
+      "start_ms": 437440,
+      "duration_ms": 5680,
+      "text": "um with your uh preferred destination"
+    },
+    {
+      "start_ms": 440720,
+      "duration_ms": 4319,
+      "text": "into uh consideration. For example, in"
+    },
+    {
+      "start_ms": 443120,
+      "duration_ms": 6079,
+      "text": "this account, my preferred destination"
+    },
+    {
+      "start_ms": 445039,
+      "duration_ms": 8241,
+      "text": "is United States. So, I pay one cent of"
+    },
+    {
+      "start_ms": 449199,
+      "duration_ms": 7761,
+      "text": "a dollar per SMS. So, if my uh SMS limit"
+    },
+    {
+      "start_ms": 453280,
+      "duration_ms": 7280,
+      "text": "is uh 500 SMS per month, this is my uh"
+    },
+    {
+      "start_ms": 456960,
+      "duration_ms": 6880,
+      "text": "spending uh cap. So, if the client use"
+    },
+    {
+      "start_ms": 460560,
+      "duration_ms": 7039,
+      "text": "all the SMS available, this is what is"
+    },
+    {
+      "start_ms": 463840,
+      "duration_ms": 8320,
+      "text": "going to uh cost me. Uh in the US, our"
+    },
+    {
+      "start_ms": 467599,
+      "duration_ms": 7600,
+      "text": "WhatsApp is uh 3 cent. So if the um"
+    },
+    {
+      "start_ms": 472160,
+      "duration_ms": 4960,
+      "text": "client use all the SMS available in this"
+    },
+    {
+      "start_ms": 475199,
+      "duration_ms": 5680,
+      "text": "plan, this is what is going to uh cost"
+    },
+    {
+      "start_ms": 477120,
+      "duration_ms": 7199,
+      "text": "me. So this spending cap allow you to uh"
+    },
+    {
+      "start_ms": 480879,
+      "duration_ms": 7121,
+      "text": "calculate which are your uh maximum cost"
+    },
+    {
+      "start_ms": 484319,
+      "duration_ms": 6961,
+      "text": "if your clients uh use their uh entire"
+    },
+    {
+      "start_ms": 488000,
+      "duration_ms": 5599,
+      "text": "amount of uh uh SMS and WhatsApp"
+    },
+    {
+      "start_ms": 491280,
+      "duration_ms": 4720,
+      "text": "messages that you provide them uh"
+    },
+    {
+      "start_ms": 493599,
+      "duration_ms": 4641,
+      "text": "through the uh custom plan feature. All"
+    },
+    {
+      "start_ms": 496000,
+      "duration_ms": 5039,
+      "text": "right. So also this was uh highly"
+    },
+    {
+      "start_ms": 498240,
+      "duration_ms": 5200,
+      "text": "requested and from tomorrow is uh is"
+    },
+    {
+      "start_ms": 501039,
+      "duration_ms": 7041,
+      "text": "live. Uh as you can see there are also"
+    },
+    {
+      "start_ms": 503440,
+      "duration_ms": 8640,
+      "text": "some UI uh improvements. Also the"
+    },
+    {
+      "start_ms": 508080,
+      "duration_ms": 6399,
+      "text": "remaining balance uh change uh color uh"
+    },
+    {
+      "start_ms": 512080,
+      "duration_ms": 5920,
+      "text": "if uh it's going to be like close to"
+    },
+    {
+      "start_ms": 514479,
+      "duration_ms": 6000,
+      "text": "zero. You will see a red uh message like"
+    },
+    {
+      "start_ms": 518000,
+      "duration_ms": 5839,
+      "text": "an alert message if your balance is"
+    },
+    {
+      "start_ms": 520479,
+      "duration_ms": 6641,
+      "text": "below uh I think $20. So you make sure"
+    },
+    {
+      "start_ms": 523839,
+      "duration_ms": 5440,
+      "text": "that you always have enough uh balance"
+    },
+    {
+      "start_ms": 527120,
+      "duration_ms": 4719,
+      "text": "uh because as you know if the balance"
+    },
+    {
+      "start_ms": 529279,
+      "duration_ms": 6000,
+      "text": "goes to zero your clients are not able"
+    },
+    {
+      "start_ms": 531839,
+      "duration_ms": 5120,
+      "text": "to send uh uh WhatsApp and uh and SMS"
+    },
+    {
+      "start_ms": 535279,
+      "duration_ms": 5441,
+      "text": "messages."
+    },
+    {
+      "start_ms": 536959,
+      "duration_ms": 5761,
+      "text": "Also we have new features uh for the uh"
+    },
+    {
+      "start_ms": 540720,
+      "duration_ms": 5040,
+      "text": "clients mode. We have two uh new"
+    },
+    {
+      "start_ms": 542720,
+      "duration_ms": 6400,
+      "text": "features for the clients mode. So one"
+    },
+    {
+      "start_ms": 545760,
+      "duration_ms": 6320,
+      "text": "big feature is this uh new settings for"
+    },
+    {
+      "start_ms": 549120,
+      "duration_ms": 5920,
+      "text": "the uh Google business profile. Uh let"
+    },
+    {
+      "start_ms": 552080,
+      "duration_ms": 6000,
+      "text": "me show you. So uh profile we click on"
+    },
+    {
+      "start_ms": 555040,
+      "duration_ms": 6479,
+      "text": "manage business and uh we have this new"
+    },
+    {
+      "start_ms": 558080,
+      "duration_ms": 6240,
+      "text": "section called uh booking"
+    },
+    {
+      "start_ms": 561519,
+      "duration_ms": 6161,
+      "text": "uh which allow your clients to add"
+    },
+    {
+      "start_ms": 564320,
+      "duration_ms": 7760,
+      "text": "booking uh links uh to their uh Google"
+    },
+    {
+      "start_ms": 567680,
+      "duration_ms": 9040,
+      "text": "business profile uh which u appears also"
+    },
+    {
+      "start_ms": 572080,
+      "duration_ms": 6879,
+      "text": "on uh Google maps as this uh uh button"
+    },
+    {
+      "start_ms": 576720,
+      "duration_ms": 5760,
+      "text": "uh here. So, this is super super useful"
+    },
+    {
+      "start_ms": 578959,
+      "duration_ms": 6320,
+      "text": "if your clients have a um a booking uh"
+    },
+    {
+      "start_ms": 582480,
+      "duration_ms": 6799,
+      "text": "link that redirects to an an external"
+    },
+    {
+      "start_ms": 585279,
+      "duration_ms": 7601,
+      "text": "platform that they use for uh manage uh"
+    },
+    {
+      "start_ms": 589279,
+      "duration_ms": 5841,
+      "text": "booking and appointments and um so they"
+    },
+    {
+      "start_ms": 592880,
+      "duration_ms": 5760,
+      "text": "can easily"
+    },
+    {
+      "start_ms": 595120,
+      "duration_ms": 7279,
+      "text": "uh click sorry um click on the plus"
+    },
+    {
+      "start_ms": 598640,
+      "duration_ms": 6960,
+      "text": "button and uh they easily add the uh"
+    },
+    {
+      "start_ms": 602399,
+      "duration_ms": 6401,
+      "text": "booking uh URL uh here uh they select"
+    },
+    {
+      "start_ms": 605600,
+      "duration_ms": 7919,
+      "text": "the uh booking type that depends on the"
+    },
+    {
+      "start_ms": 608800,
+      "duration_ms": 7360,
+      "text": "category of uh your client. Uh so uh"
+    },
+    {
+      "start_ms": 613519,
+      "duration_ms": 6320,
+      "text": "depending on which uh primary category"
+    },
+    {
+      "start_ms": 616160,
+      "duration_ms": 7679,
+      "text": "your client has uh Google give us some"
+    },
+    {
+      "start_ms": 619839,
+      "duration_ms": 6161,
+      "text": "options for the uh booking type and uh"
+    },
+    {
+      "start_ms": 623839,
+      "duration_ms": 5201,
+      "text": "so your client simply select the booking"
+    },
+    {
+      "start_ms": 626000,
+      "duration_ms": 6800,
+      "text": "type, they add the booking uh URL and"
+    },
+    {
+      "start_ms": 629040,
+      "duration_ms": 8080,
+      "text": "they uh they save. They can add multiple"
+    },
+    {
+      "start_ms": 632800,
+      "duration_ms": 6400,
+      "text": "uh booking links that uh appear in their"
+    },
+    {
+      "start_ms": 637120,
+      "duration_ms": 4399,
+      "text": "uh Google business profile. And of"
+    },
+    {
+      "start_ms": 639200,
+      "duration_ms": 5120,
+      "text": "course they can select the uh preferred"
+    },
+    {
+      "start_ms": 641519,
+      "duration_ms": 5281,
+      "text": "one just clicking on the uh star button."
+    },
+    {
+      "start_ms": 644320,
+      "duration_ms": 6880,
+      "text": "And the preferred one is the one that is"
+    },
+    {
+      "start_ms": 646800,
+      "duration_ms": 7440,
+      "text": "going to uh appear uh here. So in the uh"
+    },
+    {
+      "start_ms": 651200,
+      "duration_ms": 5280,
+      "text": "Google maps uh result"
+    },
+    {
+      "start_ms": 654240,
+      "duration_ms": 6159,
+      "text": "the other link. So the secondary ones"
+    },
+    {
+      "start_ms": 656480,
+      "duration_ms": 7919,
+      "text": "appear uh inside the uh uh the uh"
+    },
+    {
+      "start_ms": 660399,
+      "duration_ms": 7120,
+      "text": "listing uh page as secondary uh booking"
+    },
+    {
+      "start_ms": 664399,
+      "duration_ms": 7281,
+      "text": "links and consequentially when once your"
+    },
+    {
+      "start_ms": 667519,
+      "duration_ms": 7521,
+      "text": "client add this uh booking uh links uh"
+    },
+    {
+      "start_ms": 671680,
+      "duration_ms": 6159,
+      "text": "they also appear in their uh website"
+    },
+    {
+      "start_ms": 675040,
+      "duration_ms": 6799,
+      "text": "built through the uh platform. So let me"
+    },
+    {
+      "start_ms": 677839,
+      "duration_ms": 6961,
+      "text": "go to the uh website section. So the uh"
+    },
+    {
+      "start_ms": 681839,
+      "duration_ms": 6881,
+      "text": "prefer booking link is going to appear"
+    },
+    {
+      "start_ms": 684800,
+      "duration_ms": 6640,
+      "text": "uh here as a primary uh call to action."
+    },
+    {
+      "start_ms": 688720,
+      "duration_ms": 5040,
+      "text": "So this uh button here will be the"
+    },
+    {
+      "start_ms": 691440,
+      "duration_ms": 5519,
+      "text": "prefer booking links. And if your"
+    },
+    {
+      "start_ms": 693760,
+      "duration_ms": 6240,
+      "text": "clients add other secondary booking link"
+    },
+    {
+      "start_ms": 696959,
+      "duration_ms": 6801,
+      "text": "uh they appear below the main uh call to"
+    },
+    {
+      "start_ms": 700000,
+      "duration_ms": 6399,
+      "text": "action as uh more booking uh options."
+    },
+    {
+      "start_ms": 703760,
+      "duration_ms": 5600,
+      "text": "99% of the time your client of course"
+    },
+    {
+      "start_ms": 706399,
+      "duration_ms": 5601,
+      "text": "has a a unique uh booking link. So if"
+    },
+    {
+      "start_ms": 709360,
+      "duration_ms": 4880,
+      "text": "they add a single booking link and they"
+    },
+    {
+      "start_ms": 712000,
+      "duration_ms": 4640,
+      "text": "set it they set it as the preferred"
+    },
+    {
+      "start_ms": 714240,
+      "duration_ms": 5680,
+      "text": "booking link of course this section this"
+    },
+    {
+      "start_ms": 716640,
+      "duration_ms": 6720,
+      "text": "section here so the more booking option"
+    },
+    {
+      "start_ms": 719920,
+      "duration_ms": 5840,
+      "text": "uh is not uh uh is not visible. So in"
+    },
+    {
+      "start_ms": 723360,
+      "duration_ms": 4719,
+      "text": "this way we make sure that whatever they"
+    },
+    {
+      "start_ms": 725760,
+      "duration_ms": 5680,
+      "text": "add in the Google business profile is"
+    },
+    {
+      "start_ms": 728079,
+      "duration_ms": 4880,
+      "text": "added also in the website and is added"
+    },
+    {
+      "start_ms": 731440,
+      "duration_ms": 3120,
+      "text": "also"
+    },
+    {
+      "start_ms": 732959,
+      "duration_ms": 5120,
+      "text": "uh"
+    },
+    {
+      "start_ms": 734560,
+      "duration_ms": 7200,
+      "text": "in the uh schema uh markup code. So"
+    },
+    {
+      "start_ms": 738079,
+      "duration_ms": 6560,
+      "text": "there is a 100% correspondence between"
+    },
+    {
+      "start_ms": 741760,
+      "duration_ms": 6000,
+      "text": "Google business profile website and um"
+    },
+    {
+      "start_ms": 744639,
+      "duration_ms": 6721,
+      "text": "and the rich snippet and which is super"
+    },
+    {
+      "start_ms": 747760,
+      "duration_ms": 6800,
+      "text": "important for uh SEO and and Google"
+    },
+    {
+      "start_ms": 751360,
+      "duration_ms": 6479,
+      "text": "ranking. And finally we have uh another"
+    },
+    {
+      "start_ms": 754560,
+      "duration_ms": 6399,
+      "text": "uh feature uh released uh it's kind of"
+    },
+    {
+      "start_ms": 757839,
+      "duration_ms": 6560,
+      "text": "an improvement uh related to uh AI"
+    },
+    {
+      "start_ms": 760959,
+      "duration_ms": 6320,
+      "text": "agent. Uh so now both for the SEO agent"
+    },
+    {
+      "start_ms": 764399,
+      "duration_ms": 6801,
+      "text": "and also for the uh social agent you"
+    },
+    {
+      "start_ms": 767279,
+      "duration_ms": 7601,
+      "text": "have this new checkbox um apply these"
+    },
+    {
+      "start_ms": 771200,
+      "duration_ms": 9439,
+      "text": "settings whenever you generate manual AI"
+    },
+    {
+      "start_ms": 774880,
+      "duration_ms": 10240,
+      "text": "uh replies. So uh basically if I um I"
+    },
+    {
+      "start_ms": 780639,
+      "duration_ms": 7200,
+      "text": "click on this uh checkbox uh whenever I"
+    },
+    {
+      "start_ms": 785120,
+      "duration_ms": 7120,
+      "text": "go to the review section and I for"
+    },
+    {
+      "start_ms": 787839,
+      "duration_ms": 8081,
+      "text": "example uh generate a reply to a uh Yelp"
+    },
+    {
+      "start_ms": 792240,
+      "duration_ms": 7120,
+      "text": "uh review instead of choosing every time"
+    },
+    {
+      "start_ms": 795920,
+      "duration_ms": 6000,
+      "text": "uh the tone the uh length of the uh"
+    },
+    {
+      "start_ms": 799360,
+      "duration_ms": 5039,
+      "text": "reply uh etc."
+    },
+    {
+      "start_ms": 801920,
+      "duration_ms": 6560,
+      "text": "uh automatically without the need to do"
+    },
+    {
+      "start_ms": 804399,
+      "duration_ms": 8000,
+      "text": "a click uh a uh a reply is going to be"
+    },
+    {
+      "start_ms": 808480,
+      "duration_ms": 7280,
+      "text": "uh generated with these uh settings uh"
+    },
+    {
+      "start_ms": 812399,
+      "duration_ms": 8321,
+      "text": "here. Uh in this way you can easily also"
+    },
+    {
+      "start_ms": 815760,
+      "duration_ms": 10639,
+      "text": "uh test the uh AI uh agent before"
+    },
+    {
+      "start_ms": 820720,
+      "duration_ms": 9760,
+      "text": "uh before uh um before enabling uh it on"
+    },
+    {
+      "start_ms": 826399,
+      "duration_ms": 7120,
+      "text": "uh let's say uh live. So uh you just uh"
+    },
+    {
+      "start_ms": 830480,
+      "duration_ms": 5280,
+      "text": "click on this uh button here and uh"
+    },
+    {
+      "start_ms": 833519,
+      "duration_ms": 5440,
+      "text": "every time you go to reply to a private"
+    },
+    {
+      "start_ms": 835760,
+      "duration_ms": 5759,
+      "text": "feedback or a um or a non- Googlele"
+    },
+    {
+      "start_ms": 838959,
+      "duration_ms": 5361,
+      "text": "review automatically the reply is"
+    },
+    {
+      "start_ms": 841519,
+      "duration_ms": 6721,
+      "text": "generated without the need to every time"
+    },
+    {
+      "start_ms": 844320,
+      "duration_ms": 6560,
+      "text": "select the settings of the uh AI reply."
+    },
+    {
+      "start_ms": 848240,
+      "duration_ms": 6640,
+      "text": "The same thing for the uh social agent."
+    },
+    {
+      "start_ms": 850880,
+      "duration_ms": 7040,
+      "text": "So once we click here uh when we go to"
+    },
+    {
+      "start_ms": 854880,
+      "duration_ms": 6240,
+      "text": "manually share a uh review for example"
+    },
+    {
+      "start_ms": 857920,
+      "duration_ms": 6640,
+      "text": "on uh Instagram the caption is generated"
+    },
+    {
+      "start_ms": 861120,
+      "duration_ms": 6719,
+      "text": "with this uh settings uh here. So just"
+    },
+    {
+      "start_ms": 864560,
+      "duration_ms": 6240,
+      "text": "need to um uh to click on this uh"
+    },
+    {
+      "start_ms": 867839,
+      "duration_ms": 7281,
+      "text": "checkbox. uh we want to improve this se"
+    },
+    {
+      "start_ms": 870800,
+      "duration_ms": 7360,
+      "text": "section here um to let you try uh the"
+    },
+    {
+      "start_ms": 875120,
+      "duration_ms": 5760,
+      "text": "SEO agent uh reply generation and the"
+    },
+    {
+      "start_ms": 878160,
+      "duration_ms": 6080,
+      "text": "social agent caption generation directly"
+    },
+    {
+      "start_ms": 880880,
+      "duration_ms": 7199,
+      "text": "in this uh section. So there will be uh"
+    },
+    {
+      "start_ms": 884240,
+      "duration_ms": 6719,
+      "text": "something uh uh probably below here"
+    },
+    {
+      "start_ms": 888079,
+      "duration_ms": 5921,
+      "text": "saying test the agent"
+    },
+    {
+      "start_ms": 890959,
+      "duration_ms": 5361,
+      "text": "and we generate maybe a random review"
+    },
+    {
+      "start_ms": 894000,
+      "duration_ms": 4959,
+      "text": "and with a click you can generate the"
+    },
+    {
+      "start_ms": 896320,
+      "duration_ms": 5759,
+      "text": "reply using this settings. So instead of"
+    },
+    {
+      "start_ms": 898959,
+      "duration_ms": 5761,
+      "text": "going to the reviews section to test the"
+    },
+    {
+      "start_ms": 902079,
+      "duration_ms": 5041,
+      "text": "uh SEO agent settings and the uh social"
+    },
+    {
+      "start_ms": 904720,
+      "duration_ms": 5520,
+      "text": "agent settings"
+    },
+    {
+      "start_ms": 907120,
+      "duration_ms": 7680,
+      "text": "uh you um you test them directly uh"
+    },
+    {
+      "start_ms": 910240,
+      "duration_ms": 6959,
+      "text": "inside uh here which is uh uh much more"
+    },
+    {
+      "start_ms": 914800,
+      "duration_ms": 5279,
+      "text": "uh uh intuitive."
+    },
+    {
+      "start_ms": 917199,
+      "duration_ms": 5440,
+      "text": "All right guys, I think I finished the"
+    },
+    {
+      "start_ms": 920079,
+      "duration_ms": 7281,
+      "text": "uh announcement for today's let me uh"
+    },
+    {
+      "start_ms": 922639,
+      "duration_ms": 8081,
+      "text": "check from my list. Yes. Um, so"
+    },
+    {
+      "start_ms": 927360,
+      "duration_ms": 6479,
+      "text": "let me go to the Q&A uh section. Uh,"
+    },
+    {
+      "start_ms": 930720,
+      "duration_ms": 6400,
+      "text": "sorry to the chat section."
+    },
+    {
+      "start_ms": 933839,
+      "duration_ms": 6081,
+      "text": "Um, I I'm reading the question from my"
+    },
+    {
+      "start_ms": 937120,
+      "duration_ms": 8240,
+      "text": "phone because I do not do not have my uh"
+    },
+    {
+      "start_ms": 939920,
+      "duration_ms": 8560,
+      "text": "double monitor here. So please guys um"
+    },
+    {
+      "start_ms": 945360,
+      "duration_ms": 6120,
+      "text": "start typing your question in the uh"
+    },
+    {
+      "start_ms": 948480,
+      "duration_ms": 3000,
+      "text": "chat"
+    },
+    {
+      "start_ms": 951920,
+      "duration_ms": 7320,
+      "text": "and I'll make sure you all have a um a"
+    },
+    {
+      "start_ms": 955279,
+      "duration_ms": 3961,
+      "text": "proper uh reply."
+    },
+    {
+      "start_ms": 963120,
+      "duration_ms": 6240,
+      "text": "Let me um"
+    },
+    {
+      "start_ms": 966240,
+      "duration_ms": 6120,
+      "text": "join again the event from my phone. One"
+    },
+    {
+      "start_ms": 969360,
+      "duration_ms": 3000,
+      "text": "second."
+    },
+    {
+      "start_ms": 980240,
+      "duration_ms": 4159,
+      "text": "All right. So I I have an issue from my"
+    },
+    {
+      "start_ms": 982720,
+      "duration_ms": 4080,
+      "text": "phone. So I'm not able to see the"
+    },
+    {
+      "start_ms": 984399,
+      "duration_ms": 5680,
+      "text": "questions. So I will deactivate screen"
+    },
+    {
+      "start_ms": 986800,
+      "duration_ms": 6800,
+      "text": "sharing for a second"
+    },
+    {
+      "start_ms": 990079,
+      "duration_ms": 7521,
+      "text": "and I'm going to read from the chat. All"
+    },
+    {
+      "start_ms": 993600,
+      "duration_ms": 7039,
+      "text": "right. Um so I see the first question"
+    },
+    {
+      "start_ms": 997600,
+      "duration_ms": 5919,
+      "text": "from U Giovanni."
+    },
+    {
+      "start_ms": 1000639,
+      "duration_ms": 7601,
+      "text": "Uh is the client generated uh client"
+    },
+    {
+      "start_ms": 1003519,
+      "duration_ms": 8320,
+      "text": "website ADA uh compliant? Uh thanks. Uh"
+    },
+    {
+      "start_ms": 1008240,
+      "duration_ms": 7039,
+      "text": "I have to uh study a little a little bit"
+    },
+    {
+      "start_ms": 1011839,
+      "duration_ms": 6961,
+      "text": "more this uh topic about uh ADA"
+    },
+    {
+      "start_ms": 1015279,
+      "duration_ms": 8401,
+      "text": "compliance. Um the only thing that I can"
+    },
+    {
+      "start_ms": 1018800,
+      "duration_ms": 9039,
+      "text": "tell you is that um uh we have planned a"
+    },
+    {
+      "start_ms": 1023680,
+      "duration_ms": 7040,
+      "text": "feature uh to automatically uh generate"
+    },
+    {
+      "start_ms": 1027839,
+      "duration_ms": 4801,
+      "text": "a cookie banner. We just clicking on a"
+    },
+    {
+      "start_ms": 1030720,
+      "duration_ms": 4880,
+      "text": "simple checkbox"
+    },
+    {
+      "start_ms": 1032640,
+      "duration_ms": 6000,
+      "text": "uh and inside the uh cookie banner of"
+    },
+    {
+      "start_ms": 1035600,
+      "duration_ms": 5920,
+      "text": "course we let the new visitor uh accept"
+    },
+    {
+      "start_ms": 1038640,
+      "duration_ms": 6720,
+      "text": "the usage of uh cookies. So everything"
+    },
+    {
+      "start_ms": 1041520,
+      "duration_ms": 7039,
+      "text": "is uh compliant. Uh right now there is"
+    },
+    {
+      "start_ms": 1045360,
+      "duration_ms": 6559,
+      "text": "the custom HTML section in the um"
+    },
+    {
+      "start_ms": 1048559,
+      "duration_ms": 6240,
+      "text": "website uh settings that let you add any"
+    },
+    {
+      "start_ms": 1051919,
+      "duration_ms": 6401,
+      "text": "custom code. Uh so in this way you could"
+    },
+    {
+      "start_ms": 1054799,
+      "duration_ms": 6880,
+      "text": "add your own uh cookie banner. So your"
+    },
+    {
+      "start_ms": 1058320,
+      "duration_ms": 7120,
+      "text": "own cookie uh script to make the website"
+    },
+    {
+      "start_ms": 1061679,
+      "duration_ms": 6161,
+      "text": "fully uh compliant. Um but what we plan"
+    },
+    {
+      "start_ms": 1065440,
+      "duration_ms": 8080,
+      "text": "of course is to"
+    },
+    {
+      "start_ms": 1067840,
+      "duration_ms": 8480,
+      "text": "um avoid any uh let's say um any manual"
+    },
+    {
+      "start_ms": 1073520,
+      "duration_ms": 5680,
+      "text": "uh work from your side and also for from"
+    },
+    {
+      "start_ms": 1076320,
+      "duration_ms": 5280,
+      "text": "your client side. So once the website is"
+    },
+    {
+      "start_ms": 1079200,
+      "duration_ms": 4400,
+      "text": "generated you don't need to do anything."
+    },
+    {
+      "start_ms": 1081600,
+      "duration_ms": 4000,
+      "text": "So there will be this feature soon where"
+    },
+    {
+      "start_ms": 1083600,
+      "duration_ms": 5040,
+      "text": "basically with just a checkbox you"
+    },
+    {
+      "start_ms": 1085600,
+      "duration_ms": 5280,
+      "text": "enable the cookie banner and uh so"
+    },
+    {
+      "start_ms": 1088640,
+      "duration_ms": 5039,
+      "text": "everything is compliant but but"
+    },
+    {
+      "start_ms": 1090880,
+      "duration_ms": 6400,
+      "text": "regarding the ADA compliance I have to"
+    },
+    {
+      "start_ms": 1093679,
+      "duration_ms": 6641,
+      "text": "look better uh into it."
+    },
+    {
+      "start_ms": 1097280,
+      "duration_ms": 6399,
+      "text": "Uh Eric uh are there any updates"
+    },
+    {
+      "start_ms": 1100320,
+      "duration_ms": 6640,
+      "text": "regarding posting um article and uh"
+    },
+    {
+      "start_ms": 1103679,
+      "duration_ms": 8081,
+      "text": "stories and is it possible uh to include"
+    },
+    {
+      "start_ms": 1106960,
+      "duration_ms": 7760,
+      "text": "WhatsApp status u updates. So"
+    },
+    {
+      "start_ms": 1111760,
+      "duration_ms": 8000,
+      "text": "um regarding posting posting articles"
+    },
+    {
+      "start_ms": 1114720,
+      "duration_ms": 8800,
+      "text": "and story um if you mean uh the um uh"
+    },
+    {
+      "start_ms": 1119760,
+      "duration_ms": 8480,
+      "text": "social agent features that post at the"
+    },
+    {
+      "start_ms": 1123520,
+      "duration_ms": 6800,
+      "text": "same time both a story and a post. Uh"
+    },
+    {
+      "start_ms": 1128240,
+      "duration_ms": 4720,
+      "text": "unfortunately"
+    },
+    {
+      "start_ms": 1130320,
+      "duration_ms": 5440,
+      "text": "this is something still in the backlog"
+    },
+    {
+      "start_ms": 1132960,
+      "duration_ms": 4959,
+      "text": "and uh I know that probably you have uh"
+    },
+    {
+      "start_ms": 1135760,
+      "duration_ms": 6159,
+      "text": "uh requested this uh thing since a lot"
+    },
+    {
+      "start_ms": 1137919,
+      "duration_ms": 7281,
+      "text": "of time ago. uh and every week we we"
+    },
+    {
+      "start_ms": 1141919,
+      "duration_ms": 6161,
+      "text": "postpone this uh so I I'll make sure"
+    },
+    {
+      "start_ms": 1145200,
+      "duration_ms": 4400,
+      "text": "even if I I said it a lot of time but we"
+    },
+    {
+      "start_ms": 1148080,
+      "duration_ms": 5040,
+      "text": "have thousand of things to do"
+    },
+    {
+      "start_ms": 1149600,
+      "duration_ms": 7360,
+      "text": "unfortunately uh we uh we it was not"
+    },
+    {
+      "start_ms": 1153120,
+      "duration_ms": 7520,
+      "text": "possible to to release it uh in the in"
+    },
+    {
+      "start_ms": 1156960,
+      "duration_ms": 5520,
+      "text": "the recent weeks. Uh but yeah we make"
+    },
+    {
+      "start_ms": 1160640,
+      "duration_ms": 6640,
+      "text": "sure this is done. Of course, this is"
+    },
+    {
+      "start_ms": 1162480,
+      "duration_ms": 8800,
+      "text": "planned. And regarding the um um"
+    },
+    {
+      "start_ms": 1167280,
+      "duration_ms": 6960,
+      "text": "WhatsApp status updates, I think um you"
+    },
+    {
+      "start_ms": 1171280,
+      "duration_ms": 6800,
+      "text": "mean receiving an update uh whenever for"
+    },
+    {
+      "start_ms": 1174240,
+      "duration_ms": 5600,
+      "text": "example, Meta uh approve the uh phone"
+    },
+    {
+      "start_ms": 1178080,
+      "duration_ms": 3920,
+      "text": "number."
+    },
+    {
+      "start_ms": 1179840,
+      "duration_ms": 5520,
+      "text": "uh I have to check this uh because I"
+    },
+    {
+      "start_ms": 1182000,
+      "duration_ms": 6400,
+      "text": "have to understand if Meta send us a"
+    },
+    {
+      "start_ms": 1185360,
+      "duration_ms": 6000,
+      "text": "kind of uh uh notification or web book"
+    },
+    {
+      "start_ms": 1188400,
+      "duration_ms": 5279,
+      "text": "whenever the WhatsApp"
+    },
+    {
+      "start_ms": 1191360,
+      "duration_ms": 5920,
+      "text": "uh number is approved. Uh if you're"
+    },
+    {
+      "start_ms": 1193679,
+      "duration_ms": 6161,
+      "text": "talking about uh the WhatsApp uh status"
+    },
+    {
+      "start_ms": 1197280,
+      "duration_ms": 5120,
+      "text": "of the templates so receiving a"
+    },
+    {
+      "start_ms": 1199840,
+      "duration_ms": 5280,
+      "text": "notification whenever the uh WhatsApp"
+    },
+    {
+      "start_ms": 1202400,
+      "duration_ms": 7360,
+      "text": "template is approved. Uh also in this"
+    },
+    {
+      "start_ms": 1205120,
+      "duration_ms": 7919,
+      "text": "case I have to look into it. Um what I"
+    },
+    {
+      "start_ms": 1209760,
+      "duration_ms": 6240,
+      "text": "know is that if the WhatsApp number is"
+    },
+    {
+      "start_ms": 1213039,
+      "duration_ms": 6481,
+      "text": "uh approved usually templates are"
+    },
+    {
+      "start_ms": 1216000,
+      "duration_ms": 7200,
+      "text": "approved uh very very quickly. Uh the"
+    },
+    {
+      "start_ms": 1219520,
+      "duration_ms": 6880,
+      "text": "first days it usually take like maximum"
+    },
+    {
+      "start_ms": 1223200,
+      "duration_ms": 6160,
+      "text": "one day to to have a template approved."
+    },
+    {
+      "start_ms": 1226400,
+      "duration_ms": 5759,
+      "text": "Uh but uh in our case where we have a"
+    },
+    {
+      "start_ms": 1229360,
+      "duration_ms": 6960,
+      "text": "lot of uh WhatsApp numbers and we test a"
+    },
+    {
+      "start_ms": 1232159,
+      "duration_ms": 6721,
+      "text": "lot the uh the process of uh template"
+    },
+    {
+      "start_ms": 1236320,
+      "duration_ms": 5520,
+      "text": "creation. uh in our case templates are"
+    },
+    {
+      "start_ms": 1238880,
+      "duration_ms": 5039,
+      "text": "always approved like after uh maximum"
+    },
+    {
+      "start_ms": 1241840,
+      "duration_ms": 4400,
+      "text": "five minutes. So at the beginning when"
+    },
+    {
+      "start_ms": 1243919,
+      "duration_ms": 5201,
+      "text": "the WhatsApp number has has been just"
+    },
+    {
+      "start_ms": 1246240,
+      "duration_ms": 4240,
+      "text": "created maybe the you have to wait a"
+    },
+    {
+      "start_ms": 1249120,
+      "duration_ms": 3039,
+      "text": "little bit to have the templates"
+    },
+    {
+      "start_ms": 1250480,
+      "duration_ms": 4720,
+      "text": "approved"
+    },
+    {
+      "start_ms": 1252159,
+      "duration_ms": 5760,
+      "text": "uh but uh uh in the long term it takes"
+    },
+    {
+      "start_ms": 1255200,
+      "duration_ms": 5040,
+      "text": "literally few a few minutes but we look"
+    },
+    {
+      "start_ms": 1257919,
+      "duration_ms": 5361,
+      "text": "if it's um possible to receive"
+    },
+    {
+      "start_ms": 1260240,
+      "duration_ms": 6319,
+      "text": "notification when"
+    },
+    {
+      "start_ms": 1263280,
+      "duration_ms": 5600,
+      "text": "uh WhatsApp templates are approved so uh"
+    },
+    {
+      "start_ms": 1266559,
+      "duration_ms": 5120,
+      "text": "we can send this notification to uh to"
+    },
+    {
+      "start_ms": 1268880,
+      "duration_ms": 6000,
+      "text": "clients."
+    },
+    {
+      "start_ms": 1271679,
+      "duration_ms": 6801,
+      "text": "Uh question from Paul. Is there now"
+    },
+    {
+      "start_ms": 1274880,
+      "duration_ms": 8000,
+      "text": "updated lesson available uh for Zapier"
+    },
+    {
+      "start_ms": 1278480,
+      "duration_ms": 8559,
+      "text": "uh pre-built uh templates? Um not yet."
+    },
+    {
+      "start_ms": 1282880,
+      "duration_ms": 8080,
+      "text": "So there is a lesson in the uh community"
+    },
+    {
+      "start_ms": 1287039,
+      "duration_ms": 7841,
+      "text": "um called uh automation for success that"
+    },
+    {
+      "start_ms": 1290960,
+      "duration_ms": 6160,
+      "text": "cover in general how to use um uh how to"
+    },
+    {
+      "start_ms": 1294880,
+      "duration_ms": 7039,
+      "text": "set up automations for your clients"
+    },
+    {
+      "start_ms": 1297120,
+      "duration_ms": 7679,
+      "text": "using Zapier or other uh no code tools."
+    },
+    {
+      "start_ms": 1301919,
+      "duration_ms": 5441,
+      "text": "Uh unfortunately we still haven't got"
+    },
+    {
+      "start_ms": 1304799,
+      "duration_ms": 6880,
+      "text": "the time to record proper lessons"
+    },
+    {
+      "start_ms": 1307360,
+      "duration_ms": 8559,
+      "text": "dedicated to specific uh use cases."
+    },
+    {
+      "start_ms": 1311679,
+      "duration_ms": 9521,
+      "text": "Uh but uh uh if you uh have a specific"
+    },
+    {
+      "start_ms": 1315919,
+      "duration_ms": 7281,
+      "text": "uh use case for which you need uh um"
+    },
+    {
+      "start_ms": 1321200,
+      "duration_ms": 4719,
+      "text": "uh please do the post in the community."
+    },
+    {
+      "start_ms": 1323200,
+      "duration_ms": 5120,
+      "text": "So talk about the specific uh use case."
+    },
+    {
+      "start_ms": 1325919,
+      "duration_ms": 4640,
+      "text": "For example, uh you want to"
+    },
+    {
+      "start_ms": 1328320,
+      "duration_ms": 4960,
+      "text": "automatically"
+    },
+    {
+      "start_ms": 1330559,
+      "duration_ms": 4721,
+      "text": "um uh send uh for example, you want to"
+    },
+    {
+      "start_ms": 1333280,
+      "duration_ms": 5120,
+      "text": "automatically add contacts to your"
+    },
+    {
+      "start_ms": 1335280,
+      "duration_ms": 5680,
+      "text": "client to your client's uh platform uh"
+    },
+    {
+      "start_ms": 1338400,
+      "duration_ms": 5840,
+      "text": "whenever there is a"
+    },
+    {
+      "start_ms": 1340960,
+      "duration_ms": 7120,
+      "text": "a new uh a new contact on a specific uh"
+    },
+    {
+      "start_ms": 1344240,
+      "duration_ms": 7439,
+      "text": "CRM and we try to uh to build this app"
+    },
+    {
+      "start_ms": 1348080,
+      "duration_ms": 5440,
+      "text": "this for that specific uh use case. H of"
+    },
+    {
+      "start_ms": 1351679,
+      "duration_ms": 6081,
+      "text": "course the goal for the future is that"
+    },
+    {
+      "start_ms": 1353520,
+      "duration_ms": 8320,
+      "text": "to have a proper uh let's say academy in"
+    },
+    {
+      "start_ms": 1357760,
+      "duration_ms": 6399,
+      "text": "the school group dedicated to uh to"
+    },
+    {
+      "start_ms": 1361840,
+      "duration_ms": 4880,
+      "text": "automations"
+    },
+    {
+      "start_ms": 1364159,
+      "duration_ms": 4880,
+      "text": "uh queen update uh regarding uh Google"
+    },
+    {
+      "start_ms": 1366720,
+      "duration_ms": 8240,
+      "text": "sheet and still in approval phase"
+    },
+    {
+      "start_ms": 1369039,
+      "duration_ms": 10401,
+      "text": "unfortunately it's taking um long time"
+    },
+    {
+      "start_ms": 1374960,
+      "duration_ms": 6959,
+      "text": "um JSON uh SMTP issue"
+    },
+    {
+      "start_ms": 1379440,
+      "duration_ms": 6000,
+      "text": "uh there is Um,"
+    },
+    {
+      "start_ms": 1381919,
+      "duration_ms": 5281,
+      "text": "no SMTP issue JSON. Um, so I remember"
+    },
+    {
+      "start_ms": 1385440,
+      "duration_ms": 4080,
+      "text": "your post in the community about the"
+    },
+    {
+      "start_ms": 1387200,
+      "duration_ms": 5839,
+      "text": "fact that"
+    },
+    {
+      "start_ms": 1389520,
+      "duration_ms": 5200,
+      "text": "in the uh emails sent from your platform"
+    },
+    {
+      "start_ms": 1393039,
+      "duration_ms": 5520,
+      "text": "to your client like for example the"
+    },
+    {
+      "start_ms": 1394720,
+      "duration_ms": 6240,
+      "text": "welcome email uh the link was a a client"
+    },
+    {
+      "start_ms": 1398559,
+      "duration_ms": 7761,
+      "text": "link but this was because you haven't"
+    },
+    {
+      "start_ms": 1400960,
+      "duration_ms": 8719,
+      "text": "seted uh uh SMTP yet. Um, my tech team"
+    },
+    {
+      "start_ms": 1406320,
+      "duration_ms": 5520,
+      "text": "just told me that they uh have just"
+    },
+    {
+      "start_ms": 1409679,
+      "duration_ms": 5921,
+      "text": "logged into into your account and they"
+    },
+    {
+      "start_ms": 1411840,
+      "duration_ms": 6400,
+      "text": "see that the SMTP connection uh is still"
+    },
+    {
+      "start_ms": 1415600,
+      "duration_ms": 5680,
+      "text": "uh not set up. Uh so you have to go to"
+    },
+    {
+      "start_ms": 1418240,
+      "duration_ms": 5840,
+      "text": "agency brand uh sorry to the agency mode"
+    },
+    {
+      "start_ms": 1421280,
+      "duration_ms": 6639,
+      "text": "to the brand section SMTP and make sure"
+    },
+    {
+      "start_ms": 1424080,
+      "duration_ms": 6479,
+      "text": "you connect uh an email. Um, and you"
+    },
+    {
+      "start_ms": 1427919,
+      "duration_ms": 6161,
+      "text": "have to see on the top of that section a"
+    },
+    {
+      "start_ms": 1430559,
+      "duration_ms": 7201,
+      "text": "green light saying your email has been"
+    },
+    {
+      "start_ms": 1434080,
+      "duration_ms": 6880,
+      "text": "uh connected because if you see as you"
+    },
+    {
+      "start_ms": 1437760,
+      "duration_ms": 6640,
+      "text": "can see right now in your SMTP section"
+    },
+    {
+      "start_ms": 1440960,
+      "duration_ms": 6079,
+      "text": "uh the red light saying uh without SMTP"
+    },
+    {
+      "start_ms": 1444400,
+      "duration_ms": 5440,
+      "text": "clients won't receive uh emails from"
+    },
+    {
+      "start_ms": 1447039,
+      "duration_ms": 5841,
+      "text": "your branded email. It means that you"
+    },
+    {
+      "start_ms": 1449840,
+      "duration_ms": 5600,
+      "text": "haven't uh set up SMTP yet. So you have"
+    },
+    {
+      "start_ms": 1452880,
+      "duration_ms": 6000,
+      "text": "to do it and once you do it uh emails"
+    },
+    {
+      "start_ms": 1455440,
+      "duration_ms": 6479,
+      "text": "are sent from your branded email"
+    },
+    {
+      "start_ms": 1458880,
+      "duration_ms": 8919,
+      "text": "and also uh the link inside the email is"
+    },
+    {
+      "start_ms": 1461919,
+      "duration_ms": 5880,
+      "text": "your uh branded uh link."
+    },
+    {
+      "start_ms": 1468559,
+      "duration_ms": 4921,
+      "text": "A question from Franuis. Um"
+    },
+    {
+      "start_ms": 1474080,
+      "duration_ms": 3760,
+      "text": "I saw there are many new videos in the"
+    },
+    {
+      "start_ms": 1476080,
+      "duration_ms": 4160,
+      "text": "white label knowledge base. It's very"
+    },
+    {
+      "start_ms": 1477840,
+      "duration_ms": 6000,
+      "text": "good. But all videos are in English"
+    },
+    {
+      "start_ms": 1480240,
+      "duration_ms": 7520,
+      "text": "language and English uh subtitle. How it"
+    },
+    {
+      "start_ms": 1483840,
+      "duration_ms": 7040,
+      "text": "could be possible to download them uh"
+    },
+    {
+      "start_ms": 1487760,
+      "duration_ms": 5279,
+      "text": "download them uh to translate them in"
+    },
+    {
+      "start_ms": 1490880,
+      "duration_ms": 4320,
+      "text": "our own language? Uh I think it's"
+    },
+    {
+      "start_ms": 1493039,
+      "duration_ms": 8481,
+      "text": "already possible to download them. Let"
+    },
+    {
+      "start_ms": 1495200,
+      "duration_ms": 11040,
+      "text": "me check. One second. Uh there should be"
+    },
+    {
+      "start_ms": 1501520,
+      "duration_ms": 6320,
+      "text": "a download button on uh each video."
+    },
+    {
+      "start_ms": 1506240,
+      "duration_ms": 4000,
+      "text": "Uh"
+    },
+    {
+      "start_ms": 1507840,
+      "duration_ms": 6000,
+      "text": "so if you open uh let me share the"
+    },
+    {
+      "start_ms": 1510240,
+      "duration_ms": 5600,
+      "text": "screen so I can show it to you."
+    },
+    {
+      "start_ms": 1513840,
+      "duration_ms": 4560,
+      "text": "Share screen."
+    },
+    {
+      "start_ms": 1515840,
+      "duration_ms": 6000,
+      "text": "All right. So if you open for example"
+    },
+    {
+      "start_ms": 1518400,
+      "duration_ms": 6399,
+      "text": "this article here uh you see here there"
+    },
+    {
+      "start_ms": 1521840,
+      "duration_ms": 6240,
+      "text": "is this button to download the video."
+    },
+    {
+      "start_ms": 1524799,
+      "duration_ms": 4880,
+      "text": "Um, you can download the video and then"
+    },
+    {
+      "start_ms": 1528080,
+      "duration_ms": 6400,
+      "text": "maybe"
+    },
+    {
+      "start_ms": 1529679,
+      "duration_ms": 7921,
+      "text": "uh do a an edit and uh uh change the"
+    },
+    {
+      "start_ms": 1534480,
+      "duration_ms": 5520,
+      "text": "audio with your own uh language. I can"
+    },
+    {
+      "start_ms": 1537600,
+      "duration_ms": 4880,
+      "text": "suggest you a tool that we use to"
+    },
+    {
+      "start_ms": 1540000,
+      "duration_ms": 4080,
+      "text": "generate this uh video. So if you want"
+    },
+    {
+      "start_ms": 1542480,
+      "duration_ms": 5040,
+      "text": "to"
+    },
+    {
+      "start_ms": 1544080,
+      "duration_ms": 6959,
+      "text": "have your uh own uh custom uh knowledge"
+    },
+    {
+      "start_ms": 1547520,
+      "duration_ms": 5279,
+      "text": "base, I suggest you this tool here uh"
+    },
+    {
+      "start_ms": 1551039,
+      "duration_ms": 3120,
+      "text": "which is the same tool that we use to"
+    },
+    {
+      "start_ms": 1552799,
+      "duration_ms": 4000,
+      "text": "make these videos which is called"
+    },
+    {
+      "start_ms": 1554159,
+      "duration_ms": 5601,
+      "text": "true.ai."
+    },
+    {
+      "start_ms": 1556799,
+      "duration_ms": 6801,
+      "text": "Uh so basically you do a screen sharing"
+    },
+    {
+      "start_ms": 1559760,
+      "duration_ms": 6480,
+      "text": "of the uh platform"
+    },
+    {
+      "start_ms": 1563600,
+      "duration_ms": 7360,
+      "text": "explaining how a specific feature uh"
+    },
+    {
+      "start_ms": 1566240,
+      "duration_ms": 7360,
+      "text": "work and then AI is going to u let's say"
+    },
+    {
+      "start_ms": 1570960,
+      "duration_ms": 5520,
+      "text": "change the captions with a professional"
+    },
+    {
+      "start_ms": 1573600,
+      "duration_ms": 6640,
+      "text": "script and also of course AI is going to"
+    },
+    {
+      "start_ms": 1576480,
+      "duration_ms": 6319,
+      "text": "change the the voice with a um a"
+    },
+    {
+      "start_ms": 1580240,
+      "duration_ms": 6160,
+      "text": "professional voice. You can also add an"
+    },
+    {
+      "start_ms": 1582799,
+      "duration_ms": 6641,
+      "text": "avatar and uh so I suggest to go to this"
+    },
+    {
+      "start_ms": 1586400,
+      "duration_ms": 5840,
+      "text": "uh website throughper.ai I watch the"
+    },
+    {
+      "start_ms": 1589440,
+      "duration_ms": 7599,
+      "text": "before after video so you understand how"
+    },
+    {
+      "start_ms": 1592240,
+      "duration_ms": 7039,
+      "text": "it uh it works and um yeah this way you"
+    },
+    {
+      "start_ms": 1597039,
+      "duration_ms": 6561,
+      "text": "can if you want you can build your uh"
+    },
+    {
+      "start_ms": 1599279,
+      "duration_ms": 9041,
+      "text": "your own uh knowledge base. Um or of"
+    },
+    {
+      "start_ms": 1603600,
+      "duration_ms": 8319,
+      "text": "course uh we have to uh um"
+    },
+    {
+      "start_ms": 1608320,
+      "duration_ms": 6320,
+      "text": "of course the the the our goal is to"
+    },
+    {
+      "start_ms": 1611919,
+      "duration_ms": 5281,
+      "text": "improve this uh knowledge base here. As"
+    },
+    {
+      "start_ms": 1614640,
+      "duration_ms": 4639,
+      "text": "we said a few weeks ago, we plan to let"
+    },
+    {
+      "start_ms": 1617200,
+      "duration_ms": 6000,
+      "text": "you embed the knowledge base inside the"
+    },
+    {
+      "start_ms": 1619279,
+      "duration_ms": 7520,
+      "text": "platform. And of course, once this um"
+    },
+    {
+      "start_ms": 1623200,
+      "duration_ms": 6240,
+      "text": "will be live, you can also"
+    },
+    {
+      "start_ms": 1626799,
+      "duration_ms": 6401,
+      "text": "choose in which language you want to"
+    },
+    {
+      "start_ms": 1629440,
+      "duration_ms": 6479,
+      "text": "have the articles. Uh I'm not sure if we"
+    },
+    {
+      "start_ms": 1633200,
+      "duration_ms": 6479,
+      "text": "are able to have the videos in uh"
+    },
+    {
+      "start_ms": 1635919,
+      "duration_ms": 5841,
+      "text": "different uh languages. Uh we hope that"
+    },
+    {
+      "start_ms": 1639679,
+      "duration_ms": 4081,
+      "text": "through pier release a feature where"
+    },
+    {
+      "start_ms": 1641760,
+      "duration_ms": 5360,
+      "text": "basically you can click here and maybe"
+    },
+    {
+      "start_ms": 1643760,
+      "duration_ms": 5440,
+      "text": "select the language from here. Um I can"
+    },
+    {
+      "start_ms": 1647120,
+      "duration_ms": 4400,
+      "text": "talk with them. So with the true pier"
+    },
+    {
+      "start_ms": 1649200,
+      "duration_ms": 4800,
+      "text": "team. So it will be good if they release"
+    },
+    {
+      "start_ms": 1651520,
+      "duration_ms": 4639,
+      "text": "this feature here where from somewhere"
+    },
+    {
+      "start_ms": 1654000,
+      "duration_ms": 3600,
+      "text": "here in this bottom bar we choose the"
+    },
+    {
+      "start_ms": 1656159,
+      "duration_ms": 7241,
+      "text": "language of the video and then we have"
+    },
+    {
+      "start_ms": 1657600,
+      "duration_ms": 5800,
+      "text": "the uh the video in uh in that language."
+    },
+    {
+      "start_ms": 1668400,
+      "duration_ms": 4840,
+      "text": "All right. Uh, let me go back to the"
+    },
+    {
+      "start_ms": 1670240,
+      "duration_ms": 3000,
+      "text": "chat."
+    },
+    {
+      "start_ms": 1673360,
+      "duration_ms": 5360,
+      "text": "Uh, Eric, what do you think of the idea"
+    },
+    {
+      "start_ms": 1676480,
+      "duration_ms": 6319,
+      "text": "of overwriting"
+    },
+    {
+      "start_ms": 1678720,
+      "duration_ms": 8520,
+      "text": "uh, past uh, responses to ratings"
+    },
+    {
+      "start_ms": 1682799,
+      "duration_ms": 4441,
+      "text": "and which AI are you using?"
+    },
+    {
+      "start_ms": 1687440,
+      "duration_ms": 5520,
+      "text": "Uh so please uh what do you mean"
+    },
+    {
+      "start_ms": 1689440,
+      "duration_ms": 6320,
+      "text": "overwriting past responses uh to"
+    },
+    {
+      "start_ms": 1692960,
+      "duration_ms": 6319,
+      "text": "ratings?"
+    },
+    {
+      "start_ms": 1695760,
+      "duration_ms": 9120,
+      "text": "Uh which AI are we using? We're using uh"
+    },
+    {
+      "start_ms": 1699279,
+      "duration_ms": 8000,
+      "text": "open AI API to generate uh uh replies"
+    },
+    {
+      "start_ms": 1704880,
+      "duration_ms": 5399,
+      "text": "and also captions for uh social media"
+    },
+    {
+      "start_ms": 1707279,
+      "duration_ms": 3000,
+      "text": "sharing."
+    },
+    {
+      "start_ms": 1711039,
+      "duration_ms": 6000,
+      "text": "Question from Paul. I remember in Climbo"
+    },
+    {
+      "start_ms": 1713200,
+      "duration_ms": 6000,
+      "text": "one uh we can set a new business that"
+    },
+    {
+      "start_ms": 1717039,
+      "duration_ms": 3841,
+      "text": "will have an option to connect their"
+    },
+    {
+      "start_ms": 1719200,
+      "duration_ms": 5440,
+      "text": "Google account but also an option to"
+    },
+    {
+      "start_ms": 1720880,
+      "duration_ms": 7519,
+      "text": "show their reviews without logging uh in"
+    },
+    {
+      "start_ms": 1724640,
+      "duration_ms": 6639,
+      "text": "but it's uh not public. This helps for"
+    },
+    {
+      "start_ms": 1728399,
+      "duration_ms": 5520,
+      "text": "our demo to specific business target. Uh"
+    },
+    {
+      "start_ms": 1731279,
+      "duration_ms": 6241,
+      "text": "yes also this this possibilities is also"
+    },
+    {
+      "start_ms": 1733919,
+      "duration_ms": 7281,
+      "text": "available in in Climbo 2 of course. So"
+    },
+    {
+      "start_ms": 1737520,
+      "duration_ms": 7159,
+      "text": "let me quickly show you"
+    },
+    {
+      "start_ms": 1741200,
+      "duration_ms": 3479,
+      "text": "uh once you"
+    },
+    {
+      "start_ms": 1744799,
+      "duration_ms": 6641,
+      "text": "uh go to integrate uh Google."
+    },
+    {
+      "start_ms": 1749360,
+      "duration_ms": 3919,
+      "text": "So here I have already integrated Google"
+    },
+    {
+      "start_ms": 1751440,
+      "duration_ms": 4880,
+      "text": "but once you click on the connect button"
+    },
+    {
+      "start_ms": 1753279,
+      "duration_ms": 5280,
+      "text": "a popup appear and you can choose if you"
+    },
+    {
+      "start_ms": 1756320,
+      "duration_ms": 5599,
+      "text": "want to connect Google via login or via"
+    },
+    {
+      "start_ms": 1758559,
+      "duration_ms": 5441,
+      "text": "public access. Uh of course you can"
+    },
+    {
+      "start_ms": 1761919,
+      "duration_ms": 5120,
+      "text": "connect Google via public access. So you"
+    },
+    {
+      "start_ms": 1764000,
+      "duration_ms": 6720,
+      "text": "don't need the login. Uh but as you know"
+    },
+    {
+      "start_ms": 1767039,
+      "duration_ms": 6081,
+      "text": "the public access has some uh downsides."
+    },
+    {
+      "start_ms": 1770720,
+      "duration_ms": 5920,
+      "text": "Uh we do not import all the reviews with"
+    },
+    {
+      "start_ms": 1773120,
+      "duration_ms": 6559,
+      "text": "public access. Uh and of course it's not"
+    },
+    {
+      "start_ms": 1776640,
+      "duration_ms": 5600,
+      "text": "possible to reply to reviews um"
+    },
+    {
+      "start_ms": 1779679,
+      "duration_ms": 6161,
+      "text": "automatically and the profile feature"
+    },
+    {
+      "start_ms": 1782240,
+      "duration_ms": 5840,
+      "text": "and the website features uh are not uh"
+    },
+    {
+      "start_ms": 1785840,
+      "duration_ms": 5760,
+      "text": "enabled if you connect Google via uh"
+    },
+    {
+      "start_ms": 1788080,
+      "duration_ms": 6079,
+      "text": "public uh access. Uh but this feature is"
+    },
+    {
+      "start_ms": 1791600,
+      "duration_ms": 4480,
+      "text": "available. So you can show a demo to"
+    },
+    {
+      "start_ms": 1794159,
+      "duration_ms": 4400,
+      "text": "your client with their Google business"
+    },
+    {
+      "start_ms": 1796080,
+      "duration_ms": 5920,
+      "text": "profile uh without the need to log to"
+    },
+    {
+      "start_ms": 1798559,
+      "duration_ms": 5041,
+      "text": "their uh Google account."
+    },
+    {
+      "start_ms": 1802000,
+      "duration_ms": 6200,
+      "text": "Just click on the connect button and"
+    },
+    {
+      "start_ms": 1803600,
+      "duration_ms": 4600,
+      "text": "then choose Google uh public access."
+    },
+    {
+      "start_ms": 1810480,
+      "duration_ms": 7360,
+      "text": "All right guys um so let me know if you"
+    },
+    {
+      "start_ms": 1813679,
+      "duration_ms": 7041,
+      "text": "have other questions in the um chat."
+    },
+    {
+      "start_ms": 1817840,
+      "duration_ms": 5839,
+      "text": "I can give you some other uh updates"
+    },
+    {
+      "start_ms": 1820720,
+      "duration_ms": 7360,
+      "text": "about uh our road map for the uh next"
+    },
+    {
+      "start_ms": 1823679,
+      "duration_ms": 8961,
+      "text": "week. Uh in the meantime, um so"
+    },
+    {
+      "start_ms": 1828080,
+      "duration_ms": 7040,
+      "text": "we have almost uh finished the uh a big"
+    },
+    {
+      "start_ms": 1832640,
+      "duration_ms": 6960,
+      "text": "work that we've done in the last let's"
+    },
+    {
+      "start_ms": 1835120,
+      "duration_ms": 8880,
+      "text": "say uh three four months uh dedicated to"
+    },
+    {
+      "start_ms": 1839600,
+      "duration_ms": 9120,
+      "text": "uh mobile app. So iOS app and uh Android"
+    },
+    {
+      "start_ms": 1844000,
+      "duration_ms": 8159,
+      "text": "app. We have designed a a process that"
+    },
+    {
+      "start_ms": 1848720,
+      "duration_ms": 6880,
+      "text": "lets us uh build a fully branded mobile"
+    },
+    {
+      "start_ms": 1852159,
+      "duration_ms": 6561,
+      "text": "app for you in the app store and in the"
+    },
+    {
+      "start_ms": 1855600,
+      "duration_ms": 5040,
+      "text": "uh Google Play Store. So probably in a"
+    },
+    {
+      "start_ms": 1858720,
+      "duration_ms": 4959,
+      "text": "few weeks we will give you more"
+    },
+    {
+      "start_ms": 1860640,
+      "duration_ms": 5360,
+      "text": "information about this uh uh new service"
+    },
+    {
+      "start_ms": 1863679,
+      "duration_ms": 5761,
+      "text": "that will be available for uh all"
+    },
+    {
+      "start_ms": 1866000,
+      "duration_ms": 6559,
+      "text": "climbers. And um"
+    },
+    {
+      "start_ms": 1869440,
+      "duration_ms": 5599,
+      "text": "uh if uh if you want to to have your own"
+    },
+    {
+      "start_ms": 1872559,
+      "duration_ms": 5281,
+      "text": "branded app in the stores play store or"
+    },
+    {
+      "start_ms": 1875039,
+      "duration_ms": 5760,
+      "text": "app store this will be possible. And uh"
+    },
+    {
+      "start_ms": 1877840,
+      "duration_ms": 6000,
+      "text": "it takes not a few minutes but it can"
+    },
+    {
+      "start_ms": 1880799,
+      "duration_ms": 4641,
+      "text": "take a few weeks to have your app uh"
+    },
+    {
+      "start_ms": 1883840,
+      "duration_ms": 3839,
+      "text": "ready because you have to go through a"
+    },
+    {
+      "start_ms": 1885440,
+      "duration_ms": 5760,
+      "text": "submission process. uh but we are"
+    },
+    {
+      "start_ms": 1887679,
+      "duration_ms": 6401,
+      "text": "creating a step-by-step uh course um"
+    },
+    {
+      "start_ms": 1891200,
+      "duration_ms": 6240,
+      "text": "that covers uh everything. So you are"
+    },
+    {
+      "start_ms": 1894080,
+      "duration_ms": 6479,
+      "text": "followed by us uh step by step. Uh so"
+    },
+    {
+      "start_ms": 1897440,
+      "duration_ms": 7119,
+      "text": "probably next week we'll dedicate some"
+    },
+    {
+      "start_ms": 1900559,
+      "duration_ms": 7681,
+      "text": "time of the uh week uh to this uh new"
+    },
+    {
+      "start_ms": 1904559,
+      "duration_ms": 6480,
+      "text": "service that we are uh creating."
+    },
+    {
+      "start_ms": 1908240,
+      "duration_ms": 5600,
+      "text": "uh but of course uh we want to start"
+    },
+    {
+      "start_ms": 1911039,
+      "duration_ms": 6161,
+      "text": "also the development of the uh uh go"
+    },
+    {
+      "start_ms": 1913840,
+      "duration_ms": 7439,
+      "text": "agent which is something uh big that we"
+    },
+    {
+      "start_ms": 1917200,
+      "duration_ms": 6319,
+      "text": "keep talking about uh in the office"
+    },
+    {
+      "start_ms": 1921279,
+      "duration_ms": 4880,
+      "text": "and uh so this is these are the two big"
+    },
+    {
+      "start_ms": 1923519,
+      "duration_ms": 5040,
+      "text": "things that we want to do probably uh"
+    },
+    {
+      "start_ms": 1926159,
+      "duration_ms": 5201,
+      "text": "next week"
+    },
+    {
+      "start_ms": 1928559,
+      "duration_ms": 5441,
+      "text": "uh once the go agent is done and once we"
+    },
+    {
+      "start_ms": 1931360,
+      "duration_ms": 6000,
+      "text": "have also released some minor features"
+    },
+    {
+      "start_ms": 1934000,
+      "duration_ms": 6960,
+      "text": "for the uh clients mode we will switch"
+    },
+    {
+      "start_ms": 1937360,
+      "duration_ms": 5600,
+      "text": "to the uh big features of the agency"
+    },
+    {
+      "start_ms": 1940960,
+      "duration_ms": 5439,
+      "text": "mode. Uh as you know, we want to"
+    },
+    {
+      "start_ms": 1942960,
+      "duration_ms": 6559,
+      "text": "dedicate the second quarter of 2026 to"
+    },
+    {
+      "start_ms": 1946399,
+      "duration_ms": 6721,
+      "text": "big features of the agency mode like the"
+    },
+    {
+      "start_ms": 1949519,
+      "duration_ms": 6640,
+      "text": "uh possibility to add team members,"
+    },
+    {
+      "start_ms": 1953120,
+      "duration_ms": 5520,
+      "text": "the incentivized uh sales team. uh we"
+    },
+    {
+      "start_ms": 1956159,
+      "duration_ms": 5841,
+      "text": "want to let you uh create a sales team"
+    },
+    {
+      "start_ms": 1958640,
+      "duration_ms": 5360,
+      "text": "that access to a let's say a lighter"
+    },
+    {
+      "start_ms": 1962000,
+      "duration_ms": 5840,
+      "text": "version of the platform fully branded"
+    },
+    {
+      "start_ms": 1964000,
+      "duration_ms": 6240,
+      "text": "with your domain uh where they can uh do"
+    },
+    {
+      "start_ms": 1967840,
+      "duration_ms": 5839,
+      "text": "prospecting, they can add clients and"
+    },
+    {
+      "start_ms": 1970240,
+      "duration_ms": 5760,
+      "text": "they can be rewarded if they uh close uh"
+    },
+    {
+      "start_ms": 1973679,
+      "duration_ms": 6321,
+      "text": "paying clients. So this will be the big"
+    },
+    {
+      "start_ms": 1976000,
+      "duration_ms": 6000,
+      "text": "thing of the uh of the second quarter."
+    },
+    {
+      "start_ms": 1980000,
+      "duration_ms": 4000,
+      "text": "Um,"
+    },
+    {
+      "start_ms": 1982000,
+      "duration_ms": 5760,
+      "text": "JSON, you're having issues, I think,"
+    },
+    {
+      "start_ms": 1984000,
+      "duration_ms": 6399,
+      "text": "with the SMTP connection."
+    },
+    {
+      "start_ms": 1987760,
+      "duration_ms": 5039,
+      "text": "Uh, so please open a ticket. Uh, if you"
+    },
+    {
+      "start_ms": 1990399,
+      "duration_ms": 5760,
+      "text": "want to connect"
+    },
+    {
+      "start_ms": 1992799,
+      "duration_ms": 7360,
+      "text": "uh a Gmail account, uh, you should find"
+    },
+    {
+      "start_ms": 1996159,
+      "duration_ms": 7041,
+      "text": "instructions in the support page."
+    },
+    {
+      "start_ms": 2000159,
+      "duration_ms": 5281,
+      "text": "So, there should be a FAQ dedicated to"
+    },
+    {
+      "start_ms": 2003200,
+      "duration_ms": 4719,
+      "text": "SMTP."
+    },
+    {
+      "start_ms": 2005440,
+      "duration_ms": 5200,
+      "text": "Uh if you're having issues with uh the"
+    },
+    {
+      "start_ms": 2007919,
+      "duration_ms": 5201,
+      "text": "connection of uh Gmail, please open a"
+    },
+    {
+      "start_ms": 2010640,
+      "duration_ms": 6879,
+      "text": "ticket. I suggest you to watch a video"
+    },
+    {
+      "start_ms": 2013120,
+      "duration_ms": 6559,
+      "text": "in YouTube dedicated to um the SMTP"
+    },
+    {
+      "start_ms": 2017519,
+      "duration_ms": 6561,
+      "text": "connection of a Gmail account. So just"
+    },
+    {
+      "start_ms": 2019679,
+      "duration_ms": 9761,
+      "text": "go to YouTube and look for um keyword"
+    },
+    {
+      "start_ms": 2024080,
+      "duration_ms": 8959,
+      "text": "like SMTP Gmail and you find like uh"
+    },
+    {
+      "start_ms": 2029440,
+      "duration_ms": 6079,
+      "text": "videos that will guide you on uh what to"
+    },
+    {
+      "start_ms": 2033039,
+      "duration_ms": 7760,
+      "text": "write in the port section, what to write"
+    },
+    {
+      "start_ms": 2035519,
+      "duration_ms": 8321,
+      "text": "in the uh host section uh etc."
+    },
+    {
+      "start_ms": 2040799,
+      "duration_ms": 5681,
+      "text": "Uh question from Frank, are you re"
+    },
+    {
+      "start_ms": 2043840,
+      "duration_ms": 5839,
+      "text": "referencing border.com for your"
+    },
+    {
+      "start_ms": 2046480,
+      "duration_ms": 6879,
+      "text": "development plan? uh not at all. So our"
+    },
+    {
+      "start_ms": 2049679,
+      "duration_ms": 7200,
+      "text": "development development plan uh is"
+    },
+    {
+      "start_ms": 2053359,
+      "duration_ms": 7520,
+      "text": "coming 100% from community feedbacks and"
+    },
+    {
+      "start_ms": 2056879,
+      "duration_ms": 7361,
+      "text": "from uh our uh minds. So we're not"
+    },
+    {
+      "start_ms": 2060879,
+      "duration_ms": 7681,
+      "text": "following uh anyone. Uh"
+    },
+    {
+      "start_ms": 2064240,
+      "duration_ms": 7200,
+      "text": "Paul um for now with no app is there a"
+    },
+    {
+      "start_ms": 2068560,
+      "duration_ms": 6000,
+      "text": "web app that we can have our client to"
+    },
+    {
+      "start_ms": 2071440,
+      "duration_ms": 8600,
+      "text": "login so they will have only uh minimal"
+    },
+    {
+      "start_ms": 2074560,
+      "duration_ms": 5480,
+      "text": "access that is um"
+    },
+    {
+      "start_ms": 2080800,
+      "duration_ms": 6960,
+      "text": "yes so the the the platform the clients"
+    },
+    {
+      "start_ms": 2083679,
+      "duration_ms": 7680,
+      "text": "mode uh is a mobile first. So if your"
+    },
+    {
+      "start_ms": 2087760,
+      "duration_ms": 5359,
+      "text": "clients goes to your uh uh login domain,"
+    },
+    {
+      "start_ms": 2091359,
+      "duration_ms": 4320,
+      "text": "they login with their account and they"
+    },
+    {
+      "start_ms": 2093119,
+      "duration_ms": 7441,
+      "text": "access the platform in their uh mobile"
+    },
+    {
+      "start_ms": 2095679,
+      "duration_ms": 8400,
+      "text": "phone and uh the design is fully mobile"
+    },
+    {
+      "start_ms": 2100560,
+      "duration_ms": 6480,
+      "text": "uh optimized. So they still if even if"
+    },
+    {
+      "start_ms": 2104079,
+      "duration_ms": 5121,
+      "text": "they do not have the app that they can"
+    },
+    {
+      "start_ms": 2107040,
+      "duration_ms": 5120,
+      "text": "download from the uh app store or play"
+    },
+    {
+      "start_ms": 2109200,
+      "duration_ms": 4800,
+      "text": "store they can still uh experience the"
+    },
+    {
+      "start_ms": 2112160,
+      "duration_ms": 4480,
+      "text": "platform and use the platform in their"
+    },
+    {
+      "start_ms": 2114000,
+      "duration_ms": 5200,
+      "text": "mobile phone just through the uh"
+    },
+    {
+      "start_ms": 2116640,
+      "duration_ms": 4959,
+      "text": "browser."
+    },
+    {
+      "start_ms": 2119200,
+      "duration_ms": 4639,
+      "text": "Fabricio will the weight label docs be"
+    },
+    {
+      "start_ms": 2121599,
+      "duration_ms": 6881,
+      "text": "be available in other other languages?"
+    },
+    {
+      "start_ms": 2123839,
+      "duration_ms": 9921,
+      "text": "Yes. Um maybe not the videos but the"
+    },
+    {
+      "start_ms": 2128480,
+      "duration_ms": 8080,
+      "text": "text uh yes uh for sure. So um as I said"
+    },
+    {
+      "start_ms": 2133760,
+      "duration_ms": 6079,
+      "text": "I think last week there will be a a new"
+    },
+    {
+      "start_ms": 2136560,
+      "duration_ms": 6640,
+      "text": "feature in the brand section of the"
+    },
+    {
+      "start_ms": 2139839,
+      "duration_ms": 5441,
+      "text": "agency mode where with just a click of a"
+    },
+    {
+      "start_ms": 2143200,
+      "duration_ms": 6639,
+      "text": "button you can embed the knowledge base"
+    },
+    {
+      "start_ms": 2145280,
+      "duration_ms": 6720,
+      "text": "in um in your clients mode and you'll be"
+    },
+    {
+      "start_ms": 2149839,
+      "duration_ms": 6000,
+      "text": "able to choose the preferred language"
+    },
+    {
+      "start_ms": 2152000,
+      "duration_ms": 6320,
+      "text": "that you want your uh uh your articles"
+    },
+    {
+      "start_ms": 2155839,
+      "duration_ms": 5041,
+      "text": "um to be."
+    },
+    {
+      "start_ms": 2158320,
+      "duration_ms": 5360,
+      "text": "All right guys, so thanks for joining."
+    },
+    {
+      "start_ms": 2160880,
+      "duration_ms": 4320,
+      "text": "Uh if you do not have other uh"
+    },
+    {
+      "start_ms": 2163680,
+      "duration_ms": 4480,
+      "text": "questions,"
+    },
+    {
+      "start_ms": 2165200,
+      "duration_ms": 6159,
+      "text": "uh I will um"
+    },
+    {
+      "start_ms": 2168160,
+      "duration_ms": 6000,
+      "text": "finish this event. Um"
+    },
+    {
+      "start_ms": 2171359,
+      "duration_ms": 7000,
+      "text": "it it will be uh able also to have the"
+    },
+    {
+      "start_ms": 2174160,
+      "duration_ms": 4199,
+      "text": "logo. Um"
+    },
+    {
+      "start_ms": 2178480,
+      "duration_ms": 5599,
+      "text": "yes, sure. So the the knowledge base"
+    },
+    {
+      "start_ms": 2180560,
+      "duration_ms": 6400,
+      "text": "will be like branded with your uh brand"
+    },
+    {
+      "start_ms": 2184079,
+      "duration_ms": 5921,
+      "text": "details as the AI chatbot. So as you"
+    },
+    {
+      "start_ms": 2186960,
+      "duration_ms": 6480,
+      "text": "know once you embed the AI chatbot"
+    },
+    {
+      "start_ms": 2190000,
+      "duration_ms": 5680,
+      "text": "it keeps your color your font"
+    },
+    {
+      "start_ms": 2193440,
+      "duration_ms": 4800,
+      "text": "um so the same thing will be done for"
+    },
+    {
+      "start_ms": 2195680,
+      "duration_ms": 6919,
+      "text": "the knowledge base uh to make sure that"
+    },
+    {
+      "start_ms": 2198240,
+      "duration_ms": 4359,
+      "text": "is fully branded with your details."
+    },
+    {
+      "start_ms": 2202800,
+      "duration_ms": 6000,
+      "text": "All right, guys. So, thanks for joining."
+    },
+    {
+      "start_ms": 2205920,
+      "duration_ms": 4960,
+      "text": "As always, it was a big pleasure. Uh,"
+    },
+    {
+      "start_ms": 2208800,
+      "duration_ms": 6160,
+      "text": "this week it was a little bit uh"
+    },
+    {
+      "start_ms": 2210880,
+      "duration_ms": 8400,
+      "text": "shorter. Uh, but next week uh we want to"
+    },
+    {
+      "start_ms": 2214960,
+      "duration_ms": 7520,
+      "text": "uh start again with uh big features. Uh"
+    },
+    {
+      "start_ms": 2219280,
+      "duration_ms": 6000,
+      "text": "probably we'll uh start the developing"
+    },
+    {
+      "start_ms": 2222480,
+      "duration_ms": 5920,
+      "text": "the development of the uh go agent. So I"
+    },
+    {
+      "start_ms": 2225280,
+      "duration_ms": 6000,
+      "text": "can't wait to uh give you the first uh"
+    },
+    {
+      "start_ms": 2228400,
+      "duration_ms": 4959,
+      "text": "update related to this uh big big"
+    },
+    {
+      "start_ms": 2231280,
+      "duration_ms": 5520,
+      "text": "feature uh which I think is going to be"
+    },
+    {
+      "start_ms": 2233359,
+      "duration_ms": 7041,
+      "text": "one of the biggest of this uh uh year."
+    },
+    {
+      "start_ms": 2236800,
+      "duration_ms": 6880,
+      "text": "Uh the event has been recorded luckily"
+    },
+    {
+      "start_ms": 2240400,
+      "duration_ms": 5280,
+      "text": "it will be posted tomorrow as always and"
+    },
+    {
+      "start_ms": 2243680,
+      "duration_ms": 3600,
+      "text": "uh I'm waiting as always for your"
+    },
+    {
+      "start_ms": 2245680,
+      "duration_ms": 6240,
+      "text": "feedbacks"
+    },
+    {
+      "start_ms": 2247280,
+      "duration_ms": 7640,
+      "text": "and I wish you an amazing weekend."
+    },
+    {
+      "start_ms": 2251920,
+      "duration_ms": 3000,
+      "text": "Bye-bye."
+    }
+  ],
+  "text": "Welcome, welcome, welcome guys. Welcome Kristoff. Welcome David, Ranis, Harold, Joanni, Powell, Quincy. Welcome everyone. Let me know guys if you can hear me and see me. I'm calling you from a different location today. I'm in my in my house. I have a train later, so I had to leave the office. Please guys let me know in the chat if you can see me and we can uh start. So as I announced last week uh this week has been dedicated to uh a review of the whole platform uh to make sure that everything is uh super uh stable. Uh as you know we are here for the uh long term. So uh every let's say two months uh we think that it's good we if we take an entire week to re review the entire code. Uh but we also uh fixed some uh features and also uh released some uh minor features that I'm happy to uh to present to you today. Uh okay, thanks Harold for your message in the chat. So I suppose you can all uh see me and hear me. Um today is going to be a little bit less than an hour maybe uh 40 45 minutes since I have a uh I have this train later that I cannot miss. Uh so uh let's start let's try to do uh this 20 minutes of uh new feature announcements and then 20 minutes uh Q&A. So let me share the screen. All right, my screen is shared. The first thing that I want to show you today is something that was already announced uh I think two weeks ago uh which is the uh demo client per category. So right now uh your uh demo client inside your uh client uh section has a new button. This button here on the top left. Uh if you click the button here, you can uh select which of the uh different pre-built clients that we created you want to uh launch. Uh we have created a few pre-built clients for different categories, a coffee shop, a tech business, uh a wireless business, auto repair, etc. As we said a few weeks ago, our goal is to create uh more of these clients in order to cover every uh specific industry. Uh but basically, you just select the business that you want to uh uh to see. For example, let's select the fitness club. All right, we save. And then just clicking on the uh view client, we are going to open this uh specific uh demo client. in this case the um the client in the uh fitness industry. And so we have the uh clients mode with uh reviews and photos related to uh that uh industry. And uh so this is uh live from uh probably tomorrow. And so you just need to firstly select which uh client you want to launch uh you save and then you basically click here or on the bottom view client. And as you know a new tab is going to be open uh with that specific uh client in the industry that you choose. Uh so that's the first uh new thing of uh this week. Another one uh big thing that was uh highly requested and is um live is the uh client uh filter. So let me quickly show it to you. So in your uh client uh area you have a new button here on the uh top right called filter. So super uh uh super easy to to find. So filter button you just click it and you can filter the clients uh per uh name uh subscription status uh email or also uh plan. So if you want you can see just the clients in the gold plan, just the clients in the free trial. you can search for a specific client. So, this is super useful for those of you who has have like many clients. I know a lot of uh you climbers with already uh more than 100 clients uh that you're managing inside the uh platform. So, now it's super easy to uh to find the specific clients through this filters uh button. All right. Uh then another big thing that was uh highly uh requested is the um SMS and WhatsApp cost per country. So uh now when you go to settings uh balance as you can see we uh rebuilt a little bit this uh section and uh basically now the cost of um each SMS and uh WhatsApp is uh the exact cost that we pay for uh each uh country. As you know, we are charged by uh Bird and Meta, which are our tech partners for SMS and um and WhatsApp. And um be um like until today we had a system where we grouped together uh SMS sent for example to Europe and you were paying a fixed uh unique fee to uh if you were sending SMS to recipients in the old Europe. Now if you send for example SMS to let's say let's do an example Italy uh this is what you pay uh you pay for example fourth uh cent per SMS and 7 cent per uh WhatsApp message. If you send SMS or WhatsApp to India this is what you pay uh 5 cent for SMS and two uh cent for WhatsApp. This is uh United States. So 1 cent SMS 3 cent for uh WhatsApp which is the exact amount that we pay to uh our tech partners. So bird and uh meta and um you have also uh an option to select the preferred uh destination. So of course if you are based for example in Italy, most of your clients are going to send SMS to Italian uh phone numbers. So selecting your preferred destination, you can see here uh how many uh SMS and WhatsApp you you have uh left based on your uh remaining uh balance. And also when you create uh pricing plan uh you can see the uh uh spending cap which is calculated um with your uh preferred destination into uh consideration. For example, in this account, my preferred destination is United States. So, I pay one cent of a dollar per SMS. So, if my uh SMS limit is uh 500 SMS per month, this is my uh spending uh cap. So, if the client use all the SMS available, this is what is going to uh cost me. Uh in the US, our WhatsApp is uh 3 cent. So if the um client use all the SMS available in this plan, this is what is going to uh cost me. So this spending cap allow you to uh calculate which are your uh maximum cost if your clients uh use their uh entire amount of uh uh SMS and WhatsApp messages that you provide them uh through the uh custom plan feature. All right. So also this was uh highly requested and from tomorrow is uh is live. Uh as you can see there are also some UI uh improvements. Also the remaining balance uh change uh color uh if uh it's going to be like close to zero. You will see a red uh message like an alert message if your balance is below uh I think $20. So you make sure that you always have enough uh balance uh because as you know if the balance goes to zero your clients are not able to send uh uh WhatsApp and uh and SMS messages. Also we have new features uh for the uh clients mode. We have two uh new features for the clients mode. So one big feature is this uh new settings for the uh Google business profile. Uh let me show you. So uh profile we click on manage business and uh we have this new section called uh booking uh which allow your clients to add booking uh links uh to their uh Google business profile uh which u appears also on uh Google maps as this uh uh button uh here. So, this is super super useful if your clients have a um a booking uh link that redirects to an an external platform that they use for uh manage uh booking and appointments and um so they can easily uh click sorry um click on the plus button and uh they easily add the uh booking uh URL uh here uh they select the uh booking type that depends on the category of uh your client. Uh so uh depending on which uh primary category your client has uh Google give us some options for the uh booking type and uh so your client simply select the booking type, they add the booking uh URL and they uh they save. They can add multiple uh booking links that uh appear in their uh Google business profile. And of course they can select the uh preferred one just clicking on the uh star button. And the preferred one is the one that is going to uh appear uh here. So in the uh Google maps uh result the other link. So the secondary ones appear uh inside the uh uh the uh listing uh page as secondary uh booking links and consequentially when once your client add this uh booking uh links uh they also appear in their uh website built through the uh platform. So let me go to the uh website section. So the uh prefer booking link is going to appear uh here as a primary uh call to action. So this uh button here will be the prefer booking links. And if your clients add other secondary booking link uh they appear below the main uh call to action as uh more booking uh options. 99% of the time your client of course has a a unique uh booking link. So if they add a single booking link and they set it they set it as the preferred booking link of course this section this section here so the more booking option uh is not uh uh is not visible. So in this way we make sure that whatever they add in the Google business profile is added also in the website and is added also uh in the uh schema uh markup code. So there is a 100% correspondence between Google business profile website and um and the rich snippet and which is super important for uh SEO and and Google ranking. And finally we have uh another uh feature uh released uh it's kind of an improvement uh related to uh AI agent. Uh so now both for the SEO agent and also for the uh social agent you have this new checkbox um apply these settings whenever you generate manual AI uh replies. So uh basically if I um I click on this uh checkbox uh whenever I go to the review section and I for example uh generate a reply to a uh Yelp uh review instead of choosing every time uh the tone the uh length of the uh reply uh etc. uh automatically without the need to do a click uh a uh a reply is going to be uh generated with these uh settings uh here. Uh in this way you can easily also uh test the uh AI uh agent before uh before uh um before enabling uh it on uh let's say uh live. So uh you just uh click on this uh button here and uh every time you go to reply to a private feedback or a um or a non- Googlele review automatically the reply is generated without the need to every time select the settings of the uh AI reply. The same thing for the uh social agent. So once we click here uh when we go to manually share a uh review for example on uh Instagram the caption is generated with this uh settings uh here. So just need to um uh to click on this uh checkbox. uh we want to improve this se section here um to let you try uh the SEO agent uh reply generation and the social agent caption generation directly in this uh section. So there will be uh something uh uh probably below here saying test the agent and we generate maybe a random review and with a click you can generate the reply using this settings. So instead of going to the reviews section to test the uh SEO agent settings and the uh social agent settings uh you um you test them directly uh inside uh here which is uh uh much more uh uh intuitive. All right guys, I think I finished the uh announcement for today's let me uh check from my list. Yes. Um, so let me go to the Q&A uh section. Uh, sorry to the chat section. Um, I I'm reading the question from my phone because I do not do not have my uh double monitor here. So please guys um start typing your question in the uh chat and I'll make sure you all have a um a proper uh reply. Let me um join again the event from my phone. One second. All right. So I I have an issue from my phone. So I'm not able to see the questions. So I will deactivate screen sharing for a second and I'm going to read from the chat. All right. Um so I see the first question from U Giovanni. Uh is the client generated uh client website ADA uh compliant? Uh thanks. Uh I have to uh study a little a little bit more this uh topic about uh ADA compliance. Um the only thing that I can tell you is that um uh we have planned a feature uh to automatically uh generate a cookie banner. We just clicking on a simple checkbox uh and inside the uh cookie banner of course we let the new visitor uh accept the usage of uh cookies. So everything is uh compliant. Uh right now there is the custom HTML section in the um website uh settings that let you add any custom code. Uh so in this way you could add your own uh cookie banner. So your own cookie uh script to make the website fully uh compliant. Um but what we plan of course is to um avoid any uh let's say um any manual uh work from your side and also for from your client side. So once the website is generated you don't need to do anything. So there will be this feature soon where basically with just a checkbox you enable the cookie banner and uh so everything is compliant but but regarding the ADA compliance I have to look better uh into it. Uh Eric uh are there any updates regarding posting um article and uh stories and is it possible uh to include WhatsApp status u updates. So um regarding posting posting articles and story um if you mean uh the um uh social agent features that post at the same time both a story and a post. Uh unfortunately this is something still in the backlog and uh I know that probably you have uh uh requested this uh thing since a lot of time ago. uh and every week we we postpone this uh so I I'll make sure even if I I said it a lot of time but we have thousand of things to do unfortunately uh we uh we it was not possible to to release it uh in the in the recent weeks. Uh but yeah we make sure this is done. Of course, this is planned. And regarding the um um WhatsApp status updates, I think um you mean receiving an update uh whenever for example, Meta uh approve the uh phone number. uh I have to check this uh because I have to understand if Meta send us a kind of uh uh notification or web book whenever the WhatsApp uh number is approved. Uh if you're talking about uh the WhatsApp uh status of the templates so receiving a notification whenever the uh WhatsApp template is approved. Uh also in this case I have to look into it. Um what I know is that if the WhatsApp number is uh approved usually templates are approved uh very very quickly. Uh the first days it usually take like maximum one day to to have a template approved. Uh but uh in our case where we have a lot of uh WhatsApp numbers and we test a lot the uh the process of uh template creation. uh in our case templates are always approved like after uh maximum five minutes. So at the beginning when the WhatsApp number has has been just created maybe the you have to wait a little bit to have the templates approved uh but uh uh in the long term it takes literally few a few minutes but we look if it's um possible to receive notification when uh WhatsApp templates are approved so uh we can send this notification to uh to clients. Uh question from Paul. Is there now updated lesson available uh for Zapier uh pre-built uh templates? Um not yet. So there is a lesson in the uh community um called uh automation for success that cover in general how to use um uh how to set up automations for your clients using Zapier or other uh no code tools. Uh unfortunately we still haven't got the time to record proper lessons dedicated to specific uh use cases. Uh but uh uh if you uh have a specific uh use case for which you need uh um uh please do the post in the community. So talk about the specific uh use case. For example, uh you want to automatically um uh send uh for example, you want to automatically add contacts to your client to your client's uh platform uh whenever there is a a new uh a new contact on a specific uh CRM and we try to uh to build this app this for that specific uh use case. H of course the goal for the future is that to have a proper uh let's say academy in the school group dedicated to uh to automations uh queen update uh regarding uh Google sheet and still in approval phase unfortunately it's taking um long time um JSON uh SMTP issue uh there is Um, no SMTP issue JSON. Um, so I remember your post in the community about the fact that in the uh emails sent from your platform to your client like for example the welcome email uh the link was a a client link but this was because you haven't seted uh uh SMTP yet. Um, my tech team just told me that they uh have just logged into into your account and they see that the SMTP connection uh is still uh not set up. Uh so you have to go to agency brand uh sorry to the agency mode to the brand section SMTP and make sure you connect uh an email. Um, and you have to see on the top of that section a green light saying your email has been uh connected because if you see as you can see right now in your SMTP section uh the red light saying uh without SMTP clients won't receive uh emails from your branded email. It means that you haven't uh set up SMTP yet. So you have to do it and once you do it uh emails are sent from your branded email and also uh the link inside the email is your uh branded uh link. A question from Franuis. Um I saw there are many new videos in the white label knowledge base. It's very good. But all videos are in English language and English uh subtitle. How it could be possible to download them uh download them uh to translate them in our own language? Uh I think it's already possible to download them. Let me check. One second. Uh there should be a download button on uh each video. Uh so if you open uh let me share the screen so I can show it to you. Share screen. All right. So if you open for example this article here uh you see here there is this button to download the video. Um, you can download the video and then maybe uh do a an edit and uh uh change the audio with your own uh language. I can suggest you a tool that we use to generate this uh video. So if you want to have your uh own uh custom uh knowledge base, I suggest you this tool here uh which is the same tool that we use to make these videos which is called true.ai. Uh so basically you do a screen sharing of the uh platform explaining how a specific feature uh work and then AI is going to u let's say change the captions with a professional script and also of course AI is going to change the the voice with a um a professional voice. You can also add an avatar and uh so I suggest to go to this uh website throughper.ai I watch the before after video so you understand how it uh it works and um yeah this way you can if you want you can build your uh your own uh knowledge base. Um or of course uh we have to uh um of course the the the our goal is to improve this uh knowledge base here. As we said a few weeks ago, we plan to let you embed the knowledge base inside the platform. And of course, once this um will be live, you can also choose in which language you want to have the articles. Uh I'm not sure if we are able to have the videos in uh different uh languages. Uh we hope that through pier release a feature where basically you can click here and maybe select the language from here. Um I can talk with them. So with the true pier team. So it will be good if they release this feature here where from somewhere here in this bottom bar we choose the language of the video and then we have the uh the video in uh in that language. All right. Uh, let me go back to the chat. Uh, Eric, what do you think of the idea of overwriting uh, past uh, responses to ratings and which AI are you using? Uh so please uh what do you mean overwriting past responses uh to ratings? Uh which AI are we using? We're using uh open AI API to generate uh uh replies and also captions for uh social media sharing. Question from Paul. I remember in Climbo one uh we can set a new business that will have an option to connect their Google account but also an option to show their reviews without logging uh in but it's uh not public. This helps for our demo to specific business target. Uh yes also this this possibilities is also available in in Climbo 2 of course. So let me quickly show you uh once you uh go to integrate uh Google. So here I have already integrated Google but once you click on the connect button a popup appear and you can choose if you want to connect Google via login or via public access. Uh of course you can connect Google via public access. So you don't need the login. Uh but as you know the public access has some uh downsides. Uh we do not import all the reviews with public access. Uh and of course it's not possible to reply to reviews um automatically and the profile feature and the website features uh are not uh enabled if you connect Google via uh public uh access. Uh but this feature is available. So you can show a demo to your client with their Google business profile uh without the need to log to their uh Google account. Just click on the connect button and then choose Google uh public access. All right guys um so let me know if you have other questions in the um chat. I can give you some other uh updates about uh our road map for the uh next week. Uh in the meantime, um so we have almost uh finished the uh a big work that we've done in the last let's say uh three four months uh dedicated to uh mobile app. So iOS app and uh Android app. We have designed a a process that lets us uh build a fully branded mobile app for you in the app store and in the uh Google Play Store. So probably in a few weeks we will give you more information about this uh uh new service that will be available for uh all climbers. And um uh if uh if you want to to have your own branded app in the stores play store or app store this will be possible. And uh it takes not a few minutes but it can take a few weeks to have your app uh ready because you have to go through a submission process. uh but we are creating a step-by-step uh course um that covers uh everything. So you are followed by us uh step by step. Uh so probably next week we'll dedicate some time of the uh week uh to this uh new service that we are uh creating. uh but of course uh we want to start also the development of the uh uh go agent which is something uh big that we keep talking about uh in the office and uh so this is these are the two big things that we want to do probably uh next week uh once the go agent is done and once we have also released some minor features for the uh clients mode we will switch to the uh big features of the agency mode. Uh as you know, we want to dedicate the second quarter of 2026 to big features of the agency mode like the uh possibility to add team members, the incentivized uh sales team. uh we want to let you uh create a sales team that access to a let's say a lighter version of the platform fully branded with your domain uh where they can uh do prospecting, they can add clients and they can be rewarded if they uh close uh paying clients. So this will be the big thing of the uh of the second quarter. Um, JSON, you're having issues, I think, with the SMTP connection. Uh, so please open a ticket. Uh, if you want to connect uh a Gmail account, uh, you should find instructions in the support page. So, there should be a FAQ dedicated to SMTP. Uh if you're having issues with uh the connection of uh Gmail, please open a ticket. I suggest you to watch a video in YouTube dedicated to um the SMTP connection of a Gmail account. So just go to YouTube and look for um keyword like SMTP Gmail and you find like uh videos that will guide you on uh what to write in the port section, what to write in the uh host section uh etc. Uh question from Frank, are you re referencing border.com for your development plan? uh not at all. So our development development plan uh is coming 100% from community feedbacks and from uh our uh minds. So we're not following uh anyone. Uh Paul um for now with no app is there a web app that we can have our client to login so they will have only uh minimal access that is um yes so the the the platform the clients mode uh is a mobile first. So if your clients goes to your uh uh login domain, they login with their account and they access the platform in their uh mobile phone and uh the design is fully mobile uh optimized. So they still if even if they do not have the app that they can download from the uh app store or play store they can still uh experience the platform and use the platform in their mobile phone just through the uh browser. Fabricio will the weight label docs be be available in other other languages? Yes. Um maybe not the videos but the text uh yes uh for sure. So um as I said I think last week there will be a a new feature in the brand section of the agency mode where with just a click of a button you can embed the knowledge base in um in your clients mode and you'll be able to choose the preferred language that you want your uh uh your articles um to be. All right guys, so thanks for joining. Uh if you do not have other uh questions, uh I will um finish this event. Um it it will be uh able also to have the logo. Um yes, sure. So the the knowledge base will be like branded with your uh brand details as the AI chatbot. So as you know once you embed the AI chatbot it keeps your color your font um so the same thing will be done for the knowledge base uh to make sure that is fully branded with your details. All right, guys. So, thanks for joining. As always, it was a big pleasure. Uh, this week it was a little bit uh shorter. Uh, but next week uh we want to uh start again with uh big features. Uh probably we'll uh start the developing the development of the uh go agent. So I can't wait to uh give you the first uh update related to this uh big big feature uh which I think is going to be one of the biggest of this uh uh year. Uh the event has been recorded luckily it will be posted tomorrow as always and uh I'm waiting as always for your feedbacks and I wish you an amazing weekend. Bye-bye."
+}

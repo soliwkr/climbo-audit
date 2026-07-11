@@ -1,0 +1,1084 @@
+(from cache)
+{
+  "videoId": "qo0YRSxQgIU",
+  "language": "en",
+  "kind": "asr",
+  "segments": [
+    {
+      "start_ms": 0,
+      "duration_ms": 5840,
+      "text": "When you create a plan, you can set up"
+    },
+    {
+      "start_ms": 2240,
+      "duration_ms": 6280,
+      "text": "for each plan the limits of monthly SMS,"
+    },
+    {
+      "start_ms": 5840,
+      "duration_ms": 5360,
+      "text": "email, WhatsApp, and AI tokens that your"
+    },
+    {
+      "start_ms": 8520,
+      "duration_ms": 5840,
+      "text": "clients can use. So, basically, you can"
+    },
+    {
+      "start_ms": 11200,
+      "duration_ms": 7440,
+      "text": "exactly calculate your total spending"
+    },
+    {
+      "start_ms": 14360,
+      "duration_ms": 7320,
+      "text": "cap, which is the maximum cost you will"
+    },
+    {
+      "start_ms": 18640,
+      "duration_ms": 6040,
+      "text": "pay for this specific plan. So, if a"
+    },
+    {
+      "start_ms": 21680,
+      "duration_ms": 5920,
+      "text": "client on this plan use all the provided"
+    },
+    {
+      "start_ms": 24680,
+      "duration_ms": 6720,
+      "text": "messages and AI tokens during the month,"
+    },
+    {
+      "start_ms": 27600,
+      "duration_ms": 5600,
+      "text": "this client is going to cost you $17.30"
+    },
+    {
+      "start_ms": 31400,
+      "duration_ms": 5120,
+      "text": "from your balance. For example, in this"
+    },
+    {
+      "start_ms": 33200,
+      "duration_ms": 6880,
+      "text": "plan, we have a provided 500 monthly"
+    },
+    {
+      "start_ms": 36520,
+      "duration_ms": 7960,
+      "text": "SMS, 1,000 monthly emails, 300 monthly"
+    },
+    {
+      "start_ms": 40080,
+      "duration_ms": 6600,
+      "text": "WhatsApp, and 500,000 monthly AI tokens."
+    },
+    {
+      "start_ms": 44480,
+      "duration_ms": 4520,
+      "text": "And so, we know exactly that the maximum"
+    },
+    {
+      "start_ms": 46680,
+      "duration_ms": 4880,
+      "text": "spending cap for a client in this plan"
+    },
+    {
+      "start_ms": 49000,
+      "duration_ms": 4760,
+      "text": "is $17.30."
+    },
+    {
+      "start_ms": 51560,
+      "duration_ms": 4640,
+      "text": "So, basically, when we"
+    },
+    {
+      "start_ms": 53760,
+      "duration_ms": 4120,
+      "text": "set up the price of the plan,"
+    },
+    {
+      "start_ms": 56200,
+      "duration_ms": 3560,
+      "text": "we have to set up a price that, of"
+    },
+    {
+      "start_ms": 57880,
+      "duration_ms": 3880,
+      "text": "course, cover the"
+    },
+    {
+      "start_ms": 59760,
+      "duration_ms": 4520,
+      "text": "maximum plan cost. In this case, for"
+    },
+    {
+      "start_ms": 61760,
+      "duration_ms": 5360,
+      "text": "example, we are setting up a price of"
+    },
+    {
+      "start_ms": 64280,
+      "duration_ms": 5800,
+      "text": "$199 So, we know for sure that we're"
+    },
+    {
+      "start_ms": 67120,
+      "duration_ms": 3840,
+      "text": "going to make a huge profit on this"
+    },
+    {
+      "start_ms": 70080,
+      "duration_ms": 3920,
+      "text": "plan."
+    },
+    {
+      "start_ms": 70960,
+      "duration_ms": 6040,
+      "text": "When you set up the monthly AI tokens,"
+    },
+    {
+      "start_ms": 74000,
+      "duration_ms": 6880,
+      "text": "you can"
+    },
+    {
+      "start_ms": 77000,
+      "duration_ms": 6640,
+      "text": "click here to firstly see how much each"
+    },
+    {
+      "start_ms": 80880,
+      "duration_ms": 6040,
+      "text": "AI feature cost. For example, this is"
+    },
+    {
+      "start_ms": 83640,
+      "duration_ms": 5680,
+      "text": "the average cost of an AI review reply."
+    },
+    {
+      "start_ms": 86920,
+      "duration_ms": 5080,
+      "text": "And you can also run a simulation. For"
+    },
+    {
+      "start_ms": 89320,
+      "duration_ms": 4040,
+      "text": "example, let's suppose that a client is"
+    },
+    {
+      "start_ms": 92000,
+      "duration_ms": 3880,
+      "text": "going to"
+    },
+    {
+      "start_ms": 93360,
+      "duration_ms": 4680,
+      "text": "reply automatically with AI to 30"
+    },
+    {
+      "start_ms": 95880,
+      "duration_ms": 3840,
+      "text": "reviews per month. Let's suppose that"
+    },
+    {
+      "start_ms": 98040,
+      "duration_ms": 3920,
+      "text": "all these 30 reviews are going to be"
+    },
+    {
+      "start_ms": 99720,
+      "duration_ms": 4400,
+      "text": "shared on social media with the AI"
+    },
+    {
+      "start_ms": 101960,
+      "duration_ms": 4200,
+      "text": "agent. Let's suppose that the client is"
+    },
+    {
+      "start_ms": 104120,
+      "duration_ms": 4240,
+      "text": "going to create four blog posts per"
+    },
+    {
+      "start_ms": 106160,
+      "duration_ms": 5080,
+      "text": "month with AI. Let's suppose that the"
+    },
+    {
+      "start_ms": 108360,
+      "duration_ms": 4920,
+      "text": "client is going to send 100 chat"
+    },
+    {
+      "start_ms": 111240,
+      "duration_ms": 4080,
+      "text": "messages to your AI chat. And let's"
+    },
+    {
+      "start_ms": 113280,
+      "duration_ms": 4280,
+      "text": "suppose that this client has the AI"
+    },
+    {
+      "start_ms": 115320,
+      "duration_ms": 5160,
+      "text": "ranking and AI sentiment analysis"
+    },
+    {
+      "start_ms": 117560,
+      "duration_ms": 5919,
+      "text": "enabled. You can easily see that"
+    },
+    {
+      "start_ms": 120480,
+      "duration_ms": 5560,
+      "text": "we estimate that this client using these"
+    },
+    {
+      "start_ms": 123479,
+      "duration_ms": 4321,
+      "text": "AI features is going to consume"
+    },
+    {
+      "start_ms": 126040,
+      "duration_ms": 4079,
+      "text": "500,000"
+    },
+    {
+      "start_ms": 127800,
+      "duration_ms": 5200,
+      "text": "AI tokens. So, this is"
+    },
+    {
+      "start_ms": 130119,
+      "duration_ms": 5121,
+      "text": "the number of AI tokens that you have to"
+    },
+    {
+      "start_ms": 133000,
+      "duration_ms": 4760,
+      "text": "provide in your plan. Of course, if you"
+    },
+    {
+      "start_ms": 135240,
+      "duration_ms": 5280,
+      "text": "want to provide these"
+    },
+    {
+      "start_ms": 137760,
+      "duration_ms": 6000,
+      "text": "AI feature limits. All right? So, this"
+    },
+    {
+      "start_ms": 140520,
+      "duration_ms": 5439,
+      "text": "is where you set up your plan limits in"
+    },
+    {
+      "start_ms": 143760,
+      "duration_ms": 4440,
+      "text": "terms of messaging and AI tokens. And"
+    },
+    {
+      "start_ms": 145959,
+      "duration_ms": 4201,
+      "text": "here you see exactly your total spending"
+    },
+    {
+      "start_ms": 148200,
+      "duration_ms": 4520,
+      "text": "cap. So, when you set up the plan's"
+    },
+    {
+      "start_ms": 150160,
+      "duration_ms": 4680,
+      "text": "price, you can exactly calculate the"
+    },
+    {
+      "start_ms": 152720,
+      "duration_ms": 5000,
+      "text": "minimum profit that you can make from"
+    },
+    {
+      "start_ms": 154840,
+      "duration_ms": 5640,
+      "text": "each plan. From the balance in your"
+    },
+    {
+      "start_ms": 157720,
+      "duration_ms": 4560,
+      "text": "settings, you can easily monitor how"
+    },
+    {
+      "start_ms": 160480,
+      "duration_ms": 3400,
+      "text": "much money you have left in your"
+    },
+    {
+      "start_ms": 162280,
+      "duration_ms": 4040,
+      "text": "balance. Of course, you have a button to"
+    },
+    {
+      "start_ms": 163880,
+      "duration_ms": 4120,
+      "text": "add funds that redirects to a checkout"
+    },
+    {
+      "start_ms": 166320,
+      "duration_ms": 2639,
+      "text": "where you can add more money to your"
+    },
+    {
+      "start_ms": 168000,
+      "duration_ms": 2280,
+      "text": "balance."
+    },
+    {
+      "start_ms": 168959,
+      "duration_ms": 2321,
+      "text": "Here you can see"
+    },
+    {
+      "start_ms": 170280,
+      "duration_ms": 3760,
+      "text": "the"
+    },
+    {
+      "start_ms": 171280,
+      "duration_ms": 5760,
+      "text": "fixed cost per SMS, WhatsApp, email, and"
+    },
+    {
+      "start_ms": 174040,
+      "duration_ms": 5080,
+      "text": "AI tokens. The cost depends on which"
+    },
+    {
+      "start_ms": 177040,
+      "duration_ms": 4120,
+      "text": "country you are based. For example, in"
+    },
+    {
+      "start_ms": 179120,
+      "duration_ms": 3960,
+      "text": "the United States, one SMS costs a cent"
+    },
+    {
+      "start_ms": 181160,
+      "duration_ms": 4520,
+      "text": "of a dollar, one WhatsApp costs 3 cents"
+    },
+    {
+      "start_ms": 183080,
+      "duration_ms": 4840,
+      "text": "of a dollar. Emails are always unlimited"
+    },
+    {
+      "start_ms": 185680,
+      "duration_ms": 4480,
+      "text": "and free in every country. And AI"
+    },
+    {
+      "start_ms": 187920,
+      "duration_ms": 5200,
+      "text": "tokens, we have a fixed cost in every"
+    },
+    {
+      "start_ms": 190160,
+      "duration_ms": 5520,
+      "text": "country of $6.60"
+    },
+    {
+      "start_ms": 193120,
+      "duration_ms": 5040,
+      "text": "per 1 million AI token. By scrolling"
+    },
+    {
+      "start_ms": 195680,
+      "duration_ms": 4520,
+      "text": "here, you can firstly I see exactly for"
+    },
+    {
+      "start_ms": 198160,
+      "duration_ms": 4720,
+      "text": "each month how much balance balance"
+    },
+    {
+      "start_ms": 200200,
+      "duration_ms": 5039,
+      "text": "money you have paid considering all your"
+    },
+    {
+      "start_ms": 202880,
+      "duration_ms": 4720,
+      "text": "clients. For example, in June 2026, we"
+    },
+    {
+      "start_ms": 205239,
+      "duration_ms": 4841,
+      "text": "have spent $47."
+    },
+    {
+      "start_ms": 207600,
+      "duration_ms": 4840,
+      "text": "You can see the aggregated usage"
+    },
+    {
+      "start_ms": 210080,
+      "duration_ms": 4960,
+      "text": "considering all your clients. For"
+    },
+    {
+      "start_ms": 212440,
+      "duration_ms": 5880,
+      "text": "example, considering all our clients, we"
+    },
+    {
+      "start_ms": 215040,
+      "duration_ms": 4800,
+      "text": "have an aggregated SMS limit of 500 SMS."
+    },
+    {
+      "start_ms": 218320,
+      "duration_ms": 5160,
+      "text": "And"
+    },
+    {
+      "start_ms": 219840,
+      "duration_ms": 7640,
+      "text": "our clients use 250 SMS. So, just the"
+    },
+    {
+      "start_ms": 223480,
+      "duration_ms": 6600,
+      "text": "50% of the provided volume was used. And"
+    },
+    {
+      "start_ms": 227480,
+      "duration_ms": 5840,
+      "text": "by scrolling here, we can also see"
+    },
+    {
+      "start_ms": 230080,
+      "duration_ms": 5000,
+      "text": "the consumptions for uh each of your uh"
+    },
+    {
+      "start_ms": 233320,
+      "duration_ms": 6320,
+      "text": "client. For example, we can see that uh"
+    },
+    {
+      "start_ms": 235080,
+      "duration_ms": 7520,
+      "text": "Sunny Cafe in June 2026 um consumed 18"
+    },
+    {
+      "start_ms": 239640,
+      "duration_ms": 6040,
+      "text": "SMS on the 500 provided. So, we had a"
+    },
+    {
+      "start_ms": 242600,
+      "duration_ms": 5120,
+      "text": "cost of $1.80."
+    },
+    {
+      "start_ms": 245680,
+      "duration_ms": 3600,
+      "text": "Uh they used 18 emails. So, of course,"
+    },
+    {
+      "start_ms": 247720,
+      "duration_ms": 3560,
+      "text": "no cost for emails because they are"
+    },
+    {
+      "start_ms": 249280,
+      "duration_ms": 5400,
+      "text": "unlimited and free. And they sent four"
+    },
+    {
+      "start_ms": 251280,
+      "duration_ms": 7200,
+      "text": "WhatsApp messages and they used uh"
+    },
+    {
+      "start_ms": 254680,
+      "duration_ms": 6360,
+      "text": "44,000 AI tokens on the 500,000 AI"
+    },
+    {
+      "start_ms": 258480,
+      "duration_ms": 4960,
+      "text": "tokens provided. So, our cost for AI"
+    },
+    {
+      "start_ms": 261040,
+      "duration_ms": 4640,
+      "text": "features for this client has been"
+    },
+    {
+      "start_ms": 263440,
+      "duration_ms": 4760,
+      "text": "just 29 cents. So, of course, when you"
+    },
+    {
+      "start_ms": 265680,
+      "duration_ms": 4840,
+      "text": "set up the plans uh limit, of course,"
+    },
+    {
+      "start_ms": 268200,
+      "duration_ms": 5560,
+      "text": "your clients are not going to use uh all"
+    },
+    {
+      "start_ms": 270520,
+      "duration_ms": 5840,
+      "text": "the provided messages and AI tokens. Uh"
+    },
+    {
+      "start_ms": 273760,
+      "duration_ms": 4640,
+      "text": "when you set up a plan, this uh total"
+    },
+    {
+      "start_ms": 276360,
+      "duration_ms": 4200,
+      "text": "spending cap, of course, is the maximum"
+    },
+    {
+      "start_ms": 278400,
+      "duration_ms": 5600,
+      "text": "cost that you can have if the client use"
+    },
+    {
+      "start_ms": 280560,
+      "duration_ms": 6320,
+      "text": "all the provided SMS, WhatsApp, and AI"
+    },
+    {
+      "start_ms": 284000,
+      "duration_ms": 5040,
+      "text": "tokens. But 99% of the cases, uh the"
+    },
+    {
+      "start_ms": 286880,
+      "duration_ms": 3480,
+      "text": "client is not going to consume all the"
+    },
+    {
+      "start_ms": 289040,
+      "duration_ms": 3840,
+      "text": "provided"
+    },
+    {
+      "start_ms": 290360,
+      "duration_ms": 5320,
+      "text": "uh messages and AI tokens. So, your uh"
+    },
+    {
+      "start_ms": 292880,
+      "duration_ms": 4400,
+      "text": "cost 99% of the time is going to be much"
+    },
+    {
+      "start_ms": 295680,
+      "duration_ms": 4720,
+      "text": "uh lower. But this is very useful for"
+    },
+    {
+      "start_ms": 297280,
+      "duration_ms": 7200,
+      "text": "you, so you can set up uh a price that"
+    },
+    {
+      "start_ms": 300400,
+      "duration_ms": 5960,
+      "text": "is, for example, 5x, 6x, 10x your total"
+    },
+    {
+      "start_ms": 304480,
+      "duration_ms": 4040,
+      "text": "uh maximum spending cap. So, you know"
+    },
+    {
+      "start_ms": 306360,
+      "duration_ms": 4800,
+      "text": "for sure the minimum profit that you can"
+    },
+    {
+      "start_ms": 308520,
+      "duration_ms": 5360,
+      "text": "have for uh each plan. On the client"
+    },
+    {
+      "start_ms": 311160,
+      "duration_ms": 5000,
+      "text": "side, uh your clients in the uh limits"
+    },
+    {
+      "start_ms": 313880,
+      "duration_ms": 5240,
+      "text": "uh section of their settings, they can"
+    },
+    {
+      "start_ms": 316160,
+      "duration_ms": 5800,
+      "text": "monitor month by month the provided"
+    },
+    {
+      "start_ms": 319120,
+      "duration_ms": 6080,
+      "text": "email, uh SMS, uh WhatsApp, and AI"
+    },
+    {
+      "start_ms": 321960,
+      "duration_ms": 5240,
+      "text": "tokens. And they can see how uh many"
+    },
+    {
+      "start_ms": 325200,
+      "duration_ms": 4520,
+      "text": "messages and AI tokens they are uh"
+    },
+    {
+      "start_ms": 327200,
+      "duration_ms": 5840,
+      "text": "currently uh using. For example, this uh"
+    },
+    {
+      "start_ms": 329720,
+      "duration_ms": 6040,
+      "text": "client here had 100 WhatsApp provided."
+    },
+    {
+      "start_ms": 333040,
+      "duration_ms": 4040,
+      "text": "They already used uh 15"
+    },
+    {
+      "start_ms": 335760,
+      "duration_ms": 2240,
+      "text": "WhatsApp messages. So, for this month,"
+    },
+    {
+      "start_ms": 337080,
+      "duration_ms": 4440,
+      "text": "they have"
+    },
+    {
+      "start_ms": 338000,
+      "duration_ms": 5600,
+      "text": "uh 85 WhatsApp uh left. In the history"
+    },
+    {
+      "start_ms": 341520,
+      "duration_ms": 4880,
+      "text": "section, your clients can also uh"
+    },
+    {
+      "start_ms": 343600,
+      "duration_ms": 5160,
+      "text": "monitor each uh message that has been uh"
+    },
+    {
+      "start_ms": 346400,
+      "duration_ms": 5000,
+      "text": "sent. And also in the AI section, uh"
+    },
+    {
+      "start_ms": 348760,
+      "duration_ms": 5240,
+      "text": "they can see exactly how many AI tokens"
+    },
+    {
+      "start_ms": 351400,
+      "duration_ms": 5960,
+      "text": "each feature is uh consuming. Uh for"
+    },
+    {
+      "start_ms": 354000,
+      "duration_ms": 6200,
+      "text": "example, here uh we spent 1,246"
+    },
+    {
+      "start_ms": 357360,
+      "duration_ms": 5960,
+      "text": "AI tokens for this AI review reply. Of"
+    },
+    {
+      "start_ms": 360200,
+      "duration_ms": 5600,
+      "text": "course, if you want to limit your cost,"
+    },
+    {
+      "start_ms": 363320,
+      "duration_ms": 4760,
+      "text": "you can not only limit the number of"
+    },
+    {
+      "start_ms": 365800,
+      "duration_ms": 5280,
+      "text": "messages and AI tokens that your client"
+    },
+    {
+      "start_ms": 368080,
+      "duration_ms": 5560,
+      "text": "can use, but you can also enable or"
+    },
+    {
+      "start_ms": 371080,
+      "duration_ms": 5360,
+      "text": "disable the specific features that are"
+    },
+    {
+      "start_ms": 373640,
+      "duration_ms": 5440,
+      "text": "going to uh produce you uh cost. For"
+    },
+    {
+      "start_ms": 376440,
+      "duration_ms": 4800,
+      "text": "example, talking about messages in the"
+    },
+    {
+      "start_ms": 379080,
+      "duration_ms": 4960,
+      "text": "reputation section, you can decide, for"
+    },
+    {
+      "start_ms": 381240,
+      "duration_ms": 3760,
+      "text": "example, to disable WhatsApp or disable"
+    },
+    {
+      "start_ms": 384040,
+      "duration_ms": 2480,
+      "text": "SMS."
+    },
+    {
+      "start_ms": 385000,
+      "duration_ms": 3400,
+      "text": "Uh in this case, your clients, if they"
+    },
+    {
+      "start_ms": 386520,
+      "duration_ms": 5360,
+      "text": "want to send review requests, can use"
+    },
+    {
+      "start_ms": 388400,
+      "duration_ms": 6680,
+      "text": "just emails that are 100% uh free for"
+    },
+    {
+      "start_ms": 391880,
+      "duration_ms": 5400,
+      "text": "you. And talking about AI features that,"
+    },
+    {
+      "start_ms": 395080,
+      "duration_ms": 4760,
+      "text": "of course, are going to consume uh"
+    },
+    {
+      "start_ms": 397280,
+      "duration_ms": 4639,
+      "text": "tokens, so they're going to deduct money"
+    },
+    {
+      "start_ms": 399840,
+      "duration_ms": 4640,
+      "text": "from your balance. Uh also in this case,"
+    },
+    {
+      "start_ms": 401919,
+      "duration_ms": 4681,
+      "text": "you can enable or disable all the"
+    },
+    {
+      "start_ms": 404480,
+      "duration_ms": 3880,
+      "text": "specific uh AI features. For example, as"
+    },
+    {
+      "start_ms": 406600,
+      "duration_ms": 4600,
+      "text": "you can see here, we can enable or"
+    },
+    {
+      "start_ms": 408360,
+      "duration_ms": 5080,
+      "text": "disable the AI uh chat. Also in the"
+    },
+    {
+      "start_ms": 411200,
+      "duration_ms": 4440,
+      "text": "reputation section, we can, for example,"
+    },
+    {
+      "start_ms": 413440,
+      "duration_ms": 4680,
+      "text": "disable the AI sentiment analysis. We"
+    },
+    {
+      "start_ms": 415640,
+      "duration_ms": 5040,
+      "text": "can also disable the SEO agent, so we do"
+    },
+    {
+      "start_ms": 418120,
+      "duration_ms": 5000,
+      "text": "not have AI tokens consumed for review"
+    },
+    {
+      "start_ms": 420680,
+      "duration_ms": 4920,
+      "text": "replies. Also in the visibility section,"
+    },
+    {
+      "start_ms": 423120,
+      "duration_ms": 4720,
+      "text": "we can disable the AI ranking. Also we"
+    },
+    {
+      "start_ms": 425600,
+      "duration_ms": 4160,
+      "text": "can disable the AI agent, and in the"
+    },
+    {
+      "start_ms": 427840,
+      "duration_ms": 5720,
+      "text": "engagement section, we can disable the"
+    },
+    {
+      "start_ms": 429760,
+      "duration_ms": 6800,
+      "text": "social agent. So you have 100% control"
+    },
+    {
+      "start_ms": 433560,
+      "duration_ms": 4880,
+      "text": "over the uh features uh usage. You can"
+    },
+    {
+      "start_ms": 436560,
+      "duration_ms": 4520,
+      "text": "enable or disable specific feature, and"
+    },
+    {
+      "start_ms": 438440,
+      "duration_ms": 4760,
+      "text": "you can also set up the uh limit of"
+    },
+    {
+      "start_ms": 441080,
+      "duration_ms": 5080,
+      "text": "messages and AI tokens that your clients"
+    },
+    {
+      "start_ms": 443200,
+      "duration_ms": 5000,
+      "text": "can uh use. Of course, our suggestion is"
+    },
+    {
+      "start_ms": 446160,
+      "duration_ms": 3480,
+      "text": "to create different plans, like, for"
+    },
+    {
+      "start_ms": 448200,
+      "duration_ms": 3960,
+      "text": "example, the bronze plan, the silver"
+    },
+    {
+      "start_ms": 449640,
+      "duration_ms": 5000,
+      "text": "plan, and the gold plan. In the bronze"
+    },
+    {
+      "start_ms": 452160,
+      "duration_ms": 5040,
+      "text": "plan, you can have maybe less features"
+    },
+    {
+      "start_ms": 454640,
+      "duration_ms": 4360,
+      "text": "enabled and less uh limits. For example,"
+    },
+    {
+      "start_ms": 457200,
+      "duration_ms": 4320,
+      "text": "as you can see here, we have just 50"
+    },
+    {
+      "start_ms": 459000,
+      "duration_ms": 5520,
+      "text": "monthly SMS, 30 monthly WhatsApp, and"
+    },
+    {
+      "start_ms": 461520,
+      "duration_ms": 5240,
+      "text": "150 monthly emails and just 100,000"
+    },
+    {
+      "start_ms": 464520,
+      "duration_ms": 5720,
+      "text": "monthly AI tokens. So, our spending cap"
+    },
+    {
+      "start_ms": 466760,
+      "duration_ms": 6400,
+      "text": "is just $2. And so, we set up a price of"
+    },
+    {
+      "start_ms": 470240,
+      "duration_ms": 5960,
+      "text": "$99. So, for every client in this plan,"
+    },
+    {
+      "start_ms": 473160,
+      "duration_ms": 4520,
+      "text": "we make a profit of $97. And for"
+    },
+    {
+      "start_ms": 476200,
+      "duration_ms": 4240,
+      "text": "example, as you can see in the bronze"
+    },
+    {
+      "start_ms": 477680,
+      "duration_ms": 3640,
+      "text": "plan, the AI chat is disabled, WhatsApp"
+    },
+    {
+      "start_ms": 480440,
+      "duration_ms": 3880,
+      "text": "is"
+    },
+    {
+      "start_ms": 481320,
+      "duration_ms": 5080,
+      "text": "disabled. For example, the geo agent is"
+    },
+    {
+      "start_ms": 484320,
+      "duration_ms": 4120,
+      "text": "disabled. So, we're going to have much"
+    },
+    {
+      "start_ms": 486400,
+      "duration_ms": 4520,
+      "text": "lower cost. In the silver silver plan,"
+    },
+    {
+      "start_ms": 488440,
+      "duration_ms": 4440,
+      "text": "you can add a little bit more uh"
+    },
+    {
+      "start_ms": 490920,
+      "duration_ms": 3280,
+      "text": "features and higher limits. For example,"
+    },
+    {
+      "start_ms": 492880,
+      "duration_ms": 4240,
+      "text": "the silver plan, we have a total"
+    },
+    {
+      "start_ms": 494200,
+      "duration_ms": 4360,
+      "text": "spending cap of $6.32"
+    },
+    {
+      "start_ms": 497120,
+      "duration_ms": 3880,
+      "text": "uh cent. And we're going to price the"
+    },
+    {
+      "start_ms": 498560,
+      "duration_ms": 4680,
+      "text": "silver plan $149 per month. So, also in"
+    },
+    {
+      "start_ms": 501000,
+      "duration_ms": 3880,
+      "text": "this case, we make a huge uh profit. And"
+    },
+    {
+      "start_ms": 503240,
+      "duration_ms": 4160,
+      "text": "then we have the gold plan with the"
+    },
+    {
+      "start_ms": 504880,
+      "duration_ms": 4680,
+      "text": "basically all the features uh enabled"
+    },
+    {
+      "start_ms": 507400,
+      "duration_ms": 3800,
+      "text": "and a higher uh limits. So, we have a"
+    },
+    {
+      "start_ms": 509560,
+      "duration_ms": 3720,
+      "text": "higher total spending cap. But of"
+    },
+    {
+      "start_ms": 511200,
+      "duration_ms": 5000,
+      "text": "course, the plan's price is uh very"
+    },
+    {
+      "start_ms": 513280,
+      "duration_ms": 5080,
+      "text": "high, $199 per month. So, also in this"
+    },
+    {
+      "start_ms": 516200,
+      "duration_ms": 4480,
+      "text": "case, uh we're going to make a huge uh"
+    },
+    {
+      "start_ms": 518360,
+      "duration_ms": 5400,
+      "text": "profit. So, of course, your your goal is"
+    },
+    {
+      "start_ms": 520680,
+      "duration_ms": 6760,
+      "text": "to create a plan that has a"
+    },
+    {
+      "start_ms": 523760,
+      "duration_ms": 6280,
+      "text": "cost which is way over your uh total"
+    },
+    {
+      "start_ms": 527440,
+      "duration_ms": 5560,
+      "text": "spending cap. So, you make sure that you"
+    },
+    {
+      "start_ms": 530040,
+      "duration_ms": 5320,
+      "text": "have a very very big profit on each"
+    },
+    {
+      "start_ms": 533000,
+      "duration_ms": 2360,
+      "text": "plan."
+    }
+  ],
+  "text": "When you create a plan, you can set up for each plan the limits of monthly SMS, email, WhatsApp, and AI tokens that your clients can use. So, basically, you can exactly calculate your total spending cap, which is the maximum cost you will pay for this specific plan. So, if a client on this plan use all the provided messages and AI tokens during the month, this client is going to cost you $17.30 from your balance. For example, in this plan, we have a provided 500 monthly SMS, 1,000 monthly emails, 300 monthly WhatsApp, and 500,000 monthly AI tokens. And so, we know exactly that the maximum spending cap for a client in this plan is $17.30. So, basically, when we set up the price of the plan, we have to set up a price that, of course, cover the maximum plan cost. In this case, for example, we are setting up a price of $199 So, we know for sure that we're going to make a huge profit on this plan. When you set up the monthly AI tokens, you can click here to firstly see how much each AI feature cost. For example, this is the average cost of an AI review reply. And you can also run a simulation. For example, let's suppose that a client is going to reply automatically with AI to 30 reviews per month. Let's suppose that all these 30 reviews are going to be shared on social media with the AI agent. Let's suppose that the client is going to create four blog posts per month with AI. Let's suppose that the client is going to send 100 chat messages to your AI chat. And let's suppose that this client has the AI ranking and AI sentiment analysis enabled. You can easily see that we estimate that this client using these AI features is going to consume 500,000 AI tokens. So, this is the number of AI tokens that you have to provide in your plan. Of course, if you want to provide these AI feature limits. All right? So, this is where you set up your plan limits in terms of messaging and AI tokens. And here you see exactly your total spending cap. So, when you set up the plan's price, you can exactly calculate the minimum profit that you can make from each plan. From the balance in your settings, you can easily monitor how much money you have left in your balance. Of course, you have a button to add funds that redirects to a checkout where you can add more money to your balance. Here you can see the fixed cost per SMS, WhatsApp, email, and AI tokens. The cost depends on which country you are based. For example, in the United States, one SMS costs a cent of a dollar, one WhatsApp costs 3 cents of a dollar. Emails are always unlimited and free in every country. And AI tokens, we have a fixed cost in every country of $6.60 per 1 million AI token. By scrolling here, you can firstly I see exactly for each month how much balance balance money you have paid considering all your clients. For example, in June 2026, we have spent $47. You can see the aggregated usage considering all your clients. For example, considering all our clients, we have an aggregated SMS limit of 500 SMS. And our clients use 250 SMS. So, just the 50% of the provided volume was used. And by scrolling here, we can also see the consumptions for uh each of your uh client. For example, we can see that uh Sunny Cafe in June 2026 um consumed 18 SMS on the 500 provided. So, we had a cost of $1.80. Uh they used 18 emails. So, of course, no cost for emails because they are unlimited and free. And they sent four WhatsApp messages and they used uh 44,000 AI tokens on the 500,000 AI tokens provided. So, our cost for AI features for this client has been just 29 cents. So, of course, when you set up the plans uh limit, of course, your clients are not going to use uh all the provided messages and AI tokens. Uh when you set up a plan, this uh total spending cap, of course, is the maximum cost that you can have if the client use all the provided SMS, WhatsApp, and AI tokens. But 99% of the cases, uh the client is not going to consume all the provided uh messages and AI tokens. So, your uh cost 99% of the time is going to be much uh lower. But this is very useful for you, so you can set up uh a price that is, for example, 5x, 6x, 10x your total uh maximum spending cap. So, you know for sure the minimum profit that you can have for uh each plan. On the client side, uh your clients in the uh limits uh section of their settings, they can monitor month by month the provided email, uh SMS, uh WhatsApp, and AI tokens. And they can see how uh many messages and AI tokens they are uh currently uh using. For example, this uh client here had 100 WhatsApp provided. They already used uh 15 WhatsApp messages. So, for this month, they have uh 85 WhatsApp uh left. In the history section, your clients can also uh monitor each uh message that has been uh sent. And also in the AI section, uh they can see exactly how many AI tokens each feature is uh consuming. Uh for example, here uh we spent 1,246 AI tokens for this AI review reply. Of course, if you want to limit your cost, you can not only limit the number of messages and AI tokens that your client can use, but you can also enable or disable the specific features that are going to uh produce you uh cost. For example, talking about messages in the reputation section, you can decide, for example, to disable WhatsApp or disable SMS. Uh in this case, your clients, if they want to send review requests, can use just emails that are 100% uh free for you. And talking about AI features that, of course, are going to consume uh tokens, so they're going to deduct money from your balance. Uh also in this case, you can enable or disable all the specific uh AI features. For example, as you can see here, we can enable or disable the AI uh chat. Also in the reputation section, we can, for example, disable the AI sentiment analysis. We can also disable the SEO agent, so we do not have AI tokens consumed for review replies. Also in the visibility section, we can disable the AI ranking. Also we can disable the AI agent, and in the engagement section, we can disable the social agent. So you have 100% control over the uh features uh usage. You can enable or disable specific feature, and you can also set up the uh limit of messages and AI tokens that your clients can uh use. Of course, our suggestion is to create different plans, like, for example, the bronze plan, the silver plan, and the gold plan. In the bronze plan, you can have maybe less features enabled and less uh limits. For example, as you can see here, we have just 50 monthly SMS, 30 monthly WhatsApp, and 150 monthly emails and just 100,000 monthly AI tokens. So, our spending cap is just $2. And so, we set up a price of $99. So, for every client in this plan, we make a profit of $97. And for example, as you can see in the bronze plan, the AI chat is disabled, WhatsApp is disabled. For example, the geo agent is disabled. So, we're going to have much lower cost. In the silver silver plan, you can add a little bit more uh features and higher limits. For example, the silver plan, we have a total spending cap of $6.32 uh cent. And we're going to price the silver plan $149 per month. So, also in this case, we make a huge uh profit. And then we have the gold plan with the basically all the features uh enabled and a higher uh limits. So, we have a higher total spending cap. But of course, the plan's price is uh very high, $199 per month. So, also in this case, uh we're going to make a huge uh profit. So, of course, your your goal is to create a plan that has a cost which is way over your uh total spending cap. So, you make sure that you have a very very big profit on each plan."
+}

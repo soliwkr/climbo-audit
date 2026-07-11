@@ -1,0 +1,2418 @@
+{
+  "videoId": "VibWfDfMwVA",
+  "language": "en",
+  "kind": "asr",
+  "segments": [
+    {
+      "start_ms": 0,
+      "duration_ms": 7160,
+      "text": "what is coming next in the community."
+    },
+    {
+      "start_ms": 3000,
+      "duration_ms": 8200,
+      "text": "So, from the 2nd of February, we have"
+    },
+    {
+      "start_ms": 7160,
+      "duration_ms": 7000,
+      "text": "the sales accelerator training with"
+    },
+    {
+      "start_ms": 11200,
+      "duration_ms": 5960,
+      "text": "Wayne Connell. And basically every month"
+    },
+    {
+      "start_ms": 14160,
+      "duration_ms": 7120,
+      "text": "we're going to do a live session with"
+    },
+    {
+      "start_ms": 17160,
+      "duration_ms": 7360,
+      "text": "Wayne dedicated to sales. So, you're all"
+    },
+    {
+      "start_ms": 21280,
+      "duration_ms": 6800,
+      "text": "going to learn the best sales strategies"
+    },
+    {
+      "start_ms": 24520,
+      "duration_ms": 5800,
+      "text": "to pitch Climbax, so your white-label"
+    },
+    {
+      "start_ms": 28080,
+      "duration_ms": 4560,
+      "text": "review management platform to small"
+    },
+    {
+      "start_ms": 30320,
+      "duration_ms": 4880,
+      "text": "local business owners. And of course the"
+    },
+    {
+      "start_ms": 32640,
+      "duration_ms": 4280,
+      "text": "best best strategies to convert them"
+    },
+    {
+      "start_ms": 35200,
+      "duration_ms": 4320,
+      "text": "into paying clients."
+    },
+    {
+      "start_ms": 36920,
+      "duration_ms": 5640,
+      "text": "As you all know, Wayne is a"
+    },
+    {
+      "start_ms": 39520,
+      "duration_ms": 5480,
+      "text": "sales expert, a reputation"
+    },
+    {
+      "start_ms": 42560,
+      "duration_ms": 4840,
+      "text": "expert. He's doing this reputation"
+    },
+    {
+      "start_ms": 45000,
+      "duration_ms": 6080,
+      "text": "management business since"
+    },
+    {
+      "start_ms": 47400,
+      "duration_ms": 6760,
+      "text": "years with the very very big results."
+    },
+    {
+      "start_ms": 51080,
+      "duration_ms": 6680,
+      "text": "So, I'm very excited to have Wayne in"
+    },
+    {
+      "start_ms": 54160,
+      "duration_ms": 7440,
+      "text": "our community live every month. And this"
+    },
+    {
+      "start_ms": 57760,
+      "duration_ms": 6600,
+      "text": "is going to be a a free training for all"
+    },
+    {
+      "start_ms": 61600,
+      "duration_ms": 6160,
+      "text": "the members in the community. So, just"
+    },
+    {
+      "start_ms": 64360,
+      "duration_ms": 6160,
+      "text": "make sure you go to calendar and you"
+    },
+    {
+      "start_ms": 67760,
+      "duration_ms": 4320,
+      "text": "click on the event, which is on the 2nd"
+    },
+    {
+      "start_ms": 70520,
+      "duration_ms": 4840,
+      "text": "of February. This is going to be the"
+    },
+    {
+      "start_ms": 72080,
+      "duration_ms": 4400,
+      "text": "first live session. And you add it to"
+    },
+    {
+      "start_ms": 75360,
+      "duration_ms": 3360,
+      "text": "your"
+    },
+    {
+      "start_ms": 76480,
+      "duration_ms": 4120,
+      "text": "calendar, so you get notified when the"
+    },
+    {
+      "start_ms": 78720,
+      "duration_ms": 5200,
+      "text": "event start."
+    },
+    {
+      "start_ms": 80600,
+      "duration_ms": 5880,
+      "text": "It's going to be at 9:00 p.m. Rome time."
+    },
+    {
+      "start_ms": 83920,
+      "duration_ms": 6040,
+      "text": "All right? So, that's the first thing"
+    },
+    {
+      "start_ms": 86480,
+      "duration_ms": 5840,
+      "text": "we announced yesterday. Then,"
+    },
+    {
+      "start_ms": 89960,
+      "duration_ms": 6360,
+      "text": "I've also talked a little bit about the"
+    },
+    {
+      "start_ms": 92320,
+      "duration_ms": 7680,
+      "text": "new course that we have in the start"
+    },
+    {
+      "start_ms": 96320,
+      "duration_ms": 6840,
+      "text": "here classroom. We have this new course"
+    },
+    {
+      "start_ms": 100000,
+      "duration_ms": 6440,
+      "text": "called automation for success. Where"
+    },
+    {
+      "start_ms": 103160,
+      "duration_ms": 6920,
+      "text": "basically I teach you step-by-step how"
+    },
+    {
+      "start_ms": 106440,
+      "duration_ms": 7080,
+      "text": "to build automations for your clients"
+    },
+    {
+      "start_ms": 110080,
+      "duration_ms": 6880,
+      "text": "using tools like Zapier, Any Ten,"
+    },
+    {
+      "start_ms": 113520,
+      "duration_ms": 5760,
+      "text": "Pabbly, and make.com. So, for each of"
+    },
+    {
+      "start_ms": 116960,
+      "duration_ms": 4880,
+      "text": "these tools, there is a step-by-step"
+    },
+    {
+      "start_ms": 119280,
+      "duration_ms": 5720,
+      "text": "tutorial where I share my screen and I"
+    },
+    {
+      "start_ms": 121840,
+      "duration_ms": 5720,
+      "text": "go through every technical step you need"
+    },
+    {
+      "start_ms": 125000,
+      "duration_ms": 5479,
+      "text": "to complete in order to launch"
+    },
+    {
+      "start_ms": 127560,
+      "duration_ms": 5280,
+      "text": "successfully the automation."
+    },
+    {
+      "start_ms": 130479,
+      "duration_ms": 5801,
+      "text": "So, of course, firstly"
+    },
+    {
+      "start_ms": 132840,
+      "duration_ms": 5840,
+      "text": "uh you have to see if your"
+    },
+    {
+      "start_ms": 136280,
+      "duration_ms": 4880,
+      "text": "setup process requires automation"
+    },
+    {
+      "start_ms": 138680,
+      "duration_ms": 4560,
+      "text": "because you can set up the platform and"
+    },
+    {
+      "start_ms": 141160,
+      "duration_ms": 3360,
+      "text": "install a review collection process for"
+    },
+    {
+      "start_ms": 143240,
+      "duration_ms": 3560,
+      "text": "your clients"
+    },
+    {
+      "start_ms": 144520,
+      "duration_ms": 3520,
+      "text": "that sometimes do not require"
+    },
+    {
+      "start_ms": 146800,
+      "duration_ms": 3400,
+      "text": "automation."
+    },
+    {
+      "start_ms": 148040,
+      "duration_ms": 4000,
+      "text": "But, there are some cases where"
+    },
+    {
+      "start_ms": 150200,
+      "duration_ms": 4400,
+      "text": "automations are"
+    },
+    {
+      "start_ms": 152040,
+      "duration_ms": 4600,
+      "text": "required. Of course, this video is"
+    },
+    {
+      "start_ms": 154600,
+      "duration_ms": 4400,
+      "text": "linked to the previous video called"
+    },
+    {
+      "start_ms": 156640,
+      "duration_ms": 5040,
+      "text": "setup for conversion where we talk about"
+    },
+    {
+      "start_ms": 159000,
+      "duration_ms": 3720,
+      "text": "the different types of review collection"
+    },
+    {
+      "start_ms": 161680,
+      "duration_ms": 2080,
+      "text": "process."
+    },
+    {
+      "start_ms": 162720,
+      "duration_ms": 2400,
+      "text": "And"
+    },
+    {
+      "start_ms": 163760,
+      "duration_ms": 3160,
+      "text": "there are some types of review"
+    },
+    {
+      "start_ms": 165120,
+      "duration_ms": 4560,
+      "text": "collection process that requires"
+    },
+    {
+      "start_ms": 166920,
+      "duration_ms": 6400,
+      "text": "automation. And if you have an account"
+    },
+    {
+      "start_ms": 169680,
+      "duration_ms": 5880,
+      "text": "in Zapier, AnyTask, Publy, or make.com,"
+    },
+    {
+      "start_ms": 173320,
+      "duration_ms": 4120,
+      "text": "you'll learn how to build automations."
+    },
+    {
+      "start_ms": 175560,
+      "duration_ms": 3600,
+      "text": "So, I strongly"
+    },
+    {
+      "start_ms": 177440,
+      "duration_ms": 3280,
+      "text": "suggest you to"
+    },
+    {
+      "start_ms": 179160,
+      "duration_ms": 3240,
+      "text": "watch this video."
+    },
+    {
+      "start_ms": 180720,
+      "duration_ms": 5400,
+      "text": "And then, of course, we have talked"
+    },
+    {
+      "start_ms": 182400,
+      "duration_ms": 5680,
+      "text": "about all the features that we released"
+    },
+    {
+      "start_ms": 186120,
+      "duration_ms": 4000,
+      "text": "uh this week."
+    },
+    {
+      "start_ms": 188080,
+      "duration_ms": 4439,
+      "text": "We released a lot of features, so now"
+    },
+    {
+      "start_ms": 190120,
+      "duration_ms": 8000,
+      "text": "I'm going to go through all of them. All"
+    },
+    {
+      "start_ms": 192519,
+      "duration_ms": 9081,
+      "text": "right? So, we start with the AI agents."
+    },
+    {
+      "start_ms": 198120,
+      "duration_ms": 6600,
+      "text": "So, the new features uh in your AI"
+    },
+    {
+      "start_ms": 201600,
+      "duration_ms": 6240,
+      "text": "agents. The first thing that we released"
+    },
+    {
+      "start_ms": 204720,
+      "duration_ms": 6040,
+      "text": "is custom prompt. So,"
+    },
+    {
+      "start_ms": 207840,
+      "duration_ms": 6040,
+      "text": "when you go to AI agent setup,"
+    },
+    {
+      "start_ms": 210760,
+      "duration_ms": 6920,
+      "text": "both for the SEO agent and also for the"
+    },
+    {
+      "start_ms": 213880,
+      "duration_ms": 7520,
+      "text": "social agent, there is this new"
+    },
+    {
+      "start_ms": 217680,
+      "duration_ms": 6360,
+      "text": "uh box for additional instructions. Add"
+    },
+    {
+      "start_ms": 221400,
+      "duration_ms": 4880,
+      "text": "additional instruction to the AI agent"
+    },
+    {
+      "start_ms": 224040,
+      "duration_ms": 5280,
+      "text": "that will be incorporated into the"
+    },
+    {
+      "start_ms": 226280,
+      "duration_ms": 6360,
+      "text": "default prompt. So, here you can write"
+    },
+    {
+      "start_ms": 229320,
+      "duration_ms": 4840,
+      "text": "any um, additional instructions to give"
+    },
+    {
+      "start_ms": 232640,
+      "duration_ms": 2960,
+      "text": "to the, um,"
+    },
+    {
+      "start_ms": 234160,
+      "duration_ms": 3720,
+      "text": "AI agent."
+    },
+    {
+      "start_ms": 235600,
+      "duration_ms": 5320,
+      "text": "Uh, these instructions are not going to"
+    },
+    {
+      "start_ms": 237880,
+      "duration_ms": 5720,
+      "text": "replace the default prompt."
+    },
+    {
+      "start_ms": 240920,
+      "duration_ms": 5040,
+      "text": "Uh, they are going to be added to the,"
+    },
+    {
+      "start_ms": 243600,
+      "duration_ms": 5120,
+      "text": "uh, default prompt. So, of course,"
+    },
+    {
+      "start_ms": 245960,
+      "duration_ms": 4800,
+      "text": "firstly, you customize the agent with,"
+    },
+    {
+      "start_ms": 248720,
+      "duration_ms": 4680,
+      "text": "for example, the tone, and the length,"
+    },
+    {
+      "start_ms": 250760,
+      "duration_ms": 5319,
+      "text": "and the reply language. And then you can"
+    },
+    {
+      "start_ms": 253400,
+      "duration_ms": 7760,
+      "text": "add additional instruction to make the"
+    },
+    {
+      "start_ms": 256079,
+      "duration_ms": 7801,
+      "text": "agent 100% coherent with your client's,"
+    },
+    {
+      "start_ms": 261160,
+      "duration_ms": 5400,
+      "text": "uh, voice, all right? And this is"
+    },
+    {
+      "start_ms": 263880,
+      "duration_ms": 5400,
+      "text": "released both for the sale agent,"
+    },
+    {
+      "start_ms": 266560,
+      "duration_ms": 5200,
+      "text": "and also for the, uh, social agent."
+    },
+    {
+      "start_ms": 269280,
+      "duration_ms": 5920,
+      "text": "That's the first feature we released."
+    },
+    {
+      "start_ms": 271760,
+      "duration_ms": 4920,
+      "text": "Second feature is this highly requested"
+    },
+    {
+      "start_ms": 275200,
+      "duration_ms": 5200,
+      "text": "feature here,"
+    },
+    {
+      "start_ms": 276680,
+      "duration_ms": 6880,
+      "text": "uh, about the, uh, possibility to reply"
+    },
+    {
+      "start_ms": 280400,
+      "duration_ms": 5000,
+      "text": "with a single click to all the past"
+    },
+    {
+      "start_ms": 283560,
+      "duration_ms": 4440,
+      "text": "Google reviews,"
+    },
+    {
+      "start_ms": 285400,
+      "duration_ms": 4640,
+      "text": "uh, without a response, all right? So, a"
+    },
+    {
+      "start_ms": 288000,
+      "duration_ms": 5000,
+      "text": "lot of your clients, uh, when they sign"
+    },
+    {
+      "start_ms": 290040,
+      "duration_ms": 5240,
+      "text": "up for, uh, your platform, when they get"
+    },
+    {
+      "start_ms": 293000,
+      "duration_ms": 3800,
+      "text": "into the free trial, for example,"
+    },
+    {
+      "start_ms": 295280,
+      "duration_ms": 3960,
+      "text": "and maybe they have a lot of past"
+    },
+    {
+      "start_ms": 296800,
+      "duration_ms": 5880,
+      "text": "reviews, even hundreds of past Google"
+    },
+    {
+      "start_ms": 299240,
+      "duration_ms": 5840,
+      "text": "reviews without a response. And this is"
+    },
+    {
+      "start_ms": 302680,
+      "duration_ms": 4320,
+      "text": "very, very bad for, uh, Google when you"
+    },
+    {
+      "start_ms": 305080,
+      "duration_ms": 4200,
+      "text": "do not reply"
+    },
+    {
+      "start_ms": 307000,
+      "duration_ms": 5360,
+      "text": "to Google, uh, reviews. So, Google,"
+    },
+    {
+      "start_ms": 309280,
+      "duration_ms": 5440,
+      "text": "uh, rank you lower if you, if your reply"
+    },
+    {
+      "start_ms": 312360,
+      "duration_ms": 4640,
+      "text": "score is low."
+    },
+    {
+      "start_ms": 314720,
+      "duration_ms": 5360,
+      "text": "And, uh, of course, as you know, if the"
+    },
+    {
+      "start_ms": 317000,
+      "duration_ms": 6040,
+      "text": "SEO agent is enabled, the agent is going"
+    },
+    {
+      "start_ms": 320080,
+      "duration_ms": 5440,
+      "text": "to reply just to the new reviews. Uh,"
+    },
+    {
+      "start_ms": 323040,
+      "duration_ms": 3680,
+      "text": "but what about the past reviews without"
+    },
+    {
+      "start_ms": 325520,
+      "duration_ms": 2720,
+      "text": "a response?"
+    },
+    {
+      "start_ms": 326720,
+      "duration_ms": 3840,
+      "text": "We have now a solution. So, there is"
+    },
+    {
+      "start_ms": 328240,
+      "duration_ms": 5120,
+      "text": "this, um, um,"
+    },
+    {
+      "start_ms": 330560,
+      "duration_ms": 4400,
+      "text": "feature where we just a click, you"
+    },
+    {
+      "start_ms": 333360,
+      "duration_ms": 3880,
+      "text": "enable"
+    },
+    {
+      "start_ms": 334960,
+      "duration_ms": 5040,
+      "text": "the, um, the"
+    },
+    {
+      "start_ms": 337240,
+      "duration_ms": 4400,
+      "text": "the AI agent, the SEO agent, to reply to"
+    },
+    {
+      "start_ms": 340000,
+      "duration_ms": 3280,
+      "text": "all past reviews."
+    },
+    {
+      "start_ms": 341640,
+      "duration_ms": 4480,
+      "text": "We keep, uh,"
+    },
+    {
+      "start_ms": 343280,
+      "duration_ms": 5720,
+      "text": "a limit on the number of, uh, reviews"
+    },
+    {
+      "start_ms": 346120,
+      "duration_ms": 5680,
+      "text": "that the agent is going to reply to"
+    },
+    {
+      "start_ms": 349000,
+      "duration_ms": 4120,
+      "text": "every day. Specifically, there is"
+    },
+    {
+      "start_ms": 351800,
+      "duration_ms": 4840,
+      "text": "maximum"
+    },
+    {
+      "start_ms": 353120,
+      "duration_ms": 5000,
+      "text": "five reviews per day are going to be"
+    },
+    {
+      "start_ms": 356640,
+      "duration_ms": 3600,
+      "text": "responded to."
+    },
+    {
+      "start_ms": 358120,
+      "duration_ms": 4680,
+      "text": "And your clients here can simply monitor"
+    },
+    {
+      "start_ms": 360240,
+      "duration_ms": 5240,
+      "text": "the progress. For example, in this in"
+    },
+    {
+      "start_ms": 362800,
+      "duration_ms": 4480,
+      "text": "this case, we had 20 past reviews"
+    },
+    {
+      "start_ms": 365480,
+      "duration_ms": 2960,
+      "text": "without a response."
+    },
+    {
+      "start_ms": 367280,
+      "duration_ms": 3480,
+      "text": "And the"
+    },
+    {
+      "start_ms": 368440,
+      "duration_ms": 4240,
+      "text": "process of replying to the past reviews"
+    },
+    {
+      "start_ms": 370760,
+      "duration_ms": 5480,
+      "text": "is still in progress."
+    },
+    {
+      "start_ms": 372680,
+      "duration_ms": 7400,
+      "text": "And we have responded to 12 reviews. And"
+    },
+    {
+      "start_ms": 376240,
+      "duration_ms": 5640,
+      "text": "here you can see when we launched this"
+    },
+    {
+      "start_ms": 380080,
+      "duration_ms": 5680,
+      "text": "this"
+    },
+    {
+      "start_ms": 381880,
+      "duration_ms": 5920,
+      "text": "automation and the estimated end. And"
+    },
+    {
+      "start_ms": 385760,
+      "duration_ms": 4400,
+      "text": "here we see the badge in progress,"
+    },
+    {
+      "start_ms": 387800,
+      "duration_ms": 3240,
+      "text": "meaning that we are currently replying"
+    },
+    {
+      "start_ms": 390160,
+      "duration_ms": 4160,
+      "text": "to the"
+    },
+    {
+      "start_ms": 391040,
+      "duration_ms": 6440,
+      "text": "past reviews. So, why this limit of five"
+    },
+    {
+      "start_ms": 394320,
+      "duration_ms": 6000,
+      "text": "reviews per day? Because, of course,"
+    },
+    {
+      "start_ms": 397480,
+      "duration_ms": 5880,
+      "text": "Google do not want you to reply to"
+    },
+    {
+      "start_ms": 400320,
+      "duration_ms": 6040,
+      "text": "hundreds of past reviews on the same"
+    },
+    {
+      "start_ms": 403360,
+      "duration_ms": 7120,
+      "text": "day. Google don't like this."
+    },
+    {
+      "start_ms": 406360,
+      "duration_ms": 6559,
+      "text": "And Google maybe can spot some kind of"
+    },
+    {
+      "start_ms": 410480,
+      "duration_ms": 5720,
+      "text": "automations that can penalize the Google"
+    },
+    {
+      "start_ms": 412919,
+      "duration_ms": 5121,
+      "text": "Business Profile. So, we want to make it"
+    },
+    {
+      "start_ms": 416200,
+      "duration_ms": 4880,
+      "text": "real. We want to make it human. So,"
+    },
+    {
+      "start_ms": 418040,
+      "duration_ms": 5160,
+      "text": "that's why we decided a limit of five"
+    },
+    {
+      "start_ms": 421080,
+      "duration_ms": 4839,
+      "text": "reviews per day. It means that if your"
+    },
+    {
+      "start_ms": 423200,
+      "duration_ms": 5960,
+      "text": "clients had have hundreds of reviews"
+    },
+    {
+      "start_ms": 425919,
+      "duration_ms": 5881,
+      "text": "without response, maybe it can take a"
+    },
+    {
+      "start_ms": 429160,
+      "duration_ms": 5759,
+      "text": "few weeks or even months to reply to all"
+    },
+    {
+      "start_ms": 431800,
+      "duration_ms": 5320,
+      "text": "the reviews. But in this way, we make"
+    },
+    {
+      "start_ms": 434919,
+      "duration_ms": 4121,
+      "text": "sure that the your client's Google"
+    },
+    {
+      "start_ms": 437120,
+      "duration_ms": 5240,
+      "text": "Business Profile is"
+    },
+    {
+      "start_ms": 439040,
+      "duration_ms": 6720,
+      "text": "safe, all right? Because we are"
+    },
+    {
+      "start_ms": 442360,
+      "duration_ms": 4440,
+      "text": "we are respecting the Google safe rates"
+    },
+    {
+      "start_ms": 445760,
+      "duration_ms": 3680,
+      "text": "limits."
+    },
+    {
+      "start_ms": 446800,
+      "duration_ms": 3840,
+      "text": "So, that's the second thing we released,"
+    },
+    {
+      "start_ms": 449440,
+      "duration_ms": 4280,
+      "text": "very very"
+    },
+    {
+      "start_ms": 450640,
+      "duration_ms": 7480,
+      "text": "highly requested. Then we have this"
+    },
+    {
+      "start_ms": 453720,
+      "duration_ms": 5640,
+      "text": "history section that is new in your AI"
+    },
+    {
+      "start_ms": 458120,
+      "duration_ms": 2480,
+      "text": "agents"
+    },
+    {
+      "start_ms": 459360,
+      "duration_ms": 2640,
+      "text": "dashboard."
+    },
+    {
+      "start_ms": 460600,
+      "duration_ms": 4600,
+      "text": "Where basically,"
+    },
+    {
+      "start_ms": 462000,
+      "duration_ms": 6480,
+      "text": "your clients can monitor the activity of"
+    },
+    {
+      "start_ms": 465200,
+      "duration_ms": 4240,
+      "text": "the agents. As you know, for now we have"
+    },
+    {
+      "start_ms": 468480,
+      "duration_ms": 3760,
+      "text": "two"
+    },
+    {
+      "start_ms": 469440,
+      "duration_ms": 4960,
+      "text": "different AI agents, so the SEO agent"
+    },
+    {
+      "start_ms": 472240,
+      "duration_ms": 5040,
+      "text": "and the social agent. So, your clients"
+    },
+    {
+      "start_ms": 474400,
+      "duration_ms": 6480,
+      "text": "can see, for example, that yesterday the"
+    },
+    {
+      "start_ms": 477280,
+      "duration_ms": 6680,
+      "text": "SEO agent replied to this Google review"
+    },
+    {
+      "start_ms": 480880,
+      "duration_ms": 6880,
+      "text": "and this was the reply generated by the"
+    },
+    {
+      "start_ms": 483960,
+      "duration_ms": 7160,
+      "text": "SEO agent. Or they can see that this"
+    },
+    {
+      "start_ms": 487760,
+      "duration_ms": 6080,
+      "text": "reviews was shared on Facebook and"
+    },
+    {
+      "start_ms": 491120,
+      "duration_ms": 5640,
+      "text": "Instagram by the social agent. And this"
+    },
+    {
+      "start_ms": 493840,
+      "duration_ms": 5400,
+      "text": "was the image shared and this was the"
+    },
+    {
+      "start_ms": 496760,
+      "duration_ms": 4760,
+      "text": "caption generated by the agents."
+    },
+    {
+      "start_ms": 499240,
+      "duration_ms": 5520,
+      "text": "And and so. So, this is super super"
+    },
+    {
+      "start_ms": 501520,
+      "duration_ms": 5240,
+      "text": "useful for you also to showcase maybe at"
+    },
+    {
+      "start_ms": 504760,
+      "duration_ms": 3120,
+      "text": "the end of the free trial to your"
+    },
+    {
+      "start_ms": 506760,
+      "duration_ms": 4360,
+      "text": "clients"
+    },
+    {
+      "start_ms": 507880,
+      "duration_ms": 6120,
+      "text": "the fact that the agents are working in"
+    },
+    {
+      "start_ms": 511120,
+      "duration_ms": 4840,
+      "text": "the background. You don't need to go to"
+    },
+    {
+      "start_ms": 514000,
+      "duration_ms": 4800,
+      "text": "your social media pages"
+    },
+    {
+      "start_ms": 515960,
+      "duration_ms": 5480,
+      "text": "or to go to Google to show to your"
+    },
+    {
+      "start_ms": 518800,
+      "duration_ms": 4440,
+      "text": "clients that the agents are replying to"
+    },
+    {
+      "start_ms": 521440,
+      "duration_ms": 4760,
+      "text": "reviews or sharing reviews on social"
+    },
+    {
+      "start_ms": 523240,
+      "duration_ms": 4480,
+      "text": "media. You can see everything directly"
+    },
+    {
+      "start_ms": 526200,
+      "duration_ms": 2800,
+      "text": "inside the"
+    },
+    {
+      "start_ms": 527720,
+      "duration_ms": 3160,
+      "text": "platform."
+    },
+    {
+      "start_ms": 529000,
+      "duration_ms": 5000,
+      "text": "And your clients will love it because"
+    },
+    {
+      "start_ms": 530880,
+      "duration_ms": 6320,
+      "text": "they see that without lifting a finger,"
+    },
+    {
+      "start_ms": 534000,
+      "duration_ms": 5920,
+      "text": "the platform is working for them in the"
+    },
+    {
+      "start_ms": 537200,
+      "duration_ms": 4600,
+      "text": "background. So, that's the third thing"
+    },
+    {
+      "start_ms": 539920,
+      "duration_ms": 3360,
+      "text": "we released."
+    },
+    {
+      "start_ms": 541800,
+      "duration_ms": 3840,
+      "text": "Then,"
+    },
+    {
+      "start_ms": 543280,
+      "duration_ms": 3840,
+      "text": "another thing we released yesterday,"
+    },
+    {
+      "start_ms": 545640,
+      "duration_ms": 4640,
+      "text": "very very"
+    },
+    {
+      "start_ms": 547120,
+      "duration_ms": 8440,
+      "text": "highly requested, is the possibility to"
+    },
+    {
+      "start_ms": 550280,
+      "duration_ms": 6800,
+      "text": "have on review links also a video"
+    },
+    {
+      "start_ms": 555560,
+      "duration_ms": 2880,
+      "text": "other than"
+    },
+    {
+      "start_ms": 557080,
+      "duration_ms": 3880,
+      "text": "a logo."
+    },
+    {
+      "start_ms": 558440,
+      "duration_ms": 6680,
+      "text": "So, this is super super simple. Your"
+    },
+    {
+      "start_ms": 560960,
+      "duration_ms": 6240,
+      "text": "client just need to drag a video here in"
+    },
+    {
+      "start_ms": 565120,
+      "duration_ms": 5320,
+      "text": "the media folder"
+    },
+    {
+      "start_ms": 567200,
+      "duration_ms": 6360,
+      "text": "and the video will appear here. So, this"
+    },
+    {
+      "start_ms": 570440,
+      "duration_ms": 6280,
+      "text": "is super powerful in in order to"
+    },
+    {
+      "start_ms": 573560,
+      "duration_ms": 6280,
+      "text": "increase the conversions in a"
+    },
+    {
+      "start_ms": 576720,
+      "duration_ms": 5480,
+      "text": "review gained through the review links"
+    },
+    {
+      "start_ms": 579840,
+      "duration_ms": 4680,
+      "text": "because here your clients can add maybe"
+    },
+    {
+      "start_ms": 582200,
+      "duration_ms": 5560,
+      "text": "a video selfie"
+    },
+    {
+      "start_ms": 584520,
+      "duration_ms": 5040,
+      "text": "where they simply say hello, thanks for"
+    },
+    {
+      "start_ms": 587760,
+      "duration_ms": 4680,
+      "text": "visiting us."
+    },
+    {
+      "start_ms": 589560,
+      "duration_ms": 7720,
+      "text": "We would love to have a positive review"
+    },
+    {
+      "start_ms": 592440,
+      "duration_ms": 8920,
+      "text": "from you and so the end customer will"
+    },
+    {
+      "start_ms": 597280,
+      "duration_ms": 6800,
+      "text": "feel more trust, will feel more close to"
+    },
+    {
+      "start_ms": 601360,
+      "duration_ms": 6240,
+      "text": "the local business owners and probably"
+    },
+    {
+      "start_ms": 604080,
+      "duration_ms": 5080,
+      "text": "the the conversion into review"
+    },
+    {
+      "start_ms": 607600,
+      "duration_ms": 4280,
+      "text": "left will be"
+    },
+    {
+      "start_ms": 609160,
+      "duration_ms": 6760,
+      "text": "will be much higher. So this was highly"
+    },
+    {
+      "start_ms": 611880,
+      "duration_ms": 5880,
+      "text": "requested and it's live and I'm super"
+    },
+    {
+      "start_ms": 615920,
+      "duration_ms": 5600,
+      "text": "happy about this feature because this"
+    },
+    {
+      "start_ms": 617760,
+      "duration_ms": 7400,
+      "text": "feature came from the community and so"
+    },
+    {
+      "start_ms": 621520,
+      "duration_ms": 6840,
+      "text": "keep of course posting in the community"
+    },
+    {
+      "start_ms": 625160,
+      "duration_ms": 5720,
+      "text": "some proposals about the features that"
+    },
+    {
+      "start_ms": 628360,
+      "duration_ms": 5520,
+      "text": "you would like to have in the platform"
+    },
+    {
+      "start_ms": 630880,
+      "duration_ms": 5640,
+      "text": "and keep monitoring the road map at"
+    },
+    {
+      "start_ms": 633880,
+      "duration_ms": 5520,
+      "text": "roadmap.claimber.com and of course you"
+    },
+    {
+      "start_ms": 636520,
+      "duration_ms": 4360,
+      "text": "know that the development of the"
+    },
+    {
+      "start_ms": 639400,
+      "duration_ms": 3280,
+      "text": "platform"
+    },
+    {
+      "start_ms": 640880,
+      "duration_ms": 3920,
+      "text": "is ruled by"
+    },
+    {
+      "start_ms": 642680,
+      "duration_ms": 4760,
+      "text": "by by us all together. So by the"
+    },
+    {
+      "start_ms": 644800,
+      "duration_ms": 4920,
+      "text": "Claimber team but also the community has"
+    },
+    {
+      "start_ms": 647440,
+      "duration_ms": 4800,
+      "text": "a super important role."
+    },
+    {
+      "start_ms": 649720,
+      "duration_ms": 5200,
+      "text": "And so that's another cool feature we"
+    },
+    {
+      "start_ms": 652240,
+      "duration_ms": 6480,
+      "text": "released but it's not finished."
+    },
+    {
+      "start_ms": 654920,
+      "duration_ms": 6240,
+      "text": "Another big thing that was requested"
+    },
+    {
+      "start_ms": 658720,
+      "duration_ms": 2440,
+      "text": "is"
+    },
+    {
+      "start_ms": 664440,
+      "duration_ms": 7040,
+      "text": "the possibility to filter widgets for"
+    },
+    {
+      "start_ms": 667920,
+      "duration_ms": 6160,
+      "text": "review source. So before today on your"
+    },
+    {
+      "start_ms": 671480,
+      "duration_ms": 5480,
+      "text": "widgets for example on the carousels"
+    },
+    {
+      "start_ms": 674080,
+      "duration_ms": 5759,
+      "text": "there were all the reviews left by the"
+    },
+    {
+      "start_ms": 676960,
+      "duration_ms": 4280,
+      "text": "end customers on all the integrated"
+    },
+    {
+      "start_ms": 679839,
+      "duration_ms": 3721,
+      "text": "review sites."
+    },
+    {
+      "start_ms": 681240,
+      "duration_ms": 5520,
+      "text": "Now your clients can choose to for"
+    },
+    {
+      "start_ms": 683560,
+      "duration_ms": 6080,
+      "text": "example hide in this case Trustpilot"
+    },
+    {
+      "start_ms": 686760,
+      "duration_ms": 5560,
+      "text": "reviews from the widgets or maybe they"
+    },
+    {
+      "start_ms": 689640,
+      "duration_ms": 4400,
+      "text": "can choose to showcase just Google"
+    },
+    {
+      "start_ms": 692320,
+      "duration_ms": 3800,
+      "text": "reviews. So, they can play with these"
+    },
+    {
+      "start_ms": 694040,
+      "duration_ms": 3760,
+      "text": "features and choose"
+    },
+    {
+      "start_ms": 696120,
+      "duration_ms": 4520,
+      "text": "which"
+    },
+    {
+      "start_ms": 697800,
+      "duration_ms": 3880,
+      "text": "reviews they want to share on their"
+    },
+    {
+      "start_ms": 700640,
+      "duration_ms": 4640,
+      "text": "widgets."
+    },
+    {
+      "start_ms": 701680,
+      "duration_ms": 5160,
+      "text": "There is another feature about widgets"
+    },
+    {
+      "start_ms": 705280,
+      "duration_ms": 4000,
+      "text": "which is coming"
+    },
+    {
+      "start_ms": 706840,
+      "duration_ms": 4920,
+      "text": "which will be the possibility to hide"
+    },
+    {
+      "start_ms": 709280,
+      "duration_ms": 5000,
+      "text": "specific reviews from"
+    },
+    {
+      "start_ms": 711760,
+      "duration_ms": 5120,
+      "text": "widgets. This was requested and will be"
+    },
+    {
+      "start_ms": 714280,
+      "duration_ms": 5080,
+      "text": "live in the coming weeks. So, basically"
+    },
+    {
+      "start_ms": 716880,
+      "duration_ms": 7040,
+      "text": "for each review there will be a simple"
+    },
+    {
+      "start_ms": 719360,
+      "duration_ms": 6480,
+      "text": "button to hide that reviews from widget."
+    },
+    {
+      "start_ms": 723920,
+      "duration_ms": 5280,
+      "text": "And so,"
+    },
+    {
+      "start_ms": 725840,
+      "duration_ms": 4960,
+      "text": "that's all related to the clients mode,"
+    },
+    {
+      "start_ms": 729200,
+      "duration_ms": 3840,
+      "text": "all right? These are all the features"
+    },
+    {
+      "start_ms": 730800,
+      "duration_ms": 3720,
+      "text": "that we built during this week for the"
+    },
+    {
+      "start_ms": 733040,
+      "duration_ms": 4640,
+      "text": "clients mode."
+    },
+    {
+      "start_ms": 734520,
+      "duration_ms": 4000,
+      "text": "So, a very big week. Now, let's go to"
+    },
+    {
+      "start_ms": 737680,
+      "duration_ms": 3800,
+      "text": "the"
+    },
+    {
+      "start_ms": 738520,
+      "duration_ms": 6240,
+      "text": "agency mode because we have very big"
+    },
+    {
+      "start_ms": 741480,
+      "duration_ms": 5840,
+      "text": "features also for your agency mode."
+    },
+    {
+      "start_ms": 744760,
+      "duration_ms": 3800,
+      "text": "The first big thing that we released"
+    },
+    {
+      "start_ms": 747320,
+      "duration_ms": 4920,
+      "text": "this week"
+    },
+    {
+      "start_ms": 748560,
+      "duration_ms": 6640,
+      "text": "is the free trial banner. So, we just go"
+    },
+    {
+      "start_ms": 752240,
+      "duration_ms": 4760,
+      "text": "to the brand section."
+    },
+    {
+      "start_ms": 755200,
+      "duration_ms": 4800,
+      "text": "Here, of course, as you know, this is"
+    },
+    {
+      "start_ms": 757000,
+      "duration_ms": 5200,
+      "text": "the section where you can customize the"
+    },
+    {
+      "start_ms": 760000,
+      "duration_ms": 3600,
+      "text": "design of your platform."
+    },
+    {
+      "start_ms": 762200,
+      "duration_ms": 5880,
+      "text": "There is this"
+    },
+    {
+      "start_ms": 763600,
+      "duration_ms": 6880,
+      "text": "new option called free trial banner. And"
+    },
+    {
+      "start_ms": 768080,
+      "duration_ms": 4680,
+      "text": "you can enable the display of an"
+    },
+    {
+      "start_ms": 770480,
+      "duration_ms": 4240,
+      "text": "informational banner for customers in"
+    },
+    {
+      "start_ms": 772760,
+      "duration_ms": 3680,
+      "text": "the trial period"
+    },
+    {
+      "start_ms": 774720,
+      "duration_ms": 4800,
+      "text": "within the application."
+    },
+    {
+      "start_ms": 776440,
+      "duration_ms": 4720,
+      "text": "Basically, if you enable the free trial"
+    },
+    {
+      "start_ms": 779520,
+      "duration_ms": 5040,
+      "text": "banner,"
+    },
+    {
+      "start_ms": 781160,
+      "duration_ms": 6400,
+      "text": "all your clients in the trialing phase,"
+    },
+    {
+      "start_ms": 784560,
+      "duration_ms": 6080,
+      "text": "so the clients with status trialing, so"
+    },
+    {
+      "start_ms": 787560,
+      "duration_ms": 4600,
+      "text": "clients that are for example on on a"
+    },
+    {
+      "start_ms": 790640,
+      "duration_ms": 3640,
+      "text": "free trial,"
+    },
+    {
+      "start_ms": 792160,
+      "duration_ms": 3800,
+      "text": "on a 7-days free trial,"
+    },
+    {
+      "start_ms": 794280,
+      "duration_ms": 2760,
+      "text": "they will see this"
+    },
+    {
+      "start_ms": 795960,
+      "duration_ms": 4040,
+      "text": "badge"
+    },
+    {
+      "start_ms": 797040,
+      "duration_ms": 5520,
+      "text": "on the top of the platform. A badge that"
+    },
+    {
+      "start_ms": 800000,
+      "duration_ms": 4880,
+      "text": "Sorry, a banner that clients in other"
+    },
+    {
+      "start_ms": 802560,
+      "duration_ms": 3800,
+      "text": "status do not see. So, for example, your"
+    },
+    {
+      "start_ms": 804880,
+      "duration_ms": 3760,
+      "text": "paying clients"
+    },
+    {
+      "start_ms": 806360,
+      "duration_ms": 4440,
+      "text": "do not see this um"
+    },
+    {
+      "start_ms": 808640,
+      "duration_ms": 3840,
+      "text": "this banner. And here you can write"
+    },
+    {
+      "start_ms": 810800,
+      "duration_ms": 5080,
+      "text": "something like a"
+    },
+    {
+      "start_ms": 812480,
+      "duration_ms": 8320,
+      "text": "you are on a 7-days free trial with the"
+    },
+    {
+      "start_ms": 815880,
+      "duration_ms": 8400,
+      "text": "call to action upgrade here and with the"
+    },
+    {
+      "start_ms": 820800,
+      "duration_ms": 6280,
+      "text": "link to your billing page as"
+    },
+    {
+      "start_ms": 824280,
+      "duration_ms": 3760,
+      "text": "redirect URL. And as you can see, we"
+    },
+    {
+      "start_ms": 827080,
+      "duration_ms": 2440,
+      "text": "have a"
+    },
+    {
+      "start_ms": 828040,
+      "duration_ms": 3560,
+      "text": "the"
+    },
+    {
+      "start_ms": 829520,
+      "duration_ms": 4200,
+      "text": "the text of the banner here and then"
+    },
+    {
+      "start_ms": 831600,
+      "duration_ms": 4440,
+      "text": "here there is the call to action. And"
+    },
+    {
+      "start_ms": 833720,
+      "duration_ms": 4400,
+      "text": "your clients can just click there and go"
+    },
+    {
+      "start_ms": 836040,
+      "duration_ms": 4600,
+      "text": "to the billing page, add a payment"
+    },
+    {
+      "start_ms": 838120,
+      "duration_ms": 5400,
+      "text": "method, and"
+    },
+    {
+      "start_ms": 840640,
+      "duration_ms": 6240,
+      "text": "sign up as a paying customer. So, this"
+    },
+    {
+      "start_ms": 843520,
+      "duration_ms": 4600,
+      "text": "will increase the conversions"
+    },
+    {
+      "start_ms": 846880,
+      "duration_ms": 3480,
+      "text": "from"
+    },
+    {
+      "start_ms": 848120,
+      "duration_ms": 4920,
+      "text": "free trial to paying customer. Of"
+    },
+    {
+      "start_ms": 850360,
+      "duration_ms": 4920,
+      "text": "course, this is why we added this um"
+    },
+    {
+      "start_ms": 853040,
+      "duration_ms": 4680,
+      "text": "um this element"
+    },
+    {
+      "start_ms": 855280,
+      "duration_ms": 5360,
+      "text": "in order to for you to show to your"
+    },
+    {
+      "start_ms": 857720,
+      "duration_ms": 5040,
+      "text": "clients in a free trial a specific"
+    },
+    {
+      "start_ms": 860640,
+      "duration_ms": 3280,
+      "text": "message. Maybe here you can add also"
+    },
+    {
+      "start_ms": 862760,
+      "duration_ms": 4840,
+      "text": "something uh"
+    },
+    {
+      "start_ms": 863920,
+      "duration_ms": 5919,
+      "text": "uh like a Calendly link to book"
+    },
+    {
+      "start_ms": 867600,
+      "duration_ms": 3840,
+      "text": "a call with you. Maybe the call at the"
+    },
+    {
+      "start_ms": 869839,
+      "duration_ms": 3921,
+      "text": "the end of the"
+    },
+    {
+      "start_ms": 871440,
+      "duration_ms": 5280,
+      "text": "free trial. So, here they always have a"
+    },
+    {
+      "start_ms": 873760,
+      "duration_ms": 6160,
+      "text": "message with a call to action that you"
+    },
+    {
+      "start_ms": 876720,
+      "duration_ms": 5840,
+      "text": "can 100% personalize."
+    },
+    {
+      "start_ms": 879920,
+      "duration_ms": 6720,
+      "text": "So, let me show you an"
+    },
+    {
+      "start_ms": 882560,
+      "duration_ms": 6680,
+      "text": "example. Um so, let me go to the"
+    },
+    {
+      "start_ms": 886640,
+      "duration_ms": 5000,
+      "text": "plans section. Uh here we have the"
+    },
+    {
+      "start_ms": 889240,
+      "duration_ms": 5920,
+      "text": "silver plan. As you can see, the silver"
+    },
+    {
+      "start_ms": 891640,
+      "duration_ms": 6520,
+      "text": "plan has a 7-days free trial. So, we"
+    },
+    {
+      "start_ms": 895160,
+      "duration_ms": 4240,
+      "text": "open the payment link."
+    },
+    {
+      "start_ms": 898160,
+      "duration_ms": 4080,
+      "text": "And we"
+    },
+    {
+      "start_ms": 899400,
+      "duration_ms": 5360,
+      "text": "um onboard to this free"
+    },
+    {
+      "start_ms": 902240,
+      "duration_ms": 2520,
+      "text": "trial."
+    },
+    {
+      "start_ms": 908040,
+      "duration_ms": 5600,
+      "text": "All right, I'm using of course a test"
+    },
+    {
+      "start_ms": 909920,
+      "duration_ms": 3720,
+      "text": "email. Start trial."
+    },
+    {
+      "start_ms": 916320,
+      "duration_ms": 6000,
+      "text": "As you know, now we are automatically"
+    },
+    {
+      "start_ms": 918680,
+      "duration_ms": 3640,
+      "text": "onboarded into the platform."
+    },
+    {
+      "start_ms": 923760,
+      "duration_ms": 5080,
+      "text": "As you know, the first step is the setup"
+    },
+    {
+      "start_ms": 926120,
+      "duration_ms": 2720,
+      "text": "of the password."
+    },
+    {
+      "start_ms": 933760,
+      "duration_ms": 4560,
+      "text": "All right."
+    },
+    {
+      "start_ms": 935800,
+      "duration_ms": 4920,
+      "text": "Second step, of course, the uh location"
+    },
+    {
+      "start_ms": 938320,
+      "duration_ms": 2400,
+      "text": "name."
+    },
+    {
+      "start_ms": 945440,
+      "duration_ms": 4520,
+      "text": "And then there is also this new thing"
+    },
+    {
+      "start_ms": 947720,
+      "duration_ms": 5120,
+      "text": "that I wanted to uh show you."
+    },
+    {
+      "start_ms": 949960,
+      "duration_ms": 5240,
+      "text": "That basically your uh clients during"
+    },
+    {
+      "start_ms": 952840,
+      "duration_ms": 5880,
+      "text": "the first onboarding, they have now the"
+    },
+    {
+      "start_ms": 955200,
+      "duration_ms": 5640,
+      "text": "possibility to connect uh Google. So,"
+    },
+    {
+      "start_ms": 958720,
+      "duration_ms": 2760,
+      "text": "instead of connecting Google"
+    },
+    {
+      "start_ms": 960840,
+      "duration_ms": 4080,
+      "text": "um"
+    },
+    {
+      "start_ms": 961480,
+      "duration_ms": 6920,
+      "text": "from the uh settings integrations after"
+    },
+    {
+      "start_ms": 964920,
+      "duration_ms": 5680,
+      "text": "the onboarding, they are here uh prompt"
+    },
+    {
+      "start_ms": 968400,
+      "duration_ms": 5120,
+      "text": "to connect their uh Google Business"
+    },
+    {
+      "start_ms": 970600,
+      "duration_ms": 5320,
+      "text": "Profile. So, when they log into the"
+    },
+    {
+      "start_ms": 973520,
+      "duration_ms": 5400,
+      "text": "platform for the uh first time, the"
+    },
+    {
+      "start_ms": 975920,
+      "duration_ms": 5520,
+      "text": "platform is already filled with all the"
+    },
+    {
+      "start_ms": 978920,
+      "duration_ms": 5800,
+      "text": "Google features like the Google reviews,"
+    },
+    {
+      "start_ms": 981440,
+      "duration_ms": 5600,
+      "text": "the profile section is filled with their"
+    },
+    {
+      "start_ms": 984720,
+      "duration_ms": 4680,
+      "text": "uh Google Business Profile uh"
+    },
+    {
+      "start_ms": 987040,
+      "duration_ms": 4400,
+      "text": "information. And so, Google is uh"
+    },
+    {
+      "start_ms": 989400,
+      "duration_ms": 4880,
+      "text": "already connected, so they can start to"
+    },
+    {
+      "start_ms": 991440,
+      "duration_ms": 5080,
+      "text": "replying to reviews. And so, they just"
+    },
+    {
+      "start_ms": 994280,
+      "duration_ms": 5280,
+      "text": "click uh here and there is the same"
+    },
+    {
+      "start_ms": 996520,
+      "duration_ms": 5600,
+      "text": "pop-up where they can connect Google via"
+    },
+    {
+      "start_ms": 999560,
+      "duration_ms": 5320,
+      "text": "uh login or via uh public access. So,"
+    },
+    {
+      "start_ms": 1002120,
+      "duration_ms": 5200,
+      "text": "also this was highly requested and is"
+    },
+    {
+      "start_ms": 1004880,
+      "duration_ms": 4600,
+      "text": "now uh live. And of course, there is"
+    },
+    {
+      "start_ms": 1007320,
+      "duration_ms": 6400,
+      "text": "also the possibility for them, if they"
+    },
+    {
+      "start_ms": 1009480,
+      "duration_ms": 7120,
+      "text": "want to skip the uh Google um"
+    },
+    {
+      "start_ms": 1013720,
+      "duration_ms": 5160,
+      "text": "uh connection and connect it later from"
+    },
+    {
+      "start_ms": 1016600,
+      "duration_ms": 5440,
+      "text": "the settings. For example, I'm skipping"
+    },
+    {
+      "start_ms": 1018880,
+      "duration_ms": 6319,
+      "text": "now, so I log in to the platform."
+    },
+    {
+      "start_ms": 1022040,
+      "duration_ms": 6960,
+      "text": "And as you can see, I have my uh free"
+    },
+    {
+      "start_ms": 1025199,
+      "duration_ms": 6201,
+      "text": "trial banner here because I'm a um a"
+    },
+    {
+      "start_ms": 1029000,
+      "duration_ms": 5079,
+      "text": "client in the uh free trial phase, so I"
+    },
+    {
+      "start_ms": 1031400,
+      "duration_ms": 6200,
+      "text": "see you are on a 7-days free trial and"
+    },
+    {
+      "start_ms": 1034079,
+      "duration_ms": 6081,
+      "text": "the button upgrade uh here. And uh of"
+    },
+    {
+      "start_ms": 1037600,
+      "duration_ms": 5160,
+      "text": "course, as you know, Google was not"
+    },
+    {
+      "start_ms": 1040160,
+      "duration_ms": 4560,
+      "text": "connected during the onboarding. So, I"
+    },
+    {
+      "start_ms": 1042760,
+      "duration_ms": 4640,
+      "text": "have to go to integration and connect"
+    },
+    {
+      "start_ms": 1044720,
+      "duration_ms": 4800,
+      "text": "Google from here. But of course, if your"
+    },
+    {
+      "start_ms": 1047400,
+      "duration_ms": 4480,
+      "text": "client see the possibility to connect"
+    },
+    {
+      "start_ms": 1049520,
+      "duration_ms": 5640,
+      "text": "Google during the onboarding,"
+    },
+    {
+      "start_ms": 1051880,
+      "duration_ms": 5240,
+      "text": "a big percentage of them will do it,"
+    },
+    {
+      "start_ms": 1055160,
+      "duration_ms": 3960,
+      "text": "will complete this integration. So, they"
+    },
+    {
+      "start_ms": 1057120,
+      "duration_ms": 4880,
+      "text": "log in to the platform with Google"
+    },
+    {
+      "start_ms": 1059120,
+      "duration_ms": 4960,
+      "text": "already connected. So, also these two"
+    },
+    {
+      "start_ms": 1062000,
+      "duration_ms": 4400,
+      "text": "features are live. So, the free trial"
+    },
+    {
+      "start_ms": 1064080,
+      "duration_ms": 5080,
+      "text": "banner and the"
+    },
+    {
+      "start_ms": 1066400,
+      "duration_ms": 6200,
+      "text": "connection of Google during the"
+    },
+    {
+      "start_ms": 1069160,
+      "duration_ms": 5160,
+      "text": "onboarding. Of course, skippable."
+    },
+    {
+      "start_ms": 1072600,
+      "duration_ms": 4120,
+      "text": "All right. So,"
+    },
+    {
+      "start_ms": 1074320,
+      "duration_ms": 5040,
+      "text": "that's all regarding the features"
+    },
+    {
+      "start_ms": 1076720,
+      "duration_ms": 4760,
+      "text": "released for the client's mode and for"
+    },
+    {
+      "start_ms": 1079360,
+      "duration_ms": 4920,
+      "text": "the agency mode. There is also a new"
+    },
+    {
+      "start_ms": 1081480,
+      "duration_ms": 4080,
+      "text": "thing that we're working on that I I"
+    },
+    {
+      "start_ms": 1084280,
+      "duration_ms": 3760,
+      "text": "want to show you"
+    },
+    {
+      "start_ms": 1085560,
+      "duration_ms": 3800,
+      "text": "right now, which is the"
+    },
+    {
+      "start_ms": 1088040,
+      "duration_ms": 3320,
+      "text": "knowledge base."
+    },
+    {
+      "start_ms": 1089360,
+      "duration_ms": 5840,
+      "text": "So, as you know, we have this unbranded"
+    },
+    {
+      "start_ms": 1091360,
+      "duration_ms": 6760,
+      "text": "knowledge base at knowledge base.help."
+    },
+    {
+      "start_ms": 1095200,
+      "duration_ms": 5440,
+      "text": "A knowledge base with all the articles"
+    },
+    {
+      "start_ms": 1098120,
+      "duration_ms": 4080,
+      "text": "about how the platform"
+    },
+    {
+      "start_ms": 1100640,
+      "duration_ms": 5480,
+      "text": "works. Knowledge base that you can"
+    },
+    {
+      "start_ms": 1102200,
+      "duration_ms": 6800,
+      "text": "simply forward to your clients. So, we"
+    },
+    {
+      "start_ms": 1106120,
+      "duration_ms": 4440,
+      "text": "have added new articles"
+    },
+    {
+      "start_ms": 1109000,
+      "duration_ms": 5240,
+      "text": "about the"
+    },
+    {
+      "start_ms": 1110560,
+      "duration_ms": 6640,
+      "text": "features released in the previous month."
+    },
+    {
+      "start_ms": 1114240,
+      "duration_ms": 4360,
+      "text": "And also we have added this"
+    },
+    {
+      "start_ms": 1117200,
+      "duration_ms": 4760,
+      "text": "chatbot"
+    },
+    {
+      "start_ms": 1118600,
+      "duration_ms": 6520,
+      "text": "that basically is trained on the"
+    },
+    {
+      "start_ms": 1121960,
+      "duration_ms": 5840,
+      "text": "knowledge base articles. This work in"
+    },
+    {
+      "start_ms": 1125120,
+      "duration_ms": 5320,
+      "text": "every language. So, your clients can"
+    },
+    {
+      "start_ms": 1127800,
+      "duration_ms": 4480,
+      "text": "simply ask question to the chatbot. The"
+    },
+    {
+      "start_ms": 1130440,
+      "duration_ms": 4240,
+      "text": "chatbot knows everything about the"
+    },
+    {
+      "start_ms": 1132280,
+      "duration_ms": 4960,
+      "text": "platform because it's trained on the"
+    },
+    {
+      "start_ms": 1134680,
+      "duration_ms": 3680,
+      "text": "knowledge base. So, the chatbot will"
+    },
+    {
+      "start_ms": 1137240,
+      "duration_ms": 3200,
+      "text": "reply"
+    },
+    {
+      "start_ms": 1138360,
+      "duration_ms": 4960,
+      "text": "on the language"
+    },
+    {
+      "start_ms": 1140440,
+      "duration_ms": 5040,
+      "text": "used by your clients. Something that"
+    },
+    {
+      "start_ms": 1143320,
+      "duration_ms": 4840,
+      "text": "we're working on right now and will"
+    },
+    {
+      "start_ms": 1145480,
+      "duration_ms": 4880,
+      "text": "probably be live next week is the"
+    },
+    {
+      "start_ms": 1148160,
+      "duration_ms": 4600,
+      "text": "possibility for you to embed this"
+    },
+    {
+      "start_ms": 1150360,
+      "duration_ms": 4360,
+      "text": "chatbot into your"
+    },
+    {
+      "start_ms": 1152760,
+      "duration_ms": 4120,
+      "text": "platform with a simple click. All All"
+    },
+    {
+      "start_ms": 1154720,
+      "duration_ms": 4400,
+      "text": "right? So, this will be super cool. So,"
+    },
+    {
+      "start_ms": 1156880,
+      "duration_ms": 5480,
+      "text": "basically in the"
+    },
+    {
+      "start_ms": 1159120,
+      "duration_ms": 4640,
+      "text": "brand section, there will be the"
+    },
+    {
+      "start_ms": 1162360,
+      "duration_ms": 4560,
+      "text": "possibility"
+    },
+    {
+      "start_ms": 1163760,
+      "duration_ms": 5320,
+      "text": "to enable the chat chatbot as you can"
+    },
+    {
+      "start_ms": 1166920,
+      "duration_ms": 4880,
+      "text": "enable the free trial banner. There will"
+    },
+    {
+      "start_ms": 1169080,
+      "duration_ms": 6680,
+      "text": "be probably AI chatbot and with a simple"
+    },
+    {
+      "start_ms": 1171800,
+      "duration_ms": 8600,
+      "text": "click, you enable the chatbot. And this"
+    },
+    {
+      "start_ms": 1175760,
+      "duration_ms": 6520,
+      "text": "chatbot here will appear into your"
+    },
+    {
+      "start_ms": 1180400,
+      "duration_ms": 3560,
+      "text": "client's mode and your clients can ask"
+    },
+    {
+      "start_ms": 1182280,
+      "duration_ms": 4480,
+      "text": "to the chatbot"
+    },
+    {
+      "start_ms": 1183960,
+      "duration_ms": 4720,
+      "text": "anything related to the platform. And of"
+    },
+    {
+      "start_ms": 1186760,
+      "duration_ms": 5000,
+      "text": "course, this will be"
+    },
+    {
+      "start_ms": 1188680,
+      "duration_ms": 6400,
+      "text": "embedded with the your brand colors and"
+    },
+    {
+      "start_ms": 1191760,
+      "duration_ms": 5240,
+      "text": "also your font. So, you keep the design"
+    },
+    {
+      "start_ms": 1195080,
+      "duration_ms": 4760,
+      "text": "of your platform"
+    },
+    {
+      "start_ms": 1197000,
+      "duration_ms": 6080,
+      "text": "100% coherent."
+    },
+    {
+      "start_ms": 1199840,
+      "duration_ms": 6200,
+      "text": "All right? So, that's everything we"
+    },
+    {
+      "start_ms": 1203080,
+      "duration_ms": 6120,
+      "text": "released this week. So, a super big"
+    },
+    {
+      "start_ms": 1206040,
+      "duration_ms": 5160,
+      "text": "week. So, in order to"
+    },
+    {
+      "start_ms": 1209200,
+      "duration_ms": 4880,
+      "text": "let me do a quick recap of all the"
+    },
+    {
+      "start_ms": 1211200,
+      "duration_ms": 4840,
+      "text": "things that we released. So, we have for"
+    },
+    {
+      "start_ms": 1214080,
+      "duration_ms": 4840,
+      "text": "the client's mode,"
+    },
+    {
+      "start_ms": 1216040,
+      "duration_ms": 7040,
+      "text": "custom prompts, the bulk reply to past"
+    },
+    {
+      "start_ms": 1218920,
+      "duration_ms": 7760,
+      "text": "Google reviews, the AI history,"
+    },
+    {
+      "start_ms": 1223080,
+      "duration_ms": 6120,
+      "text": "the video on your review links, the"
+    },
+    {
+      "start_ms": 1226680,
+      "duration_ms": 6240,
+      "text": "possibility to filter"
+    },
+    {
+      "start_ms": 1229200,
+      "duration_ms": 4840,
+      "text": "the widgets for review source,"
+    },
+    {
+      "start_ms": 1232920,
+      "duration_ms": 3400,
+      "text": "and"
+    },
+    {
+      "start_ms": 1234040,
+      "duration_ms": 5240,
+      "text": "in the agency mode, we have the free"
+    },
+    {
+      "start_ms": 1236320,
+      "duration_ms": 4960,
+      "text": "trial banner and of course, the"
+    },
+    {
+      "start_ms": 1239280,
+      "duration_ms": 4280,
+      "text": "possibility to connect"
+    },
+    {
+      "start_ms": 1241280,
+      "duration_ms": 3720,
+      "text": "Google during the"
+    },
+    {
+      "start_ms": 1243560,
+      "duration_ms": 3760,
+      "text": "during the onboarding."
+    },
+    {
+      "start_ms": 1245000,
+      "duration_ms": 4440,
+      "text": "And then of course, as I presented at"
+    },
+    {
+      "start_ms": 1247320,
+      "duration_ms": 4440,
+      "text": "the beginning, we have the new updates"
+    },
+    {
+      "start_ms": 1249440,
+      "duration_ms": 4960,
+      "text": "about the sales accelerator 2nd of"
+    },
+    {
+      "start_ms": 1251760,
+      "duration_ms": 4680,
+      "text": "February. So, feel free to"
+    },
+    {
+      "start_ms": 1254400,
+      "duration_ms": 4000,
+      "text": "add the event to your agenda, the new"
+    },
+    {
+      "start_ms": 1256440,
+      "duration_ms": 5360,
+      "text": "automation course,"
+    },
+    {
+      "start_ms": 1258400,
+      "duration_ms": 6960,
+      "text": "and the updated knowledge base with the"
+    },
+    {
+      "start_ms": 1261800,
+      "duration_ms": 7360,
+      "text": "chatbot. So, that's all for this week"
+    },
+    {
+      "start_ms": 1265360,
+      "duration_ms": 3800,
+      "text": "and uh see you very very soon."
+    }
+  ],
+  "text": "what is coming next in the community. So, from the 2nd of February, we have the sales accelerator training with Wayne Connell. And basically every month we're going to do a live session with Wayne dedicated to sales. So, you're all going to learn the best sales strategies to pitch Climbax, so your white-label review management platform to small local business owners. And of course the best best strategies to convert them into paying clients. As you all know, Wayne is a sales expert, a reputation expert. He's doing this reputation management business since years with the very very big results. So, I'm very excited to have Wayne in our community live every month. And this is going to be a a free training for all the members in the community. So, just make sure you go to calendar and you click on the event, which is on the 2nd of February. This is going to be the first live session. And you add it to your calendar, so you get notified when the event start. It's going to be at 9:00 p.m. Rome time. All right? So, that's the first thing we announced yesterday. Then, I've also talked a little bit about the new course that we have in the start here classroom. We have this new course called automation for success. Where basically I teach you step-by-step how to build automations for your clients using tools like Zapier, Any Ten, Pabbly, and make.com. So, for each of these tools, there is a step-by-step tutorial where I share my screen and I go through every technical step you need to complete in order to launch successfully the automation. So, of course, firstly uh you have to see if your setup process requires automation because you can set up the platform and install a review collection process for your clients that sometimes do not require automation. But, there are some cases where automations are required. Of course, this video is linked to the previous video called setup for conversion where we talk about the different types of review collection process. And there are some types of review collection process that requires automation. And if you have an account in Zapier, AnyTask, Publy, or make.com, you'll learn how to build automations. So, I strongly suggest you to watch this video. And then, of course, we have talked about all the features that we released uh this week. We released a lot of features, so now I'm going to go through all of them. All right? So, we start with the AI agents. So, the new features uh in your AI agents. The first thing that we released is custom prompt. So, when you go to AI agent setup, both for the SEO agent and also for the social agent, there is this new uh box for additional instructions. Add additional instruction to the AI agent that will be incorporated into the default prompt. So, here you can write any um, additional instructions to give to the, um, AI agent. Uh, these instructions are not going to replace the default prompt. Uh, they are going to be added to the, uh, default prompt. So, of course, firstly, you customize the agent with, for example, the tone, and the length, and the reply language. And then you can add additional instruction to make the agent 100% coherent with your client's, uh, voice, all right? And this is released both for the sale agent, and also for the, uh, social agent. That's the first feature we released. Second feature is this highly requested feature here, uh, about the, uh, possibility to reply with a single click to all the past Google reviews, uh, without a response, all right? So, a lot of your clients, uh, when they sign up for, uh, your platform, when they get into the free trial, for example, and maybe they have a lot of past reviews, even hundreds of past Google reviews without a response. And this is very, very bad for, uh, Google when you do not reply to Google, uh, reviews. So, Google, uh, rank you lower if you, if your reply score is low. And, uh, of course, as you know, if the SEO agent is enabled, the agent is going to reply just to the new reviews. Uh, but what about the past reviews without a response? We have now a solution. So, there is this, um, um, feature where we just a click, you enable the, um, the the AI agent, the SEO agent, to reply to all past reviews. We keep, uh, a limit on the number of, uh, reviews that the agent is going to reply to every day. Specifically, there is maximum five reviews per day are going to be responded to. And your clients here can simply monitor the progress. For example, in this in this case, we had 20 past reviews without a response. And the process of replying to the past reviews is still in progress. And we have responded to 12 reviews. And here you can see when we launched this this automation and the estimated end. And here we see the badge in progress, meaning that we are currently replying to the past reviews. So, why this limit of five reviews per day? Because, of course, Google do not want you to reply to hundreds of past reviews on the same day. Google don't like this. And Google maybe can spot some kind of automations that can penalize the Google Business Profile. So, we want to make it real. We want to make it human. So, that's why we decided a limit of five reviews per day. It means that if your clients had have hundreds of reviews without response, maybe it can take a few weeks or even months to reply to all the reviews. But in this way, we make sure that the your client's Google Business Profile is safe, all right? Because we are we are respecting the Google safe rates limits. So, that's the second thing we released, very very highly requested. Then we have this history section that is new in your AI agents dashboard. Where basically, your clients can monitor the activity of the agents. As you know, for now we have two different AI agents, so the SEO agent and the social agent. So, your clients can see, for example, that yesterday the SEO agent replied to this Google review and this was the reply generated by the SEO agent. Or they can see that this reviews was shared on Facebook and Instagram by the social agent. And this was the image shared and this was the caption generated by the agents. And and so. So, this is super super useful for you also to showcase maybe at the end of the free trial to your clients the fact that the agents are working in the background. You don't need to go to your social media pages or to go to Google to show to your clients that the agents are replying to reviews or sharing reviews on social media. You can see everything directly inside the platform. And your clients will love it because they see that without lifting a finger, the platform is working for them in the background. So, that's the third thing we released. Then, another thing we released yesterday, very very highly requested, is the possibility to have on review links also a video other than a logo. So, this is super super simple. Your client just need to drag a video here in the media folder and the video will appear here. So, this is super powerful in in order to increase the conversions in a review gained through the review links because here your clients can add maybe a video selfie where they simply say hello, thanks for visiting us. We would love to have a positive review from you and so the end customer will feel more trust, will feel more close to the local business owners and probably the the conversion into review left will be will be much higher. So this was highly requested and it's live and I'm super happy about this feature because this feature came from the community and so keep of course posting in the community some proposals about the features that you would like to have in the platform and keep monitoring the road map at roadmap.claimber.com and of course you know that the development of the platform is ruled by by by us all together. So by the Claimber team but also the community has a super important role. And so that's another cool feature we released but it's not finished. Another big thing that was requested is the possibility to filter widgets for review source. So before today on your widgets for example on the carousels there were all the reviews left by the end customers on all the integrated review sites. Now your clients can choose to for example hide in this case Trustpilot reviews from the widgets or maybe they can choose to showcase just Google reviews. So, they can play with these features and choose which reviews they want to share on their widgets. There is another feature about widgets which is coming which will be the possibility to hide specific reviews from widgets. This was requested and will be live in the coming weeks. So, basically for each review there will be a simple button to hide that reviews from widget. And so, that's all related to the clients mode, all right? These are all the features that we built during this week for the clients mode. So, a very big week. Now, let's go to the agency mode because we have very big features also for your agency mode. The first big thing that we released this week is the free trial banner. So, we just go to the brand section. Here, of course, as you know, this is the section where you can customize the design of your platform. There is this new option called free trial banner. And you can enable the display of an informational banner for customers in the trial period within the application. Basically, if you enable the free trial banner, all your clients in the trialing phase, so the clients with status trialing, so clients that are for example on on a free trial, on a 7-days free trial, they will see this badge on the top of the platform. A badge that Sorry, a banner that clients in other status do not see. So, for example, your paying clients do not see this um this banner. And here you can write something like a you are on a 7-days free trial with the call to action upgrade here and with the link to your billing page as redirect URL. And as you can see, we have a the the text of the banner here and then here there is the call to action. And your clients can just click there and go to the billing page, add a payment method, and sign up as a paying customer. So, this will increase the conversions from free trial to paying customer. Of course, this is why we added this um um this element in order to for you to show to your clients in a free trial a specific message. Maybe here you can add also something uh uh like a Calendly link to book a call with you. Maybe the call at the the end of the free trial. So, here they always have a message with a call to action that you can 100% personalize. So, let me show you an example. Um so, let me go to the plans section. Uh here we have the silver plan. As you can see, the silver plan has a 7-days free trial. So, we open the payment link. And we um onboard to this free trial. All right, I'm using of course a test email. Start trial. As you know, now we are automatically onboarded into the platform. As you know, the first step is the setup of the password. All right. Second step, of course, the uh location name. And then there is also this new thing that I wanted to uh show you. That basically your uh clients during the first onboarding, they have now the possibility to connect uh Google. So, instead of connecting Google um from the uh settings integrations after the onboarding, they are here uh prompt to connect their uh Google Business Profile. So, when they log into the platform for the uh first time, the platform is already filled with all the Google features like the Google reviews, the profile section is filled with their uh Google Business Profile uh information. And so, Google is uh already connected, so they can start to replying to reviews. And so, they just click uh here and there is the same pop-up where they can connect Google via uh login or via uh public access. So, also this was highly requested and is now uh live. And of course, there is also the possibility for them, if they want to skip the uh Google um uh connection and connect it later from the settings. For example, I'm skipping now, so I log in to the platform. And as you can see, I have my uh free trial banner here because I'm a um a client in the uh free trial phase, so I see you are on a 7-days free trial and the button upgrade uh here. And uh of course, as you know, Google was not connected during the onboarding. So, I have to go to integration and connect Google from here. But of course, if your client see the possibility to connect Google during the onboarding, a big percentage of them will do it, will complete this integration. So, they log in to the platform with Google already connected. So, also these two features are live. So, the free trial banner and the connection of Google during the onboarding. Of course, skippable. All right. So, that's all regarding the features released for the client's mode and for the agency mode. There is also a new thing that we're working on that I I want to show you right now, which is the knowledge base. So, as you know, we have this unbranded knowledge base at knowledge base.help. A knowledge base with all the articles about how the platform works. Knowledge base that you can simply forward to your clients. So, we have added new articles about the features released in the previous month. And also we have added this chatbot that basically is trained on the knowledge base articles. This work in every language. So, your clients can simply ask question to the chatbot. The chatbot knows everything about the platform because it's trained on the knowledge base. So, the chatbot will reply on the language used by your clients. Something that we're working on right now and will probably be live next week is the possibility for you to embed this chatbot into your platform with a simple click. All All right? So, this will be super cool. So, basically in the brand section, there will be the possibility to enable the chat chatbot as you can enable the free trial banner. There will be probably AI chatbot and with a simple click, you enable the chatbot. And this chatbot here will appear into your client's mode and your clients can ask to the chatbot anything related to the platform. And of course, this will be embedded with the your brand colors and also your font. So, you keep the design of your platform 100% coherent. All right? So, that's everything we released this week. So, a super big week. So, in order to let me do a quick recap of all the things that we released. So, we have for the client's mode, custom prompts, the bulk reply to past Google reviews, the AI history, the video on your review links, the possibility to filter the widgets for review source, and in the agency mode, we have the free trial banner and of course, the possibility to connect Google during the during the onboarding. And then of course, as I presented at the beginning, we have the new updates about the sales accelerator 2nd of February. So, feel free to add the event to your agenda, the new automation course, and the updated knowledge base with the chatbot. So, that's all for this week and uh see you very very soon."
+}

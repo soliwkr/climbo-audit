@@ -1,0 +1,6074 @@
+(from cache)
+{
+  "videoId": "oPElvf0vT6Y",
+  "language": "en",
+  "kind": "asr",
+  "segments": [
+    {
+      "start_ms": 2080,
+      "duration_ms": 3480,
+      "text": "Welcome, welcome."
+    },
+    {
+      "start_ms": 6480,
+      "duration_ms": 4760,
+      "text": "Hello guys. Hello climbers. How are you?"
+    },
+    {
+      "start_ms": 11280,
+      "duration_ms": 8720,
+      "text": "Hello Natasha. Hello Roy. Hello guys."
+    },
+    {
+      "start_ms": 15839,
+      "duration_ms": 6881,
+      "text": "Hello Harold. Happy to be back after a"
+    },
+    {
+      "start_ms": 20000,
+      "duration_ms": 5199,
+      "text": "couple of weeks."
+    },
+    {
+      "start_ms": 22720,
+      "duration_ms": 7280,
+      "text": "Hello Alvin, Kristoff,"
+    },
+    {
+      "start_ms": 25199,
+      "duration_ms": 8001,
+      "text": "Eric, GJ, Glenn, Gurby, Gulitz, hi"
+    },
+    {
+      "start_ms": 30000,
+      "duration_ms": 8079,
+      "text": "Gulit, Gulit is my colleague, Harold,"
+    },
+    {
+      "start_ms": 33200,
+      "duration_ms": 9039,
+      "text": "Lars, Mark, Mhmed, Roy. Hello guys,"
+    },
+    {
+      "start_ms": 38079,
+      "duration_ms": 6401,
+      "text": "welcome again. I hope you are all well."
+    },
+    {
+      "start_ms": 42239,
+      "duration_ms": 5201,
+      "text": "I'm feeling very well. Natasha, thanks"
+    },
+    {
+      "start_ms": 44480,
+      "duration_ms": 5759,
+      "text": "for asking. Also, Alvin, thanks. Thanks"
+    },
+    {
+      "start_ms": 47440,
+      "duration_ms": 5119,
+      "text": "for asking, guys."
+    },
+    {
+      "start_ms": 50239,
+      "duration_ms": 6241,
+      "text": "I had the opportunity last week to take"
+    },
+    {
+      "start_ms": 52559,
+      "duration_ms": 9041,
+      "text": "a little break that was very very"
+    },
+    {
+      "start_ms": 56480,
+      "duration_ms": 8959,
+      "text": "refreshing after a very uh long period"
+    },
+    {
+      "start_ms": 61600,
+      "duration_ms": 7280,
+      "text": "of hard work you know since uh January"
+    },
+    {
+      "start_ms": 65439,
+      "duration_ms": 6561,
+      "text": "we haven't stopped uh releasing features"
+    },
+    {
+      "start_ms": 68880,
+      "duration_ms": 4880,
+      "text": "and working every week. Thanks Alvin for"
+    },
+    {
+      "start_ms": 72000,
+      "duration_ms": 6320,
+      "text": "the comment"
+    },
+    {
+      "start_ms": 73760,
+      "duration_ms": 7200,
+      "text": "and now I'm feeling 100% uh all right"
+    },
+    {
+      "start_ms": 78320,
+      "duration_ms": 5439,
+      "text": "and so today uh we are going to present"
+    },
+    {
+      "start_ms": 80960,
+      "duration_ms": 5920,
+      "text": "new things and we are going of course"
+    },
+    {
+      "start_ms": 83759,
+      "duration_ms": 5921,
+      "text": "also to uh announce you some work in"
+    },
+    {
+      "start_ms": 86880,
+      "duration_ms": 6720,
+      "text": "progress uh stuff."
+    },
+    {
+      "start_ms": 89680,
+      "duration_ms": 7119,
+      "text": "All right so let me start."
+    },
+    {
+      "start_ms": 93600,
+      "duration_ms": 5360,
+      "text": "Yes, the event is recording."
+    },
+    {
+      "start_ms": 96799,
+      "duration_ms": 5121,
+      "text": "Let me start as always by sharing the"
+    },
+    {
+      "start_ms": 98960,
+      "duration_ms": 5280,
+      "text": "screen."
+    },
+    {
+      "start_ms": 101920,
+      "duration_ms": 5600,
+      "text": "All right."
+    },
+    {
+      "start_ms": 104240,
+      "duration_ms": 5680,
+      "text": "Uh firstly uh before show showing you"
+    },
+    {
+      "start_ms": 107520,
+      "duration_ms": 6239,
+      "text": "the new things uh built in the last"
+    },
+    {
+      "start_ms": 109920,
+      "duration_ms": 8320,
+      "text": "couple of weeks um I want to quickly uh"
+    },
+    {
+      "start_ms": 113759,
+      "duration_ms": 6720,
+      "text": "tell you that uh we've just updated the"
+    },
+    {
+      "start_ms": 118240,
+      "duration_ms": 4320,
+      "text": "sales accelerator"
+    },
+    {
+      "start_ms": 120479,
+      "duration_ms": 6960,
+      "text": "uh fifth session that we had this week"
+    },
+    {
+      "start_ms": 122560,
+      "duration_ms": 8720,
+      "text": "with the uh Wayne Connell our uh expert"
+    },
+    {
+      "start_ms": 127439,
+      "duration_ms": 7121,
+      "text": "in selling uh reputation management"
+    },
+    {
+      "start_ms": 131280,
+      "duration_ms": 6560,
+      "text": "platforms to local businesses. So we had"
+    },
+    {
+      "start_ms": 134560,
+      "duration_ms": 6080,
+      "text": "a long meeting 1 hour and 37 minutes"
+    },
+    {
+      "start_ms": 137840,
+      "duration_ms": 6000,
+      "text": "that I suggest to all of you to uh"
+    },
+    {
+      "start_ms": 140640,
+      "duration_ms": 7040,
+      "text": "watch. Uh as you know every month we go"
+    },
+    {
+      "start_ms": 143840,
+      "duration_ms": 5759,
+      "text": "live with uh Wayne and you always find"
+    },
+    {
+      "start_ms": 147680,
+      "duration_ms": 4800,
+      "text": "the recordings into the sales"
+    },
+    {
+      "start_ms": 149599,
+      "duration_ms": 5521,
+      "text": "accelerator classroom."
+    },
+    {
+      "start_ms": 152480,
+      "duration_ms": 5200,
+      "text": "So here you find also all the previous"
+    },
+    {
+      "start_ms": 155120,
+      "duration_ms": 4960,
+      "text": "uh recordings. So if you haven't watched"
+    },
+    {
+      "start_ms": 157680,
+      "duration_ms": 6559,
+      "text": "them yet, I suggest you to watch them"
+    },
+    {
+      "start_ms": 160080,
+      "duration_ms": 7439,
+      "text": "whenever you have one hour free. Uh I"
+    },
+    {
+      "start_ms": 164239,
+      "duration_ms": 6801,
+      "text": "suggest you to play these videos. These"
+    },
+    {
+      "start_ms": 167519,
+      "duration_ms": 4961,
+      "text": "are uh very very educational videos uh"
+    },
+    {
+      "start_ms": 171040,
+      "duration_ms": 4320,
+      "text": "for you especially if you are at the"
+    },
+    {
+      "start_ms": 172480,
+      "duration_ms": 5039,
+      "text": "beginning if you are uh closing your"
+    },
+    {
+      "start_ms": 175360,
+      "duration_ms": 4800,
+      "text": "first clients. We also have this"
+    },
+    {
+      "start_ms": 177519,
+      "duration_ms": 4561,
+      "text": "pre-recorded course"
+    },
+    {
+      "start_ms": 180160,
+      "duration_ms": 5600,
+      "text": "uh one hour course and then of course as"
+    },
+    {
+      "start_ms": 182080,
+      "duration_ms": 7200,
+      "text": "you know every month we go live um for"
+    },
+    {
+      "start_ms": 185760,
+      "duration_ms": 6960,
+      "text": "all the people that maybe are new um"
+    },
+    {
+      "start_ms": 189280,
+      "duration_ms": 6560,
+      "text": "every first Monday of the month we have"
+    },
+    {
+      "start_ms": 192720,
+      "duration_ms": 7040,
+      "text": "the sales accelerator event uh with"
+    },
+    {
+      "start_ms": 195840,
+      "duration_ms": 6960,
+      "text": "Wayne. So of course we had one this week"
+    },
+    {
+      "start_ms": 199760,
+      "duration_ms": 5839,
+      "text": "and of course the next one is on the 6th"
+    },
+    {
+      "start_ms": 202800,
+      "duration_ms": 5680,
+      "text": "of July as you see every month the first"
+    },
+    {
+      "start_ms": 205599,
+      "duration_ms": 5280,
+      "text": "day sorry the first Monday of the month"
+    },
+    {
+      "start_ms": 208480,
+      "duration_ms": 4880,
+      "text": "and as you all know I personally go live"
+    },
+    {
+      "start_ms": 210879,
+      "duration_ms": 7041,
+      "text": "every week at first day at 4 p.m."
+    },
+    {
+      "start_ms": 213360,
+      "duration_ms": 6879,
+      "text": "Italian time. All right. Um let's start."
+    },
+    {
+      "start_ms": 217920,
+      "duration_ms": 5599,
+      "text": "So today as I've announced at the"
+    },
+    {
+      "start_ms": 220239,
+      "duration_ms": 6801,
+      "text": "beginning of this week in my this week"
+    },
+    {
+      "start_ms": 223519,
+      "duration_ms": 5841,
+      "text": "uh development plan post um we have AI"
+    },
+    {
+      "start_ms": 227040,
+      "duration_ms": 6800,
+      "text": "building. All right. So uh we are"
+    },
+    {
+      "start_ms": 229360,
+      "duration_ms": 7599,
+      "text": "introducing this uh system uh where uh"
+    },
+    {
+      "start_ms": 233840,
+      "duration_ms": 5679,
+      "text": "basically uh every AI feature is going"
+    },
+    {
+      "start_ms": 236959,
+      "duration_ms": 4640,
+      "text": "to be built from your balance. This of"
+    },
+    {
+      "start_ms": 239519,
+      "duration_ms": 6000,
+      "text": "course has to be had to be done uh"
+    },
+    {
+      "start_ms": 241599,
+      "duration_ms": 6961,
+      "text": "sooner or later. Of course uh until we"
+    },
+    {
+      "start_ms": 245519,
+      "duration_ms": 7440,
+      "text": "started with AI features until uh these"
+    },
+    {
+      "start_ms": 248560,
+      "duration_ms": 8079,
+      "text": "days we paid for all the uh AI tokens"
+    },
+    {
+      "start_ms": 252959,
+      "duration_ms": 7041,
+      "text": "that we uh buy directly from our tech"
+    },
+    {
+      "start_ms": 256639,
+      "duration_ms": 6161,
+      "text": "partners mainly from OpenAI but we work"
+    },
+    {
+      "start_ms": 260000,
+      "duration_ms": 6720,
+      "text": "also with different models uh with the"
+    },
+    {
+      "start_ms": 262800,
+      "duration_ms": 6959,
+      "text": "different um providers mainly open AAI"
+    },
+    {
+      "start_ms": 266720,
+      "duration_ms": 5759,
+      "text": "and uh Gemini and so I'm going to show"
+    },
+    {
+      "start_ms": 269759,
+      "duration_ms": 5761,
+      "text": "you today how this system works so you"
+    },
+    {
+      "start_ms": 272479,
+      "duration_ms": 7681,
+      "text": "exactly uh how much uh you're going to"
+    },
+    {
+      "start_ms": 275520,
+      "duration_ms": 7360,
+      "text": "pay and also how you can limit uh your"
+    },
+    {
+      "start_ms": 280160,
+      "duration_ms": 5840,
+      "text": "clients. So you know exactly the maximum"
+    },
+    {
+      "start_ms": 282880,
+      "duration_ms": 6160,
+      "text": "that they can spend. So you can price"
+    },
+    {
+      "start_ms": 286000,
+      "duration_ms": 6479,
+      "text": "your plans uh accordingly"
+    },
+    {
+      "start_ms": 289040,
+      "duration_ms": 6080,
+      "text": "and so you know exactly the maximum uh"
+    },
+    {
+      "start_ms": 292479,
+      "duration_ms": 5280,
+      "text": "potential cost for each plan. So the"
+    },
+    {
+      "start_ms": 295120,
+      "duration_ms": 5280,
+      "text": "exact minimum margin that you can make"
+    },
+    {
+      "start_ms": 297759,
+      "duration_ms": 5281,
+      "text": "from uh from each plan. And then I'm"
+    },
+    {
+      "start_ms": 300400,
+      "duration_ms": 4799,
+      "text": "going to uh show you some uh work in"
+    },
+    {
+      "start_ms": 303040,
+      "duration_ms": 4400,
+      "text": "progress features especially related to"
+    },
+    {
+      "start_ms": 305199,
+      "duration_ms": 5521,
+      "text": "integrations. We have a Tik Tok"
+    },
+    {
+      "start_ms": 307440,
+      "duration_ms": 5120,
+      "text": "integration coming uh very very soon. So"
+    },
+    {
+      "start_ms": 310720,
+      "duration_ms": 4640,
+      "text": "uh I hope next week we're going to"
+    },
+    {
+      "start_ms": 312560,
+      "duration_ms": 5520,
+      "text": "release this. All right. So let's start"
+    },
+    {
+      "start_ms": 315360,
+      "duration_ms": 5679,
+      "text": "from the uh AI billing. So let's start"
+    },
+    {
+      "start_ms": 318080,
+      "duration_ms": 6160,
+      "text": "from the agency mode."
+    },
+    {
+      "start_ms": 321039,
+      "duration_ms": 6160,
+      "text": "Uh let's go to plans. Let's get into one"
+    },
+    {
+      "start_ms": 324240,
+      "duration_ms": 4560,
+      "text": "of our plan for example into our gold"
+    },
+    {
+      "start_ms": 327199,
+      "duration_ms": 7041,
+      "text": "plan."
+    },
+    {
+      "start_ms": 328800,
+      "duration_ms": 7200,
+      "text": "Now uh in the uh limits uh section uh as"
+    },
+    {
+      "start_ms": 334240,
+      "duration_ms": 5120,
+      "text": "you know you had the possibility to"
+    },
+    {
+      "start_ms": 336000,
+      "duration_ms": 6320,
+      "text": "limit uh the number of SMS emails and"
+    },
+    {
+      "start_ms": 339360,
+      "duration_ms": 7200,
+      "text": "WhatsApp messages that your clients can"
+    },
+    {
+      "start_ms": 342320,
+      "duration_ms": 7439,
+      "text": "send every uh month. Uh now you have a"
+    },
+    {
+      "start_ms": 346560,
+      "duration_ms": 6800,
+      "text": "fourth voice which is the monthly AI"
+    },
+    {
+      "start_ms": 349759,
+      "duration_ms": 6880,
+      "text": "tokens. So every AI feature each AI"
+    },
+    {
+      "start_ms": 353360,
+      "duration_ms": 7119,
+      "text": "feature is going to consume some tokens."
+    },
+    {
+      "start_ms": 356639,
+      "duration_ms": 6400,
+      "text": "um you know uh exactly not exactly but"
+    },
+    {
+      "start_ms": 360479,
+      "duration_ms": 4801,
+      "text": "on average how many tokens each AI"
+    },
+    {
+      "start_ms": 363039,
+      "duration_ms": 5761,
+      "text": "feature is going to consume consume. I'm"
+    },
+    {
+      "start_ms": 365280,
+      "duration_ms": 6639,
+      "text": "going to show you um later how it works"
+    },
+    {
+      "start_ms": 368800,
+      "duration_ms": 6320,
+      "text": "and how you can uh monitor how many"
+    },
+    {
+      "start_ms": 371919,
+      "duration_ms": 6720,
+      "text": "tokens each feature uh consume."
+    },
+    {
+      "start_ms": 375120,
+      "duration_ms": 6400,
+      "text": "And uh so uh your clients can have for"
+    },
+    {
+      "start_ms": 378639,
+      "duration_ms": 8241,
+      "text": "example a limit uh for example in this"
+    },
+    {
+      "start_ms": 381520,
+      "duration_ms": 10160,
+      "text": "case of 10,000 uh AI tokens. Um there is"
+    },
+    {
+      "start_ms": 386880,
+      "duration_ms": 8000,
+      "text": "a fixed cost for each uh AI uh token. Uh"
+    },
+    {
+      "start_ms": 391680,
+      "duration_ms": 8400,
+      "text": "the the fixed cost is this one. So 1"
+    },
+    {
+      "start_ms": 394880,
+      "duration_ms": 10080,
+      "text": "million AI tokens cost uh $660"
+    },
+    {
+      "start_ms": 400080,
+      "duration_ms": 9040,
+      "text": "uh this is proportional with uh what um"
+    },
+    {
+      "start_ms": 404960,
+      "duration_ms": 6320,
+      "text": "our AI providers uh charge us. Our plan"
+    },
+    {
+      "start_ms": 409120,
+      "duration_ms": 5519,
+      "text": "is not to make a profit on this but just"
+    },
+    {
+      "start_ms": 411280,
+      "duration_ms": 5600,
+      "text": "to uh cover the uh cost because as you"
+    },
+    {
+      "start_ms": 414639,
+      "duration_ms": 4241,
+      "text": "know we are of course on boarding more"
+    },
+    {
+      "start_ms": 416880,
+      "duration_ms": 4960,
+      "text": "and more and more uh local businesses."
+    },
+    {
+      "start_ms": 418880,
+      "duration_ms": 5759,
+      "text": "So we had sooner or later to introduce"
+    },
+    {
+      "start_ms": 421840,
+      "duration_ms": 6479,
+      "text": "this. So we make sure that client boy is"
+    },
+    {
+      "start_ms": 424639,
+      "duration_ms": 8000,
+      "text": "100% uh sustainable. So as we grow the"
+    },
+    {
+      "start_ms": 428319,
+      "duration_ms": 8000,
+      "text": "usage base, we do not do not have a uh"
+    },
+    {
+      "start_ms": 432639,
+      "duration_ms": 6801,
+      "text": "um an increasement in uh cost in our"
+    },
+    {
+      "start_ms": 436319,
+      "duration_ms": 8241,
+      "text": "spend to AI uh providers. But this is"
+    },
+    {
+      "start_ms": 439440,
+      "duration_ms": 8080,
+      "text": "100% uh cover. So we do not uh risk any"
+    },
+    {
+      "start_ms": 444560,
+      "duration_ms": 6240,
+      "text": "uh losses as we grow the usage base of"
+    },
+    {
+      "start_ms": 447520,
+      "duration_ms": 6720,
+      "text": "the uh platform. And for example here we"
+    },
+    {
+      "start_ms": 450800,
+      "duration_ms": 7040,
+      "text": "uh can set up for example that every uh"
+    },
+    {
+      "start_ms": 454240,
+      "duration_ms": 7920,
+      "text": "location uh in this gold plan has a"
+    },
+    {
+      "start_ms": 457840,
+      "duration_ms": 9359,
+      "text": "limit of 500 SMS per month a th000 email"
+    },
+    {
+      "start_ms": 462160,
+      "duration_ms": 9360,
+      "text": "per month 300 WhatsApp uh per month and"
+    },
+    {
+      "start_ms": 467199,
+      "duration_ms": 7601,
+      "text": "100,000 AI tokens per uh per month. As"
+    },
+    {
+      "start_ms": 471520,
+      "duration_ms": 7119,
+      "text": "you know, emails are always uh free and"
+    },
+    {
+      "start_ms": 474800,
+      "duration_ms": 7280,
+      "text": "uh uh under each uh paid feature, you"
+    },
+    {
+      "start_ms": 478639,
+      "duration_ms": 7120,
+      "text": "can see the uh spending cap which I"
+    },
+    {
+      "start_ms": 482080,
+      "duration_ms": 7440,
+      "text": "remember you is uh the uh cost that you"
+    },
+    {
+      "start_ms": 485759,
+      "duration_ms": 7840,
+      "text": "have to pay from your balance if the uh"
+    },
+    {
+      "start_ms": 489520,
+      "duration_ms": 7440,
+      "text": "client location use all the provided"
+    },
+    {
+      "start_ms": 493599,
+      "duration_ms": 6961,
+      "text": "messages or token. So if a client in"
+    },
+    {
+      "start_ms": 496960,
+      "duration_ms": 7040,
+      "text": "this uh plan which is the uh gold plan"
+    },
+    {
+      "start_ms": 500560,
+      "duration_ms": 7039,
+      "text": "um use all the SMS provided which are"
+    },
+    {
+      "start_ms": 504000,
+      "duration_ms": 7039,
+      "text": "for example 500 SMS since the cost of"
+    },
+    {
+      "start_ms": 507599,
+      "duration_ms": 6721,
+      "text": "one SMS is assigned of a dollar uh you"
+    },
+    {
+      "start_ms": 511039,
+      "duration_ms": 5281,
+      "text": "are going to have a $5 deducted from"
+    },
+    {
+      "start_ms": 514320,
+      "duration_ms": 5440,
+      "text": "your balance. Of course, if the client"
+    },
+    {
+      "start_ms": 516320,
+      "duration_ms": 8079,
+      "text": "use all the SMS uh provided, of course,"
+    },
+    {
+      "start_ms": 519760,
+      "duration_ms": 6480,
+      "text": "if they use uh less than 500 SMS during"
+    },
+    {
+      "start_ms": 524399,
+      "duration_ms": 4000,
+      "text": "the month, of course, you're not going"
+    },
+    {
+      "start_ms": 526240,
+      "duration_ms": 4719,
+      "text": "to be charged uh $5. You're going to be"
+    },
+    {
+      "start_ms": 528399,
+      "duration_ms": 4880,
+      "text": "charged uh less. But the spending cap is"
+    },
+    {
+      "start_ms": 530959,
+      "duration_ms": 7201,
+      "text": "very useful for you to understand which"
+    },
+    {
+      "start_ms": 533279,
+      "duration_ms": 8321,
+      "text": "is the uh maximum cost for you uh if the"
+    },
+    {
+      "start_ms": 538160,
+      "duration_ms": 6799,
+      "text": "client use all the provided SMS and"
+    },
+    {
+      "start_ms": 541600,
+      "duration_ms": 7040,
+      "text": "tokens in this uh case. And for example,"
+    },
+    {
+      "start_ms": 544959,
+      "duration_ms": 7281,
+      "text": "with 100,000 AI tokens, uh you're going"
+    },
+    {
+      "start_ms": 548640,
+      "duration_ms": 6639,
+      "text": "to pay uh 666"
+    },
+    {
+      "start_ms": 552240,
+      "duration_ms": 5920,
+      "text": "cents of a dollar from your balance."
+    },
+    {
+      "start_ms": 555279,
+      "duration_ms": 7441,
+      "text": "Now, of course, um I'm going to show you"
+    },
+    {
+      "start_ms": 558160,
+      "duration_ms": 8239,
+      "text": "right now how you can um set the right"
+    },
+    {
+      "start_ms": 562720,
+      "duration_ms": 6640,
+      "text": "amount of uh AI tokens per month. We've"
+    },
+    {
+      "start_ms": 566399,
+      "duration_ms": 5841,
+      "text": "built a simulator where you can easily"
+    },
+    {
+      "start_ms": 569360,
+      "duration_ms": 5919,
+      "text": "predict how many tokens each client uh"
+    },
+    {
+      "start_ms": 572240,
+      "duration_ms": 5120,
+      "text": "need. Uh before showing you this, I want"
+    },
+    {
+      "start_ms": 575279,
+      "duration_ms": 5921,
+      "text": "to easily show you that we have added"
+    },
+    {
+      "start_ms": 577360,
+      "duration_ms": 6400,
+      "text": "this uh uh message here at the uh bottom"
+    },
+    {
+      "start_ms": 581200,
+      "duration_ms": 5280,
+      "text": "of the uh limits section where you can"
+    },
+    {
+      "start_ms": 583760,
+      "duration_ms": 6240,
+      "text": "see the total spending uh cap. For"
+    },
+    {
+      "start_ms": 586480,
+      "duration_ms": 6000,
+      "text": "example, for this gold plan with 500 SMS"
+    },
+    {
+      "start_ms": 590000,
+      "duration_ms": 5680,
+      "text": "per month, 1,000 email per month, 300"
+    },
+    {
+      "start_ms": 592480,
+      "duration_ms": 6000,
+      "text": "WhatsApp per month, and 100,000 AI"
+    },
+    {
+      "start_ms": 595680,
+      "duration_ms": 4800,
+      "text": "tokens per month, the total spending cap"
+    },
+    {
+      "start_ms": 598480,
+      "duration_ms": 7120,
+      "text": "is $14.66"
+    },
+    {
+      "start_ms": 600480,
+      "duration_ms": 9120,
+      "text": "66 uh dollar which as we brought here is"
+    },
+    {
+      "start_ms": 605600,
+      "duration_ms": 7040,
+      "text": "uh the maximum amount of uh dollar that"
+    },
+    {
+      "start_ms": 609600,
+      "duration_ms": 6799,
+      "text": "can be deducted from your balance if a"
+    },
+    {
+      "start_ms": 612640,
+      "duration_ms": 6720,
+      "text": "client in this plan use all the uh SMS"
+    },
+    {
+      "start_ms": 616399,
+      "duration_ms": 5281,
+      "text": "WhatsApp and tokens provided during the"
+    },
+    {
+      "start_ms": 619360,
+      "duration_ms": 4719,
+      "text": "uh month. So of course this is important"
+    },
+    {
+      "start_ms": 621680,
+      "duration_ms": 5599,
+      "text": "for you because you have to price your"
+    },
+    {
+      "start_ms": 624079,
+      "duration_ms": 6641,
+      "text": "plan uh accordingly. All right. So you"
+    },
+    {
+      "start_ms": 627279,
+      "duration_ms": 8401,
+      "text": "have to of course have the plan uh cost"
+    },
+    {
+      "start_ms": 630720,
+      "duration_ms": 7840,
+      "text": "that has to be minimum 14 uh dollar.66"
+    },
+    {
+      "start_ms": 635680,
+      "duration_ms": 5920,
+      "text": "but of course we suggest to do like 3x"
+    },
+    {
+      "start_ms": 638560,
+      "duration_ms": 6719,
+      "text": "4x 5x whatever you want. You just have"
+    },
+    {
+      "start_ms": 641600,
+      "duration_ms": 8640,
+      "text": "to uh set a price that guarantee you a"
+    },
+    {
+      "start_ms": 645279,
+      "duration_ms": 8481,
+      "text": "very uh high uh margin. And um so this"
+    },
+    {
+      "start_ms": 650240,
+      "duration_ms": 6320,
+      "text": "is very important for you to plan the"
+    },
+    {
+      "start_ms": 653760,
+      "duration_ms": 4639,
+      "text": "cost the maximum cost for each uh plant."
+    },
+    {
+      "start_ms": 656560,
+      "duration_ms": 5440,
+      "text": "Here you have a button as you can see"
+    },
+    {
+      "start_ms": 658399,
+      "duration_ms": 7680,
+      "text": "here um AI pricing where you can see"
+    },
+    {
+      "start_ms": 662000,
+      "duration_ms": 6079,
+      "text": "exactly how much how many tokens each AI"
+    },
+    {
+      "start_ms": 666079,
+      "duration_ms": 4721,
+      "text": "feature is going to consume. All right."
+    },
+    {
+      "start_ms": 668079,
+      "duration_ms": 6721,
+      "text": "So you just click here and you have this"
+    },
+    {
+      "start_ms": 670800,
+      "duration_ms": 7039,
+      "text": "uh table uh where you can easily"
+    },
+    {
+      "start_ms": 674800,
+      "duration_ms": 6000,
+      "text": "understand how many tokens each feature"
+    },
+    {
+      "start_ms": 677839,
+      "duration_ms": 5680,
+      "text": "is going to consume. This is an uh"
+    },
+    {
+      "start_ms": 680800,
+      "duration_ms": 6000,
+      "text": "average. So it's not the exact amount of"
+    },
+    {
+      "start_ms": 683519,
+      "duration_ms": 6320,
+      "text": "token. Uh it depends on uh different"
+    },
+    {
+      "start_ms": 686800,
+      "duration_ms": 7680,
+      "text": "factors. Of course, if you uh for"
+    },
+    {
+      "start_ms": 689839,
+      "duration_ms": 8481,
+      "text": "example generate an uh AI uh reply, uh"
+    },
+    {
+      "start_ms": 694480,
+      "duration_ms": 7760,
+      "text": "of course the output that we get from uh"
+    },
+    {
+      "start_ms": 698320,
+      "duration_ms": 5920,
+      "text": "OpenAI, the token um used for generating"
+    },
+    {
+      "start_ms": 702240,
+      "duration_ms": 5599,
+      "text": "the reply can be different from one"
+    },
+    {
+      "start_ms": 704240,
+      "duration_ms": 6400,
+      "text": "reply to uh another. For example, if the"
+    },
+    {
+      "start_ms": 707839,
+      "duration_ms": 6401,
+      "text": "uh review left by the customer is very"
+    },
+    {
+      "start_ms": 710640,
+      "duration_ms": 7439,
+      "text": "very long, you're going to have a an"
+    },
+    {
+      "start_ms": 714240,
+      "duration_ms": 7760,
+      "text": "amount of tokens used to generate the uh"
+    },
+    {
+      "start_ms": 718079,
+      "duration_ms": 6161,
+      "text": "reply higher comparing to uh a situation"
+    },
+    {
+      "start_ms": 722000,
+      "duration_ms": 5920,
+      "text": "where for example the text of the review"
+    },
+    {
+      "start_ms": 724240,
+      "duration_ms": 7039,
+      "text": "was very very short. uh this is uh an"
+    },
+    {
+      "start_ms": 727920,
+      "duration_ms": 6640,
+      "text": "average that we have done testing uh a"
+    },
+    {
+      "start_ms": 731279,
+      "duration_ms": 6240,
+      "text": "lot of time the uh uh the for example in"
+    },
+    {
+      "start_ms": 734560,
+      "duration_ms": 7440,
+      "text": "this case the AI reply so we done an"
+    },
+    {
+      "start_ms": 737519,
+      "duration_ms": 8801,
+      "text": "average of the token used for uh for all"
+    },
+    {
+      "start_ms": 742000,
+      "duration_ms": 6959,
+      "text": "the replies and but it's very very um"
+    },
+    {
+      "start_ms": 746320,
+      "duration_ms": 5600,
+      "text": "close to uh what you're going to be uh"
+    },
+    {
+      "start_ms": 748959,
+      "duration_ms": 6961,
+      "text": "to be charged and so here we have all"
+    },
+    {
+      "start_ms": 751920,
+      "duration_ms": 6719,
+      "text": "the AI uh feature uh for example Uh this"
+    },
+    {
+      "start_ms": 755920,
+      "duration_ms": 6159,
+      "text": "is the cost for each AI chat message."
+    },
+    {
+      "start_ms": 758639,
+      "duration_ms": 6000,
+      "text": "The cost to generate the uh AI ranking."
+    },
+    {
+      "start_ms": 762079,
+      "duration_ms": 6721,
+      "text": "Uh so we have some features that are"
+    },
+    {
+      "start_ms": 764639,
+      "duration_ms": 6640,
+      "text": "ongoing features. Uh for example the AI"
+    },
+    {
+      "start_ms": 768800,
+      "duration_ms": 5839,
+      "text": "chat. Of course the AI chat can be used"
+    },
+    {
+      "start_ms": 771279,
+      "duration_ms": 5761,
+      "text": "every day by your uh customer. Uh and"
+    },
+    {
+      "start_ms": 774639,
+      "duration_ms": 5681,
+      "text": "then of course we have features that are"
+    },
+    {
+      "start_ms": 777040,
+      "duration_ms": 6160,
+      "text": "used just once uh once per month. For"
+    },
+    {
+      "start_ms": 780320,
+      "duration_ms": 6480,
+      "text": "example, the AI ranking is generated as"
+    },
+    {
+      "start_ms": 783200,
+      "duration_ms": 6319,
+      "text": "you know just the first day of the month"
+    },
+    {
+      "start_ms": 786800,
+      "duration_ms": 6719,
+      "text": "uh each uh each month. So here you have"
+    },
+    {
+      "start_ms": 789519,
+      "duration_ms": 7521,
+      "text": "an overview of the average uh cost and"
+    },
+    {
+      "start_ms": 793519,
+      "duration_ms": 6241,
+      "text": "of course the average uh uh token usage"
+    },
+    {
+      "start_ms": 797040,
+      "duration_ms": 5359,
+      "text": "for each feature. Uh you can also filter"
+    },
+    {
+      "start_ms": 799760,
+      "duration_ms": 6400,
+      "text": "for the specific uh feature so you can"
+    },
+    {
+      "start_ms": 802399,
+      "duration_ms": 6801,
+      "text": "easily uh see how many tokens each"
+    },
+    {
+      "start_ms": 806160,
+      "duration_ms": 5760,
+      "text": "feature uh consume and how much it cost"
+    },
+    {
+      "start_ms": 809200,
+      "duration_ms": 5360,
+      "text": "to you. And here we have the simulator."
+    },
+    {
+      "start_ms": 811920,
+      "duration_ms": 5919,
+      "text": "All right. Uh which is what you are"
+    },
+    {
+      "start_ms": 814560,
+      "duration_ms": 6320,
+      "text": "going to use in order to plan how many"
+    },
+    {
+      "start_ms": 817839,
+      "duration_ms": 5361,
+      "text": "tokens you want to give to uh your"
+    },
+    {
+      "start_ms": 820880,
+      "duration_ms": 5519,
+      "text": "clients every uh month. So when you"
+    },
+    {
+      "start_ms": 823200,
+      "duration_ms": 5759,
+      "text": "build your pricing plans for each plan"
+    },
+    {
+      "start_ms": 826399,
+      "duration_ms": 5201,
+      "text": "you have to set uh not only the number"
+    },
+    {
+      "start_ms": 828959,
+      "duration_ms": 4961,
+      "text": "of email, SMS and WhatsApp but right now"
+    },
+    {
+      "start_ms": 831600,
+      "duration_ms": 5760,
+      "text": "you have to set also the number of AI"
+    },
+    {
+      "start_ms": 833920,
+      "duration_ms": 6880,
+      "text": "tokens uh the maximum number of AI"
+    },
+    {
+      "start_ms": 837360,
+      "duration_ms": 5839,
+      "text": "tokens for each uh plan and you can do"
+    },
+    {
+      "start_ms": 840800,
+      "duration_ms": 6080,
+      "text": "uh a simulation here for example if you"
+    },
+    {
+      "start_ms": 843199,
+      "duration_ms": 6561,
+      "text": "have a client that uh you know that uh"
+    },
+    {
+      "start_ms": 846880,
+      "duration_ms": 6240,
+      "text": "on average receive for example uh let's"
+    },
+    {
+      "start_ms": 849760,
+      "duration_ms": 6079,
+      "text": "say 15 uh reviews per month like one"
+    },
+    {
+      "start_ms": 853120,
+      "duration_ms": 6159,
+      "text": "review every uh every two days. Uh we"
+    },
+    {
+      "start_ms": 855839,
+      "duration_ms": 7761,
+      "text": "can plan that they are going to use uh"
+    },
+    {
+      "start_ms": 859279,
+      "duration_ms": 7521,
+      "text": "the AI replies uh 15 uh times. Uh we"
+    },
+    {
+      "start_ms": 863600,
+      "duration_ms": 6640,
+      "text": "have the for example the social agent uh"
+    },
+    {
+      "start_ms": 866800,
+      "duration_ms": 5760,
+      "text": "enabled. So those 15 reviews are going"
+    },
+    {
+      "start_ms": 870240,
+      "duration_ms": 5520,
+      "text": "to be shared on social media. So we're"
+    },
+    {
+      "start_ms": 872560,
+      "duration_ms": 6399,
+      "text": "going to use the AI uh to generate"
+    },
+    {
+      "start_ms": 875760,
+      "duration_ms": 6639,
+      "text": "social caption. uh we have the geo agent"
+    },
+    {
+      "start_ms": 878959,
+      "duration_ms": 7281,
+      "text": "that produce one article per week. So"
+    },
+    {
+      "start_ms": 882399,
+      "duration_ms": 6721,
+      "text": "for example, we have uh four monthly uh"
+    },
+    {
+      "start_ms": 886240,
+      "duration_ms": 6000,
+      "text": "blog post uh generated and let's say"
+    },
+    {
+      "start_ms": 889120,
+      "duration_ms": 6159,
+      "text": "that we have also the AI chat uh"
+    },
+    {
+      "start_ms": 892240,
+      "duration_ms": 6240,
+      "text": "enabled. So let's say that on average uh"
+    },
+    {
+      "start_ms": 895279,
+      "duration_ms": 6641,
+      "text": "our clients during the month use uh the"
+    },
+    {
+      "start_ms": 898480,
+      "duration_ms": 7200,
+      "text": "chat and send for example 70 message uh"
+    },
+    {
+      "start_ms": 901920,
+      "duration_ms": 7440,
+      "text": "in the chat and we have also uh AI"
+    },
+    {
+      "start_ms": 905680,
+      "duration_ms": 6880,
+      "text": "ranking and AI sentiment analysis uh"
+    },
+    {
+      "start_ms": 909360,
+      "duration_ms": 8000,
+      "text": "enabled. So here you can see that in"
+    },
+    {
+      "start_ms": 912560,
+      "duration_ms": 8959,
+      "text": "order to uh use this uh feature uh you"
+    },
+    {
+      "start_ms": 917360,
+      "duration_ms": 8240,
+      "text": "are going to use uh um approximately uh"
+    },
+    {
+      "start_ms": 921519,
+      "duration_ms": 7680,
+      "text": "400,000 tokens. All right. And uh we"
+    },
+    {
+      "start_ms": 925600,
+      "duration_ms": 6599,
+      "text": "have here estimated AI token usage uh"
+    },
+    {
+      "start_ms": 929199,
+      "duration_ms": 3000,
+      "text": "46,582"
+    },
+    {
+      "start_ms": 932399,
+      "duration_ms": 9361,
+      "text": "and this is the estimated AI token uh"
+    },
+    {
+      "start_ms": 936079,
+      "duration_ms": 9440,
+      "text": "cost. So uh $2.68 68 uh per month. So of"
+    },
+    {
+      "start_ms": 941760,
+      "duration_ms": 7439,
+      "text": "course as we brought uh here this is not"
+    },
+    {
+      "start_ms": 945519,
+      "duration_ms": 6481,
+      "text": "the exact number of tokens that your"
+    },
+    {
+      "start_ms": 949199,
+      "duration_ms": 4640,
+      "text": "clients are going to be used uh but it's"
+    },
+    {
+      "start_ms": 952000,
+      "duration_ms": 4000,
+      "text": "very very close. All right, we have done"
+    },
+    {
+      "start_ms": 953839,
+      "duration_ms": 5201,
+      "text": "a lot of uh test and it's very very"
+    },
+    {
+      "start_ms": 956000,
+      "duration_ms": 6800,
+      "text": "close to what your clients are going to"
+    },
+    {
+      "start_ms": 959040,
+      "duration_ms": 7359,
+      "text": "um to to use in terms of tokens and how"
+    },
+    {
+      "start_ms": 962800,
+      "duration_ms": 6719,
+      "text": "much it cost to you in terms of uh uh"
+    },
+    {
+      "start_ms": 966399,
+      "duration_ms": 5921,
+      "text": "dollars deducted from your uh balance. H"
+    },
+    {
+      "start_ms": 969519,
+      "duration_ms": 5760,
+      "text": "so for example, this can be let's say"
+    },
+    {
+      "start_ms": 972320,
+      "duration_ms": 6240,
+      "text": "your uh bronze plan. Let's say in the"
+    },
+    {
+      "start_ms": 975279,
+      "duration_ms": 5920,
+      "text": "bronze plan, you uh target very small"
+    },
+    {
+      "start_ms": 978560,
+      "duration_ms": 6480,
+      "text": "local businesses that usually receive uh"
+    },
+    {
+      "start_ms": 981199,
+      "duration_ms": 6401,
+      "text": "let's say 15 reviews uh per uh per month"
+    },
+    {
+      "start_ms": 985040,
+      "duration_ms": 7120,
+      "text": "and uh you decide to allocate for this"
+    },
+    {
+      "start_ms": 987600,
+      "duration_ms": 8320,
+      "text": "plan for example 500 uh,000 uh token. Uh"
+    },
+    {
+      "start_ms": 992160,
+      "duration_ms": 8400,
+      "text": "you can see that if we copy this number"
+    },
+    {
+      "start_ms": 995920,
+      "duration_ms": 7760,
+      "text": "and we upload it here the uh spending"
+    },
+    {
+      "start_ms": 1000560,
+      "duration_ms": 5920,
+      "text": "cap of course is the same as the one"
+    },
+    {
+      "start_ms": 1003680,
+      "duration_ms": 5440,
+      "text": "calculated in the uh simulator. So the"
+    },
+    {
+      "start_ms": 1006480,
+      "duration_ms": 7120,
+      "text": "simulator is very very useful for you to"
+    },
+    {
+      "start_ms": 1009120,
+      "duration_ms": 7120,
+      "text": "understand how many um uh AI tokens you"
+    },
+    {
+      "start_ms": 1013600,
+      "duration_ms": 4720,
+      "text": "want to allocate for uh each plan. And"
+    },
+    {
+      "start_ms": 1016240,
+      "duration_ms": 5120,
+      "text": "we can easily see that our total"
+    },
+    {
+      "start_ms": 1018320,
+      "duration_ms": 6239,
+      "text": "spending cap is uh increased. In this"
+    },
+    {
+      "start_ms": 1021360,
+      "duration_ms": 6640,
+      "text": "case our total spending cap is uh almost"
+    },
+    {
+      "start_ms": 1024559,
+      "duration_ms": 7041,
+      "text": "$17 uh dollars. So of course when we"
+    },
+    {
+      "start_ms": 1028000,
+      "duration_ms": 5839,
+      "text": "price the uh plan we have to choose a"
+    },
+    {
+      "start_ms": 1031600,
+      "duration_ms": 6479,
+      "text": "monthly amount of course that covers"
+    },
+    {
+      "start_ms": 1033839,
+      "duration_ms": 6720,
+      "text": "that uh uh that maximum cost. Uh this is"
+    },
+    {
+      "start_ms": 1038079,
+      "duration_ms": 4880,
+      "text": "the maximum cost. This is not the cost"
+    },
+    {
+      "start_ms": 1040559,
+      "duration_ms": 6161,
+      "text": "of the plan. Of course when you assign"
+    },
+    {
+      "start_ms": 1042959,
+      "duration_ms": 7441,
+      "text": "for example 400,000 uh tokens to a um to"
+    },
+    {
+      "start_ms": 1046720,
+      "duration_ms": 6400,
+      "text": "a plan uh it's very very likely that the"
+    },
+    {
+      "start_ms": 1050400,
+      "duration_ms": 5120,
+      "text": "client is not going to use all the uh"
+    },
+    {
+      "start_ms": 1053120,
+      "duration_ms": 6240,
+      "text": "all the tokens. It can happen if they"
+    },
+    {
+      "start_ms": 1055520,
+      "duration_ms": 7440,
+      "text": "use all the uh tokens. Of course, the"
+    },
+    {
+      "start_ms": 1059360,
+      "duration_ms": 6000,
+      "text": "ongoing features uh are not going to uh"
+    },
+    {
+      "start_ms": 1062960,
+      "duration_ms": 4800,
+      "text": "work anymore. And this is also an"
+    },
+    {
+      "start_ms": 1065360,
+      "duration_ms": 6160,
+      "text": "opportunity for you to stimulate them to"
+    },
+    {
+      "start_ms": 1067760,
+      "duration_ms": 6000,
+      "text": "move to an uh higher plan that maybe"
+    },
+    {
+      "start_ms": 1071520,
+      "duration_ms": 4720,
+      "text": "provide more uh tokens. So, they can"
+    },
+    {
+      "start_ms": 1073760,
+      "duration_ms": 5520,
+      "text": "maybe switch from bronze to uh silver"
+    },
+    {
+      "start_ms": 1076240,
+      "duration_ms": 6480,
+      "text": "just because they want more uh uh more"
+    },
+    {
+      "start_ms": 1079280,
+      "duration_ms": 6639,
+      "text": "AI tokens. If they want to stay in a"
+    },
+    {
+      "start_ms": 1082720,
+      "duration_ms": 6480,
+      "text": "plan where they have uh finished the"
+    },
+    {
+      "start_ms": 1085919,
+      "duration_ms": 6801,
+      "text": "number of tokens uh provided the ongoing"
+    },
+    {
+      "start_ms": 1089200,
+      "duration_ms": 6320,
+      "text": "feature that they can use every day um"
+    },
+    {
+      "start_ms": 1092720,
+      "duration_ms": 6800,
+      "text": "are uh blocked like for example the AI"
+    },
+    {
+      "start_ms": 1095520,
+      "duration_ms": 6159,
+      "text": "chat and the activities of the uh AI"
+    },
+    {
+      "start_ms": 1099520,
+      "duration_ms": 6240,
+      "text": "agent for example if they use all the"
+    },
+    {
+      "start_ms": 1101679,
+      "duration_ms": 8081,
+      "text": "tokens in this uh uh plans and uh let's"
+    },
+    {
+      "start_ms": 1105760,
+      "duration_ms": 6799,
+      "text": "say we are at the 20th of the uh month"
+    },
+    {
+      "start_ms": 1109760,
+      "duration_ms": 5600,
+      "text": "uh for 10 days. So until the uh first"
+    },
+    {
+      "start_ms": 1112559,
+      "duration_ms": 5601,
+      "text": "day of the month uh sorry until the uh"
+    },
+    {
+      "start_ms": 1115360,
+      "duration_ms": 6559,
+      "text": "the day when the subscription is uh"
+    },
+    {
+      "start_ms": 1118160,
+      "duration_ms": 7040,
+      "text": "renewed uh the SEO agent for example uh"
+    },
+    {
+      "start_ms": 1121919,
+      "duration_ms": 6961,
+      "text": "does not reply anymore to uh reviews"
+    },
+    {
+      "start_ms": 1125200,
+      "duration_ms": 6240,
+      "text": "until the uh date when the plan is"
+    },
+    {
+      "start_ms": 1128880,
+      "duration_ms": 5280,
+      "text": "renewed. Uh so this is how it works"
+    },
+    {
+      "start_ms": 1131440,
+      "duration_ms": 6239,
+      "text": "inside the plans uh section. So very"
+    },
+    {
+      "start_ms": 1134160,
+      "duration_ms": 6720,
+      "text": "very transparent and easy for you to uh"
+    },
+    {
+      "start_ms": 1137679,
+      "duration_ms": 6721,
+      "text": "understand the maximum cost and uh"
+    },
+    {
+      "start_ms": 1140880,
+      "duration_ms": 6480,
+      "text": "decide the price of your uh plan in your"
+    },
+    {
+      "start_ms": 1144400,
+      "duration_ms": 7440,
+      "text": "balance. Let's go to settings uh"
+    },
+    {
+      "start_ms": 1147360,
+      "duration_ms": 8800,
+      "text": "balance. Um of course you have also an"
+    },
+    {
+      "start_ms": 1151840,
+      "duration_ms": 6480,
+      "text": "indication of how many um how much 1"
+    },
+    {
+      "start_ms": 1156160,
+      "duration_ms": 5040,
+      "text": "million token cost to you which is"
+    },
+    {
+      "start_ms": 1158320,
+      "duration_ms": 4800,
+      "text": "fixed. So uh 1 million tokens cost"
+    },
+    {
+      "start_ms": 1161200,
+      "duration_ms": 6719,
+      "text": "$6.60."
+    },
+    {
+      "start_ms": 1163120,
+      "duration_ms": 9040,
+      "text": "60 uh 60 cents and of course here you"
+    },
+    {
+      "start_ms": 1167919,
+      "duration_ms": 7601,
+      "text": "can see the uh aggregated usage also of"
+    },
+    {
+      "start_ms": 1172160,
+      "duration_ms": 6240,
+      "text": "AI tokens as you can see for SMS, email"
+    },
+    {
+      "start_ms": 1175520,
+      "duration_ms": 6000,
+      "text": "and uh WhatsApp. So we have added this"
+    },
+    {
+      "start_ms": 1178400,
+      "duration_ms": 8240,
+      "text": "uh voice. So basically here"
+    },
+    {
+      "start_ms": 1181520,
+      "duration_ms": 10320,
+      "text": "uh we uh do a kind of sum of all the uh"
+    },
+    {
+      "start_ms": 1186640,
+      "duration_ms": 9200,
+      "text": "maximum uh uh limits of SMS, email, uh"
+    },
+    {
+      "start_ms": 1191840,
+      "duration_ms": 7199,
+      "text": "WhatsApp and AI tokens. So you can see"
+    },
+    {
+      "start_ms": 1195840,
+      "duration_ms": 6640,
+      "text": "uh and if your clients are approaching"
+    },
+    {
+      "start_ms": 1199039,
+      "duration_ms": 7681,
+      "text": "to the uh to the limits and you can also"
+    },
+    {
+      "start_ms": 1202480,
+      "duration_ms": 6720,
+      "text": "see uh um in details how many SMS,"
+    },
+    {
+      "start_ms": 1206720,
+      "duration_ms": 6160,
+      "text": "email, WhatsApp and now also AI tokens"
+    },
+    {
+      "start_ms": 1209200,
+      "duration_ms": 6240,
+      "text": "each uh location is uh consuming and of"
+    },
+    {
+      "start_ms": 1212880,
+      "duration_ms": 6720,
+      "text": "course you can filter by uh month. So"
+    },
+    {
+      "start_ms": 1215440,
+      "duration_ms": 6560,
+      "text": "you have 100 uh% transparency and you"
+    },
+    {
+      "start_ms": 1219600,
+      "duration_ms": 6079,
+      "text": "see exactly how many tokens uh each"
+    },
+    {
+      "start_ms": 1222000,
+      "duration_ms": 6320,
+      "text": "client is uh uh is consuming. Um in the"
+    },
+    {
+      "start_ms": 1225679,
+      "duration_ms": 4961,
+      "text": "business model uh you have now a new"
+    },
+    {
+      "start_ms": 1228320,
+      "duration_ms": 5359,
+      "text": "voice in the limit section. So your"
+    },
+    {
+      "start_ms": 1230640,
+      "duration_ms": 7440,
+      "text": "clients can easily see from settings uh"
+    },
+    {
+      "start_ms": 1233679,
+      "duration_ms": 7120,
+      "text": "limits how many AI tokens they have. For"
+    },
+    {
+      "start_ms": 1238080,
+      "duration_ms": 6000,
+      "text": "example, in this client, uh we have"
+    },
+    {
+      "start_ms": 1240799,
+      "duration_ms": 6561,
+      "text": "provided a million uh AI token. They've"
+    },
+    {
+      "start_ms": 1244080,
+      "duration_ms": 7040,
+      "text": "used uh 250,000"
+    },
+    {
+      "start_ms": 1247360,
+      "duration_ms": 6559,
+      "text": "uh tokens and of course here they see uh"
+    },
+    {
+      "start_ms": 1251120,
+      "duration_ms": 6000,
+      "text": "how many tokens they have uh left. So"
+    },
+    {
+      "start_ms": 1253919,
+      "duration_ms": 6481,
+      "text": "they can easily see if they are getting"
+    },
+    {
+      "start_ms": 1257120,
+      "duration_ms": 6640,
+      "text": "close to the uh maximum limit. And we"
+    },
+    {
+      "start_ms": 1260400,
+      "duration_ms": 6159,
+      "text": "have added also a new uh voice in the uh"
+    },
+    {
+      "start_ms": 1263760,
+      "duration_ms": 6320,
+      "text": "history section. So in history now as"
+    },
+    {
+      "start_ms": 1266559,
+      "duration_ms": 6721,
+      "text": "you can see we have uh in the uh left"
+    },
+    {
+      "start_ms": 1270080,
+      "duration_ms": 6719,
+      "text": "tab uh messages. So they can see exactly"
+    },
+    {
+      "start_ms": 1273280,
+      "duration_ms": 6800,
+      "text": "all the uh logs of each message sent"
+    },
+    {
+      "start_ms": 1276799,
+      "duration_ms": 7201,
+      "text": "through the platform both via uh quick"
+    },
+    {
+      "start_ms": 1280080,
+      "duration_ms": 7200,
+      "text": "request campaigns or uh automations."
+    },
+    {
+      "start_ms": 1284000,
+      "duration_ms": 5039,
+      "text": "And now we have also the uh AI section."
+    },
+    {
+      "start_ms": 1287280,
+      "duration_ms": 5920,
+      "text": "This of course is going to be branded"
+    },
+    {
+      "start_ms": 1289039,
+      "duration_ms": 9120,
+      "text": "with your uh AI uh name. and they can"
+    },
+    {
+      "start_ms": 1293200,
+      "duration_ms": 10400,
+      "text": "see exactly uh all the"
+    },
+    {
+      "start_ms": 1298159,
+      "duration_ms": 9281,
+      "text": "uh logs uh of your uh AI to see exactly"
+    },
+    {
+      "start_ms": 1303600,
+      "duration_ms": 7280,
+      "text": "uh for example uh a a chat uh message"
+    },
+    {
+      "start_ms": 1307440,
+      "duration_ms": 7440,
+      "text": "that was uh uh produced on the 31st of"
+    },
+    {
+      "start_ms": 1310880,
+      "duration_ms": 8640,
+      "text": "May at this uh how consume this number"
+    },
+    {
+      "start_ms": 1314880,
+      "duration_ms": 7840,
+      "text": "of uh tokens or for for example the uh"
+    },
+    {
+      "start_ms": 1319520,
+      "duration_ms": 6560,
+      "text": "uh Joe agent generated this uh blog uh"
+    },
+    {
+      "start_ms": 1322720,
+      "duration_ms": 7439,
+      "text": "article that consume this exact uh"
+    },
+    {
+      "start_ms": 1326080,
+      "duration_ms": 7280,
+      "text": "amount of tokens. So you can see exactly"
+    },
+    {
+      "start_ms": 1330159,
+      "duration_ms": 5681,
+      "text": "where tokens are uh spent. So both your"
+    },
+    {
+      "start_ms": 1333360,
+      "duration_ms": 4960,
+      "text": "clients can see it and of course you by"
+    },
+    {
+      "start_ms": 1335840,
+      "duration_ms": 6160,
+      "text": "accessing to your client's account can"
+    },
+    {
+      "start_ms": 1338320,
+      "duration_ms": 6640,
+      "text": "see exactly uh where your clients are"
+    },
+    {
+      "start_ms": 1342000,
+      "duration_ms": 6400,
+      "text": "consuming uh tokens and this is made of"
+    },
+    {
+      "start_ms": 1344960,
+      "duration_ms": 6079,
+      "text": "course for uh transparency. So of course"
+    },
+    {
+      "start_ms": 1348400,
+      "duration_ms": 5200,
+      "text": "your clients they know that they have a"
+    },
+    {
+      "start_ms": 1351039,
+      "duration_ms": 5441,
+      "text": "limit but of course they want to if if"
+    },
+    {
+      "start_ms": 1353600,
+      "duration_ms": 5439,
+      "text": "the uh the number of AI tokens is going"
+    },
+    {
+      "start_ms": 1356480,
+      "duration_ms": 6000,
+      "text": "down they want to see exactly why is"
+    },
+    {
+      "start_ms": 1359039,
+      "duration_ms": 7201,
+      "text": "going down. So as they have the history"
+    },
+    {
+      "start_ms": 1362480,
+      "duration_ms": 6559,
+      "text": "for uh messages that of course uh"
+    },
+    {
+      "start_ms": 1366240,
+      "duration_ms": 6160,
+      "text": "showcase all the previous messages uh"
+    },
+    {
+      "start_ms": 1369039,
+      "duration_ms": 7120,
+      "text": "sent they have the history also of AI"
+    },
+    {
+      "start_ms": 1372400,
+      "duration_ms": 8399,
+      "text": "actions. Uh, of course these icons here"
+    },
+    {
+      "start_ms": 1376159,
+      "duration_ms": 9281,
+      "text": "are going to be um um changed with your"
+    },
+    {
+      "start_ms": 1380799,
+      "duration_ms": 8801,
+      "text": "AI agent uh logos. Uh, as you know last"
+    },
+    {
+      "start_ms": 1385440,
+      "duration_ms": 5680,
+      "text": "uh week we have presented also this uh"
+    },
+    {
+      "start_ms": 1389600,
+      "duration_ms": 5680,
+      "text": "feature"
+    },
+    {
+      "start_ms": 1391120,
+      "duration_ms": 8799,
+      "text": "where you can uh personalize your AI"
+    },
+    {
+      "start_ms": 1395280,
+      "duration_ms": 8240,
+      "text": "agents uh name and uh and logos. So you"
+    },
+    {
+      "start_ms": 1399919,
+      "duration_ms": 7281,
+      "text": "can have a dedicated uh logo or photo or"
+    },
+    {
+      "start_ms": 1403520,
+      "duration_ms": 5360,
+      "text": "image for uh each agent. And uh so for"
+    },
+    {
+      "start_ms": 1407200,
+      "duration_ms": 5359,
+      "text": "example,"
+    },
+    {
+      "start_ms": 1408880,
+      "duration_ms": 5919,
+      "text": "if for this uh AI action here that is of"
+    },
+    {
+      "start_ms": 1412559,
+      "duration_ms": 5441,
+      "text": "course connected to the geo agent"
+    },
+    {
+      "start_ms": 1414799,
+      "duration_ms": 6000,
+      "text": "because is the action for the blog"
+    },
+    {
+      "start_ms": 1418000,
+      "duration_ms": 6000,
+      "text": "cover, instead of this icon uh here,"
+    },
+    {
+      "start_ms": 1420799,
+      "duration_ms": 6961,
+      "text": "you're going to have the photo of your"
+    },
+    {
+      "start_ms": 1424000,
+      "duration_ms": 8159,
+      "text": "uh geo agent. And uh so this is 100%"
+    },
+    {
+      "start_ms": 1427760,
+      "duration_ms": 8320,
+      "text": "more uh personalized and branded"
+    },
+    {
+      "start_ms": 1432159,
+      "duration_ms": 6801,
+      "text": "uh with your personal AI agency. And uh"
+    },
+    {
+      "start_ms": 1436080,
+      "duration_ms": 7760,
+      "text": "I think that's all for how the AI"
+    },
+    {
+      "start_ms": 1438960,
+      "duration_ms": 10560,
+      "text": "building uh works. So in order to uh"
+    },
+    {
+      "start_ms": 1443840,
+      "duration_ms": 9199,
+      "text": "summarize very very uh quickly um"
+    },
+    {
+      "start_ms": 1449520,
+      "duration_ms": 7120,
+      "text": "firstly what you have to do from uh the"
+    },
+    {
+      "start_ms": 1453039,
+      "duration_ms": 7520,
+      "text": "uh next uh weeks you have to uh decide"
+    },
+    {
+      "start_ms": 1456640,
+      "duration_ms": 5840,
+      "text": "this limit for all your uh plans uh"
+    },
+    {
+      "start_ms": 1460559,
+      "duration_ms": 5441,
+      "text": "because of course I suppose that you"
+    },
+    {
+      "start_ms": 1462480,
+      "duration_ms": 6559,
+      "text": "have all your plans already uh created"
+    },
+    {
+      "start_ms": 1466000,
+      "duration_ms": 7200,
+      "text": "uh by default we're going to"
+    },
+    {
+      "start_ms": 1469039,
+      "duration_ms": 7520,
+      "text": "uh add a default default uh number of AI"
+    },
+    {
+      "start_ms": 1473200,
+      "duration_ms": 6479,
+      "text": "tokens here to each of your uh plans. So"
+    },
+    {
+      "start_ms": 1476559,
+      "duration_ms": 6240,
+      "text": "of course the AI keep working for your"
+    },
+    {
+      "start_ms": 1479679,
+      "duration_ms": 6321,
+      "text": "uh clients. Uh but of course uh of"
+    },
+    {
+      "start_ms": 1482799,
+      "duration_ms": 5441,
+      "text": "course we suggest you to go uh to your"
+    },
+    {
+      "start_ms": 1486000,
+      "duration_ms": 7200,
+      "text": "uh plans when this feature is released"
+    },
+    {
+      "start_ms": 1488240,
+      "duration_ms": 9280,
+      "text": "probably uh tomorrow and edit the limit"
+    },
+    {
+      "start_ms": 1493200,
+      "duration_ms": 6880,
+      "text": "of uh AI tokens for uh for each plan. Uh"
+    },
+    {
+      "start_ms": 1497520,
+      "duration_ms": 5519,
+      "text": "so probably you have like for example in"
+    },
+    {
+      "start_ms": 1500080,
+      "duration_ms": 5920,
+      "text": "my case uh three plans bronze, silver"
+    },
+    {
+      "start_ms": 1503039,
+      "duration_ms": 7601,
+      "text": "and gold. So for each plan you just uh"
+    },
+    {
+      "start_ms": 1506000,
+      "duration_ms": 6880,
+      "text": "go in the limit uh section. Uh firstly"
+    },
+    {
+      "start_ms": 1510640,
+      "duration_ms": 5680,
+      "text": "you do a simulation. So you go to the AI"
+    },
+    {
+      "start_ms": 1512880,
+      "duration_ms": 7840,
+      "text": "pricing zone simulator and you uh"
+    },
+    {
+      "start_ms": 1516320,
+      "duration_ms": 6800,
+      "text": "simulate how many uh tokens uh you want"
+    },
+    {
+      "start_ms": 1520720,
+      "duration_ms": 4800,
+      "text": "to allocate for each plan. For example,"
+    },
+    {
+      "start_ms": 1523120,
+      "duration_ms": 5439,
+      "text": "the bronze plan is the plan dedicated to"
+    },
+    {
+      "start_ms": 1525520,
+      "duration_ms": 5680,
+      "text": "very very small uh businesses that on"
+    },
+    {
+      "start_ms": 1528559,
+      "duration_ms": 6240,
+      "text": "average receive let's say one review"
+    },
+    {
+      "start_ms": 1531200,
+      "duration_ms": 6160,
+      "text": "every two day or one review per day. So"
+    },
+    {
+      "start_ms": 1534799,
+      "duration_ms": 6641,
+      "text": "uh you can set that uh for this plan it"
+    },
+    {
+      "start_ms": 1537360,
+      "duration_ms": 9600,
+      "text": "could be enough to have maybe 30 uh AI"
+    },
+    {
+      "start_ms": 1541440,
+      "duration_ms": 8560,
+      "text": "replies as 30 social post uh four uh"
+    },
+    {
+      "start_ms": 1546960,
+      "duration_ms": 6000,
+      "text": "blog post. Uh maybe in the uh bronze"
+    },
+    {
+      "start_ms": 1550000,
+      "duration_ms": 5120,
+      "text": "plan you do not have the AI chat uh"
+    },
+    {
+      "start_ms": 1552960,
+      "duration_ms": 6000,
+      "text": "enabled but because maybe you enable the"
+    },
+    {
+      "start_ms": 1555120,
+      "duration_ms": 6640,
+      "text": "AI chat just on the uh premium plan."
+    },
+    {
+      "start_ms": 1558960,
+      "duration_ms": 5199,
+      "text": "Maybe also AI ranking is not enabled but"
+    },
+    {
+      "start_ms": 1561760,
+      "duration_ms": 4880,
+      "text": "you have sentiment analysis in the"
+    },
+    {
+      "start_ms": 1564159,
+      "duration_ms": 6880,
+      "text": "bronze uh plan. Uh you can see that the"
+    },
+    {
+      "start_ms": 1566640,
+      "duration_ms": 7360,
+      "text": "estimated cost is $122"
+    },
+    {
+      "start_ms": 1571039,
+      "duration_ms": 6240,
+      "text": "uh cent and the number of tokens is uh"
+    },
+    {
+      "start_ms": 1574000,
+      "duration_ms": 5919,
+      "text": "the estimated number of token use is"
+    },
+    {
+      "start_ms": 1577279,
+      "duration_ms": 5280,
+      "text": "184,000. So maybe let's say for the"
+    },
+    {
+      "start_ms": 1579919,
+      "duration_ms": 6801,
+      "text": "bronze plan you can set for example"
+    },
+    {
+      "start_ms": 1582559,
+      "duration_ms": 6321,
+      "text": "200,000 tokens as the uh limit. So you"
+    },
+    {
+      "start_ms": 1586720,
+      "duration_ms": 4480,
+      "text": "simply write here"
+    },
+    {
+      "start_ms": 1588880,
+      "duration_ms": 5679,
+      "text": "200,000. You see that the spending cap"
+    },
+    {
+      "start_ms": 1591200,
+      "duration_ms": 6640,
+      "text": "is $1.32"
+    },
+    {
+      "start_ms": 1594559,
+      "duration_ms": 6561,
+      "text": "uh cent. So you do this for all your uh"
+    },
+    {
+      "start_ms": 1597840,
+      "duration_ms": 6160,
+      "text": "plans. Of course you have to update your"
+    },
+    {
+      "start_ms": 1601120,
+      "duration_ms": 6159,
+      "text": "uh clients that there is this uh uh new"
+    },
+    {
+      "start_ms": 1604000,
+      "duration_ms": 6720,
+      "text": "uh limits as we have uh increased the"
+    },
+    {
+      "start_ms": 1607279,
+      "duration_ms": 6161,
+      "text": "number of uh AI features in the uh in"
+    },
+    {
+      "start_ms": 1610720,
+      "duration_ms": 6559,
+      "text": "the platform and uh your clients will"
+    },
+    {
+      "start_ms": 1613440,
+      "duration_ms": 8400,
+      "text": "simply have this new limit in their uh"
+    },
+    {
+      "start_ms": 1617279,
+      "duration_ms": 8321,
+      "text": "limits area. So we have uh completed our"
+    },
+    {
+      "start_ms": 1621840,
+      "duration_ms": 7439,
+      "text": "uh limit area with this four uh fourth"
+    },
+    {
+      "start_ms": 1625600,
+      "duration_ms": 6160,
+      "text": "card that was uh missing. H and since"
+    },
+    {
+      "start_ms": 1629279,
+      "duration_ms": 5601,
+      "text": "the beginning we've planned to add this"
+    },
+    {
+      "start_ms": 1631760,
+      "duration_ms": 5760,
+      "text": "AI tokens uh card. H so now they can"
+    },
+    {
+      "start_ms": 1634880,
+      "duration_ms": 7360,
+      "text": "easily monitor their limit email, SMS,"
+    },
+    {
+      "start_ms": 1637520,
+      "duration_ms": 7920,
+      "text": "WhatsApp and uh and AI tokens um as we"
+    },
+    {
+      "start_ms": 1642240,
+      "duration_ms": 5439,
+      "text": "keep releasing new uh AI features. So of"
+    },
+    {
+      "start_ms": 1645440,
+      "duration_ms": 4320,
+      "text": "course down the road during the next"
+    },
+    {
+      "start_ms": 1647679,
+      "duration_ms": 5921,
+      "text": "month and years of course we will"
+    },
+    {
+      "start_ms": 1649760,
+      "duration_ms": 7440,
+      "text": "develop new things with uh AI uh of"
+    },
+    {
+      "start_ms": 1653600,
+      "duration_ms": 7040,
+      "text": "course uh if there is a new uh AI uh"
+    },
+    {
+      "start_ms": 1657200,
+      "duration_ms": 6160,
+      "text": "feature we're going to add it in the uh"
+    },
+    {
+      "start_ms": 1660640,
+      "duration_ms": 5840,
+      "text": "AI pricing area so you know exactly on"
+    },
+    {
+      "start_ms": 1663360,
+      "duration_ms": 5919,
+      "text": "average how uh it cost and we're also"
+    },
+    {
+      "start_ms": 1666480,
+      "duration_ms": 5600,
+      "text": "going to add it in the uh simul"
+    },
+    {
+      "start_ms": 1669279,
+      "duration_ms": 5361,
+      "text": "simulator so you know exactly how much"
+    },
+    {
+      "start_ms": 1672080,
+      "duration_ms": 6640,
+      "text": "to to plan uh you know exactly how to"
+    },
+    {
+      "start_ms": 1674640,
+      "duration_ms": 6880,
+      "text": "plan your uh plans uh price. Um last"
+    },
+    {
+      "start_ms": 1678720,
+      "duration_ms": 5040,
+      "text": "thing that I want to uh show you so you"
+    },
+    {
+      "start_ms": 1681520,
+      "duration_ms": 6399,
+      "text": "can see that for example in the uh"
+    },
+    {
+      "start_ms": 1683760,
+      "duration_ms": 8159,
+      "text": "history um for uh for example for the"
+    },
+    {
+      "start_ms": 1687919,
+      "duration_ms": 7360,
+      "text": "blog uh article you do not have a single"
+    },
+    {
+      "start_ms": 1691919,
+      "duration_ms": 6480,
+      "text": "AI activity but for example here we have"
+    },
+    {
+      "start_ms": 1695279,
+      "duration_ms": 6400,
+      "text": "uh two activity one for the blog cover"
+    },
+    {
+      "start_ms": 1698399,
+      "duration_ms": 7841,
+      "text": "and one for the blog uh article. All"
+    },
+    {
+      "start_ms": 1701679,
+      "duration_ms": 7600,
+      "text": "right. Uh, of course when uh you um uh"
+    },
+    {
+      "start_ms": 1706240,
+      "duration_ms": 5840,
+      "text": "you set the number of monthly AI blog"
+    },
+    {
+      "start_ms": 1709279,
+      "duration_ms": 5841,
+      "text": "post generated from the simulator uh"
+    },
+    {
+      "start_ms": 1712080,
+      "duration_ms": 5839,
+      "text": "here of course we include all the uh"
+    },
+    {
+      "start_ms": 1715120,
+      "duration_ms": 6000,
+      "text": "activities related in this case to the"
+    },
+    {
+      "start_ms": 1717919,
+      "duration_ms": 4801,
+      "text": "uh blog post. So if here we write for"
+    },
+    {
+      "start_ms": 1721120,
+      "duration_ms": 6880,
+      "text": "example"
+    },
+    {
+      "start_ms": 1722720,
+      "duration_ms": 9120,
+      "text": "uh one of course in this uh 15 uh scent"
+    },
+    {
+      "start_ms": 1728000,
+      "duration_ms": 8240,
+      "text": "we take into consideration both the uh"
+    },
+    {
+      "start_ms": 1731840,
+      "duration_ms": 8559,
+      "text": "cover uh to generate the uh article and"
+    },
+    {
+      "start_ms": 1736240,
+      "duration_ms": 8400,
+      "text": "also the uh uh text of the article uh"
+    },
+    {
+      "start_ms": 1740399,
+      "duration_ms": 6481,
+      "text": "itself and also the fact that every uh"
+    },
+    {
+      "start_ms": 1744640,
+      "duration_ms": 5440,
+      "text": "every free month we generate the new"
+    },
+    {
+      "start_ms": 1746880,
+      "duration_ms": 6560,
+      "text": "topics with the AI. high. So we also"
+    },
+    {
+      "start_ms": 1750080,
+      "duration_ms": 6959,
+      "text": "take into consideration uh that cost. Of"
+    },
+    {
+      "start_ms": 1753440,
+      "duration_ms": 6560,
+      "text": "course this is as we brought here an"
+    },
+    {
+      "start_ms": 1757039,
+      "duration_ms": 7520,
+      "text": "average. So it's impossible to plan"
+    },
+    {
+      "start_ms": 1760000,
+      "duration_ms": 6559,
+      "text": "exactly uh how many uh tokens your"
+    },
+    {
+      "start_ms": 1764559,
+      "duration_ms": 4480,
+      "text": "clients are going to consume and how"
+    },
+    {
+      "start_ms": 1766559,
+      "duration_ms": 5840,
+      "text": "much it will cost to you. Uh but this is"
+    },
+    {
+      "start_ms": 1769039,
+      "duration_ms": 5841,
+      "text": "a very very closed uh simulation. All"
+    },
+    {
+      "start_ms": 1772399,
+      "duration_ms": 4801,
+      "text": "right. So this uh is probably going to"
+    },
+    {
+      "start_ms": 1774880,
+      "duration_ms": 5679,
+      "text": "be released uh tomorrow of course"
+    },
+    {
+      "start_ms": 1777200,
+      "duration_ms": 6240,
+      "text": "together with the uh announcement uh to"
+    },
+    {
+      "start_ms": 1780559,
+      "duration_ms": 7681,
+      "text": "all your um clients account. We're going"
+    },
+    {
+      "start_ms": 1783440,
+      "duration_ms": 8239,
+      "text": "to add a a default uh number uh here uh"
+    },
+    {
+      "start_ms": 1788240,
+      "duration_ms": 7439,
+      "text": "probably 200,000. So all your clients"
+    },
+    {
+      "start_ms": 1791679,
+      "duration_ms": 6641,
+      "text": "have some uh AI tokens. So they do not"
+    },
+    {
+      "start_ms": 1795679,
+      "duration_ms": 4720,
+      "text": "have from one day to another the AI"
+    },
+    {
+      "start_ms": 1798320,
+      "duration_ms": 5120,
+      "text": "features that stop working because they"
+    },
+    {
+      "start_ms": 1800399,
+      "duration_ms": 6321,
+      "text": "have zero AI tokens. Uh but of course we"
+    },
+    {
+      "start_ms": 1803440,
+      "duration_ms": 5200,
+      "text": "suggest you to uh uh go maybe at the"
+    },
+    {
+      "start_ms": 1806720,
+      "duration_ms": 5839,
+      "text": "beginning of next week to your plans"
+    },
+    {
+      "start_ms": 1808640,
+      "duration_ms": 7680,
+      "text": "section and plan your uh AI token limits"
+    },
+    {
+      "start_ms": 1812559,
+      "duration_ms": 8161,
+      "text": "for uh for each plan. Uh all right so"
+    },
+    {
+      "start_ms": 1816320,
+      "duration_ms": 6640,
+      "text": "that's uh what we built regarding the um"
+    },
+    {
+      "start_ms": 1820720,
+      "duration_ms": 5760,
+      "text": "AI building."
+    },
+    {
+      "start_ms": 1822960,
+      "duration_ms": 7360,
+      "text": "I know this is not something uh in your"
+    },
+    {
+      "start_ms": 1826480,
+      "duration_ms": 5600,
+      "text": "case to be uh uh 100% excited because of"
+    },
+    {
+      "start_ms": 1830320,
+      "duration_ms": 4959,
+      "text": "course this is I understand that this is"
+    },
+    {
+      "start_ms": 1832080,
+      "duration_ms": 5360,
+      "text": "a new uh let's say a new cost uh for you"
+    },
+    {
+      "start_ms": 1835279,
+      "duration_ms": 4161,
+      "text": "uh but this has to be done uh sooner or"
+    },
+    {
+      "start_ms": 1837440,
+      "duration_ms": 5280,
+      "text": "later because since we've started"
+    },
+    {
+      "start_ms": 1839440,
+      "duration_ms": 5839,
+      "text": "releasing AI features um of course we've"
+    },
+    {
+      "start_ms": 1842720,
+      "duration_ms": 6640,
+      "text": "paid for all the AI tokens but as we"
+    },
+    {
+      "start_ms": 1845279,
+      "duration_ms": 8081,
+      "text": "grow the usage base uh we uh of course"
+    },
+    {
+      "start_ms": 1849360,
+      "duration_ms": 6559,
+      "text": "has to uh do this uh um uh this cost"
+    },
+    {
+      "start_ms": 1853360,
+      "duration_ms": 4960,
+      "text": "transition sooner or later. And uh but"
+    },
+    {
+      "start_ms": 1855919,
+      "duration_ms": 6321,
+      "text": "of course you have all the transparency"
+    },
+    {
+      "start_ms": 1858320,
+      "duration_ms": 7680,
+      "text": "in order to plan exactly how many um how"
+    },
+    {
+      "start_ms": 1862240,
+      "duration_ms": 5679,
+      "text": "much to charge for uh for each plan."
+    },
+    {
+      "start_ms": 1866000,
+      "duration_ms": 4159,
+      "text": "And uh last thing that I want to show"
+    },
+    {
+      "start_ms": 1867919,
+      "duration_ms": 5281,
+      "text": "you but very very quickly then we switch"
+    },
+    {
+      "start_ms": 1870159,
+      "duration_ms": 6721,
+      "text": "to uh uh Q&A if you have question"
+    },
+    {
+      "start_ms": 1873200,
+      "duration_ms": 7280,
+      "text": "related to this AI building uh system."
+    },
+    {
+      "start_ms": 1876880,
+      "duration_ms": 8000,
+      "text": "Uh I want to show you that uh we are"
+    },
+    {
+      "start_ms": 1880480,
+      "duration_ms": 7600,
+      "text": "testing and it's uh uh currently in uh"
+    },
+    {
+      "start_ms": 1884880,
+      "duration_ms": 5519,
+      "text": "approval uh uh sorry in a yes in"
+    },
+    {
+      "start_ms": 1888080,
+      "duration_ms": 6400,
+      "text": "approval mode the integration with the"
+    },
+    {
+      "start_ms": 1890399,
+      "duration_ms": 8081,
+      "text": "Tik Tok. All right. So we uh hope it"
+    },
+    {
+      "start_ms": 1894480,
+      "duration_ms": 7439,
+      "text": "will be approved uh by the by next week."
+    },
+    {
+      "start_ms": 1898480,
+      "duration_ms": 6559,
+      "text": "And uh so finally there is Tik Tok that"
+    },
+    {
+      "start_ms": 1901919,
+      "duration_ms": 7120,
+      "text": "is going to work for manual sharing but"
+    },
+    {
+      "start_ms": 1905039,
+      "duration_ms": 5841,
+      "text": "also uh with the social agent. And so"
+    },
+    {
+      "start_ms": 1909039,
+      "duration_ms": 5120,
+      "text": "basically your clients simply connect"
+    },
+    {
+      "start_ms": 1910880,
+      "duration_ms": 7919,
+      "text": "their uh Tik Tok account and uh when"
+    },
+    {
+      "start_ms": 1914159,
+      "duration_ms": 7841,
+      "text": "they share review or uh manually via the"
+    },
+    {
+      "start_ms": 1918799,
+      "duration_ms": 5681,
+      "text": "uh share button or automatically via the"
+    },
+    {
+      "start_ms": 1922000,
+      "duration_ms": 4640,
+      "text": "uh social agent."
+    },
+    {
+      "start_ms": 1924480,
+      "duration_ms": 4720,
+      "text": "uh they can also uh enable the"
+    },
+    {
+      "start_ms": 1926640,
+      "duration_ms": 6320,
+      "text": "possibility to share the review also in"
+    },
+    {
+      "start_ms": 1929200,
+      "duration_ms": 6319,
+      "text": "the uh Tik Tok page uh which is amazing"
+    },
+    {
+      "start_ms": 1932960,
+      "duration_ms": 5439,
+      "text": "because Tik Tok as you know is becoming"
+    },
+    {
+      "start_ms": 1935519,
+      "duration_ms": 6241,
+      "text": "more and more important also for uh"
+    },
+    {
+      "start_ms": 1938399,
+      "duration_ms": 6721,
+      "text": "small local businesses and uh our goal"
+    },
+    {
+      "start_ms": 1941760,
+      "duration_ms": 5919,
+      "text": "is as you know to aggregate all the"
+    },
+    {
+      "start_ms": 1945120,
+      "duration_ms": 5600,
+      "text": "platforms all the social media platforms"
+    },
+    {
+      "start_ms": 1947679,
+      "duration_ms": 7281,
+      "text": "into Kimbo. Uh we are working very very"
+    },
+    {
+      "start_ms": 1950720,
+      "duration_ms": 8480,
+      "text": "hard for uh Apple uh maps integration."
+    },
+    {
+      "start_ms": 1954960,
+      "duration_ms": 8319,
+      "text": "Uh we have news from uh Apple that uh"
+    },
+    {
+      "start_ms": 1959200,
+      "duration_ms": 6400,
+      "text": "the Apple API team is uh is on it. So we"
+    },
+    {
+      "start_ms": 1963279,
+      "duration_ms": 3921,
+      "text": "are in the approval phase. Uh it's not"
+    },
+    {
+      "start_ms": 1965600,
+      "duration_ms": 6079,
+      "text": "easy because they are requesting a lot"
+    },
+    {
+      "start_ms": 1967200,
+      "duration_ms": 7839,
+      "text": "of things but this will come uh I I hope"
+    },
+    {
+      "start_ms": 1971679,
+      "duration_ms": 6561,
+      "text": "very soon but this uh this will come. I"
+    },
+    {
+      "start_ms": 1975039,
+      "duration_ms": 7201,
+      "text": "hope in let's say one maximum two months"
+    },
+    {
+      "start_ms": 1978240,
+      "duration_ms": 6159,
+      "text": "I I I I'm dreaming of having Apple Maps"
+    },
+    {
+      "start_ms": 1982240,
+      "duration_ms": 4400,
+      "text": "integrated which is something big"
+    },
+    {
+      "start_ms": 1984399,
+      "duration_ms": 5921,
+      "text": "because I think there are only 30"
+    },
+    {
+      "start_ms": 1986640,
+      "duration_ms": 6320,
+      "text": "companies in the world with the Apple um"
+    },
+    {
+      "start_ms": 1990320,
+      "duration_ms": 6560,
+      "text": "APIs with direct integration with Apple"
+    },
+    {
+      "start_ms": 1992960,
+      "duration_ms": 6880,
+      "text": "APIs and uh I know why there are so few"
+    },
+    {
+      "start_ms": 1996880,
+      "duration_ms": 4639,
+      "text": "companies with the APIs of Apple"
+    },
+    {
+      "start_ms": 1999840,
+      "duration_ms": 4640,
+      "text": "business connect because it's very very"
+    },
+    {
+      "start_ms": 2001519,
+      "duration_ms": 4961,
+      "text": "difficult to uh get the uh integration"
+    },
+    {
+      "start_ms": 2004480,
+      "duration_ms": 5520,
+      "text": "with them because they require a lot of"
+    },
+    {
+      "start_ms": 2006480,
+      "duration_ms": 6240,
+      "text": "things but we are uh we are on it. Uh"
+    },
+    {
+      "start_ms": 2010000,
+      "duration_ms": 5360,
+      "text": "with Tik Tok it should be much uh"
+    },
+    {
+      "start_ms": 2012720,
+      "duration_ms": 5360,
+      "text": "easier. So I hope next week next week"
+    },
+    {
+      "start_ms": 2015360,
+      "duration_ms": 6960,
+      "text": "maximum two weeks to have the uh the"
+    },
+    {
+      "start_ms": 2018080,
+      "duration_ms": 6800,
+      "text": "integration. Um actually I hope I hope"
+    },
+    {
+      "start_ms": 2022320,
+      "duration_ms": 4880,
+      "text": "to announce the the the approval of the"
+    },
+    {
+      "start_ms": 2024880,
+      "duration_ms": 5760,
+      "text": "integration today but we had a ree"
+    },
+    {
+      "start_ms": 2027200,
+      "duration_ms": 7040,
+      "text": "rejection because of something that uh"
+    },
+    {
+      "start_ms": 2030640,
+      "duration_ms": 6320,
+      "text": "uh we did by uh by mistake. So we have"
+    },
+    {
+      "start_ms": 2034240,
+      "duration_ms": 6400,
+      "text": "corrected it. So uh I hope they are"
+    },
+    {
+      "start_ms": 2036960,
+      "duration_ms": 6640,
+      "text": "going to uh approve it uh next week"
+    },
+    {
+      "start_ms": 2040640,
+      "duration_ms": 5840,
+      "text": "and um and that's it. And probably next"
+    },
+    {
+      "start_ms": 2043600,
+      "duration_ms": 6880,
+      "text": "week we are going to finally start with"
+    },
+    {
+      "start_ms": 2046480,
+      "duration_ms": 6240,
+      "text": "the uh agency team features uh together"
+    },
+    {
+      "start_ms": 2050480,
+      "duration_ms": 4320,
+      "text": "with the affiliate team uh sorry"
+    },
+    {
+      "start_ms": 2052720,
+      "duration_ms": 6320,
+      "text": "together with the affiliate uh system"
+    },
+    {
+      "start_ms": 2054800,
+      "duration_ms": 6720,
+      "text": "for your uh team members. Uh since I uh"
+    },
+    {
+      "start_ms": 2059040,
+      "duration_ms": 6160,
+      "text": "know this has been requested since a"
+    },
+    {
+      "start_ms": 2061520,
+      "duration_ms": 6960,
+      "text": "long time ago, uh of course we had to um"
+    },
+    {
+      "start_ms": 2065200,
+      "duration_ms": 6719,
+      "text": "prioritize some features."
+    },
+    {
+      "start_ms": 2068480,
+      "duration_ms": 6000,
+      "text": "Uh but I'm pretty sure that next week we"
+    },
+    {
+      "start_ms": 2071919,
+      "duration_ms": 5200,
+      "text": "uh are going to start it."
+    },
+    {
+      "start_ms": 2074480,
+      "duration_ms": 5280,
+      "text": "All right, guys. So, let me uh go back"
+    },
+    {
+      "start_ms": 2077119,
+      "duration_ms": 5921,
+      "text": "to"
+    },
+    {
+      "start_ms": 2079760,
+      "duration_ms": 6000,
+      "text": "uh agency mode here and let's start with"
+    },
+    {
+      "start_ms": 2083040,
+      "duration_ms": 4639,
+      "text": "your question."
+    },
+    {
+      "start_ms": 2085760,
+      "duration_ms": 4879,
+      "text": "All right, let me start from the"
+    },
+    {
+      "start_ms": 2087679,
+      "duration_ms": 7000,
+      "text": "beginning."
+    },
+    {
+      "start_ms": 2090639,
+      "duration_ms": 4040,
+      "text": "Uh, let me start with Natasha."
+    },
+    {
+      "start_ms": 2095040,
+      "duration_ms": 6960,
+      "text": "Are we able to configure AI building per"
+    },
+    {
+      "start_ms": 2098079,
+      "duration_ms": 7760,
+      "text": "client? Uh, no. You configure AI"
+    },
+    {
+      "start_ms": 2102000,
+      "duration_ms": 9599,
+      "text": "building per plan, not per client. So,"
+    },
+    {
+      "start_ms": 2105839,
+      "duration_ms": 8961,
+      "text": "uh, AI um token limit is it works as it"
+    },
+    {
+      "start_ms": 2111599,
+      "duration_ms": 6321,
+      "text": "works for uh messaging limits. So as you"
+    },
+    {
+      "start_ms": 2114800,
+      "duration_ms": 5200,
+      "text": "set the maximum number of SMS your"
+    },
+    {
+      "start_ms": 2117920,
+      "duration_ms": 4960,
+      "text": "client can send every month, you set"
+    },
+    {
+      "start_ms": 2120000,
+      "duration_ms": 4960,
+      "text": "also the number of AI tokens your"
+    },
+    {
+      "start_ms": 2122880,
+      "duration_ms": 4880,
+      "text": "clients can"
+    },
+    {
+      "start_ms": 2124960,
+      "duration_ms": 6399,
+      "text": "use every month. Uh then of course you"
+    },
+    {
+      "start_ms": 2127760,
+      "duration_ms": 7280,
+      "text": "have all the uh uh possibilities to"
+    },
+    {
+      "start_ms": 2131359,
+      "duration_ms": 6961,
+      "text": "enable or disable specific uh plans"
+    },
+    {
+      "start_ms": 2135040,
+      "duration_ms": 6880,
+      "text": "features. Uh for example, if in this uh"
+    },
+    {
+      "start_ms": 2138320,
+      "duration_ms": 7120,
+      "text": "plan you do not want AI ranking enabled,"
+    },
+    {
+      "start_ms": 2141920,
+      "duration_ms": 8560,
+      "text": "you simply disable it uh from uh here."
+    },
+    {
+      "start_ms": 2145440,
+      "duration_ms": 7520,
+      "text": "Um or if you do not want uh AI chat, you"
+    },
+    {
+      "start_ms": 2150480,
+      "duration_ms": 4320,
+      "text": "simply disable it uh from here. So, of"
+    },
+    {
+      "start_ms": 2152960,
+      "duration_ms": 5600,
+      "text": "course, you have the possibility both to"
+    },
+    {
+      "start_ms": 2154800,
+      "duration_ms": 8000,
+      "text": "disable or enable specific features that"
+    },
+    {
+      "start_ms": 2158560,
+      "duration_ms": 7279,
+      "text": "consume uh tokens and also set the limit"
+    },
+    {
+      "start_ms": 2162800,
+      "duration_ms": 7039,
+      "text": "uh of monthly tokens that your clients"
+    },
+    {
+      "start_ms": 2165839,
+      "duration_ms": 6561,
+      "text": "can use. Um then when that client use"
+    },
+    {
+      "start_ms": 2169839,
+      "duration_ms": 5760,
+      "text": "their tokens, we build them. We need to"
+    },
+    {
+      "start_ms": 2172400,
+      "duration_ms": 6480,
+      "text": "see a ceiling and parameter of how they"
+    },
+    {
+      "start_ms": 2175599,
+      "duration_ms": 7281,
+      "text": "are uh using"
+    },
+    {
+      "start_ms": 2178880,
+      "duration_ms": 6080,
+      "text": "uh so you can see uh all the AI token"
+    },
+    {
+      "start_ms": 2182880,
+      "duration_ms": 4800,
+      "text": "usage"
+    },
+    {
+      "start_ms": 2184960,
+      "duration_ms": 5360,
+      "text": "uh both from your balance. You see"
+    },
+    {
+      "start_ms": 2187680,
+      "duration_ms": 5439,
+      "text": "exactly from here how many tokens each"
+    },
+    {
+      "start_ms": 2190320,
+      "duration_ms": 5920,
+      "text": "client is using and how much is uh"
+    },
+    {
+      "start_ms": 2193119,
+      "duration_ms": 6081,
+      "text": "spending from your uh uh balance. If you"
+    },
+    {
+      "start_ms": 2196240,
+      "duration_ms": 6240,
+      "text": "want to see exactly how many tokens and"
+    },
+    {
+      "start_ms": 2199200,
+      "duration_ms": 8680,
+      "text": "for which AI activities uh you have to"
+    },
+    {
+      "start_ms": 2202480,
+      "duration_ms": 5400,
+      "text": "go to the uh history section uh here"
+    },
+    {
+      "start_ms": 2207920,
+      "duration_ms": 8000,
+      "text": "of course the AI tokens as said works as"
+    },
+    {
+      "start_ms": 2211680,
+      "duration_ms": 9280,
+      "text": "um SMS uh works. So you build pricing"
+    },
+    {
+      "start_ms": 2215920,
+      "duration_ms": 7760,
+      "text": "plans where for a uh single uh price for"
+    },
+    {
+      "start_ms": 2220960,
+      "duration_ms": 6399,
+      "text": "example $199"
+    },
+    {
+      "start_ms": 2223680,
+      "duration_ms": 6640,
+      "text": "uh per month uh you include uh all the"
+    },
+    {
+      "start_ms": 2227359,
+      "duration_ms": 6801,
+      "text": "feature and you set the uh plans limit"
+    },
+    {
+      "start_ms": 2230320,
+      "duration_ms": 6560,
+      "text": "in terms of messages and uh AI tokens."
+    },
+    {
+      "start_ms": 2234160,
+      "duration_ms": 5760,
+      "text": "If the client consume all the tokens of"
+    },
+    {
+      "start_ms": 2236880,
+      "duration_ms": 6400,
+      "text": "the plan and want more tokens, you"
+    },
+    {
+      "start_ms": 2239920,
+      "duration_ms": 5919,
+      "text": "simply redirect them to your uh customer"
+    },
+    {
+      "start_ms": 2243280,
+      "duration_ms": 5520,
+      "text": "portal and you tell them to upgrade"
+    },
+    {
+      "start_ms": 2245839,
+      "duration_ms": 5921,
+      "text": "their uh plan if they want more uh AI"
+    },
+    {
+      "start_ms": 2248800,
+      "duration_ms": 6160,
+      "text": "tokens. And uh so this is also an"
+    },
+    {
+      "start_ms": 2251760,
+      "duration_ms": 5599,
+      "text": "opportunity an opportunity for you to"
+    },
+    {
+      "start_ms": 2254960,
+      "duration_ms": 5760,
+      "text": "move them from bronze to silver or from"
+    },
+    {
+      "start_ms": 2257359,
+      "duration_ms": 5601,
+      "text": "silver to gold."
+    },
+    {
+      "start_ms": 2260720,
+      "duration_ms": 5280,
+      "text": "Uh when when are plans renew? every"
+    },
+    {
+      "start_ms": 2262960,
+      "duration_ms": 7360,
+      "text": "first day of the month for everyone"
+    },
+    {
+      "start_ms": 2266000,
+      "duration_ms": 6320,
+      "text": "or rolling on when? So, uh of course uh"
+    },
+    {
+      "start_ms": 2270320,
+      "duration_ms": 5920,
+      "text": "plan limits"
+    },
+    {
+      "start_ms": 2272320,
+      "duration_ms": 7279,
+      "text": "uh so uh um limits of email, SMS,"
+    },
+    {
+      "start_ms": 2276240,
+      "duration_ms": 5359,
+      "text": "WhatsApp and I AI tokens uh all of them"
+    },
+    {
+      "start_ms": 2279599,
+      "duration_ms": 5921,
+      "text": "uh renew"
+    },
+    {
+      "start_ms": 2281599,
+      "duration_ms": 5681,
+      "text": "on the first day of uh uh each uh month."
+    },
+    {
+      "start_ms": 2285520,
+      "duration_ms": 3839,
+      "text": "on the first day of each month. As you"
+    },
+    {
+      "start_ms": 2287280,
+      "duration_ms": 4079,
+      "text": "can see here, this value resets every"
+    },
+    {
+      "start_ms": 2289359,
+      "duration_ms": 3760,
+      "text": "month on the first. This value resets"
+    },
+    {
+      "start_ms": 2291359,
+      "duration_ms": 4881,
+      "text": "every month on the first. This value"
+    },
+    {
+      "start_ms": 2293119,
+      "duration_ms": 7361,
+      "text": "resets every month on the uh first. Uh"
+    },
+    {
+      "start_ms": 2296240,
+      "duration_ms": 7040,
+      "text": "but of course, your uh client uh"
+    },
+    {
+      "start_ms": 2300480,
+      "duration_ms": 6560,
+      "text": "uh building date can be on a on a"
+    },
+    {
+      "start_ms": 2303280,
+      "duration_ms": 6160,
+      "text": "different date. They can also be in a an"
+    },
+    {
+      "start_ms": 2307040,
+      "duration_ms": 6079,
+      "text": "annual plan. But of course, when you set"
+    },
+    {
+      "start_ms": 2309440,
+      "duration_ms": 6639,
+      "text": "the limit, the limit are always monthly."
+    },
+    {
+      "start_ms": 2313119,
+      "duration_ms": 6801,
+      "text": "And this limits renews always the first"
+    },
+    {
+      "start_ms": 2316079,
+      "duration_ms": 6321,
+      "text": "day of uh uh of each month."
+    },
+    {
+      "start_ms": 2319920,
+      "duration_ms": 5840,
+      "text": "So of course your clients can join your"
+    },
+    {
+      "start_ms": 2322400,
+      "duration_ms": 7600,
+      "text": "subscription let's say the uh that uh"
+    },
+    {
+      "start_ms": 2325760,
+      "duration_ms": 7359,
+      "text": "11th of June. So every month they pay on"
+    },
+    {
+      "start_ms": 2330000,
+      "duration_ms": 6720,
+      "text": "the uh 11th but all the limits they"
+    },
+    {
+      "start_ms": 2333119,
+      "duration_ms": 6081,
+      "text": "renew on the first day of uh uh of each"
+    },
+    {
+      "start_ms": 2336720,
+      "duration_ms": 7680,
+      "text": "month. So for example, if they join on"
+    },
+    {
+      "start_ms": 2339200,
+      "duration_ms": 9840,
+      "text": "the 11th of uh June, uh in June they"
+    },
+    {
+      "start_ms": 2344400,
+      "duration_ms": 8320,
+      "text": "have the opportunity to use uh more uh"
+    },
+    {
+      "start_ms": 2349040,
+      "duration_ms": 6480,
+      "text": "tokens or uh messages because they uh"
+    },
+    {
+      "start_ms": 2352720,
+      "duration_ms": 5840,
+      "text": "are going to be uh renew on the 1st of"
+    },
+    {
+      "start_ms": 2355520,
+      "duration_ms": 5760,
+      "text": "uh of July."
+    },
+    {
+      "start_ms": 2358560,
+      "duration_ms": 5039,
+      "text": "Uh question from Franklin, can our"
+    },
+    {
+      "start_ms": 2361280,
+      "duration_ms": 6079,
+      "text": "clients add or buy additional token if"
+    },
+    {
+      "start_ms": 2363599,
+      "duration_ms": 6321,
+      "text": "they use old token uh midmon? Um"
+    },
+    {
+      "start_ms": 2367359,
+      "duration_ms": 5041,
+      "text": "currently no. So currently if they use"
+    },
+    {
+      "start_ms": 2369920,
+      "duration_ms": 6400,
+      "text": "all the tokens and they want to keep"
+    },
+    {
+      "start_ms": 2372400,
+      "duration_ms": 8719,
+      "text": "using uh tokens um the call to action is"
+    },
+    {
+      "start_ms": 2376320,
+      "duration_ms": 7440,
+      "text": "to switch to a a new plan as uh it"
+    },
+    {
+      "start_ms": 2381119,
+      "duration_ms": 5921,
+      "text": "happens if they use all their SMS"
+    },
+    {
+      "start_ms": 2383760,
+      "duration_ms": 5920,
+      "text": "provided for example. Um we can see in"
+    },
+    {
+      "start_ms": 2387040,
+      "duration_ms": 6160,
+      "text": "the future in the future if we can build"
+    },
+    {
+      "start_ms": 2389680,
+      "duration_ms": 6399,
+      "text": "something where they can buy uh uh"
+    },
+    {
+      "start_ms": 2393200,
+      "duration_ms": 4639,
+      "text": "tokens with uh kind of top up uh"
+    },
+    {
+      "start_ms": 2396079,
+      "duration_ms": 4401,
+      "text": "systems."
+    },
+    {
+      "start_ms": 2397839,
+      "duration_ms": 6161,
+      "text": "Uh but uh for now what is working"
+    },
+    {
+      "start_ms": 2400480,
+      "duration_ms": 6720,
+      "text": "currently AI tokens works as uh"
+    },
+    {
+      "start_ms": 2404000,
+      "duration_ms": 6320,
+      "text": "messages. If they finish the AI tokens"
+    },
+    {
+      "start_ms": 2407200,
+      "duration_ms": 7120,
+      "text": "on the 20th for example, uh they have"
+    },
+    {
+      "start_ms": 2410320,
+      "duration_ms": 7279,
+      "text": "two uh choices or they stay 10 days"
+    },
+    {
+      "start_ms": 2414320,
+      "duration_ms": 6160,
+      "text": "without uh AI tokens. So for 10 days"
+    },
+    {
+      "start_ms": 2417599,
+      "duration_ms": 6480,
+      "text": "they cannot use the uh AI chat and the"
+    },
+    {
+      "start_ms": 2420480,
+      "duration_ms": 6000,
+      "text": "AI agents uh stop working or they can"
+    },
+    {
+      "start_ms": 2424079,
+      "duration_ms": 5361,
+      "text": "switch from bronze to silver for"
+    },
+    {
+      "start_ms": 2426480,
+      "duration_ms": 5840,
+      "text": "example."
+    },
+    {
+      "start_ms": 2429440,
+      "duration_ms": 6000,
+      "text": "Uh question from Eric. Uh how do you"
+    },
+    {
+      "start_ms": 2432320,
+      "duration_ms": 6000,
+      "text": "proceed when you need to change prices"
+    },
+    {
+      "start_ms": 2435440,
+      "duration_ms": 5040,
+      "text": "uh within the plan? Uh given that"
+    },
+    {
+      "start_ms": 2438320,
+      "duration_ms": 4080,
+      "text": "technically speaking this is not uh"
+    },
+    {
+      "start_ms": 2440480,
+      "duration_ms": 5119,
+      "text": "possible."
+    },
+    {
+      "start_ms": 2442400,
+      "duration_ms": 7280,
+      "text": "Uh yes. So you cannot uh change the"
+    },
+    {
+      "start_ms": 2445599,
+      "duration_ms": 8561,
+      "text": "price of an existing plan. Uh this is a"
+    },
+    {
+      "start_ms": 2449680,
+      "duration_ms": 8560,
+      "text": "a stripe uh restriction. So even inside"
+    },
+    {
+      "start_ms": 2454160,
+      "duration_ms": 8320,
+      "text": "uh a stripe uh um"
+    },
+    {
+      "start_ms": 2458240,
+      "duration_ms": 8000,
+      "text": "stripe portal. So if you create a a plan"
+    },
+    {
+      "start_ms": 2462480,
+      "duration_ms": 7200,
+      "text": "uh you cannot uh um edit the uh the plan"
+    },
+    {
+      "start_ms": 2466240,
+      "duration_ms": 6560,
+      "text": "price. Uh you can create new plans of"
+    },
+    {
+      "start_ms": 2469680,
+      "duration_ms": 5760,
+      "text": "course but you cannot edit the uh the"
+    },
+    {
+      "start_ms": 2472800,
+      "duration_ms": 5279,
+      "text": "plans price."
+    },
+    {
+      "start_ms": 2475440,
+      "duration_ms": 6320,
+      "text": "So the the only opport only choice of"
+    },
+    {
+      "start_ms": 2478079,
+      "duration_ms": 5601,
+      "text": "course is to uh speaking about a stripe"
+    },
+    {
+      "start_ms": 2481760,
+      "duration_ms": 5839,
+      "text": "uh stripe plans since it's not possible"
+    },
+    {
+      "start_ms": 2483680,
+      "duration_ms": 6960,
+      "text": "to um to change the price. Uh you have"
+    },
+    {
+      "start_ms": 2487599,
+      "duration_ms": 6000,
+      "text": "to of course create new plans with the"
+    },
+    {
+      "start_ms": 2490640,
+      "duration_ms": 7160,
+      "text": "new prices. If you want to change the uh"
+    },
+    {
+      "start_ms": 2493599,
+      "duration_ms": 4201,
+      "text": "the pricing of the plan"
+    },
+    {
+      "start_ms": 2497920,
+      "duration_ms": 6000,
+      "text": "uh Natasha do AI tokens uh roll."
+    },
+    {
+      "start_ms": 2501520,
+      "duration_ms": 4480,
+      "text": "Yeah. So every month on the first day of"
+    },
+    {
+      "start_ms": 2503920,
+      "duration_ms": 6159,
+      "text": "each month"
+    },
+    {
+      "start_ms": 2506000,
+      "duration_ms": 8720,
+      "text": "uh tokens are uh renewed. So if we have"
+    },
+    {
+      "start_ms": 2510079,
+      "duration_ms": 6801,
+      "text": "here 10,000 token for this uh plan and"
+    },
+    {
+      "start_ms": 2514720,
+      "duration_ms": 4560,
+      "text": "uh uh the business start using the"
+    },
+    {
+      "start_ms": 2516880,
+      "duration_ms": 5439,
+      "text": "tokens and then on the first day of the"
+    },
+    {
+      "start_ms": 2519280,
+      "duration_ms": 5760,
+      "text": "next month uh they will see uh here"
+    },
+    {
+      "start_ms": 2522319,
+      "duration_ms": 7321,
+      "text": "again 10,000 tokens as it happened for"
+    },
+    {
+      "start_ms": 2525040,
+      "duration_ms": 4600,
+      "text": "email, SMS and uh WhatsApp."
+    },
+    {
+      "start_ms": 2529680,
+      "duration_ms": 5679,
+      "text": "Uh Roy isn't Tik Tok only for short"
+    },
+    {
+      "start_ms": 2532400,
+      "duration_ms": 6160,
+      "text": "videos or you can post images uh too"
+    },
+    {
+      "start_ms": 2535359,
+      "duration_ms": 5760,
+      "text": "both. So uh we are uh we have the Tik"
+    },
+    {
+      "start_ms": 2538560,
+      "duration_ms": 6080,
+      "text": "Tok integration both for uh video"
+    },
+    {
+      "start_ms": 2541119,
+      "duration_ms": 8881,
+      "text": "testimonials and also for review post."
+    },
+    {
+      "start_ms": 2544640,
+      "duration_ms": 9600,
+      "text": "So the same uh review post you um"
+    },
+    {
+      "start_ms": 2550000,
+      "duration_ms": 6800,
+      "text": "uh you create uh here and you post them"
+    },
+    {
+      "start_ms": 2554240,
+      "duration_ms": 5040,
+      "text": "in Facebook, Instagram, Google. The same"
+    },
+    {
+      "start_ms": 2556800,
+      "duration_ms": 5920,
+      "text": "post can be published in Tik Tok as"
+    },
+    {
+      "start_ms": 2559280,
+      "duration_ms": 6400,
+      "text": "images uh post and uh if you have a"
+    },
+    {
+      "start_ms": 2562720,
+      "duration_ms": 7440,
+      "text": "video same thing it can be post in Tik"
+    },
+    {
+      "start_ms": 2565680,
+      "duration_ms": 7040,
+      "text": "Tok as Tik Tok video."
+    },
+    {
+      "start_ms": 2570160,
+      "duration_ms": 5679,
+      "text": "So you can have the social agent enabled"
+    },
+    {
+      "start_ms": 2572720,
+      "duration_ms": 6320,
+      "text": "for Tik Tok share this beautiful review"
+    },
+    {
+      "start_ms": 2575839,
+      "duration_ms": 5601,
+      "text": "post in Tik Tok and also video uh video"
+    },
+    {
+      "start_ms": 2579040,
+      "duration_ms": 4720,
+      "text": "reviews."
+    },
+    {
+      "start_ms": 2581440,
+      "duration_ms": 4480,
+      "text": "Lars, it's truly amazing how much"
+    },
+    {
+      "start_ms": 2583760,
+      "duration_ms": 4640,
+      "text": "functionality you've added in just two"
+    },
+    {
+      "start_ms": 2585920,
+      "duration_ms": 5600,
+      "text": "weeks. I'm really impressed. Thanks,"
+    },
+    {
+      "start_ms": 2588400,
+      "duration_ms": 7520,
+      "text": "Lars. Of course, this is thanks to our"
+    },
+    {
+      "start_ms": 2591520,
+      "duration_ms": 8799,
+      "text": "tag team, which is uh amazing. So, uh I"
+    },
+    {
+      "start_ms": 2595920,
+      "duration_ms": 6159,
+      "text": "remember uh in like two years ago, we"
+    },
+    {
+      "start_ms": 2600319,
+      "duration_ms": 5040,
+      "text": "didn't have this process that we have"
+    },
+    {
+      "start_ms": 2602079,
+      "duration_ms": 5841,
+      "text": "right now to uh to develop new feature."
+    },
+    {
+      "start_ms": 2605359,
+      "duration_ms": 7041,
+      "text": "Now, we are very very well organized"
+    },
+    {
+      "start_ms": 2607920,
+      "duration_ms": 8800,
+      "text": "inside uh our team. uh we work with a"
+    },
+    {
+      "start_ms": 2612400,
+      "duration_ms": 7439,
+      "text": "weekly sprint. So every Monday we have a"
+    },
+    {
+      "start_ms": 2616720,
+      "duration_ms": 5760,
+      "text": "meeting and we plan the feature of the"
+    },
+    {
+      "start_ms": 2619839,
+      "duration_ms": 7041,
+      "text": "uh of the week. And of course the goal"
+    },
+    {
+      "start_ms": 2622480,
+      "duration_ms": 6639,
+      "text": "is always to release everything by uh by"
+    },
+    {
+      "start_ms": 2626880,
+      "duration_ms": 4479,
+      "text": "uh Thursday"
+    },
+    {
+      "start_ms": 2629119,
+      "duration_ms": 4801,
+      "text": "and then of course do the event with you"
+    },
+    {
+      "start_ms": 2631359,
+      "duration_ms": 4960,
+      "text": "every Thursday and announce all the new"
+    },
+    {
+      "start_ms": 2633920,
+      "duration_ms": 4080,
+      "text": "features developed during the week. And"
+    },
+    {
+      "start_ms": 2636319,
+      "duration_ms": 4161,
+      "text": "then we have the break in the weekend"
+    },
+    {
+      "start_ms": 2638000,
+      "duration_ms": 4480,
+      "text": "and on Monday we start again. The first"
+    },
+    {
+      "start_ms": 2640480,
+      "duration_ms": 4240,
+      "text": "thing we do every Monday is a meeting"
+    },
+    {
+      "start_ms": 2642480,
+      "duration_ms": 6080,
+      "text": "all together where we plan the features"
+    },
+    {
+      "start_ms": 2644720,
+      "duration_ms": 6160,
+      "text": "of the uh week. It's a kind of long"
+    },
+    {
+      "start_ms": 2648560,
+      "duration_ms": 5200,
+      "text": "meeting because we plan exactly what to"
+    },
+    {
+      "start_ms": 2650880,
+      "duration_ms": 6479,
+      "text": "do during the week and every week the"
+    },
+    {
+      "start_ms": 2653760,
+      "duration_ms": 6960,
+      "text": "goal is to release everything by uh"
+    },
+    {
+      "start_ms": 2657359,
+      "duration_ms": 6081,
+      "text": "Thursday by Thursday uh afternoon. Of"
+    },
+    {
+      "start_ms": 2660720,
+      "duration_ms": 6480,
+      "text": "course, if there is something uh uh to"
+    },
+    {
+      "start_ms": 2663440,
+      "duration_ms": 6879,
+      "text": "fix, we keep every Friday for uh for"
+    },
+    {
+      "start_ms": 2667200,
+      "duration_ms": 6800,
+      "text": "that. So, Fridays are dedicated to fixes"
+    },
+    {
+      "start_ms": 2670319,
+      "duration_ms": 6721,
+      "text": "and improvements and Monday to Thursday"
+    },
+    {
+      "start_ms": 2674000,
+      "duration_ms": 6960,
+      "text": "we uh we develop. So, every week we have"
+    },
+    {
+      "start_ms": 2677040,
+      "duration_ms": 8079,
+      "text": "very very clear ideas about uh what to"
+    },
+    {
+      "start_ms": 2680960,
+      "duration_ms": 7119,
+      "text": "do during the uh during the week."
+    },
+    {
+      "start_ms": 2685119,
+      "duration_ms": 4960,
+      "text": "Um Kristoff please could you add a limit"
+    },
+    {
+      "start_ms": 2688079,
+      "duration_ms": 4401,
+      "text": "for SMS, WhatsApp and tokens in the"
+    },
+    {
+      "start_ms": 2690079,
+      "duration_ms": 4721,
+      "text": "trial in the trial version. Uh the"
+    },
+    {
+      "start_ms": 2692480,
+      "duration_ms": 5760,
+      "text": "charges can become quite expensive for a"
+    },
+    {
+      "start_ms": 2694800,
+      "duration_ms": 6080,
+      "text": "large number of user and user. Yes. Uh"
+    },
+    {
+      "start_ms": 2698240,
+      "duration_ms": 7839,
+      "text": "we have talked about this uh internally."
+    },
+    {
+      "start_ms": 2700880,
+      "duration_ms": 8479,
+      "text": "Uh this is also planned and is uh"
+    },
+    {
+      "start_ms": 2706079,
+      "duration_ms": 7841,
+      "text": "something that we can do uh easily. Uh"
+    },
+    {
+      "start_ms": 2709359,
+      "duration_ms": 7681,
+      "text": "let me see three"
+    },
+    {
+      "start_ms": 2713920,
+      "duration_ms": 5520,
+      "text": "uh trial. Here we go. Limiting credits"
+    },
+    {
+      "start_ms": 2717040,
+      "duration_ms": 5039,
+      "text": "for free trials. Uh during the free"
+    },
+    {
+      "start_ms": 2719440,
+      "duration_ms": 5360,
+      "text": "trial, uh message sending, SMS, email"
+    },
+    {
+      "start_ms": 2722079,
+      "duration_ms": 5361,
+      "text": "and WhatsApp. And now also AI tokens is"
+    },
+    {
+      "start_ms": 2724800,
+      "duration_ms": 5360,
+      "text": "limited according to the custom plan. Uh"
+    },
+    {
+      "start_ms": 2727440,
+      "duration_ms": 4240,
+      "text": "we have talked about this internally. So"
+    },
+    {
+      "start_ms": 2730160,
+      "duration_ms": 3679,
+      "text": "basically"
+    },
+    {
+      "start_ms": 2731680,
+      "duration_ms": 4639,
+      "text": "uh we can do something where basically"
+    },
+    {
+      "start_ms": 2733839,
+      "duration_ms": 5520,
+      "text": "you just decide"
+    },
+    {
+      "start_ms": 2736319,
+      "duration_ms": 5601,
+      "text": "uh uh uh you let's say have a new"
+    },
+    {
+      "start_ms": 2739359,
+      "duration_ms": 4161,
+      "text": "section uh dedicated to free trial"
+    },
+    {
+      "start_ms": 2741920,
+      "duration_ms": 3919,
+      "text": "limits."
+    },
+    {
+      "start_ms": 2743520,
+      "duration_ms": 7200,
+      "text": "So for free trial instead of this limits"
+    },
+    {
+      "start_ms": 2745839,
+      "duration_ms": 8161,
+      "text": "you you have other uh limits and um and"
+    },
+    {
+      "start_ms": 2750720,
+      "duration_ms": 6080,
+      "text": "maybe with a symbol a single uh click"
+    },
+    {
+      "start_ms": 2754000,
+      "duration_ms": 6560,
+      "text": "you can decide for example a percentage"
+    },
+    {
+      "start_ms": 2756800,
+      "duration_ms": 6960,
+      "text": "like for example 10%. So you want uh uh"
+    },
+    {
+      "start_ms": 2760560,
+      "duration_ms": 6480,
+      "text": "that during the free trials clients have"
+    },
+    {
+      "start_ms": 2763760,
+      "duration_ms": 5599,
+      "text": "the 10% of those uh limits. So we"
+    },
+    {
+      "start_ms": 2767040,
+      "duration_ms": 4079,
+      "text": "automatically calculate the uh"
+    },
+    {
+      "start_ms": 2769359,
+      "duration_ms": 4641,
+      "text": "percentage."
+    },
+    {
+      "start_ms": 2771119,
+      "duration_ms": 7281,
+      "text": "For example, if the uh plan limit for"
+    },
+    {
+      "start_ms": 2774000,
+      "duration_ms": 6240,
+      "text": "SMS is um 500"
+    },
+    {
+      "start_ms": 2778400,
+      "duration_ms": 5040,
+      "text": "messages, you can set that during the"
+    },
+    {
+      "start_ms": 2780240,
+      "duration_ms": 7200,
+      "text": "free trial is uh 50 messages or even"
+    },
+    {
+      "start_ms": 2783440,
+      "duration_ms": 7120,
+      "text": "five messages. So you set just a small"
+    },
+    {
+      "start_ms": 2787440,
+      "duration_ms": 5919,
+      "text": "amount of messages and AI token so"
+    },
+    {
+      "start_ms": 2790560,
+      "duration_ms": 6880,
+      "text": "clients can try every feature but you do"
+    },
+    {
+      "start_ms": 2793359,
+      "duration_ms": 6720,
+      "text": "not risk that they impact a lot on your"
+    },
+    {
+      "start_ms": 2797440,
+      "duration_ms": 4639,
+      "text": "uh balance during the free trial since"
+    },
+    {
+      "start_ms": 2800079,
+      "duration_ms": 4240,
+      "text": "you're not getting any money during the"
+    },
+    {
+      "start_ms": 2802079,
+      "duration_ms": 4161,
+      "text": "uh free trial free trial. Of course it's"
+    },
+    {
+      "start_ms": 2804319,
+      "duration_ms": 4561,
+      "text": "important that during the free trial"
+    },
+    {
+      "start_ms": 2806240,
+      "duration_ms": 5760,
+      "text": "your clients can test all the features."
+    },
+    {
+      "start_ms": 2808880,
+      "duration_ms": 6400,
+      "text": "So they need to have some uh uh"
+    },
+    {
+      "start_ms": 2812000,
+      "duration_ms": 7119,
+      "text": "available uh messages and limits. But I"
+    },
+    {
+      "start_ms": 2815280,
+      "duration_ms": 6160,
+      "text": "understand that you want to put uh uh an"
+    },
+    {
+      "start_ms": 2819119,
+      "duration_ms": 4480,
+      "text": "important limit."
+    },
+    {
+      "start_ms": 2821440,
+      "duration_ms": 5600,
+      "text": "So they can test everything but you do"
+    },
+    {
+      "start_ms": 2823599,
+      "duration_ms": 6240,
+      "text": "not get uh a big uh bill for nothing"
+    },
+    {
+      "start_ms": 2827040,
+      "duration_ms": 6799,
+      "text": "because they are on a free trial and of"
+    },
+    {
+      "start_ms": 2829839,
+      "duration_ms": 6161,
+      "text": "course a part of them can uh not become"
+    },
+    {
+      "start_ms": 2833839,
+      "duration_ms": 5041,
+      "text": "a paying customer."
+    },
+    {
+      "start_ms": 2836000,
+      "duration_ms": 5040,
+      "text": "Um question from Mark."
+    },
+    {
+      "start_ms": 2838880,
+      "duration_ms": 5520,
+      "text": "Thanks for the continuous development is"
+    },
+    {
+      "start_ms": 2841040,
+      "duration_ms": 5360,
+      "text": "much appreciated. Thanks Mark. Uh any"
+    },
+    {
+      "start_ms": 2844400,
+      "duration_ms": 5360,
+      "text": "update on when Google phones integration"
+    },
+    {
+      "start_ms": 2846400,
+      "duration_ms": 6880,
+      "text": "will be available? Um it's important to"
+    },
+    {
+      "start_ms": 2849760,
+      "duration_ms": 5839,
+      "text": "me as I'm somewhat reluctant to actively"
+    },
+    {
+      "start_ms": 2853280,
+      "duration_ms": 6720,
+      "text": "sell climb until the GDPR compliance"
+    },
+    {
+      "start_ms": 2855599,
+      "duration_ms": 7281,
+      "text": "issue is fully addressed. Yes. So it's"
+    },
+    {
+      "start_ms": 2860000,
+      "duration_ms": 5920,
+      "text": "uh you have been asking this question a"
+    },
+    {
+      "start_ms": 2862880,
+      "duration_ms": 4959,
+      "text": "lot of times. So I understand this. So I"
+    },
+    {
+      "start_ms": 2865920,
+      "duration_ms": 5360,
+      "text": "will personally make sure that this is"
+    },
+    {
+      "start_ms": 2867839,
+      "duration_ms": 5760,
+      "text": "done as soon as possible and uh so maybe"
+    },
+    {
+      "start_ms": 2871280,
+      "duration_ms": 7120,
+      "text": "tomorrow with my team since this is not"
+    },
+    {
+      "start_ms": 2873599,
+      "duration_ms": 7041,
+      "text": "a big thing uh we can uh we can do it."
+    },
+    {
+      "start_ms": 2878400,
+      "duration_ms": 5439,
+      "text": "I'm going to write in my team chat about"
+    },
+    {
+      "start_ms": 2880640,
+      "duration_ms": 7439,
+      "text": "it. So uh of course it's super important"
+    },
+    {
+      "start_ms": 2883839,
+      "duration_ms": 7601,
+      "text": "that uh we are not 99.9%"
+    },
+    {
+      "start_ms": 2888079,
+      "duration_ms": 6361,
+      "text": "compliant with the GDPR but 100% uh"
+    },
+    {
+      "start_ms": 2891440,
+      "duration_ms": 3000,
+      "text": "compliant."
+    },
+    {
+      "start_ms": 2895040,
+      "duration_ms": 3760,
+      "text": "Natasha please can you develop the"
+    },
+    {
+      "start_ms": 2896880,
+      "duration_ms": 5120,
+      "text": "affiliate enhancement to include those"
+    },
+    {
+      "start_ms": 2898800,
+      "duration_ms": 5920,
+      "text": "of us who cannot support Stripe? Uh yes,"
+    },
+    {
+      "start_ms": 2902000,
+      "duration_ms": 4800,
+      "text": "of course, we will start with uh"
+    },
+    {
+      "start_ms": 2904720,
+      "duration_ms": 6639,
+      "text": "affiliate"
+    },
+    {
+      "start_ms": 2906800,
+      "duration_ms": 6720,
+      "text": "uh integrated with the um uh coupons. Uh"
+    },
+    {
+      "start_ms": 2911359,
+      "duration_ms": 4801,
+      "text": "and as you know, I'm sorry for this"
+    },
+    {
+      "start_ms": 2913520,
+      "duration_ms": 7039,
+      "text": "Natasha, but coupons works just with"
+    },
+    {
+      "start_ms": 2916160,
+      "duration_ms": 7280,
+      "text": "Stripe. But then we want of course to uh"
+    },
+    {
+      "start_ms": 2920559,
+      "duration_ms": 5520,
+      "text": "to work on"
+    },
+    {
+      "start_ms": 2923440,
+      "duration_ms": 6159,
+      "text": "an alternative to implement the"
+    },
+    {
+      "start_ms": 2926079,
+      "duration_ms": 6401,
+      "text": "affiliate system also without uh without"
+    },
+    {
+      "start_ms": 2929599,
+      "duration_ms": 2881,
+      "text": "Stripe."
+    },
+    {
+      "start_ms": 2932640,
+      "duration_ms": 5280,
+      "text": "uh we have of course to think deeply"
+    },
+    {
+      "start_ms": 2934960,
+      "duration_ms": 5760,
+      "text": "about this uh because it's just"
+    },
+    {
+      "start_ms": 2937920,
+      "duration_ms": 7199,
+      "text": "something uh uh it's just a matter of"
+    },
+    {
+      "start_ms": 2940720,
+      "duration_ms": 7839,
+      "text": "thinking how to uh to build it. Um, with"
+    },
+    {
+      "start_ms": 2945119,
+      "duration_ms": 5921,
+      "text": "Stripe, it's been uh quite easy to think"
+    },
+    {
+      "start_ms": 2948559,
+      "duration_ms": 5841,
+      "text": "how to do it. Uh, because of, of course,"
+    },
+    {
+      "start_ms": 2951040,
+      "duration_ms": 7519,
+      "text": "we know exactly the price of a plan."
+    },
+    {
+      "start_ms": 2954400,
+      "duration_ms": 7040,
+      "text": "And, uh, of course, for a sales guy,"
+    },
+    {
+      "start_ms": 2958559,
+      "duration_ms": 8000,
+      "text": "it's very important to have a coupon"
+    },
+    {
+      "start_ms": 2961440,
+      "duration_ms": 6720,
+      "text": "code to, uh, to use. And so we can"
+    },
+    {
+      "start_ms": 2966559,
+      "duration_ms": 5201,
+      "text": "assign"
+    },
+    {
+      "start_ms": 2968160,
+      "duration_ms": 7439,
+      "text": "um a payment with a specific coupon code"
+    },
+    {
+      "start_ms": 2971760,
+      "duration_ms": 6720,
+      "text": "to the sales team member that have that"
+    },
+    {
+      "start_ms": 2975599,
+      "duration_ms": 6801,
+      "text": "coupon code assigned. So with stripe is"
+    },
+    {
+      "start_ms": 2978480,
+      "duration_ms": 7280,
+      "text": "easy to assign sales to uh uh team"
+    },
+    {
+      "start_ms": 2982400,
+      "duration_ms": 5919,
+      "text": "members because we have this uh uh let's"
+    },
+    {
+      "start_ms": 2985760,
+      "duration_ms": 4319,
+      "text": "say tracking system. We have to"
+    },
+    {
+      "start_ms": 2988319,
+      "duration_ms": 5361,
+      "text": "understand how to build a tracking"
+    },
+    {
+      "start_ms": 2990079,
+      "duration_ms": 6321,
+      "text": "system also without stripe. So also if"
+    },
+    {
+      "start_ms": 2993680,
+      "duration_ms": 6080,
+      "text": "you want to think about it and also DM"
+    },
+    {
+      "start_ms": 2996400,
+      "duration_ms": 6080,
+      "text": "me on on school with your uh ideas, I"
+    },
+    {
+      "start_ms": 2999760,
+      "duration_ms": 5120,
+      "text": "can uh I can look at it. So down the"
+    },
+    {
+      "start_ms": 3002480,
+      "duration_ms": 6639,
+      "text": "road during the next uh weeks or months,"
+    },
+    {
+      "start_ms": 3004880,
+      "duration_ms": 7040,
+      "text": "we can think about how to to build it."
+    },
+    {
+      "start_ms": 3009119,
+      "duration_ms": 6881,
+      "text": "A question from uh"
+    },
+    {
+      "start_ms": 3011920,
+      "duration_ms": 6639,
+      "text": "Samir, can client pay for any credit if"
+    },
+    {
+      "start_ms": 3016000,
+      "duration_ms": 6240,
+      "text": "uh they run out of the allocated plan"
+    },
+    {
+      "start_ms": 3018559,
+      "duration_ms": 6721,
+      "text": "credit? Um so as replied before uh the"
+    },
+    {
+      "start_ms": 3022240,
+      "duration_ms": 7200,
+      "text": "only choice for your clients if they use"
+    },
+    {
+      "start_ms": 3025280,
+      "duration_ms": 9279,
+      "text": "all the uh messages or tokens and they"
+    },
+    {
+      "start_ms": 3029440,
+      "duration_ms": 7840,
+      "text": "have maybe another week in their uh plan"
+    },
+    {
+      "start_ms": 3034559,
+      "duration_ms": 5121,
+      "text": "uh the only opportunity for them if they"
+    },
+    {
+      "start_ms": 3037280,
+      "duration_ms": 6079,
+      "text": "want to keep using credit is switch"
+    },
+    {
+      "start_ms": 3039680,
+      "duration_ms": 7679,
+      "text": "plans. Switch plan to a a more expensive"
+    },
+    {
+      "start_ms": 3043359,
+      "duration_ms": 6321,
+      "text": "plan. So their credits are uh renewed"
+    },
+    {
+      "start_ms": 3047359,
+      "duration_ms": 4161,
+      "text": "and they have new credits that they can"
+    },
+    {
+      "start_ms": 3049680,
+      "duration_ms": 4560,
+      "text": "uh consume."
+    },
+    {
+      "start_ms": 3051520,
+      "duration_ms": 7039,
+      "text": "Um we can work in the future as I said"
+    },
+    {
+      "start_ms": 3054240,
+      "duration_ms": 8800,
+      "text": "on a uh topup system both for uh"
+    },
+    {
+      "start_ms": 3058559,
+      "duration_ms": 6800,
+      "text": "messages and also uh tokens. Uh but we"
+    },
+    {
+      "start_ms": 3063040,
+      "duration_ms": 5440,
+      "text": "have to understand how to do it because"
+    },
+    {
+      "start_ms": 3065359,
+      "duration_ms": 6480,
+      "text": "of course we cannot build directly your"
+    },
+    {
+      "start_ms": 3068480,
+      "duration_ms": 6240,
+      "text": "clients as you know because your clients"
+    },
+    {
+      "start_ms": 3071839,
+      "duration_ms": 5441,
+      "text": "cannot have an invoice from us. There"
+    },
+    {
+      "start_ms": 3074720,
+      "duration_ms": 5440,
+      "text": "always have to be you in the middle if"
+    },
+    {
+      "start_ms": 3077280,
+      "duration_ms": 6799,
+      "text": "there there is a payment and so we have"
+    },
+    {
+      "start_ms": 3080160,
+      "duration_ms": 6959,
+      "text": "to understand how to uh to do this. Uh"
+    },
+    {
+      "start_ms": 3084079,
+      "duration_ms": 6000,
+      "text": "we could create a system"
+    },
+    {
+      "start_ms": 3087119,
+      "duration_ms": 6720,
+      "text": "uh with the stripe uh commissions for"
+    },
+    {
+      "start_ms": 3090079,
+      "duration_ms": 6961,
+      "text": "example. So, for example, the client uh"
+    },
+    {
+      "start_ms": 3093839,
+      "duration_ms": 7201,
+      "text": "pays uh you directly, for example,"
+    },
+    {
+      "start_ms": 3097040,
+      "duration_ms": 8400,
+      "text": "$100,000 for buying some uh tokens uh"
+    },
+    {
+      "start_ms": 3101040,
+      "duration_ms": 7600,
+      "text": "let's say, and then uh let's say 70 goes"
+    },
+    {
+      "start_ms": 3105440,
+      "duration_ms": 7119,
+      "text": "to us in order to pay for those tokens"
+    },
+    {
+      "start_ms": 3108640,
+      "duration_ms": 6880,
+      "text": "to open AAI and 30 goes to you as a pure"
+    },
+    {
+      "start_ms": 3112559,
+      "duration_ms": 7361,
+      "text": "uh uh profit. Uh but of course the"
+    },
+    {
+      "start_ms": 3115520,
+      "duration_ms": 6799,
+      "text": "client has an invoice of $100"
+    },
+    {
+      "start_ms": 3119920,
+      "duration_ms": 6240,
+      "text": "from you. So we can use the same"
+    },
+    {
+      "start_ms": 3122319,
+      "duration_ms": 6641,
+      "text": "technology that we use for uh plan uh"
+    },
+    {
+      "start_ms": 3126160,
+      "duration_ms": 4880,
+      "text": "price which is uh stripe connect but we"
+    },
+    {
+      "start_ms": 3128960,
+      "duration_ms": 5280,
+      "text": "have to deeply think about how to how to"
+    },
+    {
+      "start_ms": 3131040,
+      "duration_ms": 6640,
+      "text": "do it. Uh Jeremy which specific AI"
+    },
+    {
+      "start_ms": 3134240,
+      "duration_ms": 10079,
+      "text": "models are utilized for what? So we"
+    },
+    {
+      "start_ms": 3137680,
+      "duration_ms": 10800,
+      "text": "mainly use uh open AI for uh AI replies"
+    },
+    {
+      "start_ms": 3144319,
+      "duration_ms": 7280,
+      "text": "for topics generator for blog articles"
+    },
+    {
+      "start_ms": 3148480,
+      "duration_ms": 7359,
+      "text": "for social captions and we use different"
+    },
+    {
+      "start_ms": 3151599,
+      "duration_ms": 7601,
+      "text": "models of open AI of open AI. If you"
+    },
+    {
+      "start_ms": 3155839,
+      "duration_ms": 6401,
+      "text": "want to know exactly which models"
+    },
+    {
+      "start_ms": 3159200,
+      "duration_ms": 5520,
+      "text": "uh DM me on school so I can ask to my"
+    },
+    {
+      "start_ms": 3162240,
+      "duration_ms": 5480,
+      "text": "tech team which specific model we uh we"
+    },
+    {
+      "start_ms": 3164720,
+      "duration_ms": 3000,
+      "text": "use."
+    },
+    {
+      "start_ms": 3167760,
+      "duration_ms": 4559,
+      "text": "Uh Samir any progress in regards to"
+    },
+    {
+      "start_ms": 3170400,
+      "duration_ms": 5199,
+      "text": "switching from a free plan to a paid"
+    },
+    {
+      "start_ms": 3172319,
+      "duration_ms": 6561,
+      "text": "stripe plan too. Uh yes we want to do it"
+    },
+    {
+      "start_ms": 3175599,
+      "duration_ms": 5520,
+      "text": "also this as soon as possible. So"
+    },
+    {
+      "start_ms": 3178880,
+      "duration_ms": 5679,
+      "text": "finally probably next week we will start"
+    },
+    {
+      "start_ms": 3181119,
+      "duration_ms": 6641,
+      "text": "with the agency team features"
+    },
+    {
+      "start_ms": 3184559,
+      "duration_ms": 6401,
+      "text": "and together with the team features also"
+    },
+    {
+      "start_ms": 3187760,
+      "duration_ms": 6640,
+      "text": "uh switching from free to uh to paid uh"
+    },
+    {
+      "start_ms": 3190960,
+      "duration_ms": 7200,
+      "text": "is something that uh we can work on. So"
+    },
+    {
+      "start_ms": 3194400,
+      "duration_ms": 7120,
+      "text": "I would say in the short term so uh"
+    },
+    {
+      "start_ms": 3198160,
+      "duration_ms": 5679,
+      "text": "during June maximum uh July but I hope"
+    },
+    {
+      "start_ms": 3201520,
+      "duration_ms": 4559,
+      "text": "during June."
+    },
+    {
+      "start_ms": 3203839,
+      "duration_ms": 5520,
+      "text": "Uh question from Lars. When will the"
+    },
+    {
+      "start_ms": 3206079,
+      "duration_ms": 5681,
+      "text": "agency functionalities be be added? I"
+    },
+    {
+      "start_ms": 3209359,
+      "duration_ms": 4240,
+      "text": "urgently need a right and roll system"
+    },
+    {
+      "start_ms": 3211760,
+      "duration_ms": 3920,
+      "text": "for employees. I don't want my employee"
+    },
+    {
+      "start_ms": 3213599,
+      "duration_ms": 4081,
+      "text": "to be able to see all areas in agency"
+    },
+    {
+      "start_ms": 3215680,
+      "duration_ms": 5439,
+      "text": "mode. Uh yes this will be done as soon"
+    },
+    {
+      "start_ms": 3217680,
+      "duration_ms": 5919,
+      "text": "as possible. So as you know we've um"
+    },
+    {
+      "start_ms": 3221119,
+      "duration_ms": 4960,
+      "text": "published uh last week not last week a"
+    },
+    {
+      "start_ms": 3223599,
+      "duration_ms": 6720,
+      "text": "few weeks ago"
+    },
+    {
+      "start_ms": 3226079,
+      "duration_ms": 6881,
+      "text": "uh the um uh the the feature I mean the"
+    },
+    {
+      "start_ms": 3230319,
+      "duration_ms": 5681,
+      "text": "possibility to have your agency mode"
+    },
+    {
+      "start_ms": 3232960,
+      "duration_ms": 6480,
+      "text": "under your domain. So you simply access"
+    },
+    {
+      "start_ms": 3236000,
+      "duration_ms": 6480,
+      "text": "from uh your connected domain slash uh"
+    },
+    {
+      "start_ms": 3239440,
+      "duration_ms": 5119,
+      "text": "admin and you have your agency mode. But"
+    },
+    {
+      "start_ms": 3242480,
+      "duration_ms": 4879,
+      "text": "I know that this is not fully white"
+    },
+    {
+      "start_ms": 3244559,
+      "duration_ms": 5601,
+      "text": "labelled because for example in settings"
+    },
+    {
+      "start_ms": 3247359,
+      "duration_ms": 4881,
+      "text": "API of course there is the link to our"
+    },
+    {
+      "start_ms": 3250160,
+      "duration_ms": 5439,
+      "text": "API documentation where your team"
+    },
+    {
+      "start_ms": 3252240,
+      "duration_ms": 6319,
+      "text": "members can see that client is behind."
+    },
+    {
+      "start_ms": 3255599,
+      "duration_ms": 6000,
+      "text": "Same thing for uh Zapier if they open"
+    },
+    {
+      "start_ms": 3258559,
+      "duration_ms": 6481,
+      "text": "the Zapier section. There is the uh"
+    },
+    {
+      "start_ms": 3261599,
+      "duration_ms": 5441,
+      "text": "climbbo uh brand of course. Uh so of"
+    },
+    {
+      "start_ms": 3265040,
+      "duration_ms": 3920,
+      "text": "course you can have right now your"
+    },
+    {
+      "start_ms": 3267040,
+      "duration_ms": 4400,
+      "text": "agency mode under your domain but this"
+    },
+    {
+      "start_ms": 3268960,
+      "duration_ms": 4720,
+      "text": "is not fully white label. Of course,"
+    },
+    {
+      "start_ms": 3271440,
+      "duration_ms": 5440,
+      "text": "when we added the team features, of"
+    },
+    {
+      "start_ms": 3273680,
+      "duration_ms": 6080,
+      "text": "course, your team members uh will not be"
+    },
+    {
+      "start_ms": 3276880,
+      "duration_ms": 6000,
+      "text": "able to access to for example the API"
+    },
+    {
+      "start_ms": 3279760,
+      "duration_ms": 6480,
+      "text": "and the Z APR section of let's say to"
+    },
+    {
+      "start_ms": 3282880,
+      "duration_ms": 6080,
+      "text": "all the general section. Uh so you make"
+    },
+    {
+      "start_ms": 3286240,
+      "duration_ms": 6400,
+      "text": "sure that uh they do not know that"
+    },
+    {
+      "start_ms": 3288960,
+      "duration_ms": 7119,
+      "text": "client is uh is behind this and so it's"
+    },
+    {
+      "start_ms": 3292640,
+      "duration_ms": 6600,
+      "text": "fully fully white label also for you as"
+    },
+    {
+      "start_ms": 3296079,
+      "duration_ms": 3161,
+      "text": "an agency."
+    },
+    {
+      "start_ms": 3299520,
+      "duration_ms": 7200,
+      "text": "Uh Alvin for multiple location can share"
+    },
+    {
+      "start_ms": 3302720,
+      "duration_ms": 7040,
+      "text": "the token or it's by location setup. Uh"
+    },
+    {
+      "start_ms": 3306720,
+      "duration_ms": 6879,
+      "text": "it's always by location. So as you can"
+    },
+    {
+      "start_ms": 3309760,
+      "duration_ms": 7120,
+      "text": "see when you create a plan here you have"
+    },
+    {
+      "start_ms": 3313599,
+      "duration_ms": 6321,
+      "text": "location limits and so uh we have"
+    },
+    {
+      "start_ms": 3316880,
+      "duration_ms": 6479,
+      "text": "decided this model because it can works"
+    },
+    {
+      "start_ms": 3319920,
+      "duration_ms": 5919,
+      "text": "uh uh you treat each location uh"
+    },
+    {
+      "start_ms": 3323359,
+      "duration_ms": 5760,
+      "text": "independently"
+    },
+    {
+      "start_ms": 3325839,
+      "duration_ms": 6280,
+      "text": "and so all these limits are uh per"
+    },
+    {
+      "start_ms": 3329119,
+      "duration_ms": 3000,
+      "text": "location."
+    },
+    {
+      "start_ms": 3332960,
+      "duration_ms": 4240,
+      "text": "All right guys"
+    },
+    {
+      "start_ms": 3334880,
+      "duration_ms": 4800,
+      "text": "uh I think we are coming to an end of"
+    },
+    {
+      "start_ms": 3337200,
+      "duration_ms": 5680,
+      "text": "the event."
+    },
+    {
+      "start_ms": 3339680,
+      "duration_ms": 6080,
+      "text": "So as I said before"
+    },
+    {
+      "start_ms": 3342880,
+      "duration_ms": 6719,
+      "text": "um the AI building system is going to be"
+    },
+    {
+      "start_ms": 3345760,
+      "duration_ms": 7520,
+      "text": "released uh probably tomorrow and we are"
+    },
+    {
+      "start_ms": 3349599,
+      "duration_ms": 8000,
+      "text": "going to allocate a default number of AI"
+    },
+    {
+      "start_ms": 3353280,
+      "duration_ms": 6559,
+      "text": "tokens to all your uh clients uh so all"
+    },
+    {
+      "start_ms": 3357599,
+      "duration_ms": 4801,
+      "text": "your clients they have some tokens so"
+    },
+    {
+      "start_ms": 3359839,
+      "duration_ms": 7121,
+      "text": "they can keep using AI features if you"
+    },
+    {
+      "start_ms": 3362400,
+      "duration_ms": 7919,
+      "text": "have enabled AI features uh for them. Um"
+    },
+    {
+      "start_ms": 3366960,
+      "duration_ms": 7839,
+      "text": "but of course I suggest early next week"
+    },
+    {
+      "start_ms": 3370319,
+      "duration_ms": 7520,
+      "text": "to uh decide your monthly AI tokens uh"
+    },
+    {
+      "start_ms": 3374799,
+      "duration_ms": 5441,
+      "text": "for uh each plan"
+    },
+    {
+      "start_ms": 3377839,
+      "duration_ms": 6401,
+      "text": "and also and also announce it to your uh"
+    },
+    {
+      "start_ms": 3380240,
+      "duration_ms": 5520,
+      "text": "clients and also update your uh website."
+    },
+    {
+      "start_ms": 3384240,
+      "duration_ms": 6319,
+      "text": "Um"
+    },
+    {
+      "start_ms": 3385760,
+      "duration_ms": 7520,
+      "text": "we are building some um let's say tools"
+    },
+    {
+      "start_ms": 3390559,
+      "duration_ms": 6161,
+      "text": "for climbers that we're going of course"
+    },
+    {
+      "start_ms": 3393280,
+      "duration_ms": 5120,
+      "text": "to give away to all of you. Um and"
+    },
+    {
+      "start_ms": 3396720,
+      "duration_ms": 4800,
+      "text": "hopefully next week I'm going to share"
+    },
+    {
+      "start_ms": 3398400,
+      "duration_ms": 6480,
+      "text": "them in the community. And um as you"
+    },
+    {
+      "start_ms": 3401520,
+      "duration_ms": 6240,
+      "text": "know we have the prospecting tool that"
+    },
+    {
+      "start_ms": 3404880,
+      "duration_ms": 6400,
+      "text": "it's inside your agency mode and we are"
+    },
+    {
+      "start_ms": 3407760,
+      "duration_ms": 7680,
+      "text": "building other tools. One of these is"
+    },
+    {
+      "start_ms": 3411280,
+      "duration_ms": 7519,
+      "text": "very very uh cool um which basically"
+    },
+    {
+      "start_ms": 3415440,
+      "duration_ms": 6080,
+      "text": "allows you with a single click just by"
+    },
+    {
+      "start_ms": 3418799,
+      "duration_ms": 7601,
+      "text": "uh integrating your uh API key in the"
+    },
+    {
+      "start_ms": 3421520,
+      "duration_ms": 8319,
+      "text": "tool uh to generate a very very uh long"
+    },
+    {
+      "start_ms": 3426400,
+      "duration_ms": 6880,
+      "text": "prompt uh that you can copy and paste"
+    },
+    {
+      "start_ms": 3429839,
+      "duration_ms": 6881,
+      "text": "for example in AI website builders like"
+    },
+    {
+      "start_ms": 3433280,
+      "duration_ms": 4960,
+      "text": "Lovable and have your uh website"
+    },
+    {
+      "start_ms": 3436720,
+      "duration_ms": 4879,
+      "text": "generated"
+    },
+    {
+      "start_ms": 3438240,
+      "duration_ms": 6480,
+      "text": "uh with a very very uh high converting"
+    },
+    {
+      "start_ms": 3441599,
+      "duration_ms": 6240,
+      "text": "copy and images, a website that keeps"
+    },
+    {
+      "start_ms": 3444720,
+      "duration_ms": 7920,
+      "text": "your logo, your brand colors, uh your uh"
+    },
+    {
+      "start_ms": 3447839,
+      "duration_ms": 7921,
+      "text": "also AI agents, uh name and the brand."
+    },
+    {
+      "start_ms": 3452640,
+      "duration_ms": 5120,
+      "text": "And uh I'm testing it right now and it's"
+    },
+    {
+      "start_ms": 3455760,
+      "duration_ms": 5760,
+      "text": "it's amazing. You generate a website"
+    },
+    {
+      "start_ms": 3457760,
+      "duration_ms": 5440,
+      "text": "that make you like uh a real AI uh"
+    },
+    {
+      "start_ms": 3461520,
+      "duration_ms": 7279,
+      "text": "startup"
+    },
+    {
+      "start_ms": 3463200,
+      "duration_ms": 8320,
+      "text": "in minutes. So um you just copy the API"
+    },
+    {
+      "start_ms": 3468799,
+      "duration_ms": 6881,
+      "text": "key, you paste it there and you have"
+    },
+    {
+      "start_ms": 3471520,
+      "duration_ms": 8880,
+      "text": "this uh prompt. Uh how are we able to do"
+    },
+    {
+      "start_ms": 3475680,
+      "duration_ms": 7919,
+      "text": "this? Thanks to these two new um"
+    },
+    {
+      "start_ms": 3480400,
+      "duration_ms": 6000,
+      "text": "um endpoints that we have. One is get a"
+    },
+    {
+      "start_ms": 3483599,
+      "duration_ms": 5841,
+      "text": "team as you can see here. So with the"
+    },
+    {
+      "start_ms": 3486400,
+      "duration_ms": 6719,
+      "text": "the get uh team endpoint as you can see"
+    },
+    {
+      "start_ms": 3489440,
+      "duration_ms": 6720,
+      "text": "in the response, let me zoom it a little"
+    },
+    {
+      "start_ms": 3493119,
+      "duration_ms": 7281,
+      "text": "bit. In the response, we know exactly"
+    },
+    {
+      "start_ms": 3496160,
+      "duration_ms": 6399,
+      "text": "for example the URL of your logo, the uh"
+    },
+    {
+      "start_ms": 3500400,
+      "duration_ms": 5679,
+      "text": "your brand name, your primary color,"
+    },
+    {
+      "start_ms": 3502559,
+      "duration_ms": 7280,
+      "text": "your font, the name of your AI, the logo"
+    },
+    {
+      "start_ms": 3506079,
+      "duration_ms": 7361,
+      "text": "of each of your uh AI agents. So we know"
+    },
+    {
+      "start_ms": 3509839,
+      "duration_ms": 7921,
+      "text": "all your brand settings and also we have"
+    },
+    {
+      "start_ms": 3513440,
+      "duration_ms": 6800,
+      "text": "a new uh um endpoint. No, it's an"
+    },
+    {
+      "start_ms": 3517760,
+      "duration_ms": 7520,
+      "text": "existing endpoint but we've improved it"
+    },
+    {
+      "start_ms": 3520240,
+      "duration_ms": 8640,
+      "text": "which is uh least available plans. So uh"
+    },
+    {
+      "start_ms": 3525280,
+      "duration_ms": 6960,
+      "text": "thanks to this endpoint I know uh your"
+    },
+    {
+      "start_ms": 3528880,
+      "duration_ms": 6239,
+      "text": "plans also your plans features and also"
+    },
+    {
+      "start_ms": 3532240,
+      "duration_ms": 5440,
+      "text": "uh your payment links. So, the website"
+    },
+    {
+      "start_ms": 3535119,
+      "duration_ms": 6321,
+      "text": "is fully ready also with your pricing"
+    },
+    {
+      "start_ms": 3537680,
+      "duration_ms": 7679,
+      "text": "page and the buttons to start a free"
+    },
+    {
+      "start_ms": 3541440,
+      "duration_ms": 7280,
+      "text": "trial or uh buy the plan if you haven't"
+    },
+    {
+      "start_ms": 3545359,
+      "duration_ms": 5521,
+      "text": "set up a a free trial or sign up if you"
+    },
+    {
+      "start_ms": 3548720,
+      "duration_ms": 4800,
+      "text": "have a free plans. Then, of course, you"
+    },
+    {
+      "start_ms": 3550880,
+      "duration_ms": 5439,
+      "text": "can use the AI chat to let's say refine"
+    },
+    {
+      "start_ms": 3553520,
+      "duration_ms": 8240,
+      "text": "your website. But I'm testing this and"
+    },
+    {
+      "start_ms": 3556319,
+      "duration_ms": 8240,
+      "text": "at the first shot uh I had a super cool"
+    },
+    {
+      "start_ms": 3561760,
+      "duration_ms": 8319,
+      "text": "website very very clean and professional"
+    },
+    {
+      "start_ms": 3564559,
+      "duration_ms": 7520,
+      "text": "that uh make you like a real uh AI"
+    },
+    {
+      "start_ms": 3570079,
+      "duration_ms": 4801,
+      "text": "startup."
+    },
+    {
+      "start_ms": 3572079,
+      "duration_ms": 6641,
+      "text": "Uh I'm going to show you a a sample next"
+    },
+    {
+      "start_ms": 3574880,
+      "duration_ms": 6959,
+      "text": "week Alvin and um it works very very"
+    },
+    {
+      "start_ms": 3578720,
+      "duration_ms": 5599,
+      "text": "well. I'm very excited to you because"
+    },
+    {
+      "start_ms": 3581839,
+      "duration_ms": 6720,
+      "text": "I'm very excited for this because the"
+    },
+    {
+      "start_ms": 3584319,
+      "duration_ms": 7921,
+      "text": "website is super important for uh"
+    },
+    {
+      "start_ms": 3588559,
+      "duration_ms": 6081,
+      "text": "businesses like uh your business and uh"
+    },
+    {
+      "start_ms": 3592240,
+      "duration_ms": 4720,
+      "text": "of course it's your first impression. So"
+    },
+    {
+      "start_ms": 3594640,
+      "duration_ms": 3840,
+      "text": "you need to have a clean polished uh"
+    },
+    {
+      "start_ms": 3596960,
+      "duration_ms": 5200,
+      "text": "website"
+    },
+    {
+      "start_ms": 3598480,
+      "duration_ms": 7280,
+      "text": "and we are studying this prompt. So you"
+    },
+    {
+      "start_ms": 3602160,
+      "duration_ms": 6639,
+      "text": "just copy it, you paste it in Lovable"
+    },
+    {
+      "start_ms": 3605760,
+      "duration_ms": 7039,
+      "text": "for example and uh like in three four"
+    },
+    {
+      "start_ms": 3608799,
+      "duration_ms": 6161,
+      "text": "minutes you have a a a very professional"
+    },
+    {
+      "start_ms": 3612799,
+      "duration_ms": 6641,
+      "text": "website"
+    },
+    {
+      "start_ms": 3614960,
+      "duration_ms": 6639,
+      "text": "and um and then other uh tools that we"
+    },
+    {
+      "start_ms": 3619440,
+      "duration_ms": 4320,
+      "text": "will show you uh down the road but we"
+    },
+    {
+      "start_ms": 3621599,
+      "duration_ms": 5841,
+      "text": "are building some of these. Uh another"
+    },
+    {
+      "start_ms": 3623760,
+      "duration_ms": 7599,
+      "text": "thing that I wanted to show you"
+    },
+    {
+      "start_ms": 3627440,
+      "duration_ms": 6720,
+      "text": "um is related to the knowledge base. Um"
+    },
+    {
+      "start_ms": 3631359,
+      "duration_ms": 4801,
+      "text": "so we have now the knowledge base in uh"
+    },
+    {
+      "start_ms": 3634160,
+      "duration_ms": 4880,
+      "text": "multiple languages. It's not released"
+    },
+    {
+      "start_ms": 3636160,
+      "duration_ms": 5840,
+      "text": "yet but we will release it tomorrow. Uh"
+    },
+    {
+      "start_ms": 3639040,
+      "duration_ms": 6000,
+      "text": "here there will be a drop-own menu"
+    },
+    {
+      "start_ms": 3642000,
+      "duration_ms": 5200,
+      "text": "where users can switch the language. We"
+    },
+    {
+      "start_ms": 3645040,
+      "duration_ms": 4720,
+      "text": "also changed a little bit the design of"
+    },
+    {
+      "start_ms": 3647200,
+      "duration_ms": 7359,
+      "text": "the knowledge base. So we have the"
+    },
+    {
+      "start_ms": 3649760,
+      "duration_ms": 7839,
+      "text": "articles on the left uh the um the"
+    },
+    {
+      "start_ms": 3654559,
+      "duration_ms": 6641,
+      "text": "current article on the center and then"
+    },
+    {
+      "start_ms": 3657599,
+      "duration_ms": 6081,
+      "text": "we have the article section on the right"
+    },
+    {
+      "start_ms": 3661200,
+      "duration_ms": 5760,
+      "text": "and also something very very cool. Let"
+    },
+    {
+      "start_ms": 3663680,
+      "duration_ms": 8159,
+      "text": "me see if this is uh already released."
+    },
+    {
+      "start_ms": 3666960,
+      "duration_ms": 7440,
+      "text": "So if here I type your brand"
+    },
+    {
+      "start_ms": 3671839,
+      "duration_ms": 6161,
+      "text": "you can see that you have your brand"
+    },
+    {
+      "start_ms": 3674400,
+      "duration_ms": 6320,
+      "text": "name uh here. So if you go to our"
+    },
+    {
+      "start_ms": 3678000,
+      "duration_ms": 5599,
+      "text": "unbranded URL knowledgebased.help"
+    },
+    {
+      "start_ms": 3680720,
+      "duration_ms": 6560,
+      "text": "and then you add slash and then your"
+    },
+    {
+      "start_ms": 3683599,
+      "duration_ms": 7281,
+      "text": "brand your brand name is going to be uh"
+    },
+    {
+      "start_ms": 3687280,
+      "duration_ms": 8079,
+      "text": "here so it feels like uh more uh"
+    },
+    {
+      "start_ms": 3690880,
+      "duration_ms": 7199,
+      "text": "connected to uh to your platform."
+    },
+    {
+      "start_ms": 3695359,
+      "duration_ms": 5841,
+      "text": "Uh so we will we want to also in the"
+    },
+    {
+      "start_ms": 3698079,
+      "duration_ms": 6240,
+      "text": "future embed this inside the uh platform"
+    },
+    {
+      "start_ms": 3701200,
+      "duration_ms": 6800,
+      "text": "but for now you just add your brand name"
+    },
+    {
+      "start_ms": 3704319,
+      "duration_ms": 7841,
+      "text": "after the URL. So it feels like it's"
+    },
+    {
+      "start_ms": 3708000,
+      "duration_ms": 7280,
+      "text": "really connected to your platform."
+    },
+    {
+      "start_ms": 3712160,
+      "duration_ms": 7439,
+      "text": "Um question from GJ. Let me read the"
+    },
+    {
+      "start_ms": 3715280,
+      "duration_ms": 6720,
+      "text": "last questions. Um if a client has five"
+    },
+    {
+      "start_ms": 3719599,
+      "duration_ms": 6000,
+      "text": "location and he crosses the limit only"
+    },
+    {
+      "start_ms": 3722000,
+      "duration_ms": 6400,
+      "text": "on one location and"
+    },
+    {
+      "start_ms": 3725599,
+      "duration_ms": 6000,
+      "text": "well within the limits for the rest for"
+    },
+    {
+      "start_ms": 3728400,
+      "duration_ms": 6640,
+      "text": "how will we deal with this? Uh will he"
+    },
+    {
+      "start_ms": 3731599,
+      "duration_ms": 5361,
+      "text": "have to upgrade the plan? um currently"
+    },
+    {
+      "start_ms": 3735040,
+      "duration_ms": 5840,
+      "text": "yes."
+    },
+    {
+      "start_ms": 3736960,
+      "duration_ms": 5440,
+      "text": "So um of course if your clients are"
+    },
+    {
+      "start_ms": 3740880,
+      "duration_ms": 4800,
+      "text": "using"
+    },
+    {
+      "start_ms": 3742400,
+      "duration_ms": 7040,
+      "text": "so if you're using the um uh price per"
+    },
+    {
+      "start_ms": 3745680,
+      "duration_ms": 6960,
+      "text": "location uh model all the location are"
+    },
+    {
+      "start_ms": 3749440,
+      "duration_ms": 8960,
+      "text": "under the same plan. So all the location"
+    },
+    {
+      "start_ms": 3752640,
+      "duration_ms": 8800,
+      "text": "are uh tied to this um uh limit here. So"
+    },
+    {
+      "start_ms": 3758400,
+      "duration_ms": 6000,
+      "text": "uh if one of the location get to the"
+    },
+    {
+      "start_ms": 3761440,
+      "duration_ms": 5520,
+      "text": "limit in order to keep using the tokens"
+    },
+    {
+      "start_ms": 3764400,
+      "duration_ms": 6640,
+      "text": "or the messages uh they have to switch"
+    },
+    {
+      "start_ms": 3766960,
+      "duration_ms": 6800,
+      "text": "the plans for all the locations. Um in"
+    },
+    {
+      "start_ms": 3771040,
+      "duration_ms": 5920,
+      "text": "the future if this is something uh"
+    },
+    {
+      "start_ms": 3773760,
+      "duration_ms": 6880,
+      "text": "highly requested we can build a system"
+    },
+    {
+      "start_ms": 3776960,
+      "duration_ms": 8240,
+      "text": "where you choose for each plants if"
+    },
+    {
+      "start_ms": 3780640,
+      "duration_ms": 7280,
+      "text": "limits are per location or shared across"
+    },
+    {
+      "start_ms": 3785200,
+      "duration_ms": 6560,
+      "text": "all the uh location. So it's up to you"
+    },
+    {
+      "start_ms": 3787920,
+      "duration_ms": 6960,
+      "text": "to ch to choose the uh system for uh for"
+    },
+    {
+      "start_ms": 3791760,
+      "duration_ms": 5279,
+      "text": "each plan. But right now yes even if"
+    },
+    {
+      "start_ms": 3794880,
+      "duration_ms": 4640,
+      "text": "they have multiple location but just one"
+    },
+    {
+      "start_ms": 3797039,
+      "duration_ms": 6641,
+      "text": "location need more tokens they have to"
+    },
+    {
+      "start_ms": 3799520,
+      "duration_ms": 7160,
+      "text": "switch the plan for uh for all the"
+    },
+    {
+      "start_ms": 3803680,
+      "duration_ms": 3000,
+      "text": "locations."
+    },
+    {
+      "start_ms": 3809760,
+      "duration_ms": 7120,
+      "text": "Um Samir this that is the biggest tease"
+    },
+    {
+      "start_ms": 3813359,
+      "duration_ms": 5841,
+      "text": "of the year. Yes, I'm excited for this."
+    },
+    {
+      "start_ms": 3816880,
+      "duration_ms": 6719,
+      "text": "Um, Roy, can we create a feature to make"
+    },
+    {
+      "start_ms": 3819200,
+      "duration_ms": 6800,
+      "text": "PDF books to give away to prospects?"
+    },
+    {
+      "start_ms": 3823599,
+      "duration_ms": 5440,
+      "text": "Uh, yeah. So, if you can write a post in"
+    },
+    {
+      "start_ms": 3826000,
+      "duration_ms": 6880,
+      "text": "the community about this also with a"
+    },
+    {
+      "start_ms": 3829039,
+      "duration_ms": 6881,
+      "text": "maybe a use case. Um, so you tell us"
+    },
+    {
+      "start_ms": 3832880,
+      "duration_ms": 6400,
+      "text": "which type of ebooks you would like to"
+    },
+    {
+      "start_ms": 3835920,
+      "duration_ms": 7119,
+      "text": "uh to give away to uh to prospects. Uh"
+    },
+    {
+      "start_ms": 3839280,
+      "duration_ms": 5839,
+      "text": "because now with the prospecting tool"
+    },
+    {
+      "start_ms": 3843039,
+      "duration_ms": 5361,
+      "text": "um you can set up a widget in your"
+    },
+    {
+      "start_ms": 3845119,
+      "duration_ms": 5841,
+      "text": "website and your prospect"
+    },
+    {
+      "start_ms": 3848400,
+      "duration_ms": 5280,
+      "text": "uh leave their email or phone number and"
+    },
+    {
+      "start_ms": 3850960,
+      "duration_ms": 5680,
+      "text": "they receive the report in their uh"
+    },
+    {
+      "start_ms": 3853680,
+      "duration_ms": 5840,
+      "text": "email. Um"
+    },
+    {
+      "start_ms": 3856640,
+      "duration_ms": 7199,
+      "text": "if you want other things to be uh sent"
+    },
+    {
+      "start_ms": 3859520,
+      "duration_ms": 7279,
+      "text": "to the um to the prospect, we can uh"
+    },
+    {
+      "start_ms": 3863839,
+      "duration_ms": 4960,
+      "text": "together see uh the specific use case"
+    },
+    {
+      "start_ms": 3866799,
+      "duration_ms": 4560,
+      "text": "and see this is a highly requested"
+    },
+    {
+      "start_ms": 3868799,
+      "duration_ms": 4320,
+      "text": "thing."
+    },
+    {
+      "start_ms": 3871359,
+      "duration_ms": 4960,
+      "text": "Frankly, my knowledge based brand work"
+    },
+    {
+      "start_ms": 3873119,
+      "duration_ms": 5281,
+      "text": "nice addition. Perfect."
+    },
+    {
+      "start_ms": 3876319,
+      "duration_ms": 3681,
+      "text": "All right, guys. Thanks for coming as"
+    },
+    {
+      "start_ms": 3878400,
+      "duration_ms": 7600,
+      "text": "always."
+    },
+    {
+      "start_ms": 3880000,
+      "duration_ms": 8720,
+      "text": "Uh luckily the event is recorded."
+    },
+    {
+      "start_ms": 3886000,
+      "duration_ms": 5359,
+      "text": "and uh wait for my announcement uh"
+    },
+    {
+      "start_ms": 3888720,
+      "duration_ms": 4800,
+      "text": "probably tomorrow."
+    },
+    {
+      "start_ms": 3891359,
+      "duration_ms": 4720,
+      "text": "And uh have an amazing weekend to"
+    },
+    {
+      "start_ms": 3893520,
+      "duration_ms": 6680,
+      "text": "everyone and we see each other next"
+    },
+    {
+      "start_ms": 3896079,
+      "duration_ms": 4121,
+      "text": "week. Bye-bye."
+    }
+  ],
+  "text": "Welcome, welcome. Hello guys. Hello climbers. How are you? Hello Natasha. Hello Roy. Hello guys. Hello Harold. Happy to be back after a couple of weeks. Hello Alvin, Kristoff, Eric, GJ, Glenn, Gurby, Gulitz, hi Gulit, Gulit is my colleague, Harold, Lars, Mark, Mhmed, Roy. Hello guys, welcome again. I hope you are all well. I'm feeling very well. Natasha, thanks for asking. Also, Alvin, thanks. Thanks for asking, guys. I had the opportunity last week to take a little break that was very very refreshing after a very uh long period of hard work you know since uh January we haven't stopped uh releasing features and working every week. Thanks Alvin for the comment and now I'm feeling 100% uh all right and so today uh we are going to present new things and we are going of course also to uh announce you some work in progress uh stuff. All right so let me start. Yes, the event is recording. Let me start as always by sharing the screen. All right. Uh firstly uh before show showing you the new things uh built in the last couple of weeks um I want to quickly uh tell you that uh we've just updated the sales accelerator uh fifth session that we had this week with the uh Wayne Connell our uh expert in selling uh reputation management platforms to local businesses. So we had a long meeting 1 hour and 37 minutes that I suggest to all of you to uh watch. Uh as you know every month we go live with uh Wayne and you always find the recordings into the sales accelerator classroom. So here you find also all the previous uh recordings. So if you haven't watched them yet, I suggest you to watch them whenever you have one hour free. Uh I suggest you to play these videos. These are uh very very educational videos uh for you especially if you are at the beginning if you are uh closing your first clients. We also have this pre-recorded course uh one hour course and then of course as you know every month we go live um for all the people that maybe are new um every first Monday of the month we have the sales accelerator event uh with Wayne. So of course we had one this week and of course the next one is on the 6th of July as you see every month the first day sorry the first Monday of the month and as you all know I personally go live every week at first day at 4 p.m. Italian time. All right. Um let's start. So today as I've announced at the beginning of this week in my this week uh development plan post um we have AI building. All right. So uh we are introducing this uh system uh where uh basically uh every AI feature is going to be built from your balance. This of course has to be had to be done uh sooner or later. Of course uh until we started with AI features until uh these days we paid for all the uh AI tokens that we uh buy directly from our tech partners mainly from OpenAI but we work also with different models uh with the different um providers mainly open AAI and uh Gemini and so I'm going to show you today how this system works so you exactly uh how much uh you're going to pay and also how you can limit uh your clients. So you know exactly the maximum that they can spend. So you can price your plans uh accordingly and so you know exactly the maximum uh potential cost for each plan. So the exact minimum margin that you can make from uh from each plan. And then I'm going to uh show you some uh work in progress features especially related to integrations. We have a Tik Tok integration coming uh very very soon. So uh I hope next week we're going to release this. All right. So let's start from the uh AI billing. So let's start from the agency mode. Uh let's go to plans. Let's get into one of our plan for example into our gold plan. Now uh in the uh limits uh section uh as you know you had the possibility to limit uh the number of SMS emails and WhatsApp messages that your clients can send every uh month. Uh now you have a fourth voice which is the monthly AI tokens. So every AI feature each AI feature is going to consume some tokens. um you know uh exactly not exactly but on average how many tokens each AI feature is going to consume consume. I'm going to show you um later how it works and how you can uh monitor how many tokens each feature uh consume. And uh so uh your clients can have for example a limit uh for example in this case of 10,000 uh AI tokens. Um there is a fixed cost for each uh AI uh token. Uh the the fixed cost is this one. So 1 million AI tokens cost uh $660 uh this is proportional with uh what um our AI providers uh charge us. Our plan is not to make a profit on this but just to uh cover the uh cost because as you know we are of course on boarding more and more and more uh local businesses. So we had sooner or later to introduce this. So we make sure that client boy is 100% uh sustainable. So as we grow the usage base, we do not do not have a uh um an increasement in uh cost in our spend to AI uh providers. But this is 100% uh cover. So we do not uh risk any uh losses as we grow the usage base of the uh platform. And for example here we uh can set up for example that every uh location uh in this gold plan has a limit of 500 SMS per month a th000 email per month 300 WhatsApp uh per month and 100,000 AI tokens per uh per month. As you know, emails are always uh free and uh uh under each uh paid feature, you can see the uh spending cap which I remember you is uh the uh cost that you have to pay from your balance if the uh client location use all the provided messages or token. So if a client in this uh plan which is the uh gold plan um use all the SMS provided which are for example 500 SMS since the cost of one SMS is assigned of a dollar uh you are going to have a $5 deducted from your balance. Of course, if the client use all the SMS uh provided, of course, if they use uh less than 500 SMS during the month, of course, you're not going to be charged uh $5. You're going to be charged uh less. But the spending cap is very useful for you to understand which is the uh maximum cost for you uh if the client use all the provided SMS and tokens in this uh case. And for example, with 100,000 AI tokens, uh you're going to pay uh 666 cents of a dollar from your balance. Now, of course, um I'm going to show you right now how you can um set the right amount of uh AI tokens per month. We've built a simulator where you can easily predict how many tokens each client uh need. Uh before showing you this, I want to easily show you that we have added this uh uh message here at the uh bottom of the uh limits section where you can see the total spending uh cap. For example, for this gold plan with 500 SMS per month, 1,000 email per month, 300 WhatsApp per month, and 100,000 AI tokens per month, the total spending cap is $14.66 66 uh dollar which as we brought here is uh the maximum amount of uh dollar that can be deducted from your balance if a client in this plan use all the uh SMS WhatsApp and tokens provided during the uh month. So of course this is important for you because you have to price your plan uh accordingly. All right. So you have to of course have the plan uh cost that has to be minimum 14 uh dollar.66 but of course we suggest to do like 3x 4x 5x whatever you want. You just have to uh set a price that guarantee you a very uh high uh margin. And um so this is very important for you to plan the cost the maximum cost for each uh plant. Here you have a button as you can see here um AI pricing where you can see exactly how much how many tokens each AI feature is going to consume. All right. So you just click here and you have this uh table uh where you can easily understand how many tokens each feature is going to consume. This is an uh average. So it's not the exact amount of token. Uh it depends on uh different factors. Of course, if you uh for example generate an uh AI uh reply, uh of course the output that we get from uh OpenAI, the token um used for generating the reply can be different from one reply to uh another. For example, if the uh review left by the customer is very very long, you're going to have a an amount of tokens used to generate the uh reply higher comparing to uh a situation where for example the text of the review was very very short. uh this is uh an average that we have done testing uh a lot of time the uh uh the for example in this case the AI reply so we done an average of the token used for uh for all the replies and but it's very very um close to uh what you're going to be uh to be charged and so here we have all the AI uh feature uh for example Uh this is the cost for each AI chat message. The cost to generate the uh AI ranking. Uh so we have some features that are ongoing features. Uh for example the AI chat. Of course the AI chat can be used every day by your uh customer. Uh and then of course we have features that are used just once uh once per month. For example, the AI ranking is generated as you know just the first day of the month uh each uh each month. So here you have an overview of the average uh cost and of course the average uh uh token usage for each feature. Uh you can also filter for the specific uh feature so you can easily uh see how many tokens each feature uh consume and how much it cost to you. And here we have the simulator. All right. Uh which is what you are going to use in order to plan how many tokens you want to give to uh your clients every uh month. So when you build your pricing plans for each plan you have to set uh not only the number of email, SMS and WhatsApp but right now you have to set also the number of AI tokens uh the maximum number of AI tokens for each uh plan and you can do uh a simulation here for example if you have a client that uh you know that uh on average receive for example uh let's say 15 uh reviews per month like one review every uh every two days. Uh we can plan that they are going to use uh the AI replies uh 15 uh times. Uh we have the for example the social agent uh enabled. So those 15 reviews are going to be shared on social media. So we're going to use the AI uh to generate social caption. uh we have the geo agent that produce one article per week. So for example, we have uh four monthly uh blog post uh generated and let's say that we have also the AI chat uh enabled. So let's say that on average uh our clients during the month use uh the chat and send for example 70 message uh in the chat and we have also uh AI ranking and AI sentiment analysis uh enabled. So here you can see that in order to uh use this uh feature uh you are going to use uh um approximately uh 400,000 tokens. All right. And uh we have here estimated AI token usage uh 46,582 and this is the estimated AI token uh cost. So uh $2.68 68 uh per month. So of course as we brought uh here this is not the exact number of tokens that your clients are going to be used uh but it's very very close. All right, we have done a lot of uh test and it's very very close to what your clients are going to um to to use in terms of tokens and how much it cost to you in terms of uh uh dollars deducted from your uh balance. H so for example, this can be let's say your uh bronze plan. Let's say in the bronze plan, you uh target very small local businesses that usually receive uh let's say 15 reviews uh per uh per month and uh you decide to allocate for this plan for example 500 uh,000 uh token. Uh you can see that if we copy this number and we upload it here the uh spending cap of course is the same as the one calculated in the uh simulator. So the simulator is very very useful for you to understand how many um uh AI tokens you want to allocate for uh each plan. And we can easily see that our total spending cap is uh increased. In this case our total spending cap is uh almost $17 uh dollars. So of course when we price the uh plan we have to choose a monthly amount of course that covers that uh uh that maximum cost. Uh this is the maximum cost. This is not the cost of the plan. Of course when you assign for example 400,000 uh tokens to a um to a plan uh it's very very likely that the client is not going to use all the uh all the tokens. It can happen if they use all the uh tokens. Of course, the ongoing features uh are not going to uh work anymore. And this is also an opportunity for you to stimulate them to move to an uh higher plan that maybe provide more uh tokens. So, they can maybe switch from bronze to uh silver just because they want more uh uh more AI tokens. If they want to stay in a plan where they have uh finished the number of tokens uh provided the ongoing feature that they can use every day um are uh blocked like for example the AI chat and the activities of the uh AI agent for example if they use all the tokens in this uh uh plans and uh let's say we are at the 20th of the uh month uh for 10 days. So until the uh first day of the month uh sorry until the uh the day when the subscription is uh renewed uh the SEO agent for example uh does not reply anymore to uh reviews until the uh date when the plan is renewed. Uh so this is how it works inside the plans uh section. So very very transparent and easy for you to uh understand the maximum cost and uh decide the price of your uh plan in your balance. Let's go to settings uh balance. Um of course you have also an indication of how many um how much 1 million token cost to you which is fixed. So uh 1 million tokens cost $6.60. 60 uh 60 cents and of course here you can see the uh aggregated usage also of AI tokens as you can see for SMS, email and uh WhatsApp. So we have added this uh voice. So basically here uh we uh do a kind of sum of all the uh maximum uh uh limits of SMS, email, uh WhatsApp and AI tokens. So you can see uh and if your clients are approaching to the uh to the limits and you can also see uh um in details how many SMS, email, WhatsApp and now also AI tokens each uh location is uh consuming and of course you can filter by uh month. So you have 100 uh% transparency and you see exactly how many tokens uh each client is uh uh is consuming. Um in the business model uh you have now a new voice in the limit section. So your clients can easily see from settings uh limits how many AI tokens they have. For example, in this client, uh we have provided a million uh AI token. They've used uh 250,000 uh tokens and of course here they see uh how many tokens they have uh left. So they can easily see if they are getting close to the uh maximum limit. And we have added also a new uh voice in the uh history section. So in history now as you can see we have uh in the uh left tab uh messages. So they can see exactly all the uh logs of each message sent through the platform both via uh quick request campaigns or uh automations. And now we have also the uh AI section. This of course is going to be branded with your uh AI uh name. and they can see exactly uh all the uh logs uh of your uh AI to see exactly uh for example uh a a chat uh message that was uh uh produced on the 31st of May at this uh how consume this number of uh tokens or for for example the uh uh Joe agent generated this uh blog uh article that consume this exact uh amount of tokens. So you can see exactly where tokens are uh spent. So both your clients can see it and of course you by accessing to your client's account can see exactly uh where your clients are consuming uh tokens and this is made of course for uh transparency. So of course your clients they know that they have a limit but of course they want to if if the uh the number of AI tokens is going down they want to see exactly why is going down. So as they have the history for uh messages that of course uh showcase all the previous messages uh sent they have the history also of AI actions. Uh, of course these icons here are going to be um um changed with your AI agent uh logos. Uh, as you know last uh week we have presented also this uh feature where you can uh personalize your AI agents uh name and uh and logos. So you can have a dedicated uh logo or photo or image for uh each agent. And uh so for example, if for this uh AI action here that is of course connected to the geo agent because is the action for the blog cover, instead of this icon uh here, you're going to have the photo of your uh geo agent. And uh so this is 100% more uh personalized and branded uh with your personal AI agency. And uh I think that's all for how the AI building uh works. So in order to uh summarize very very uh quickly um firstly what you have to do from uh the uh next uh weeks you have to uh decide this limit for all your uh plans uh because of course I suppose that you have all your plans already uh created uh by default we're going to uh add a default default uh number of AI tokens here to each of your uh plans. So of course the AI keep working for your uh clients. Uh but of course uh of course we suggest you to go uh to your uh plans when this feature is released probably uh tomorrow and edit the limit of uh AI tokens for uh for each plan. Uh so probably you have like for example in my case uh three plans bronze, silver and gold. So for each plan you just uh go in the limit uh section. Uh firstly you do a simulation. So you go to the AI pricing zone simulator and you uh simulate how many uh tokens uh you want to allocate for each plan. For example, the bronze plan is the plan dedicated to very very small uh businesses that on average receive let's say one review every two day or one review per day. So uh you can set that uh for this plan it could be enough to have maybe 30 uh AI replies as 30 social post uh four uh blog post. Uh maybe in the uh bronze plan you do not have the AI chat uh enabled but because maybe you enable the AI chat just on the uh premium plan. Maybe also AI ranking is not enabled but you have sentiment analysis in the bronze uh plan. Uh you can see that the estimated cost is $122 uh cent and the number of tokens is uh the estimated number of token use is 184,000. So maybe let's say for the bronze plan you can set for example 200,000 tokens as the uh limit. So you simply write here 200,000. You see that the spending cap is $1.32 uh cent. So you do this for all your uh plans. Of course you have to update your uh clients that there is this uh uh new uh limits as we have uh increased the number of uh AI features in the uh in the platform and uh your clients will simply have this new limit in their uh limits area. So we have uh completed our uh limit area with this four uh fourth card that was uh missing. H and since the beginning we've planned to add this AI tokens uh card. H so now they can easily monitor their limit email, SMS, WhatsApp and uh and AI tokens um as we keep releasing new uh AI features. So of course down the road during the next month and years of course we will develop new things with uh AI uh of course uh if there is a new uh AI uh feature we're going to add it in the uh AI pricing area so you know exactly on average how uh it cost and we're also going to add it in the uh simul simulator so you know exactly how much to to plan uh you know exactly how to plan your uh plans uh price. Um last thing that I want to uh show you so you can see that for example in the uh history um for uh for example for the blog uh article you do not have a single AI activity but for example here we have uh two activity one for the blog cover and one for the blog uh article. All right. Uh, of course when uh you um uh you set the number of monthly AI blog post generated from the simulator uh here of course we include all the uh activities related in this case to the uh blog post. So if here we write for example uh one of course in this uh 15 uh scent we take into consideration both the uh cover uh to generate the uh article and also the uh uh text of the article uh itself and also the fact that every uh every free month we generate the new topics with the AI. high. So we also take into consideration uh that cost. Of course this is as we brought here an average. So it's impossible to plan exactly uh how many uh tokens your clients are going to consume and how much it will cost to you. Uh but this is a very very closed uh simulation. All right. So this uh is probably going to be released uh tomorrow of course together with the uh announcement uh to all your um clients account. We're going to add a a default uh number uh here uh probably 200,000. So all your clients have some uh AI tokens. So they do not have from one day to another the AI features that stop working because they have zero AI tokens. Uh but of course we suggest you to uh uh go maybe at the beginning of next week to your plans section and plan your uh AI token limits for uh for each plan. Uh all right so that's uh what we built regarding the um AI building. I know this is not something uh in your case to be uh uh 100% excited because of course this is I understand that this is a new uh let's say a new cost uh for you uh but this has to be done uh sooner or later because since we've started releasing AI features um of course we've paid for all the AI tokens but as we grow the usage base uh we uh of course has to uh do this uh um uh this cost transition sooner or later. And uh but of course you have all the transparency in order to plan exactly how many um how much to charge for uh for each plan. And uh last thing that I want to show you but very very quickly then we switch to uh uh Q&A if you have question related to this AI building uh system. Uh I want to show you that uh we are testing and it's uh uh currently in uh approval uh uh sorry in a yes in approval mode the integration with the Tik Tok. All right. So we uh hope it will be approved uh by the by next week. And uh so finally there is Tik Tok that is going to work for manual sharing but also uh with the social agent. And so basically your clients simply connect their uh Tik Tok account and uh when they share review or uh manually via the uh share button or automatically via the uh social agent. uh they can also uh enable the possibility to share the review also in the uh Tik Tok page uh which is amazing because Tik Tok as you know is becoming more and more important also for uh small local businesses and uh our goal is as you know to aggregate all the platforms all the social media platforms into Kimbo. Uh we are working very very hard for uh Apple uh maps integration. Uh we have news from uh Apple that uh the Apple API team is uh is on it. So we are in the approval phase. Uh it's not easy because they are requesting a lot of things but this will come uh I I hope very soon but this uh this will come. I hope in let's say one maximum two months I I I I'm dreaming of having Apple Maps integrated which is something big because I think there are only 30 companies in the world with the Apple um APIs with direct integration with Apple APIs and uh I know why there are so few companies with the APIs of Apple business connect because it's very very difficult to uh get the uh integration with them because they require a lot of things but we are uh we are on it. Uh with Tik Tok it should be much uh easier. So I hope next week next week maximum two weeks to have the uh the integration. Um actually I hope I hope to announce the the the approval of the integration today but we had a ree rejection because of something that uh uh we did by uh by mistake. So we have corrected it. So uh I hope they are going to uh approve it uh next week and um and that's it. And probably next week we are going to finally start with the uh agency team features uh together with the affiliate team uh sorry together with the affiliate uh system for your uh team members. Uh since I uh know this has been requested since a long time ago, uh of course we had to um prioritize some features. Uh but I'm pretty sure that next week we uh are going to start it. All right, guys. So, let me uh go back to uh agency mode here and let's start with your question. All right, let me start from the beginning. Uh, let me start with Natasha. Are we able to configure AI building per client? Uh, no. You configure AI building per plan, not per client. So, uh, AI um token limit is it works as it works for uh messaging limits. So as you set the maximum number of SMS your client can send every month, you set also the number of AI tokens your clients can use every month. Uh then of course you have all the uh uh possibilities to enable or disable specific uh plans features. Uh for example, if in this uh plan you do not want AI ranking enabled, you simply disable it uh from uh here. Um or if you do not want uh AI chat, you simply disable it uh from here. So, of course, you have the possibility both to disable or enable specific features that consume uh tokens and also set the limit uh of monthly tokens that your clients can use. Um then when that client use their tokens, we build them. We need to see a ceiling and parameter of how they are uh using uh so you can see uh all the AI token usage uh both from your balance. You see exactly from here how many tokens each client is using and how much is uh spending from your uh uh balance. If you want to see exactly how many tokens and for which AI activities uh you have to go to the uh history section uh here of course the AI tokens as said works as um SMS uh works. So you build pricing plans where for a uh single uh price for example $199 uh per month uh you include uh all the feature and you set the uh plans limit in terms of messages and uh AI tokens. If the client consume all the tokens of the plan and want more tokens, you simply redirect them to your uh customer portal and you tell them to upgrade their uh plan if they want more uh AI tokens. And uh so this is also an opportunity an opportunity for you to move them from bronze to silver or from silver to gold. Uh when when are plans renew? every first day of the month for everyone or rolling on when? So, uh of course uh plan limits uh so uh um limits of email, SMS, WhatsApp and I AI tokens uh all of them uh renew on the first day of uh uh each uh month. on the first day of each month. As you can see here, this value resets every month on the first. This value resets every month on the first. This value resets every month on the uh first. Uh but of course, your uh client uh uh building date can be on a on a different date. They can also be in a an annual plan. But of course, when you set the limit, the limit are always monthly. And this limits renews always the first day of uh uh of each month. So of course your clients can join your subscription let's say the uh that uh 11th of June. So every month they pay on the uh 11th but all the limits they renew on the first day of uh uh of each month. So for example, if they join on the 11th of uh June, uh in June they have the opportunity to use uh more uh tokens or uh messages because they uh are going to be uh renew on the 1st of uh of July. Uh question from Franklin, can our clients add or buy additional token if they use old token uh midmon? Um currently no. So currently if they use all the tokens and they want to keep using uh tokens um the call to action is to switch to a a new plan as uh it happens if they use all their SMS provided for example. Um we can see in the future in the future if we can build something where they can buy uh uh tokens with uh kind of top up uh systems. Uh but uh for now what is working currently AI tokens works as uh messages. If they finish the AI tokens on the 20th for example, uh they have two uh choices or they stay 10 days without uh AI tokens. So for 10 days they cannot use the uh AI chat and the AI agents uh stop working or they can switch from bronze to silver for example. Uh question from Eric. Uh how do you proceed when you need to change prices uh within the plan? Uh given that technically speaking this is not uh possible. Uh yes. So you cannot uh change the price of an existing plan. Uh this is a a stripe uh restriction. So even inside uh a stripe uh um stripe portal. So if you create a a plan uh you cannot uh um edit the uh the plan price. Uh you can create new plans of course but you cannot edit the uh the plans price. So the the only opport only choice of course is to uh speaking about a stripe uh stripe plans since it's not possible to um to change the price. Uh you have to of course create new plans with the new prices. If you want to change the uh the pricing of the plan uh Natasha do AI tokens uh roll. Yeah. So every month on the first day of each month uh tokens are uh renewed. So if we have here 10,000 token for this uh plan and uh uh the business start using the tokens and then on the first day of the next month uh they will see uh here again 10,000 tokens as it happened for email, SMS and uh WhatsApp. Uh Roy isn't Tik Tok only for short videos or you can post images uh too both. So uh we are uh we have the Tik Tok integration both for uh video testimonials and also for review post. So the same uh review post you um uh you create uh here and you post them in Facebook, Instagram, Google. The same post can be published in Tik Tok as images uh post and uh if you have a video same thing it can be post in Tik Tok as Tik Tok video. So you can have the social agent enabled for Tik Tok share this beautiful review post in Tik Tok and also video uh video reviews. Lars, it's truly amazing how much functionality you've added in just two weeks. I'm really impressed. Thanks, Lars. Of course, this is thanks to our tag team, which is uh amazing. So, uh I remember uh in like two years ago, we didn't have this process that we have right now to uh to develop new feature. Now, we are very very well organized inside uh our team. uh we work with a weekly sprint. So every Monday we have a meeting and we plan the feature of the uh of the week. And of course the goal is always to release everything by uh by uh Thursday and then of course do the event with you every Thursday and announce all the new features developed during the week. And then we have the break in the weekend and on Monday we start again. The first thing we do every Monday is a meeting all together where we plan the features of the uh week. It's a kind of long meeting because we plan exactly what to do during the week and every week the goal is to release everything by uh Thursday by Thursday uh afternoon. Of course, if there is something uh uh to fix, we keep every Friday for uh for that. So, Fridays are dedicated to fixes and improvements and Monday to Thursday we uh we develop. So, every week we have very very clear ideas about uh what to do during the uh during the week. Um Kristoff please could you add a limit for SMS, WhatsApp and tokens in the trial in the trial version. Uh the charges can become quite expensive for a large number of user and user. Yes. Uh we have talked about this uh internally. Uh this is also planned and is uh something that we can do uh easily. Uh let me see three uh trial. Here we go. Limiting credits for free trials. Uh during the free trial, uh message sending, SMS, email and WhatsApp. And now also AI tokens is limited according to the custom plan. Uh we have talked about this internally. So basically uh we can do something where basically you just decide uh uh uh you let's say have a new section uh dedicated to free trial limits. So for free trial instead of this limits you you have other uh limits and um and maybe with a symbol a single uh click you can decide for example a percentage like for example 10%. So you want uh uh that during the free trials clients have the 10% of those uh limits. So we automatically calculate the uh percentage. For example, if the uh plan limit for SMS is um 500 messages, you can set that during the free trial is uh 50 messages or even five messages. So you set just a small amount of messages and AI token so clients can try every feature but you do not risk that they impact a lot on your uh balance during the free trial since you're not getting any money during the uh free trial free trial. Of course it's important that during the free trial your clients can test all the features. So they need to have some uh uh available uh messages and limits. But I understand that you want to put uh uh an important limit. So they can test everything but you do not get uh a big uh bill for nothing because they are on a free trial and of course a part of them can uh not become a paying customer. Um question from Mark. Thanks for the continuous development is much appreciated. Thanks Mark. Uh any update on when Google phones integration will be available? Um it's important to me as I'm somewhat reluctant to actively sell climb until the GDPR compliance issue is fully addressed. Yes. So it's uh you have been asking this question a lot of times. So I understand this. So I will personally make sure that this is done as soon as possible and uh so maybe tomorrow with my team since this is not a big thing uh we can uh we can do it. I'm going to write in my team chat about it. So uh of course it's super important that uh we are not 99.9% compliant with the GDPR but 100% uh compliant. Natasha please can you develop the affiliate enhancement to include those of us who cannot support Stripe? Uh yes, of course, we will start with uh affiliate uh integrated with the um uh coupons. Uh and as you know, I'm sorry for this Natasha, but coupons works just with Stripe. But then we want of course to uh to work on an alternative to implement the affiliate system also without uh without Stripe. uh we have of course to think deeply about this uh because it's just something uh uh it's just a matter of thinking how to uh to build it. Um, with Stripe, it's been uh quite easy to think how to do it. Uh, because of, of course, we know exactly the price of a plan. And, uh, of course, for a sales guy, it's very important to have a coupon code to, uh, to use. And so we can assign um a payment with a specific coupon code to the sales team member that have that coupon code assigned. So with stripe is easy to assign sales to uh uh team members because we have this uh uh let's say tracking system. We have to understand how to build a tracking system also without stripe. So also if you want to think about it and also DM me on on school with your uh ideas, I can uh I can look at it. So down the road during the next uh weeks or months, we can think about how to to build it. A question from uh Samir, can client pay for any credit if uh they run out of the allocated plan credit? Um so as replied before uh the only choice for your clients if they use all the uh messages or tokens and they have maybe another week in their uh plan uh the only opportunity for them if they want to keep using credit is switch plans. Switch plan to a a more expensive plan. So their credits are uh renewed and they have new credits that they can uh consume. Um we can work in the future as I said on a uh topup system both for uh messages and also uh tokens. Uh but we have to understand how to do it because of course we cannot build directly your clients as you know because your clients cannot have an invoice from us. There always have to be you in the middle if there there is a payment and so we have to understand how to uh to do this. Uh we could create a system uh with the stripe uh commissions for example. So, for example, the client uh pays uh you directly, for example, $100,000 for buying some uh tokens uh let's say, and then uh let's say 70 goes to us in order to pay for those tokens to open AAI and 30 goes to you as a pure uh uh profit. Uh but of course the client has an invoice of $100 from you. So we can use the same technology that we use for uh plan uh price which is uh stripe connect but we have to deeply think about how to how to do it. Uh Jeremy which specific AI models are utilized for what? So we mainly use uh open AI for uh AI replies for topics generator for blog articles for social captions and we use different models of open AI of open AI. If you want to know exactly which models uh DM me on school so I can ask to my tech team which specific model we uh we use. Uh Samir any progress in regards to switching from a free plan to a paid stripe plan too. Uh yes we want to do it also this as soon as possible. So finally probably next week we will start with the agency team features and together with the team features also uh switching from free to uh to paid uh is something that uh we can work on. So I would say in the short term so uh during June maximum uh July but I hope during June. Uh question from Lars. When will the agency functionalities be be added? I urgently need a right and roll system for employees. I don't want my employee to be able to see all areas in agency mode. Uh yes this will be done as soon as possible. So as you know we've um published uh last week not last week a few weeks ago uh the um uh the the feature I mean the possibility to have your agency mode under your domain. So you simply access from uh your connected domain slash uh admin and you have your agency mode. But I know that this is not fully white labelled because for example in settings API of course there is the link to our API documentation where your team members can see that client is behind. Same thing for uh Zapier if they open the Zapier section. There is the uh climbbo uh brand of course. Uh so of course you can have right now your agency mode under your domain but this is not fully white label. Of course, when we added the team features, of course, your team members uh will not be able to access to for example the API and the Z APR section of let's say to all the general section. Uh so you make sure that uh they do not know that client is uh is behind this and so it's fully fully white label also for you as an agency. Uh Alvin for multiple location can share the token or it's by location setup. Uh it's always by location. So as you can see when you create a plan here you have location limits and so uh we have decided this model because it can works uh uh you treat each location uh independently and so all these limits are uh per location. All right guys uh I think we are coming to an end of the event. So as I said before um the AI building system is going to be released uh probably tomorrow and we are going to allocate a default number of AI tokens to all your uh clients uh so all your clients they have some tokens so they can keep using AI features if you have enabled AI features uh for them. Um but of course I suggest early next week to uh decide your monthly AI tokens uh for uh each plan and also and also announce it to your uh clients and also update your uh website. Um we are building some um let's say tools for climbers that we're going of course to give away to all of you. Um and hopefully next week I'm going to share them in the community. And um as you know we have the prospecting tool that it's inside your agency mode and we are building other tools. One of these is very very uh cool um which basically allows you with a single click just by uh integrating your uh API key in the tool uh to generate a very very uh long prompt uh that you can copy and paste for example in AI website builders like Lovable and have your uh website generated uh with a very very uh high converting copy and images, a website that keeps your logo, your brand colors, uh your uh also AI agents, uh name and the brand. And uh I'm testing it right now and it's it's amazing. You generate a website that make you like uh a real AI uh startup in minutes. So um you just copy the API key, you paste it there and you have this uh prompt. Uh how are we able to do this? Thanks to these two new um um endpoints that we have. One is get a team as you can see here. So with the the get uh team endpoint as you can see in the response, let me zoom it a little bit. In the response, we know exactly for example the URL of your logo, the uh your brand name, your primary color, your font, the name of your AI, the logo of each of your uh AI agents. So we know all your brand settings and also we have a new uh um endpoint. No, it's an existing endpoint but we've improved it which is uh least available plans. So uh thanks to this endpoint I know uh your plans also your plans features and also uh your payment links. So, the website is fully ready also with your pricing page and the buttons to start a free trial or uh buy the plan if you haven't set up a a free trial or sign up if you have a free plans. Then, of course, you can use the AI chat to let's say refine your website. But I'm testing this and at the first shot uh I had a super cool website very very clean and professional that uh make you like a real uh AI startup. Uh I'm going to show you a a sample next week Alvin and um it works very very well. I'm very excited to you because I'm very excited for this because the website is super important for uh businesses like uh your business and uh of course it's your first impression. So you need to have a clean polished uh website and we are studying this prompt. So you just copy it, you paste it in Lovable for example and uh like in three four minutes you have a a a very professional website and um and then other uh tools that we will show you uh down the road but we are building some of these. Uh another thing that I wanted to show you um is related to the knowledge base. Um so we have now the knowledge base in uh multiple languages. It's not released yet but we will release it tomorrow. Uh here there will be a drop-own menu where users can switch the language. We also changed a little bit the design of the knowledge base. So we have the articles on the left uh the um the current article on the center and then we have the article section on the right and also something very very cool. Let me see if this is uh already released. So if here I type your brand you can see that you have your brand name uh here. So if you go to our unbranded URL knowledgebased.help and then you add slash and then your brand your brand name is going to be uh here so it feels like uh more uh connected to uh to your platform. Uh so we will we want to also in the future embed this inside the uh platform but for now you just add your brand name after the URL. So it feels like it's really connected to your platform. Um question from GJ. Let me read the last questions. Um if a client has five location and he crosses the limit only on one location and well within the limits for the rest for how will we deal with this? Uh will he have to upgrade the plan? um currently yes. So um of course if your clients are using so if you're using the um uh price per location uh model all the location are under the same plan. So all the location are uh tied to this um uh limit here. So uh if one of the location get to the limit in order to keep using the tokens or the messages uh they have to switch the plans for all the locations. Um in the future if this is something uh highly requested we can build a system where you choose for each plants if limits are per location or shared across all the uh location. So it's up to you to ch to choose the uh system for uh for each plan. But right now yes even if they have multiple location but just one location need more tokens they have to switch the plan for uh for all the locations. Um Samir this that is the biggest tease of the year. Yes, I'm excited for this. Um, Roy, can we create a feature to make PDF books to give away to prospects? Uh, yeah. So, if you can write a post in the community about this also with a maybe a use case. Um, so you tell us which type of ebooks you would like to uh to give away to uh to prospects. Uh because now with the prospecting tool um you can set up a widget in your website and your prospect uh leave their email or phone number and they receive the report in their uh email. Um if you want other things to be uh sent to the um to the prospect, we can uh together see uh the specific use case and see this is a highly requested thing. Frankly, my knowledge based brand work nice addition. Perfect. All right, guys. Thanks for coming as always. Uh luckily the event is recorded. and uh wait for my announcement uh probably tomorrow. And uh have an amazing weekend to everyone and we see each other next week. Bye-bye."
+}

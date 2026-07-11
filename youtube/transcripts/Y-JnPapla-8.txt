@@ -1,0 +1,5763 @@
+{
+  "videoId": "Y-JnPapla-8",
+  "language": "en",
+  "kind": "asr",
+  "segments": [
+    {
+      "start_ms": 160,
+      "duration_ms": 5840,
+      "text": "recording has just started. All right."
+    },
+    {
+      "start_ms": 3520,
+      "duration_ms": 4720,
+      "text": "So, thanks everyone for joining this"
+    },
+    {
+      "start_ms": 6000,
+      "duration_ms": 4800,
+      "text": "second live event"
+    },
+    {
+      "start_ms": 8240,
+      "duration_ms": 5519,
+      "text": "and uh let's go straight to the point uh"
+    },
+    {
+      "start_ms": 10800,
+      "duration_ms": 5440,
+      "text": "because I'm very very happy to um talk a"
+    },
+    {
+      "start_ms": 13759,
+      "duration_ms": 6001,
+      "text": "little bit with uh Wayne that some of"
+    },
+    {
+      "start_ms": 16240,
+      "duration_ms": 5440,
+      "text": "you most of you already uh know about"
+    },
+    {
+      "start_ms": 19760,
+      "duration_ms": 5279,
+      "text": "something new that we're doing in the"
+    },
+    {
+      "start_ms": 21680,
+      "duration_ms": 7679,
+      "text": "community from the um uh next month. So"
+    },
+    {
+      "start_ms": 25039,
+      "duration_ms": 6320,
+      "text": "from uh from February and uh so"
+    },
+    {
+      "start_ms": 29359,
+      "duration_ms": 4801,
+      "text": "basically we're going to work together"
+    },
+    {
+      "start_ms": 31359,
+      "duration_ms": 5841,
+      "text": "with Wayne that in a few seconds is"
+    },
+    {
+      "start_ms": 34160,
+      "duration_ms": 6000,
+      "text": "going to quickly uh present himself for"
+    },
+    {
+      "start_ms": 37200,
+      "duration_ms": 5920,
+      "text": "the people who uh uh do not know him and"
+    },
+    {
+      "start_ms": 40160,
+      "duration_ms": 6559,
+      "text": "talk a little bit about uh what uh he'll"
+    },
+    {
+      "start_ms": 43120,
+      "duration_ms": 7279,
+      "text": "do with us. Uh so we're going to do uh"
+    },
+    {
+      "start_ms": 46719,
+      "duration_ms": 6641,
+      "text": "monthly uh sales uh online meetups."
+    },
+    {
+      "start_ms": 50399,
+      "duration_ms": 5921,
+      "text": "Let's call them like this. uh where"
+    },
+    {
+      "start_ms": 53360,
+      "duration_ms": 5600,
+      "text": "Wayne is going to show to everyone in"
+    },
+    {
+      "start_ms": 56320,
+      "duration_ms": 6800,
+      "text": "the community the uh best sales"
+    },
+    {
+      "start_ms": 58960,
+      "duration_ms": 9040,
+      "text": "strategies that he's using since um a"
+    },
+    {
+      "start_ms": 63120,
+      "duration_ms": 8160,
+      "text": "lot of years to um to sell Climbbo uh to"
+    },
+    {
+      "start_ms": 68000,
+      "duration_ms": 6240,
+      "text": "all his local business clients. And um"
+    },
+    {
+      "start_ms": 71280,
+      "duration_ms": 7040,
+      "text": "before leaving the word to uh to you"
+    },
+    {
+      "start_ms": 74240,
+      "duration_ms": 6480,
+      "text": "Wayne, I want to um um reply to"
+    },
+    {
+      "start_ms": 78320,
+      "duration_ms": 5520,
+      "text": "Christian that in the chat is saying no"
+    },
+    {
+      "start_ms": 80720,
+      "duration_ms": 5840,
+      "text": "sound. Uh probably you do not hear the"
+    },
+    {
+      "start_ms": 83840,
+      "duration_ms": 5760,
+      "text": "sound if you join the event from a"
+    },
+    {
+      "start_ms": 86560,
+      "duration_ms": 7360,
+      "text": "external link without being logged into"
+    },
+    {
+      "start_ms": 89600,
+      "duration_ms": 7280,
+      "text": "school. So as the last time um you have"
+    },
+    {
+      "start_ms": 93920,
+      "duration_ms": 5680,
+      "text": "to firstly go into school, log in into"
+    },
+    {
+      "start_ms": 96880,
+      "duration_ms": 5120,
+      "text": "your school account, go into the climb"
+    },
+    {
+      "start_ms": 99600,
+      "duration_ms": 5839,
+      "text": "accelerator community, click on"
+    },
+    {
+      "start_ms": 102000,
+      "duration_ms": 7520,
+      "text": "calendar, select the event"
+    },
+    {
+      "start_ms": 105439,
+      "duration_ms": 6000,
+      "text": "and then um click on the link of the uh"
+    },
+    {
+      "start_ms": 109520,
+      "duration_ms": 4400,
+      "text": "event. So in this way you make sure"
+    },
+    {
+      "start_ms": 111439,
+      "duration_ms": 4481,
+      "text": "you're logged into school. So you hear"
+    },
+    {
+      "start_ms": 113920,
+      "duration_ms": 3440,
+      "text": "the uh sound basically you're not"
+    },
+    {
+      "start_ms": 115920,
+      "duration_ms": 4320,
+      "text": "hearing the sound because you're logged"
+    },
+    {
+      "start_ms": 117360,
+      "duration_ms": 5520,
+      "text": "out from uh from school. All right. So,"
+    },
+    {
+      "start_ms": 120240,
+      "duration_ms": 5040,
+      "text": "uh, let's start. So, welcome, Wayne. I"
+    },
+    {
+      "start_ms": 122880,
+      "duration_ms": 4640,
+      "text": "know it's a little bit late in, uh, in"
+    },
+    {
+      "start_ms": 125280,
+      "duration_ms": 4800,
+      "text": "Australia. What, what time is it there?"
+    },
+    {
+      "start_ms": 127520,
+      "duration_ms": 5439,
+      "text": ">> Uh, just gone 1:00 a.m."
+    },
+    {
+      "start_ms": 130080,
+      "duration_ms": 4640,
+      "text": ">> All right. So, we go, uh, uh, we go"
+    },
+    {
+      "start_ms": 132959,
+      "duration_ms": 5041,
+      "text": "straight to the point with Wayne. So, if"
+    },
+    {
+      "start_ms": 134720,
+      "duration_ms": 5680,
+      "text": "you can please um, uh, present you a"
+    },
+    {
+      "start_ms": 138000,
+      "duration_ms": 4000,
+      "text": "little bit to all the people that uh, I"
+    },
+    {
+      "start_ms": 140400,
+      "duration_ms": 4320,
+      "text": "I I guess that most of the people"
+    },
+    {
+      "start_ms": 142000,
+      "duration_ms": 4800,
+      "text": "already know Wayne because was Wayne was"
+    },
+    {
+      "start_ms": 144720,
+      "duration_ms": 4159,
+      "text": "very very present in our uh, previous"
+    },
+    {
+      "start_ms": 146800,
+      "duration_ms": 3920,
+      "text": "community. But for all the people that"
+    },
+    {
+      "start_ms": 148879,
+      "duration_ms": 4720,
+      "text": "maybe were not present in the previous"
+    },
+    {
+      "start_ms": 150720,
+      "duration_ms": 4960,
+      "text": "community, if you can uh present a"
+    },
+    {
+      "start_ms": 153599,
+      "duration_ms": 4481,
+      "text": "little bit about you and your back"
+    },
+    {
+      "start_ms": 155680,
+      "duration_ms": 4160,
+      "text": "background and tell to everyone uh what"
+    },
+    {
+      "start_ms": 158080,
+      "duration_ms": 3040,
+      "text": "you'll do in the climb accelerator"
+    },
+    {
+      "start_ms": 159840,
+      "duration_ms": 2960,
+      "text": "community."
+    },
+    {
+      "start_ms": 161120,
+      "duration_ms": 3759,
+      "text": ">> No, look, happy to do that. Thanks for"
+    },
+    {
+      "start_ms": 162800,
+      "duration_ms": 4799,
+      "text": "having me on, Jackamo. It's uh great to"
+    },
+    {
+      "start_ms": 164879,
+      "duration_ms": 6080,
+      "text": "be working with you guys again. Um, as"
+    },
+    {
+      "start_ms": 167599,
+      "duration_ms": 8401,
+      "text": "most of you know, we used in in Climbo"
+    },
+    {
+      "start_ms": 170959,
+      "duration_ms": 7681,
+      "text": "one uh original school in 2024, we ran a"
+    },
+    {
+      "start_ms": 176000,
+      "duration_ms": 6239,
+      "text": "a series of Zoom meetings every month"
+    },
+    {
+      "start_ms": 178640,
+      "duration_ms": 5519,
+      "text": "and it was all sales related and then um"
+    },
+    {
+      "start_ms": 182239,
+      "duration_ms": 4801,
+      "text": "Climbbo were focusing on the new"
+    },
+    {
+      "start_ms": 184159,
+      "duration_ms": 5201,
+      "text": "software 2.0. So, we put that aside for"
+    },
+    {
+      "start_ms": 187040,
+      "duration_ms": 5600,
+      "text": "a year so the boys could focus 100% on"
+    },
+    {
+      "start_ms": 189360,
+      "duration_ms": 4879,
+      "text": "that. Um, and Jakam and I uh caught up"
+    },
+    {
+      "start_ms": 192640,
+      "duration_ms": 5280,
+      "text": "the other day and had a good chat about"
+    },
+    {
+      "start_ms": 194239,
+      "duration_ms": 7601,
+      "text": "what we can do uh together again to uh"
+    },
+    {
+      "start_ms": 197920,
+      "duration_ms": 5679,
+      "text": "bring 2.0 really to the forefront. Um,"
+    },
+    {
+      "start_ms": 201840,
+      "duration_ms": 3600,
+      "text": "and as some of you know, I've I've"
+    },
+    {
+      "start_ms": 203599,
+      "duration_ms": 5521,
+      "text": "already migrated a lot of my clients"
+    },
+    {
+      "start_ms": 205440,
+      "duration_ms": 6480,
+      "text": "across to the 2.0 platform. I'm far I'm"
+    },
+    {
+      "start_ms": 209120,
+      "duration_ms": 5520,
+      "text": "a huge fan and uh and I've said publicly"
+    },
+    {
+      "start_ms": 211920,
+      "duration_ms": 6239,
+      "text": "before, initially I wasn't, but now I'm"
+    },
+    {
+      "start_ms": 214640,
+      "duration_ms": 6159,
+      "text": "I'm a raving fan of 2.0. My background"
+    },
+    {
+      "start_ms": 218159,
+      "duration_ms": 5201,
+      "text": "is in direct sales. I've done businessto"
+    },
+    {
+      "start_ms": 220799,
+      "duration_ms": 4321,
+      "text": "business and doortodoor selling since"
+    },
+    {
+      "start_ms": 223360,
+      "duration_ms": 3680,
+      "text": "1992."
+    },
+    {
+      "start_ms": 225120,
+      "duration_ms": 3520,
+      "text": "So, it's been a fair while. I've lost"
+    },
+    {
+      "start_ms": 227040,
+      "duration_ms": 4559,
+      "text": "count of how many doors I've knocked on"
+    },
+    {
+      "start_ms": 228640,
+      "duration_ms": 4560,
+      "text": "and presentations I've done. At one"
+    },
+    {
+      "start_ms": 231599,
+      "duration_ms": 5601,
+      "text": "point in my career when I was selling"
+    },
+    {
+      "start_ms": 233200,
+      "duration_ms": 7119,
+      "text": "inhome domestic sales, I I'd had 10,000"
+    },
+    {
+      "start_ms": 237200,
+      "duration_ms": 5520,
+      "text": "inhome presentations under my belt. So,"
+    },
+    {
+      "start_ms": 240319,
+      "duration_ms": 4161,
+      "text": "there's a fair few."
+    },
+    {
+      "start_ms": 242720,
+      "duration_ms": 3920,
+      "text": "In businessto business sales, I've been"
+    },
+    {
+      "start_ms": 244480,
+      "duration_ms": 4000,
+      "text": "doing that since uh probably around"
+    },
+    {
+      "start_ms": 246640,
+      "duration_ms": 4799,
+      "text": "about 98."
+    },
+    {
+      "start_ms": 248480,
+      "duration_ms": 4959,
+      "text": "So, it's it's been a long time. Uh, and"
+    },
+    {
+      "start_ms": 251439,
+      "duration_ms": 3841,
+      "text": "the market really hasn't changed. The"
+    },
+    {
+      "start_ms": 253439,
+      "duration_ms": 5281,
+      "text": "way we do things, the way we communicate"
+    },
+    {
+      "start_ms": 255280,
+      "duration_ms": 5679,
+      "text": "to businesses, especially locally, they"
+    },
+    {
+      "start_ms": 258720,
+      "duration_ms": 4400,
+      "text": "they'd love to deal locally. People"
+    },
+    {
+      "start_ms": 260959,
+      "duration_ms": 6561,
+      "text": "think when they join an online community"
+    },
+    {
+      "start_ms": 263120,
+      "duration_ms": 6240,
+      "text": "like like um Climbbo, uh they want to"
+    },
+    {
+      "start_ms": 267520,
+      "duration_ms": 5280,
+      "text": "have clients globally. They want to"
+    },
+    {
+      "start_ms": 269360,
+      "duration_ms": 6240,
+      "text": "scale globally. Your biggest success is"
+    },
+    {
+      "start_ms": 272800,
+      "duration_ms": 5360,
+      "text": "always in your backyard."
+    },
+    {
+      "start_ms": 275600,
+      "duration_ms": 4720,
+      "text": "You know, I'm I'm now known in my area"
+    },
+    {
+      "start_ms": 278160,
+      "duration_ms": 5200,
+      "text": "as the review guy."
+    },
+    {
+      "start_ms": 280320,
+      "duration_ms": 4640,
+      "text": ">> Now, my area has grown. Admittedly, it's"
+    },
+    {
+      "start_ms": 283360,
+      "duration_ms": 3360,
+      "text": "not only here on the Sunshine Coast, but"
+    },
+    {
+      "start_ms": 284960,
+      "duration_ms": 3840,
+      "text": "we've got the Gold Coast. I've got"
+    },
+    {
+      "start_ms": 286720,
+      "duration_ms": 4240,
+      "text": "clients in America. I've got clients in"
+    },
+    {
+      "start_ms": 288800,
+      "duration_ms": 5119,
+      "text": "in New Zealand, and they've all come"
+    },
+    {
+      "start_ms": 290960,
+      "duration_ms": 4959,
+      "text": "from referrals from other businesses."
+    },
+    {
+      "start_ms": 293919,
+      "duration_ms": 5840,
+      "text": "So, we're going to really harness and"
+    },
+    {
+      "start_ms": 295919,
+      "duration_ms": 6401,
+      "text": "focus on local sales, the the techniques"
+    },
+    {
+      "start_ms": 299759,
+      "duration_ms": 5440,
+      "text": "I've I've used and continue to change"
+    },
+    {
+      "start_ms": 302320,
+      "duration_ms": 4319,
+      "text": "and develop. Um, and I see some people"
+    },
+    {
+      "start_ms": 305199,
+      "duration_ms": 3921,
+      "text": "in the community come up with some great"
+    },
+    {
+      "start_ms": 306639,
+      "duration_ms": 4161,
+      "text": "ideas and I'll I generally will grab"
+    },
+    {
+      "start_ms": 309120,
+      "duration_ms": 4400,
+      "text": "them and test them myself and go, \"Yeah,"
+    },
+    {
+      "start_ms": 310800,
+      "duration_ms": 5679,
+      "text": "that was fantastic. Let's let's see what"
+    },
+    {
+      "start_ms": 313520,
+      "duration_ms": 4399,
+      "text": "we can do to make that even better.\""
+    },
+    {
+      "start_ms": 316479,
+      "duration_ms": 4081,
+      "text": "But yeah, so we're going to be running a"
+    },
+    {
+      "start_ms": 317919,
+      "duration_ms": 4801,
+      "text": "Zoom once a month um back to what we"
+    },
+    {
+      "start_ms": 320560,
+      "duration_ms": 3680,
+      "text": "used to do and that's it'll be an open"
+    },
+    {
+      "start_ms": 322720,
+      "duration_ms": 3520,
+      "text": "forum Zoom. There'll always be a"
+    },
+    {
+      "start_ms": 324240,
+      "duration_ms": 4959,
+      "text": "structure there, a topic and then from"
+    },
+    {
+      "start_ms": 326240,
+      "duration_ms": 5519,
+      "text": "that topic in that call will evolve and"
+    },
+    {
+      "start_ms": 329199,
+      "duration_ms": 4641,
+      "text": "move on. So, we're excited to to uh move"
+    },
+    {
+      "start_ms": 331759,
+      "duration_ms": 4321,
+      "text": "forward and and grow the community and"
+    },
+    {
+      "start_ms": 333840,
+      "duration_ms": 5840,
+      "text": "grow the sales and and help as many"
+    },
+    {
+      "start_ms": 336080,
+      "duration_ms": 6240,
+      "text": "local business owners as we can."
+    },
+    {
+      "start_ms": 339680,
+      "duration_ms": 5440,
+      "text": ">> That's amazing. So, that's amazing and"
+    },
+    {
+      "start_ms": 342320,
+      "duration_ms": 5360,
+      "text": "thank you, Wayne, for being present uh"
+    },
+    {
+      "start_ms": 345120,
+      "duration_ms": 5359,
+      "text": "in the climate community. Uh I really"
+    },
+    {
+      "start_ms": 347680,
+      "duration_ms": 6880,
+      "text": "love what you said about uh being local"
+    },
+    {
+      "start_ms": 350479,
+      "duration_ms": 7921,
+      "text": "because I think that's the biggest uh"
+    },
+    {
+      "start_ms": 354560,
+      "duration_ms": 7680,
+      "text": "lesson here. the biggest first lesson uh"
+    },
+    {
+      "start_ms": 358400,
+      "duration_ms": 7280,
+      "text": "that we can take from this first uh"
+    },
+    {
+      "start_ms": 362240,
+      "duration_ms": 6560,
+      "text": "let's say minutes of introduction uh"
+    },
+    {
+      "start_ms": 365680,
+      "duration_ms": 5200,
+      "text": "because um as you said a lot of people"
+    },
+    {
+      "start_ms": 368800,
+      "duration_ms": 5760,
+      "text": "come to client thinking that they can"
+    },
+    {
+      "start_ms": 370880,
+      "duration_ms": 5599,
+      "text": "start to sell the platform to you know"
+    },
+    {
+      "start_ms": 374560,
+      "duration_ms": 4240,
+      "text": "the other countries in the world"
+    },
+    {
+      "start_ms": 376479,
+      "duration_ms": 6000,
+      "text": "businesses in other region other"
+    },
+    {
+      "start_ms": 378800,
+      "duration_ms": 6720,
+      "text": "countries uh but what really a small"
+    },
+    {
+      "start_ms": 382479,
+      "duration_ms": 5840,
+      "text": "local business owner wants is a local uh"
+    },
+    {
+      "start_ms": 385520,
+      "duration_ms": 5119,
+      "text": "partner that they can talk physically,"
+    },
+    {
+      "start_ms": 388319,
+      "duration_ms": 6401,
+      "text": "they can meet physically that they can"
+    },
+    {
+      "start_ms": 390639,
+      "duration_ms": 6641,
+      "text": "uh trust. So of course we are software"
+    },
+    {
+      "start_ms": 394720,
+      "duration_ms": 6160,
+      "text": "users, we are software buyers. So for us"
+    },
+    {
+      "start_ms": 397280,
+      "duration_ms": 6560,
+      "text": "is not not a problem to buy a tool made"
+    },
+    {
+      "start_ms": 400880,
+      "duration_ms": 5280,
+      "text": "in another continent because we are tech"
+    },
+    {
+      "start_ms": 403840,
+      "duration_ms": 5760,
+      "text": "people. uh but small local business"
+    },
+    {
+      "start_ms": 406160,
+      "duration_ms": 6000,
+      "text": "owners that usually are not tech-savvy"
+    },
+    {
+      "start_ms": 409600,
+      "duration_ms": 6480,
+      "text": "uh people, they want something like a"
+    },
+    {
+      "start_ms": 412160,
+      "duration_ms": 8080,
+      "text": "real local uh partnership. And Wayne is"
+    },
+    {
+      "start_ms": 416080,
+      "duration_ms": 7360,
+      "text": "an expert on this on building local uh"
+    },
+    {
+      "start_ms": 420240,
+      "duration_ms": 5679,
+      "text": "partnership and uh on acquiring"
+    },
+    {
+      "start_ms": 423440,
+      "duration_ms": 5039,
+      "text": "customers for this uh uh review"
+    },
+    {
+      "start_ms": 425919,
+      "duration_ms": 4801,
+      "text": "management uh business. So this is what"
+    },
+    {
+      "start_ms": 428479,
+      "duration_ms": 5601,
+      "text": "we're going to do uh from the next month"
+    },
+    {
+      "start_ms": 430720,
+      "duration_ms": 6400,
+      "text": "with uh Wayne. I know a lot of you guys"
+    },
+    {
+      "start_ms": 434080,
+      "duration_ms": 6160,
+      "text": "uh need this because a lot of you uh"
+    },
+    {
+      "start_ms": 437120,
+      "duration_ms": 6400,
+      "text": "asked for uh for this. So we're going to"
+    },
+    {
+      "start_ms": 440240,
+      "duration_ms": 6160,
+      "text": "do uh monthly meetings with the Wayne."
+    },
+    {
+      "start_ms": 443520,
+      "duration_ms": 5200,
+      "text": "Everything of course is going to be um"
+    },
+    {
+      "start_ms": 446400,
+      "duration_ms": 5519,
+      "text": "uh recorded and published into the"
+    },
+    {
+      "start_ms": 448720,
+      "duration_ms": 5120,
+      "text": "classroom of the uh community and in"
+    },
+    {
+      "start_ms": 451919,
+      "duration_ms": 4560,
+      "text": "every event of course there will be a"
+    },
+    {
+      "start_ms": 453840,
+      "duration_ms": 5280,
+      "text": "Q&A session with uh Wayne where you can"
+    },
+    {
+      "start_ms": 456479,
+      "duration_ms": 6641,
+      "text": "ask uh everything. And for those who"
+    },
+    {
+      "start_ms": 459120,
+      "duration_ms": 5760,
+      "text": "want to go deep and have a real also uh"
+    },
+    {
+      "start_ms": 463120,
+      "duration_ms": 4880,
+      "text": "onetoone with Wayne, there will be also"
+    },
+    {
+      "start_ms": 464880,
+      "duration_ms": 6960,
+      "text": "the possibility to uh uh to do that to"
+    },
+    {
+      "start_ms": 468000,
+      "duration_ms": 8080,
+      "text": "get onetoone support with uh with Wayne."
+    },
+    {
+      "start_ms": 471840,
+      "duration_ms": 7600,
+      "text": "So thanks Wayne for uh coming uh in this"
+    },
+    {
+      "start_ms": 476080,
+      "duration_ms": 4959,
+      "text": "uh in the beginning of this uh event and"
+    },
+    {
+      "start_ms": 479440,
+      "duration_ms": 3280,
+      "text": "so yep."
+    },
+    {
+      "start_ms": 481039,
+      "duration_ms": 4081,
+      "text": ">> No, my pleasure. I'll just address one"
+    },
+    {
+      "start_ms": 482720,
+      "duration_ms": 4080,
+      "text": "quick question here. This is not uh this"
+    },
+    {
+      "start_ms": 485120,
+      "duration_ms": 4000,
+      "text": "is absolutely separate to our climbbo"
+    },
+    {
+      "start_ms": 486800,
+      "duration_ms": 5360,
+      "text": "pros group which is a private uh"
+    },
+    {
+      "start_ms": 489120,
+      "duration_ms": 5199,
+      "text": "mentoring group we've got. So this is a"
+    },
+    {
+      "start_ms": 492160,
+      "duration_ms": 4400,
+      "text": "free session I'll be running every month"
+    },
+    {
+      "start_ms": 494319,
+      "duration_ms": 3440,
+      "text": "uh in the climbbo community. It's not a"
+    },
+    {
+      "start_ms": 496560,
+      "duration_ms": 4079,
+      "text": "paid session."
+    },
+    {
+      "start_ms": 497759,
+      "duration_ms": 5280,
+      "text": ">> Of course it will be free for everyone"
+    },
+    {
+      "start_ms": 500639,
+      "duration_ms": 5601,
+      "text": "inside the uh the community. So all of"
+    },
+    {
+      "start_ms": 503039,
+      "duration_ms": 5201,
+      "text": "you guys will be able to uh to join. So"
+    },
+    {
+      "start_ms": 506240,
+      "duration_ms": 3600,
+      "text": "thanks a lot Wayne. And so we see each"
+    },
+    {
+      "start_ms": 508240,
+      "duration_ms": 2880,
+      "text": "other in the next event."
+    },
+    {
+      "start_ms": 509840,
+      "duration_ms": 3759,
+      "text": ">> Yeah. No, look forward to it. Look"
+    },
+    {
+      "start_ms": 511120,
+      "duration_ms": 4719,
+      "text": "forward to it. Guys, thanks for allowing"
+    },
+    {
+      "start_ms": 513599,
+      "duration_ms": 3920,
+      "text": "me the opportunity to share again. We're"
+    },
+    {
+      "start_ms": 515839,
+      "duration_ms": 3041,
+      "text": "we're really excited for the future of"
+    },
+    {
+      "start_ms": 517519,
+      "duration_ms": 4400,
+      "text": "Climb."
+    },
+    {
+      "start_ms": 518880,
+      "duration_ms": 4399,
+      "text": ">> Perfect. So, we're really do what you"
+    },
+    {
+      "start_ms": 521919,
+      "duration_ms": 5201,
+      "text": "need to do."
+    },
+    {
+      "start_ms": 523279,
+      "duration_ms": 6881,
+      "text": ">> Let's go. All right. Thanks, Wayne."
+    },
+    {
+      "start_ms": 527120,
+      "duration_ms": 7040,
+      "text": ">> All right, guys. So, let's go with the"
+    },
+    {
+      "start_ms": 530160,
+      "duration_ms": 5840,
+      "text": "um um plan agenda for today. I see that"
+    },
+    {
+      "start_ms": 534160,
+      "duration_ms": 6000,
+      "text": "a lot of you still have problems with"
+    },
+    {
+      "start_ms": 536000,
+      "duration_ms": 7920,
+      "text": "the audio. Um, and uh, let me clarify"
+    },
+    {
+      "start_ms": 540160,
+      "duration_ms": 6000,
+      "text": "this again. In order to hear my voice,"
+    },
+    {
+      "start_ms": 543920,
+      "duration_ms": 4160,
+      "text": "you have to be logged into school. You"
+    },
+    {
+      "start_ms": 546160,
+      "duration_ms": 6000,
+      "text": "don't hear me because you're logged out."
+    },
+    {
+      "start_ms": 548080,
+      "duration_ms": 7600,
+      "text": "So, you click the school link from uh an"
+    },
+    {
+      "start_ms": 552160,
+      "duration_ms": 5040,
+      "text": "external app and uh, you are not logged"
+    },
+    {
+      "start_ms": 555680,
+      "duration_ms": 4480,
+      "text": "into your school account. So, you have"
+    },
+    {
+      "start_ms": 557200,
+      "duration_ms": 5360,
+      "text": "to go to school.com, log in, go inside"
+    },
+    {
+      "start_ms": 560160,
+      "duration_ms": 5760,
+      "text": "the client community, go to calendar and"
+    },
+    {
+      "start_ms": 562560,
+      "duration_ms": 5760,
+      "text": "click the uh the event link. And in this"
+    },
+    {
+      "start_ms": 565920,
+      "duration_ms": 6720,
+      "text": "way you'll be able to uh to hear the"
+    },
+    {
+      "start_ms": 568320,
+      "duration_ms": 8240,
+      "text": "sound. All right. Um so let's go with"
+    },
+    {
+      "start_ms": 572640,
+      "duration_ms": 6240,
+      "text": "the uh agendas for uh today. So as as"
+    },
+    {
+      "start_ms": 576560,
+      "duration_ms": 5680,
+      "text": "you know every week uh firstly we talk"
+    },
+    {
+      "start_ms": 578880,
+      "duration_ms": 5840,
+      "text": "about the new features and then we do a"
+    },
+    {
+      "start_ms": 582240,
+      "duration_ms": 4880,
+      "text": "uh Q&A session uh related to the new"
+    },
+    {
+      "start_ms": 584720,
+      "duration_ms": 6320,
+      "text": "features published and also if you want"
+    },
+    {
+      "start_ms": 587120,
+      "duration_ms": 8000,
+      "text": "to ask things about uh our uh our road"
+    },
+    {
+      "start_ms": 591040,
+      "duration_ms": 6400,
+      "text": "map. So let me share my screen. Uh, so"
+    },
+    {
+      "start_ms": 595120,
+      "duration_ms": 4240,
+      "text": "I'll be able to show you what we've"
+    },
+    {
+      "start_ms": 597440,
+      "duration_ms": 5079,
+      "text": "built."
+    },
+    {
+      "start_ms": 599360,
+      "duration_ms": 3159,
+      "text": "All right."
+    },
+    {
+      "start_ms": 608399,
+      "duration_ms": 4321,
+      "text": "Perfect. Perfect. You'll be able you"
+    },
+    {
+      "start_ms": 610640,
+      "duration_ms": 4160,
+      "text": "should be able to see my screen now. Uh,"
+    },
+    {
+      "start_ms": 612720,
+      "duration_ms": 5320,
+      "text": "just let me know in the chat if you see"
+    },
+    {
+      "start_ms": 614800,
+      "duration_ms": 3240,
+      "text": "the screen."
+    },
+    {
+      "start_ms": 618480,
+      "duration_ms": 3000,
+      "text": "Perfect."
+    },
+    {
+      "start_ms": 622000,
+      "duration_ms": 6000,
+      "text": "All right. All right. So let's go with"
+    },
+    {
+      "start_ms": 624720,
+      "duration_ms": 8239,
+      "text": "today's uh agenda. I'm very happy that"
+    },
+    {
+      "start_ms": 628000,
+      "duration_ms": 7920,
+      "text": "now you hear also my voice. So as I uh"
+    },
+    {
+      "start_ms": 632959,
+      "duration_ms": 6721,
+      "text": "previously announced in the uh community"
+    },
+    {
+      "start_ms": 635920,
+      "duration_ms": 9120,
+      "text": "this week we work mainly on uh three"
+    },
+    {
+      "start_ms": 639680,
+      "duration_ms": 8000,
+      "text": "things. So we uh of course um um work in"
+    },
+    {
+      "start_ms": 645040,
+      "duration_ms": 6720,
+      "text": "the uh mobile app uh development. So"
+    },
+    {
+      "start_ms": 647680,
+      "duration_ms": 6399,
+      "text": "everything is ready for um starting uh"
+    },
+    {
+      "start_ms": 651760,
+      "duration_ms": 4960,
+      "text": "the next month with the first batch of"
+    },
+    {
+      "start_ms": 654079,
+      "duration_ms": 6721,
+      "text": "apps and I'm very very happy that the"
+    },
+    {
+      "start_ms": 656720,
+      "duration_ms": 7600,
+      "text": "first uh 15 uh people uh decided to uh"
+    },
+    {
+      "start_ms": 660800,
+      "duration_ms": 6560,
+      "text": "join the uh first batch. So now all the"
+    },
+    {
+      "start_ms": 664320,
+      "duration_ms": 5600,
+      "text": "other uh climbers who wants to uh join"
+    },
+    {
+      "start_ms": 667360,
+      "duration_ms": 6080,
+      "text": "the mobile app service will go into the"
+    },
+    {
+      "start_ms": 669920,
+      "duration_ms": 6640,
+      "text": "uh next batch which will be the uh March"
+    },
+    {
+      "start_ms": 673440,
+      "duration_ms": 5360,
+      "text": "uh batch. And uh of course two be big"
+    },
+    {
+      "start_ms": 676560,
+      "duration_ms": 7200,
+      "text": "things that we developed this week are"
+    },
+    {
+      "start_ms": 678800,
+      "duration_ms": 7840,
+      "text": "coupon codes and uh uh tiered pricing um"
+    },
+    {
+      "start_ms": 683760,
+      "duration_ms": 5199,
+      "text": "I prefer to call it package pricing that"
+    },
+    {
+      "start_ms": 686640,
+      "duration_ms": 5120,
+      "text": "we're going to see in a minute. And"
+    },
+    {
+      "start_ms": 688959,
+      "duration_ms": 6641,
+      "text": "these features are already live inside"
+    },
+    {
+      "start_ms": 691760,
+      "duration_ms": 5600,
+      "text": "your um your account. So we published we"
+    },
+    {
+      "start_ms": 695600,
+      "duration_ms": 4560,
+      "text": "released these features like a few"
+    },
+    {
+      "start_ms": 697360,
+      "duration_ms": 7200,
+      "text": "minutes ago. So let's start with uh"
+    },
+    {
+      "start_ms": 700160,
+      "duration_ms": 7840,
+      "text": "coupons. So of course coupons just work"
+    },
+    {
+      "start_ms": 704560,
+      "duration_ms": 6160,
+      "text": "for paid plans. So uh of course as you"
+    },
+    {
+      "start_ms": 708000,
+      "duration_ms": 6480,
+      "text": "know when you create your uh custom"
+    },
+    {
+      "start_ms": 710720,
+      "duration_ms": 7280,
+      "text": "pricing plans you can create uh both uh"
+    },
+    {
+      "start_ms": 714480,
+      "duration_ms": 6240,
+      "text": "free plans and the paid plan. Of course"
+    },
+    {
+      "start_ms": 718000,
+      "duration_ms": 5600,
+      "text": "coupons works just for paid plan. And of"
+    },
+    {
+      "start_ms": 720720,
+      "duration_ms": 5440,
+      "text": "course you have to uh integrate stripe"
+    },
+    {
+      "start_ms": 723600,
+      "duration_ms": 5359,
+      "text": "in order to be able to create uh paid"
+    },
+    {
+      "start_ms": 726160,
+      "duration_ms": 4400,
+      "text": "plans. And let's see how coupon uh"
+    },
+    {
+      "start_ms": 728959,
+      "duration_ms": 5361,
+      "text": "works. So basically you just go to"
+    },
+    {
+      "start_ms": 730560,
+      "duration_ms": 5680,
+      "text": "settings coupons and uh in order to"
+    },
+    {
+      "start_ms": 734320,
+      "duration_ms": 5199,
+      "text": "create a coupon of course you just click"
+    },
+    {
+      "start_ms": 736240,
+      "duration_ms": 8719,
+      "text": "on the plus button. Um you add the"
+    },
+    {
+      "start_ms": 739519,
+      "duration_ms": 7361,
+      "text": "coupon name like for example 20 off."
+    },
+    {
+      "start_ms": 744959,
+      "duration_ms": 4481,
+      "text": "Uh you select the duration of the"
+    },
+    {
+      "start_ms": 746880,
+      "duration_ms": 6320,
+      "text": "coupon. You can choose between once and"
+    },
+    {
+      "start_ms": 749440,
+      "duration_ms": 6399,
+      "text": "forever. Uh once mean that uh for"
+    },
+    {
+      "start_ms": 753200,
+      "duration_ms": 4480,
+      "text": "example for a monthly subscription uh"
+    },
+    {
+      "start_ms": 755839,
+      "duration_ms": 4641,
+      "text": "the coupon will be used just for the"
+    },
+    {
+      "start_ms": 757680,
+      "duration_ms": 6880,
+      "text": "first month and then all the next"
+    },
+    {
+      "start_ms": 760480,
+      "duration_ms": 7120,
+      "text": "payments uh will be um charged without"
+    },
+    {
+      "start_ms": 764560,
+      "duration_ms": 5120,
+      "text": "the coupon. Of course forever the coupon"
+    },
+    {
+      "start_ms": 767600,
+      "duration_ms": 5120,
+      "text": "will be used uh forever. So, for"
+    },
+    {
+      "start_ms": 769680,
+      "duration_ms": 7760,
+      "text": "example, if there is a $100 per month"
+    },
+    {
+      "start_ms": 772720,
+      "duration_ms": 7760,
+      "text": "subscription and we have a 20 off coupon"
+    },
+    {
+      "start_ms": 777440,
+      "duration_ms": 6800,
+      "text": "uh forever, every month the customer"
+    },
+    {
+      "start_ms": 780480,
+      "duration_ms": 7599,
+      "text": "pays 80 uh $80. So, let's create for"
+    },
+    {
+      "start_ms": 784240,
+      "duration_ms": 6240,
+      "text": "example a 20 uh% off coupon. So, we"
+    },
+    {
+      "start_ms": 788079,
+      "duration_ms": 4481,
+      "text": "select uh for example forever because we"
+    },
+    {
+      "start_ms": 790480,
+      "duration_ms": 4799,
+      "text": "want the coupon to works for every"
+    },
+    {
+      "start_ms": 792560,
+      "duration_ms": 5120,
+      "text": "payment of the customer. Uh we select"
+    },
+    {
+      "start_ms": 795279,
+      "duration_ms": 6161,
+      "text": "the type of the coupon. we have a"
+    },
+    {
+      "start_ms": 797680,
+      "duration_ms": 6800,
+      "text": "percentage like 20% off or fixed uh"
+    },
+    {
+      "start_ms": 801440,
+      "duration_ms": 5920,
+      "text": "amount. If we select percentage, we just"
+    },
+    {
+      "start_ms": 804480,
+      "duration_ms": 6159,
+      "text": "have to insert the uh the scanned value"
+    },
+    {
+      "start_ms": 807360,
+      "duration_ms": 5680,
+      "text": "like uh 20. Of course, if we select a"
+    },
+    {
+      "start_ms": 810639,
+      "duration_ms": 5200,
+      "text": "fixed amount, firstly we select the"
+    },
+    {
+      "start_ms": 813040,
+      "duration_ms": 5840,
+      "text": "currency and then the value. Of course,"
+    },
+    {
+      "start_ms": 815839,
+      "duration_ms": 7440,
+      "text": "if you have plans in dollars here, you"
+    },
+    {
+      "start_ms": 818880,
+      "duration_ms": 7120,
+      "text": "create uh coupons with uh the uh dollars"
+    },
+    {
+      "start_ms": 823279,
+      "duration_ms": 6161,
+      "text": "uh amount. So just make sure that you"
+    },
+    {
+      "start_ms": 826000,
+      "duration_ms": 6240,
+      "text": "you use the same currencies on plans and"
+    },
+    {
+      "start_ms": 829440,
+      "duration_ms": 6079,
+      "text": "uh coupons and uh and that's it. So"
+    },
+    {
+      "start_ms": 832240,
+      "duration_ms": 7039,
+      "text": "super super easy. Let's do for example a"
+    },
+    {
+      "start_ms": 835519,
+      "duration_ms": 7281,
+      "text": "uh 20% coupon forever. Uh we just click"
+    },
+    {
+      "start_ms": 839279,
+      "duration_ms": 8240,
+      "text": "save and the coupon is created. And here"
+    },
+    {
+      "start_ms": 842800,
+      "duration_ms": 7760,
+      "text": "you have the um list of your uh coupons"
+    },
+    {
+      "start_ms": 847519,
+      "duration_ms": 4961,
+      "text": "and you can see all the datas like the"
+    },
+    {
+      "start_ms": 850560,
+      "duration_ms": 4320,
+      "text": "duration, the discount and also the"
+    },
+    {
+      "start_ms": 852480,
+      "duration_ms": 5440,
+      "text": "usage. So, if a coupon is used by"
+    },
+    {
+      "start_ms": 854880,
+      "duration_ms": 5360,
+      "text": "customers, you can see it uh here. And"
+    },
+    {
+      "start_ms": 857920,
+      "duration_ms": 5200,
+      "text": "and of course, you can delete the coupon"
+    },
+    {
+      "start_ms": 860240,
+      "duration_ms": 7039,
+      "text": "if you don't need to use them um"
+    },
+    {
+      "start_ms": 863120,
+      "duration_ms": 7760,
+      "text": "anymore. And of course, uh in the uh"
+    },
+    {
+      "start_ms": 867279,
+      "duration_ms": 7521,
+      "text": "plans section right now, when you create"
+    },
+    {
+      "start_ms": 870880,
+      "duration_ms": 5680,
+      "text": "a um a plan, let's get into a plan"
+    },
+    {
+      "start_ms": 874800,
+      "duration_ms": 4080,
+      "text": "already created, for example, the uh"
+    },
+    {
+      "start_ms": 876560,
+      "duration_ms": 6240,
+      "text": "bronze bronze plan. You see you have"
+    },
+    {
+      "start_ms": 878880,
+      "duration_ms": 7519,
+      "text": "here a new option uh which is called uh"
+    },
+    {
+      "start_ms": 882800,
+      "duration_ms": 5599,
+      "text": "allow coupons. All right. So in the uh"
+    },
+    {
+      "start_ms": 886399,
+      "duration_ms": 5521,
+      "text": "payment link there will be the"
+    },
+    {
+      "start_ms": 888399,
+      "duration_ms": 6721,
+      "text": "possibility for uh your customers to add"
+    },
+    {
+      "start_ms": 891920,
+      "duration_ms": 4800,
+      "text": "a coupon code. For example, let's open"
+    },
+    {
+      "start_ms": 895120,
+      "duration_ms": 6480,
+      "text": "this"
+    },
+    {
+      "start_ms": 896720,
+      "duration_ms": 7840,
+      "text": "um payment link for the uh $49 per month"
+    },
+    {
+      "start_ms": 901600,
+      "duration_ms": 6479,
+      "text": "bronze plan uh where we allowed coupon."
+    },
+    {
+      "start_ms": 904560,
+      "duration_ms": 6399,
+      "text": "You see there is the um the button add"
+    },
+    {
+      "start_ms": 908079,
+      "duration_ms": 5041,
+      "text": "uh promotion code. All right. And so if"
+    },
+    {
+      "start_ms": 910959,
+      "duration_ms": 5201,
+      "text": "I click here, of course, as you know,"
+    },
+    {
+      "start_ms": 913120,
+      "duration_ms": 6480,
+      "text": "this is the uh Stripe checkout. We can"
+    },
+    {
+      "start_ms": 916160,
+      "duration_ms": 8880,
+      "text": "add the uh coupon that we've just uh"
+    },
+    {
+      "start_ms": 919600,
+      "duration_ms": 10080,
+      "text": "created 20 off. And you see that the um"
+    },
+    {
+      "start_ms": 925040,
+      "duration_ms": 8080,
+      "text": "the monthly amount goes uh down. So uh"
+    },
+    {
+      "start_ms": 929680,
+      "duration_ms": 6880,
+      "text": "in the uh client sections right now when"
+    },
+    {
+      "start_ms": 933120,
+      "duration_ms": 7920,
+      "text": "your clients use uh a coupon you will"
+    },
+    {
+      "start_ms": 936560,
+      "duration_ms": 7120,
+      "text": "see a uh coupon icon here it means that"
+    },
+    {
+      "start_ms": 941040,
+      "duration_ms": 5840,
+      "text": "the client is using a coupon and just"
+    },
+    {
+      "start_ms": 943680,
+      "duration_ms": 6320,
+      "text": "moving the mouse uh over this you can"
+    },
+    {
+      "start_ms": 946880,
+      "duration_ms": 6240,
+      "text": "see the details of the uh coupon usage"
+    },
+    {
+      "start_ms": 950000,
+      "duration_ms": 7279,
+      "text": "use it for example this client used the"
+    },
+    {
+      "start_ms": 953120,
+      "duration_ms": 6320,
+      "text": "uh 10 10 off v1 coupon which is 10% off"
+    },
+    {
+      "start_ms": 957279,
+      "duration_ms": 5601,
+      "text": "uh forever ever. So that's the first big"
+    },
+    {
+      "start_ms": 959440,
+      "duration_ms": 6720,
+      "text": "thing for this uh week. So of course"
+    },
+    {
+      "start_ms": 962880,
+      "duration_ms": 5199,
+      "text": "this is a uh v1 so version one of"
+    },
+    {
+      "start_ms": 966160,
+      "duration_ms": 4799,
+      "text": "coupons. There are a lot of other things"
+    },
+    {
+      "start_ms": 968079,
+      "duration_ms": 6721,
+      "text": "that we can do with coupons. Uh for"
+    },
+    {
+      "start_ms": 970959,
+      "duration_ms": 7281,
+      "text": "example we can uh set up an uh an"
+    },
+    {
+      "start_ms": 974800,
+      "duration_ms": 5920,
+      "text": "expiration date for coupons or a"
+    },
+    {
+      "start_ms": 978240,
+      "duration_ms": 4480,
+      "text": "redemption limit. Uh, for example, the"
+    },
+    {
+      "start_ms": 980720,
+      "duration_ms": 6320,
+      "text": "coupon that we created for the mobile"
+    },
+    {
+      "start_ms": 982720,
+      "duration_ms": 8799,
+      "text": "app, as you know, had a redial limit of"
+    },
+    {
+      "start_ms": 987040,
+      "duration_ms": 7359,
+      "text": "uh 15 um usages and so you'll be able to"
+    },
+    {
+      "start_ms": 991519,
+      "duration_ms": 6721,
+      "text": "set this advanced limits in in the"
+    },
+    {
+      "start_ms": 994399,
+      "duration_ms": 6321,
+      "text": "future in a let's say V2 of the coupons."
+    },
+    {
+      "start_ms": 998240,
+      "duration_ms": 5200,
+      "text": "Uh so for example, we can set that for"
+    },
+    {
+      "start_ms": 1000720,
+      "duration_ms": 7280,
+      "text": "example, this coupon has a redemption"
+    },
+    {
+      "start_ms": 1003440,
+      "duration_ms": 7120,
+      "text": "limit of let's say uh five usages. So if"
+    },
+    {
+      "start_ms": 1008000,
+      "duration_ms": 5680,
+      "text": "it reach five the coupon doesn't work"
+    },
+    {
+      "start_ms": 1010560,
+      "duration_ms": 6800,
+      "text": "anymore. So in this way you can create"
+    },
+    {
+      "start_ms": 1013680,
+      "duration_ms": 6159,
+      "text": "some kind of um uh scarcity for your"
+    },
+    {
+      "start_ms": 1017360,
+      "duration_ms": 6000,
+      "text": "customers saying hey there is this"
+    },
+    {
+      "start_ms": 1019839,
+      "duration_ms": 7441,
+      "text": "coupon but it's expiring uh like in a"
+    },
+    {
+      "start_ms": 1023360,
+      "duration_ms": 6319,
+      "text": "week or uh just five people can use it."
+    },
+    {
+      "start_ms": 1027280,
+      "duration_ms": 4320,
+      "text": "Uh so this is the first big thing. Then"
+    },
+    {
+      "start_ms": 1029679,
+      "duration_ms": 4880,
+      "text": "the the second big field that we"
+    },
+    {
+      "start_ms": 1031600,
+      "duration_ms": 6479,
+      "text": "released this week that was highly"
+    },
+    {
+      "start_ms": 1034559,
+      "duration_ms": 6161,
+      "text": "highly requested and will allow you to"
+    },
+    {
+      "start_ms": 1038079,
+      "duration_ms": 6801,
+      "text": "create a new pricing model for your"
+    },
+    {
+      "start_ms": 1040720,
+      "duration_ms": 7280,
+      "text": "plans is a package pricing. All right."
+    },
+    {
+      "start_ms": 1044880,
+      "duration_ms": 6240,
+      "text": "So let me show you how it works. So we"
+    },
+    {
+      "start_ms": 1048000,
+      "duration_ms": 6480,
+      "text": "create of course a paid plan."
+    },
+    {
+      "start_ms": 1051120,
+      "duration_ms": 5840,
+      "text": "And when we scroll down to uh the price"
+    },
+    {
+      "start_ms": 1054480,
+      "duration_ms": 5439,
+      "text": "section, you can see here that we can"
+    },
+    {
+      "start_ms": 1056960,
+      "duration_ms": 5680,
+      "text": "choose the um the pricing model. So we"
+    },
+    {
+      "start_ms": 1059919,
+      "duration_ms": 6640,
+      "text": "have price per location which is the uh"
+    },
+    {
+      "start_ms": 1062640,
+      "duration_ms": 7760,
+      "text": "the model that uh you are already using"
+    },
+    {
+      "start_ms": 1066559,
+      "duration_ms": 6881,
+      "text": "uh where you choose a price and then uh"
+    },
+    {
+      "start_ms": 1070400,
+      "duration_ms": 5279,
+      "text": "your clients can add multiple location"
+    },
+    {
+      "start_ms": 1073440,
+      "duration_ms": 5640,
+      "text": "and for each location they pay the the"
+    },
+    {
+      "start_ms": 1075679,
+      "duration_ms": 3401,
+      "text": "same price"
+    },
+    {
+      "start_ms": 1079600,
+      "duration_ms": 5920,
+      "text": "and uh another thing that you can do"
+    },
+    {
+      "start_ms": 1082960,
+      "duration_ms": 5760,
+      "text": "right now is a package price. All right"
+    },
+    {
+      "start_ms": 1085520,
+      "duration_ms": 6000,
+      "text": "so let me show you how it works. So"
+    },
+    {
+      "start_ms": 1088720,
+      "duration_ms": 7040,
+      "text": "super super simple. So this new pricing"
+    },
+    {
+      "start_ms": 1091520,
+      "duration_ms": 7279,
+      "text": "model allow you to create um a different"
+    },
+    {
+      "start_ms": 1095760,
+      "duration_ms": 5279,
+      "text": "model for your pricing plan. So uh"
+    },
+    {
+      "start_ms": 1098799,
+      "duration_ms": 5921,
+      "text": "instead of charging per location, you"
+    },
+    {
+      "start_ms": 1101039,
+      "duration_ms": 6640,
+      "text": "set the um maximum number of location"
+    },
+    {
+      "start_ms": 1104720,
+      "duration_ms": 5360,
+      "text": "that the client can add"
+    },
+    {
+      "start_ms": 1107679,
+      "duration_ms": 4721,
+      "text": "uh while it's subscribed to this uh"
+    },
+    {
+      "start_ms": 1110080,
+      "duration_ms": 5040,
+      "text": "plan. And if they need more location,"
+    },
+    {
+      "start_ms": 1112400,
+      "duration_ms": 6000,
+      "text": "they have of course to switch to uh a"
+    },
+    {
+      "start_ms": 1115120,
+      "duration_ms": 5120,
+      "text": "plan that allows more uh location. And"
+    },
+    {
+      "start_ms": 1118400,
+      "duration_ms": 6080,
+      "text": "uh so very very simple. So we can create"
+    },
+    {
+      "start_ms": 1120240,
+      "duration_ms": 7439,
+      "text": "a plan with for example free location"
+    },
+    {
+      "start_ms": 1124480,
+      "duration_ms": 6720,
+      "text": "as the uh limit. And then we can choose"
+    },
+    {
+      "start_ms": 1127679,
+      "duration_ms": 8481,
+      "text": "the monthly amount for example"
+    },
+    {
+      "start_ms": 1131200,
+      "duration_ms": 8719,
+      "text": "$50 and then the uh annual amount for"
+    },
+    {
+      "start_ms": 1136160,
+      "duration_ms": 8000,
+      "text": "example $500. So super super simple. So"
+    },
+    {
+      "start_ms": 1139919,
+      "duration_ms": 7041,
+      "text": "in this way we can create this type of"
+    },
+    {
+      "start_ms": 1144160,
+      "duration_ms": 5920,
+      "text": "uh pricing strategy. As you can see I"
+    },
+    {
+      "start_ms": 1146960,
+      "duration_ms": 7200,
+      "text": "have a bronze plan, silver plan, gold"
+    },
+    {
+      "start_ms": 1150080,
+      "duration_ms": 8080,
+      "text": "plan and uh enterprise. These are all"
+    },
+    {
+      "start_ms": 1154160,
+      "duration_ms": 5680,
+      "text": "plans with uh package uh pricing. And as"
+    },
+    {
+      "start_ms": 1158160,
+      "duration_ms": 3920,
+      "text": "you can see, we have the bronze plan"
+    },
+    {
+      "start_ms": 1159840,
+      "duration_ms": 6160,
+      "text": "that accept ma max maximum free"
+    },
+    {
+      "start_ms": 1162080,
+      "duration_ms": 8240,
+      "text": "locations and uh customers pay 49 per"
+    },
+    {
+      "start_ms": 1166000,
+      "duration_ms": 8400,
+      "text": "month or uh 499 per year. We have the"
+    },
+    {
+      "start_ms": 1170320,
+      "duration_ms": 8960,
+      "text": "silver plan that uh allow maximum five"
+    },
+    {
+      "start_ms": 1174400,
+      "duration_ms": 7840,
+      "text": "locations uh 99 and 999 per year and"
+    },
+    {
+      "start_ms": 1179280,
+      "duration_ms": 4639,
+      "text": "then we have the gold plan with 10 uh"
+    },
+    {
+      "start_ms": 1182240,
+      "duration_ms": 4080,
+      "text": "location. And then we have the"
+    },
+    {
+      "start_ms": 1183919,
+      "duration_ms": 5201,
+      "text": "enterprise plan maybe for very big"
+    },
+    {
+      "start_ms": 1186320,
+      "duration_ms": 5599,
+      "text": "customers which is disabled from the"
+    },
+    {
+      "start_ms": 1189120,
+      "duration_ms": 5600,
+      "text": "billing portal. So our customers"
+    },
+    {
+      "start_ms": 1191919,
+      "duration_ms": 4640,
+      "text": "subscribe to these plans so to bronze,"
+    },
+    {
+      "start_ms": 1194720,
+      "duration_ms": 4400,
+      "text": "silver and gold. They do not see the"
+    },
+    {
+      "start_ms": 1196559,
+      "duration_ms": 6161,
+      "text": "enterprise plan in the billing portal uh"
+    },
+    {
+      "start_ms": 1199120,
+      "duration_ms": 7280,
+      "text": "which allow up to 100 location and uh"
+    },
+    {
+      "start_ms": 1202720,
+      "duration_ms": 6720,
+      "text": "you charge uh 999"
+    },
+    {
+      "start_ms": 1206400,
+      "duration_ms": 6560,
+      "text": "per month. All right. So that's the big"
+    },
+    {
+      "start_ms": 1209440,
+      "duration_ms": 7280,
+      "text": "thing and let me show you how it works."
+    },
+    {
+      "start_ms": 1212960,
+      "duration_ms": 7360,
+      "text": "um client side. All right. Uh because I"
+    },
+    {
+      "start_ms": 1216720,
+      "duration_ms": 7040,
+      "text": "have here a client that as you can see"
+    },
+    {
+      "start_ms": 1220320,
+      "duration_ms": 6000,
+      "text": "is uh subscribed to the uh bronze plan."
+    },
+    {
+      "start_ms": 1223760,
+      "duration_ms": 6240,
+      "text": "All right. So the bronze plan is this"
+    },
+    {
+      "start_ms": 1226320,
+      "duration_ms": 7120,
+      "text": "plan here that allows maximum free uh uh"
+    },
+    {
+      "start_ms": 1230000,
+      "duration_ms": 8240,
+      "text": "locations. Um before showing you how it"
+    },
+    {
+      "start_ms": 1233440,
+      "duration_ms": 7520,
+      "text": "works um client side, let me clarify a"
+    },
+    {
+      "start_ms": 1238240,
+      "duration_ms": 5520,
+      "text": "very very important thing. So, of"
+    },
+    {
+      "start_ms": 1240960,
+      "duration_ms": 6160,
+      "text": "course, it's important that um you"
+    },
+    {
+      "start_ms": 1243760,
+      "duration_ms": 6560,
+      "text": "choose a single pricing strategy. We do"
+    },
+    {
+      "start_ms": 1247120,
+      "duration_ms": 8320,
+      "text": "not suggest to mix uh price per location"
+    },
+    {
+      "start_ms": 1250320,
+      "duration_ms": 8479,
+      "text": "plans and packaged um uh plans, right?"
+    },
+    {
+      "start_ms": 1255440,
+      "duration_ms": 7200,
+      "text": "We do not suggest to have uh different"
+    },
+    {
+      "start_ms": 1258799,
+      "duration_ms": 6561,
+      "text": "type of plans. So uh also because you do"
+    },
+    {
+      "start_ms": 1262640,
+      "duration_ms": 6640,
+      "text": "not want in your client's billing portal"
+    },
+    {
+      "start_ms": 1265360,
+      "duration_ms": 6240,
+      "text": "to show you both uh plans that allows"
+    },
+    {
+      "start_ms": 1269280,
+      "duration_ms": 4879,
+      "text": "price per location and plans with the"
+    },
+    {
+      "start_ms": 1271600,
+      "duration_ms": 5199,
+      "text": "package pricing of course which suggests"
+    },
+    {
+      "start_ms": 1274159,
+      "duration_ms": 6081,
+      "text": "to use a single pricing strategy. So you"
+    },
+    {
+      "start_ms": 1276799,
+      "duration_ms": 6801,
+      "text": "choose uh do you want to charge uh per"
+    },
+    {
+      "start_ms": 1280240,
+      "duration_ms": 6080,
+      "text": "location or do you want to charge uh"
+    },
+    {
+      "start_ms": 1283600,
+      "duration_ms": 6880,
+      "text": "with the package pricing model. So you"
+    },
+    {
+      "start_ms": 1286320,
+      "duration_ms": 5839,
+      "text": "choose one of the uh two uh strategies."
+    },
+    {
+      "start_ms": 1290480,
+      "duration_ms": 4880,
+      "text": "For example, as you can see in this"
+    },
+    {
+      "start_ms": 1292159,
+      "duration_ms": 6321,
+      "text": "account, we have choose the package uh"
+    },
+    {
+      "start_ms": 1295360,
+      "duration_ms": 5679,
+      "text": "pricing model. So we just have a plans"
+    },
+    {
+      "start_ms": 1298480,
+      "duration_ms": 7520,
+      "text": "uh with the uh packaged uh pricing"
+    },
+    {
+      "start_ms": 1301039,
+      "duration_ms": 7760,
+      "text": "models. All right. Uh so um let me log"
+    },
+    {
+      "start_ms": 1306000,
+      "duration_ms": 5440,
+      "text": "into this client account that is in the"
+    },
+    {
+      "start_ms": 1308799,
+      "duration_ms": 5601,
+      "text": "uh bronze plan. All right. So I click"
+    },
+    {
+      "start_ms": 1311440,
+      "duration_ms": 5920,
+      "text": "view client as you know I log into the"
+    },
+    {
+      "start_ms": 1314400,
+      "duration_ms": 2960,
+      "text": "client account."
+    },
+    {
+      "start_ms": 1318640,
+      "duration_ms": 5680,
+      "text": "This is a an empty client, but I just"
+    },
+    {
+      "start_ms": 1321600,
+      "duration_ms": 6480,
+      "text": "want to show you the um uh the billing"
+    },
+    {
+      "start_ms": 1324320,
+      "duration_ms": 5280,
+      "text": "section. So, um this client is"
+    },
+    {
+      "start_ms": 1328080,
+      "duration_ms": 5120,
+      "text": "subscribed to the bronze plan. All"
+    },
+    {
+      "start_ms": 1329600,
+      "duration_ms": 5840,
+      "text": "right. So, we have bronze, silver, and"
+    },
+    {
+      "start_ms": 1333200,
+      "duration_ms": 4719,
+      "text": "uh gold. As you see, as you can see, the"
+    },
+    {
+      "start_ms": 1335440,
+      "duration_ms": 4719,
+      "text": "enterprise plan is not visible because"
+    },
+    {
+      "start_ms": 1337919,
+      "duration_ms": 5841,
+      "text": "we disabled it from the uh billing"
+    },
+    {
+      "start_ms": 1340159,
+      "duration_ms": 6161,
+      "text": "portal. So the bronze plan allows up to"
+    },
+    {
+      "start_ms": 1343760,
+      "duration_ms": 6240,
+      "text": "uh three locations. All right. And as"
+    },
+    {
+      "start_ms": 1346320,
+      "duration_ms": 6000,
+      "text": "you can see here, we have added a single"
+    },
+    {
+      "start_ms": 1350000,
+      "duration_ms": 5720,
+      "text": "location. All right. So let me add the"
+    },
+    {
+      "start_ms": 1352320,
+      "duration_ms": 3400,
+      "text": "second location,"
+    },
+    {
+      "start_ms": 1356240,
+      "duration_ms": 6720,
+      "text": "location two. And as you can see, I can"
+    },
+    {
+      "start_ms": 1360480,
+      "duration_ms": 4880,
+      "text": "do this. So I can add the uh second"
+    },
+    {
+      "start_ms": 1362960,
+      "duration_ms": 6000,
+      "text": "location. And I should be able to add"
+    },
+    {
+      "start_ms": 1365360,
+      "duration_ms": 7600,
+      "text": "also the third location"
+    },
+    {
+      "start_ms": 1368960,
+      "duration_ms": 7120,
+      "text": "because the bronze plan allow up to uh"
+    },
+    {
+      "start_ms": 1372960,
+      "duration_ms": 5680,
+      "text": "free uh locations. All right. So now I"
+    },
+    {
+      "start_ms": 1376080,
+      "duration_ms": 5360,
+      "text": "have a free uh location and of course"
+    },
+    {
+      "start_ms": 1378640,
+      "duration_ms": 5279,
+      "text": "with the uh menu here I can switch from"
+    },
+    {
+      "start_ms": 1381440,
+      "duration_ms": 5119,
+      "text": "a location to another. If I click new"
+    },
+    {
+      "start_ms": 1383919,
+      "duration_ms": 4721,
+      "text": "location right now, you can see that uh"
+    },
+    {
+      "start_ms": 1386559,
+      "duration_ms": 4561,
+      "text": "I've reached the limit of location"
+    },
+    {
+      "start_ms": 1388640,
+      "duration_ms": 5840,
+      "text": "provided for this plan because my bronze"
+    },
+    {
+      "start_ms": 1391120,
+      "duration_ms": 5840,
+      "text": "plan allow maximum free uh location. So"
+    },
+    {
+      "start_ms": 1394480,
+      "duration_ms": 6160,
+      "text": "in order to add the fourth location, I"
+    },
+    {
+      "start_ms": 1396960,
+      "duration_ms": 6560,
+      "text": "have to switch uh plan. So I go to"
+    },
+    {
+      "start_ms": 1400640,
+      "duration_ms": 6960,
+      "text": "building and I see that the silver plan"
+    },
+    {
+      "start_ms": 1403520,
+      "duration_ms": 6800,
+      "text": "allows uh five uh location. So I want to"
+    },
+    {
+      "start_ms": 1407600,
+      "duration_ms": 5120,
+      "text": "add my uh fourth location. So the only"
+    },
+    {
+      "start_ms": 1410320,
+      "duration_ms": 5120,
+      "text": "thing that I can do is switch to the"
+    },
+    {
+      "start_ms": 1412720,
+      "duration_ms": 7439,
+      "text": "silver plan. So as a customer I click on"
+    },
+    {
+      "start_ms": 1415440,
+      "duration_ms": 8479,
+      "text": "switch and I'm redirected into your um"
+    },
+    {
+      "start_ms": 1420159,
+      "duration_ms": 7201,
+      "text": "into your Berlin portal directly into"
+    },
+    {
+      "start_ms": 1423919,
+      "duration_ms": 6561,
+      "text": "the uh pricing table where I can uh"
+    },
+    {
+      "start_ms": 1427360,
+      "duration_ms": 6000,
+      "text": "switch uh the plan. Here your clients"
+    },
+    {
+      "start_ms": 1430480,
+      "duration_ms": 7199,
+      "text": "can see your plans and uh both the"
+    },
+    {
+      "start_ms": 1433360,
+      "duration_ms": 6880,
+      "text": "monthly um um the monthly plans and also"
+    },
+    {
+      "start_ms": 1437679,
+      "duration_ms": 5921,
+      "text": "sorry the monthly price pricing and the"
+    },
+    {
+      "start_ms": 1440240,
+      "duration_ms": 7120,
+      "text": "yearly pricing and um I want to switch"
+    },
+    {
+      "start_ms": 1443600,
+      "duration_ms": 7120,
+      "text": "to the silver plan because I want to add"
+    },
+    {
+      "start_ms": 1447360,
+      "duration_ms": 6080,
+      "text": "the um the fourth location. So I select"
+    },
+    {
+      "start_ms": 1450720,
+      "duration_ms": 6000,
+      "text": "the silver plan."
+    },
+    {
+      "start_ms": 1453440,
+      "duration_ms": 6320,
+      "text": "I click on continue. I see uh how much"
+    },
+    {
+      "start_ms": 1456720,
+      "duration_ms": 8160,
+      "text": "I'm going to be charged. Uh, of course,"
+    },
+    {
+      "start_ms": 1459760,
+      "duration_ms": 9200,
+      "text": "uh I I had a 10% coupon applied. Uh that"
+    },
+    {
+      "start_ms": 1464880,
+      "duration_ms": 7520,
+      "text": "was a forever uh coupon. And so this"
+    },
+    {
+      "start_ms": 1468960,
+      "duration_ms": 5280,
+      "text": "coupon is also transition in the um in"
+    },
+    {
+      "start_ms": 1472400,
+      "duration_ms": 3600,
+      "text": "the silver plan because it's it's a"
+    },
+    {
+      "start_ms": 1474240,
+      "duration_ms": 8640,
+      "text": "forever coupon. So I'm not going to pay"
+    },
+    {
+      "start_ms": 1476000,
+      "duration_ms": 9200,
+      "text": "99 per month. Um but I pay 89 uh10 and I"
+    },
+    {
+      "start_ms": 1482880,
+      "duration_ms": 5320,
+      "text": "subscribe. So I switch to the silver"
+    },
+    {
+      "start_ms": 1485200,
+      "duration_ms": 3000,
+      "text": "plan."
+    },
+    {
+      "start_ms": 1489120,
+      "duration_ms": 7799,
+      "text": "All right. So I'm a silver uh customer"
+    },
+    {
+      "start_ms": 1492080,
+      "duration_ms": 4839,
+      "text": "right now. I return to the platform."
+    },
+    {
+      "start_ms": 1497679,
+      "duration_ms": 6480,
+      "text": "As you can see now the silver plan is"
+    },
+    {
+      "start_ms": 1500000,
+      "duration_ms": 8159,
+      "text": "active. So I'm now able to add as you"
+    },
+    {
+      "start_ms": 1504159,
+      "duration_ms": 8841,
+      "text": "can see the location 4"
+    },
+    {
+      "start_ms": 1508159,
+      "duration_ms": 4841,
+      "text": "location location for sorry location"
+    },
+    {
+      "start_ms": 1513520,
+      "duration_ms": 6159,
+      "text": "and so this is all automated for you. So"
+    },
+    {
+      "start_ms": 1516880,
+      "duration_ms": 5679,
+      "text": "uh in the in this way your clients can"
+    },
+    {
+      "start_ms": 1519679,
+      "duration_ms": 5521,
+      "text": "autonomously switch add more uh"
+    },
+    {
+      "start_ms": 1522559,
+      "duration_ms": 5681,
+      "text": "location. For example the silver allows"
+    },
+    {
+      "start_ms": 1525200,
+      "duration_ms": 5839,
+      "text": "five locations. So let me add also the"
+    },
+    {
+      "start_ms": 1528240,
+      "duration_ms": 6640,
+      "text": "uh location number five."
+    },
+    {
+      "start_ms": 1531039,
+      "duration_ms": 7681,
+      "text": "And let me just verify that that if I"
+    },
+    {
+      "start_ms": 1534880,
+      "duration_ms": 6560,
+      "text": "try to add a a new location now, I"
+    },
+    {
+      "start_ms": 1538720,
+      "duration_ms": 5040,
+      "text": "cannot do it because I have to go to the"
+    },
+    {
+      "start_ms": 1541440,
+      "duration_ms": 6880,
+      "text": "uh gold plan that allows uh 10"
+    },
+    {
+      "start_ms": 1543760,
+      "duration_ms": 8080,
+      "text": "locations. Uh so this is uh the uh two"
+    },
+    {
+      "start_ms": 1548320,
+      "duration_ms": 5680,
+      "text": "big things for this uh week. So coupon"
+    },
+    {
+      "start_ms": 1551840,
+      "duration_ms": 4480,
+      "text": "codes."
+    },
+    {
+      "start_ms": 1554000,
+      "duration_ms": 5360,
+      "text": "All right, very very simple settings,"
+    },
+    {
+      "start_ms": 1556320,
+      "duration_ms": 6479,
+      "text": "coupon codes. So you can uh create"
+    },
+    {
+      "start_ms": 1559360,
+      "duration_ms": 6880,
+      "text": "whatever you want. As I said, it's a V1,"
+    },
+    {
+      "start_ms": 1562799,
+      "duration_ms": 8401,
+      "text": "so we will add more uh coupon settings"
+    },
+    {
+      "start_ms": 1566240,
+      "duration_ms": 9120,
+      "text": "in the future. And we have now packaged"
+    },
+    {
+      "start_ms": 1571200,
+      "duration_ms": 6320,
+      "text": "pricing uh plans. As I said, I suggest"
+    },
+    {
+      "start_ms": 1575360,
+      "duration_ms": 4799,
+      "text": "to use a single strategy. So if you want"
+    },
+    {
+      "start_ms": 1577520,
+      "duration_ms": 7279,
+      "text": "to use this type of pricing model, just"
+    },
+    {
+      "start_ms": 1580159,
+      "duration_ms": 7520,
+      "text": "create uh plans with this uh pricing uh"
+    },
+    {
+      "start_ms": 1584799,
+      "duration_ms": 7360,
+      "text": "pricing model. And uh so this allow you"
+    },
+    {
+      "start_ms": 1587679,
+      "duration_ms": 7681,
+      "text": "to to if you want recreate your plans,"
+    },
+    {
+      "start_ms": 1592159,
+      "duration_ms": 5120,
+      "text": "change your pricing strategy. So uh you"
+    },
+    {
+      "start_ms": 1595360,
+      "duration_ms": 5520,
+      "text": "can choose which is the pricing model"
+    },
+    {
+      "start_ms": 1597279,
+      "duration_ms": 5841,
+      "text": "that better adapt to your uh agency"
+    },
+    {
+      "start_ms": 1600880,
+      "duration_ms": 5279,
+      "text": "business. So that's it for the demo of"
+    },
+    {
+      "start_ms": 1603120,
+      "duration_ms": 6240,
+      "text": "this uh week. Uh I see a question from"
+    },
+    {
+      "start_ms": 1606159,
+      "duration_ms": 5041,
+      "text": "uh frankly what was the gift? Uh so the"
+    },
+    {
+      "start_ms": 1609360,
+      "duration_ms": 5840,
+      "text": "gift that was presented at the beginning"
+    },
+    {
+      "start_ms": 1611200,
+      "duration_ms": 6880,
+      "text": "of the event is that from the uh next"
+    },
+    {
+      "start_ms": 1615200,
+      "duration_ms": 7680,
+      "text": "month every month we're going to do a"
+    },
+    {
+      "start_ms": 1618080,
+      "duration_ms": 8719,
+      "text": "live event with uh Wayne uh which is a"
+    },
+    {
+      "start_ms": 1622880,
+      "duration_ms": 7039,
+      "text": "uh top climber hundreds of customers in"
+    },
+    {
+      "start_ms": 1626799,
+      "duration_ms": 6641,
+      "text": "uh in Australia and he's going to teach"
+    },
+    {
+      "start_ms": 1629919,
+      "duration_ms": 7201,
+      "text": "to the community the best uh sales"
+    },
+    {
+      "start_ms": 1633440,
+      "duration_ms": 6400,
+      "text": "strategy in order to get real concrete"
+    },
+    {
+      "start_ms": 1637120,
+      "duration_ms": 6159,
+      "text": "results with the client as he's doing"
+    },
+    {
+      "start_ms": 1639840,
+      "duration_ms": 5920,
+      "text": "since uh since a lot of years and uh so"
+    },
+    {
+      "start_ms": 1643279,
+      "duration_ms": 5041,
+      "text": "he's going to come live to the community"
+    },
+    {
+      "start_ms": 1645760,
+      "duration_ms": 4560,
+      "text": "every month. Of course, it's a free"
+    },
+    {
+      "start_ms": 1648320,
+      "duration_ms": 5520,
+      "text": "event for all the people in the"
+    },
+    {
+      "start_ms": 1650320,
+      "duration_ms": 6479,
+      "text": "community. He's going to provide so much"
+    },
+    {
+      "start_ms": 1653840,
+      "duration_ms": 6560,
+      "text": "value uh related to sales because he has"
+    },
+    {
+      "start_ms": 1656799,
+      "duration_ms": 5360,
+      "text": "so much experience on uh on this. And of"
+    },
+    {
+      "start_ms": 1660400,
+      "duration_ms": 4240,
+      "text": "course, all the Wayne's lessons are"
+    },
+    {
+      "start_ms": 1662159,
+      "duration_ms": 4400,
+      "text": "going to be recorded, saved, and"
+    },
+    {
+      "start_ms": 1664640,
+      "duration_ms": 4159,
+      "text": "published into a classroom of the"
+    },
+    {
+      "start_ms": 1666559,
+      "duration_ms": 4881,
+      "text": "community. And for those of you who want"
+    },
+    {
+      "start_ms": 1668799,
+      "duration_ms": 6480,
+      "text": "to go deep with Wayne, there will be"
+    },
+    {
+      "start_ms": 1671440,
+      "duration_ms": 6800,
+      "text": "also the option to do a um a paid"
+    },
+    {
+      "start_ms": 1675279,
+      "duration_ms": 7120,
+      "text": "onetoone with him that I know a lot of"
+    },
+    {
+      "start_ms": 1678240,
+      "duration_ms": 7919,
+      "text": "you are already uh doing. Uh so Wayne"
+    },
+    {
+      "start_ms": 1682399,
+      "duration_ms": 6561,
+      "text": "will be uh able to reply to all your uh"
+    },
+    {
+      "start_ms": 1686159,
+      "duration_ms": 5760,
+      "text": "questions uh privately. And so that that"
+    },
+    {
+      "start_ms": 1688960,
+      "duration_ms": 5520,
+      "text": "was the uh the big gift uh that we"
+    },
+    {
+      "start_ms": 1691919,
+      "duration_ms": 5561,
+      "text": "announced. So let's go with Q&A. All"
+    },
+    {
+      "start_ms": 1694480,
+      "duration_ms": 3000,
+      "text": "right."
+    },
+    {
+      "start_ms": 1699279,
+      "duration_ms": 9120,
+      "text": "Uh let's start with um Quincy. Sorry."
+    },
+    {
+      "start_ms": 1704480,
+      "duration_ms": 8640,
+      "text": "Let me move my microphone. Um I see that"
+    },
+    {
+      "start_ms": 1708399,
+      "duration_ms": 7921,
+      "text": "you can't add package pricing uh to"
+    },
+    {
+      "start_ms": 1713120,
+      "duration_ms": 5679,
+      "text": "panels that already exist in Stripe."
+    },
+    {
+      "start_ms": 1716320,
+      "duration_ms": 6000,
+      "text": "Exactly. Okay. So um if you are familiar"
+    },
+    {
+      "start_ms": 1718799,
+      "duration_ms": 6401,
+      "text": "with stripe uh you know that also inside"
+    },
+    {
+      "start_ms": 1722320,
+      "duration_ms": 5440,
+      "text": "the stripe when you create a product you"
+    },
+    {
+      "start_ms": 1725200,
+      "duration_ms": 4880,
+      "text": "cannot edit the price of the product."
+    },
+    {
+      "start_ms": 1727760,
+      "duration_ms": 4880,
+      "text": "This is not possible even into uh"
+    },
+    {
+      "start_ms": 1730080,
+      "duration_ms": 6560,
+      "text": "stripe. So if you have already created a"
+    },
+    {
+      "start_ms": 1732640,
+      "duration_ms": 6399,
+      "text": "plan um you cannot edit the plan uh"
+    },
+    {
+      "start_ms": 1736640,
+      "duration_ms": 4320,
+      "text": "price and also of course the uh price"
+    },
+    {
+      "start_ms": 1739039,
+      "duration_ms": 5281,
+      "text": "and model. So this is not possible even"
+    },
+    {
+      "start_ms": 1740960,
+      "duration_ms": 5520,
+      "text": "into stripe and so of course even uh"
+    },
+    {
+      "start_ms": 1744320,
+      "duration_ms": 3920,
+      "text": "also without with the stripe APIs this"
+    },
+    {
+      "start_ms": 1746480,
+      "duration_ms": 4799,
+      "text": "is not possible. So in order to create"
+    },
+    {
+      "start_ms": 1748240,
+      "duration_ms": 7120,
+      "text": "this this type of uh plans you have to"
+    },
+    {
+      "start_ms": 1751279,
+      "duration_ms": 6721,
+      "text": "rebuild so to recreate new plans."
+    },
+    {
+      "start_ms": 1755360,
+      "duration_ms": 5280,
+      "text": "Uh question from Orion is the mobile app"
+    },
+    {
+      "start_ms": 1758000,
+      "duration_ms": 5039,
+      "text": "really uh 5K yes it's a done for you"
+    },
+    {
+      "start_ms": 1760640,
+      "duration_ms": 5919,
+      "text": "service. uh we explain everything in the"
+    },
+    {
+      "start_ms": 1763039,
+      "duration_ms": 5601,
+      "text": "previous event and so you can watch the"
+    },
+    {
+      "start_ms": 1766559,
+      "duration_ms": 5041,
+      "text": "uh uh recording of the previous event"
+    },
+    {
+      "start_ms": 1768640,
+      "duration_ms": 6080,
+      "text": "where we uh talk about everything that"
+    },
+    {
+      "start_ms": 1771600,
+      "duration_ms": 5679,
+      "text": "we're going to uh do for you for this uh"
+    },
+    {
+      "start_ms": 1774720,
+      "duration_ms": 4880,
+      "text": "done for you uh service."
+    },
+    {
+      "start_ms": 1777279,
+      "duration_ms": 4400,
+      "text": "Question from Paul,"
+    },
+    {
+      "start_ms": 1779600,
+      "duration_ms": 5120,
+      "text": "you suggest to use package plan rather"
+    },
+    {
+      "start_ms": 1781679,
+      "duration_ms": 5681,
+      "text": "than the original plan earlier. No, I"
+    },
+    {
+      "start_ms": 1784720,
+      "duration_ms": 6000,
+      "text": "just suggest to use a single uh pricing"
+    },
+    {
+      "start_ms": 1787360,
+      "duration_ms": 7760,
+      "text": "model. uh you can choose which type of"
+    },
+    {
+      "start_ms": 1790720,
+      "duration_ms": 6880,
+      "text": "uh pricing model um better fit your uh"
+    },
+    {
+      "start_ms": 1795120,
+      "duration_ms": 5439,
+      "text": "your agency business. Both models are"
+    },
+    {
+      "start_ms": 1797600,
+      "duration_ms": 6240,
+      "text": "good. Uh there are both uh there are"
+    },
+    {
+      "start_ms": 1800559,
+      "duration_ms": 5681,
+      "text": "climbers who are getting ex"
+    },
+    {
+      "start_ms": 1803840,
+      "duration_ms": 4719,
+      "text": "extre extremely good results with the"
+    },
+    {
+      "start_ms": 1806240,
+      "duration_ms": 4799,
+      "text": "with a model and also other climbers"
+    },
+    {
+      "start_ms": 1808559,
+      "duration_ms": 4801,
+      "text": "that are getting uh good results with"
+    },
+    {
+      "start_ms": 1811039,
+      "duration_ms": 5681,
+      "text": "the other models. I'm talking about of"
+    },
+    {
+      "start_ms": 1813360,
+      "duration_ms": 6319,
+      "text": "course this this package uh uh pricing"
+    },
+    {
+      "start_ms": 1816720,
+      "duration_ms": 4559,
+      "text": "model was also previously available in"
+    },
+    {
+      "start_ms": 1819679,
+      "duration_ms": 3841,
+      "text": "the previous version of cliento. So"
+    },
+    {
+      "start_ms": 1821279,
+      "duration_ms": 4880,
+      "text": "climbo 1.0 and so a lot of people got"
+    },
+    {
+      "start_ms": 1823520,
+      "duration_ms": 4960,
+      "text": "good results with this model but also"
+    },
+    {
+      "start_ms": 1826159,
+      "duration_ms": 4961,
+      "text": "the price perocation model uh works very"
+    },
+    {
+      "start_ms": 1828480,
+      "duration_ms": 6160,
+      "text": "well. So you can choose between"
+    },
+    {
+      "start_ms": 1831120,
+      "duration_ms": 6480,
+      "text": "uh these two type of uh pricing model. A"
+    },
+    {
+      "start_ms": 1834640,
+      "duration_ms": 5840,
+      "text": "question from Eric. Would it be possible"
+    },
+    {
+      "start_ms": 1837600,
+      "duration_ms": 6240,
+      "text": "that when I make a quick request for a"
+    },
+    {
+      "start_ms": 1840480,
+      "duration_ms": 6880,
+      "text": "review, I can also access my templates"
+    },
+    {
+      "start_ms": 1843840,
+      "duration_ms": 7520,
+      "text": "here? Uh yes, uh we've already talked"
+    },
+    {
+      "start_ms": 1847360,
+      "duration_ms": 8400,
+      "text": "internally about uh this. Uh let me just"
+    },
+    {
+      "start_ms": 1851360,
+      "duration_ms": 7439,
+      "text": "show you uh in the uh screen."
+    },
+    {
+      "start_ms": 1855760,
+      "duration_ms": 5600,
+      "text": "So right now um when you when you want"
+    },
+    {
+      "start_ms": 1858799,
+      "duration_ms": 5041,
+      "text": "to do a quick recess uh sorry, let me"
+    },
+    {
+      "start_ms": 1861360,
+      "duration_ms": 5840,
+      "text": "show you here from the demo account. So"
+    },
+    {
+      "start_ms": 1863840,
+      "duration_ms": 7680,
+      "text": "when you do a um"
+    },
+    {
+      "start_ms": 1867200,
+      "duration_ms": 7520,
+      "text": "a quick request uh your uh templates"
+    },
+    {
+      "start_ms": 1871520,
+      "duration_ms": 7680,
+      "text": "created in the uh templates section are"
+    },
+    {
+      "start_ms": 1874720,
+      "duration_ms": 7520,
+      "text": "not visible. Uh but you simply um see"
+    },
+    {
+      "start_ms": 1879200,
+      "duration_ms": 4560,
+      "text": "the a single previously created"
+    },
+    {
+      "start_ms": 1882240,
+      "duration_ms": 6919,
+      "text": "template."
+    },
+    {
+      "start_ms": 1883760,
+      "duration_ms": 5399,
+      "text": "Let me just go to the text section."
+    },
+    {
+      "start_ms": 1890960,
+      "duration_ms": 4640,
+      "text": "So basically when you get to this step"
+    },
+    {
+      "start_ms": 1893840,
+      "duration_ms": 3679,
+      "text": "which is the last step of the quick"
+    },
+    {
+      "start_ms": 1895600,
+      "duration_ms": 5360,
+      "text": "request you do not see your templates"
+    },
+    {
+      "start_ms": 1897519,
+      "duration_ms": 6000,
+      "text": "but you see just this uh text that you"
+    },
+    {
+      "start_ms": 1900960,
+      "duration_ms": 5839,
+      "text": "can edit of course it's saved so the"
+    },
+    {
+      "start_ms": 1903519,
+      "duration_ms": 7280,
+      "text": "next time you see the um the previously"
+    },
+    {
+      "start_ms": 1906799,
+      "duration_ms": 7600,
+      "text": "sent uh text. Uh why we didn't add here"
+    },
+    {
+      "start_ms": 1910799,
+      "duration_ms": 6561,
+      "text": "the uh templates because it can happen"
+    },
+    {
+      "start_ms": 1914399,
+      "duration_ms": 7280,
+      "text": "that um"
+    },
+    {
+      "start_ms": 1917360,
+      "duration_ms": 7120,
+      "text": "your uh your client uh are for example"
+    },
+    {
+      "start_ms": 1921679,
+      "duration_ms": 5521,
+      "text": "just have this uh uh review features"
+    },
+    {
+      "start_ms": 1924480,
+      "duration_ms": 6480,
+      "text": "enabled and do not have the uh uh"
+    },
+    {
+      "start_ms": 1927200,
+      "duration_ms": 6240,
+      "text": "request um feature enabled. So they do"
+    },
+    {
+      "start_ms": 1930960,
+      "duration_ms": 6240,
+      "text": "not have templates enabled. So in this"
+    },
+    {
+      "start_ms": 1933440,
+      "duration_ms": 6239,
+      "text": "case if templates are not enabled uh"
+    },
+    {
+      "start_ms": 1937200,
+      "duration_ms": 5440,
+      "text": "there should be uh something to show"
+    },
+    {
+      "start_ms": 1939679,
+      "duration_ms": 5840,
+      "text": "them. That's that's why we've added the"
+    },
+    {
+      "start_ms": 1942640,
+      "duration_ms": 5840,
+      "text": "uh this flow here. Uh but we want to do"
+    },
+    {
+      "start_ms": 1945519,
+      "duration_ms": 5121,
+      "text": "that if your clients have this uh uh"
+    },
+    {
+      "start_ms": 1948480,
+      "duration_ms": 4880,
+      "text": "request feature enabled. So if they have"
+    },
+    {
+      "start_ms": 1950640,
+      "duration_ms": 4639,
+      "text": "template uh we can show also the uh"
+    },
+    {
+      "start_ms": 1953360,
+      "duration_ms": 4080,
+      "text": "templates. So they can choose if they"
+    },
+    {
+      "start_ms": 1955279,
+      "duration_ms": 5921,
+      "text": "want to create a custom template or if"
+    },
+    {
+      "start_ms": 1957440,
+      "duration_ms": 7160,
+      "text": "they can use the uh templates already uh"
+    },
+    {
+      "start_ms": 1961200,
+      "duration_ms": 3400,
+      "text": "already created."
+    },
+    {
+      "start_ms": 1969360,
+      "duration_ms": 10760,
+      "text": "Uh question from um Garby."
+    },
+    {
+      "start_ms": 1975039,
+      "duration_ms": 5081,
+      "text": "I want to set up um automation"
+    },
+    {
+      "start_ms": 1981679,
+      "duration_ms": 6880,
+      "text": "um so this CRM connected with existing"
+    },
+    {
+      "start_ms": 1985039,
+      "duration_ms": 7201,
+      "text": "clients uh to send a review request"
+    },
+    {
+      "start_ms": 1988559,
+      "duration_ms": 5761,
+      "text": "um reminder and last call and then the"
+    },
+    {
+      "start_ms": 1992240,
+      "duration_ms": 6319,
+      "text": "process of free review request need to"
+    },
+    {
+      "start_ms": 1994320,
+      "duration_ms": 6320,
+      "text": "start with every new client in the CRM."
+    },
+    {
+      "start_ms": 1998559,
+      "duration_ms": 5441,
+      "text": "Uh yeah, we're going to work on review"
+    },
+    {
+      "start_ms": 2000640,
+      "duration_ms": 4960,
+      "text": "reminders if that's the um uh the"
+    },
+    {
+      "start_ms": 2004000,
+      "duration_ms": 4000,
+      "text": "question. So you'll be able you'll be"
+    },
+    {
+      "start_ms": 2005600,
+      "duration_ms": 8199,
+      "text": "able to set set up a flow or of review"
+    },
+    {
+      "start_ms": 2008000,
+      "duration_ms": 5799,
+      "text": "request directly from uh uh from client."
+    },
+    {
+      "start_ms": 2015200,
+      "duration_ms": 4479,
+      "text": "Question from Eric. Could you please"
+    },
+    {
+      "start_ms": 2017440,
+      "duration_ms": 4640,
+      "text": "prevent the page from constantly"
+    },
+    {
+      "start_ms": 2019679,
+      "duration_ms": 4561,
+      "text": "reloading after an action so that one"
+    },
+    {
+      "start_ms": 2022080,
+      "duration_ms": 4079,
+      "text": "can continue at the point where they"
+    },
+    {
+      "start_ms": 2024240,
+      "duration_ms": 4240,
+      "text": "left off?"
+    },
+    {
+      "start_ms": 2026159,
+      "duration_ms": 4640,
+      "text": "It always starts at the top of the page"
+    },
+    {
+      "start_ms": 2028480,
+      "duration_ms": 5360,
+      "text": "and you have to scroll back to place"
+    },
+    {
+      "start_ms": 2030799,
+      "duration_ms": 5600,
+      "text": "where you stopped. Uh yeah. All right."
+    },
+    {
+      "start_ms": 2033840,
+      "duration_ms": 7280,
+      "text": "I'm going to notify my tech team about"
+    },
+    {
+      "start_ms": 2036399,
+      "duration_ms": 6561,
+      "text": "this. Uh I think you're talking about um"
+    },
+    {
+      "start_ms": 2041120,
+      "duration_ms": 4559,
+      "text": "the fact that for example if I go in"
+    },
+    {
+      "start_ms": 2042960,
+      "duration_ms": 5919,
+      "text": "another tab and I return here sometime"
+    },
+    {
+      "start_ms": 2045679,
+      "duration_ms": 7521,
+      "text": "the page refresh itself. So I I I will"
+    },
+    {
+      "start_ms": 2048879,
+      "duration_ms": 6881,
+      "text": "notify the the team about it."
+    },
+    {
+      "start_ms": 2053200,
+      "duration_ms": 5600,
+      "text": "Uh Donna is this recorded? Yes. Yeah."
+    },
+    {
+      "start_ms": 2055760,
+      "duration_ms": 6240,
+      "text": "Yeah. Yes. So I click the record button"
+    },
+    {
+      "start_ms": 2058800,
+      "duration_ms": 4799,
+      "text": "this time. So, uh, it's going to be"
+    },
+    {
+      "start_ms": 2062000,
+      "duration_ms": 4480,
+      "text": "uploaded in the community probably"
+    },
+    {
+      "start_ms": 2063599,
+      "duration_ms": 5280,
+      "text": "tomorrow."
+    },
+    {
+      "start_ms": 2066480,
+      "duration_ms": 5840,
+      "text": "Eric, could you please prioritize custom"
+    },
+    {
+      "start_ms": 2068879,
+      "duration_ms": 5681,
+      "text": "prompts for answers? Uh, we have a lot"
+    },
+    {
+      "start_ms": 2072320,
+      "duration_ms": 5920,
+      "text": "of thing to to prioritize. Of course, we"
+    },
+    {
+      "start_ms": 2074560,
+      "duration_ms": 7440,
+      "text": "try to do our best. Uh, we prioritize"
+    },
+    {
+      "start_ms": 2078240,
+      "duration_ms": 5760,
+      "text": "what has uh the most votes uh for now."
+    },
+    {
+      "start_ms": 2082000,
+      "duration_ms": 3679,
+      "text": "So, in the climbbo road map, you see"
+    },
+    {
+      "start_ms": 2084000,
+      "duration_ms": 6879,
+      "text": "there are a lot of things with a lot of"
+    },
+    {
+      "start_ms": 2085679,
+      "duration_ms": 5200,
+      "text": "votes. So, we uh prioritize them."
+    },
+    {
+      "start_ms": 2093760,
+      "duration_ms": 3599,
+      "text": "question from Paul."
+    },
+    {
+      "start_ms": 2095919,
+      "duration_ms": 5440,
+      "text": "You're going to explain how to set up"
+    },
+    {
+      "start_ms": 2097359,
+      "duration_ms": 5921,
+      "text": "the app. Yes, next week uh in the um uh"
+    },
+    {
+      "start_ms": 2101359,
+      "duration_ms": 4321,
+      "text": "community, we're going to publish this"
+    },
+    {
+      "start_ms": 2103280,
+      "duration_ms": 5120,
+      "text": "new classroom related to the app. So,"
+    },
+    {
+      "start_ms": 2105680,
+      "duration_ms": 6000,
+      "text": "there will be lessons related to how to"
+    },
+    {
+      "start_ms": 2108400,
+      "duration_ms": 6920,
+      "text": "fill the uh the Google form."
+    },
+    {
+      "start_ms": 2111680,
+      "duration_ms": 3640,
+      "text": "next week. Yes."
+    },
+    {
+      "start_ms": 2117760,
+      "duration_ms": 6880,
+      "text": "Question from uh Garby."
+    },
+    {
+      "start_ms": 2121839,
+      "duration_ms": 5041,
+      "text": "All right. Very long question. So on"
+    },
+    {
+      "start_ms": 2124640,
+      "duration_ms": 4719,
+      "text": "ranking the analyze keyword is the"
+    },
+    {
+      "start_ms": 2126880,
+      "duration_ms": 4800,
+      "text": "category you have to uh choose when"
+    },
+    {
+      "start_ms": 2129359,
+      "duration_ms": 5760,
+      "text": "setting up your Google business profile."
+    },
+    {
+      "start_ms": 2131680,
+      "duration_ms": 6399,
+      "text": "If you scroll down, you see the um"
+    },
+    {
+      "start_ms": 2135119,
+      "duration_ms": 6240,
+      "text": "longtail keywords people looked for in"
+    },
+    {
+      "start_ms": 2138079,
+      "duration_ms": 5441,
+      "text": "the last uh month. It will be great if"
+    },
+    {
+      "start_ms": 2141359,
+      "duration_ms": 6240,
+      "text": "you could take that keyword and see how"
+    },
+    {
+      "start_ms": 2143520,
+      "duration_ms": 6480,
+      "text": "you rank on uh that one. It it suggests"
+    },
+    {
+      "start_ms": 2147599,
+      "duration_ms": 5041,
+      "text": "you which keyword to use in your AI"
+    },
+    {
+      "start_ms": 2150000,
+      "duration_ms": 5119,
+      "text": "responses. You could use those keyword"
+    },
+    {
+      "start_ms": 2152640,
+      "duration_ms": 4959,
+      "text": "uh for ads. Currently, clients can"
+    },
+    {
+      "start_ms": 2155119,
+      "duration_ms": 4720,
+      "text": "cancel their subscription at any time"
+    },
+    {
+      "start_ms": 2157599,
+      "duration_ms": 4401,
+      "text": "leading to unpredictable revenue and"
+    },
+    {
+      "start_ms": 2159839,
+      "duration_ms": 4401,
+      "text": "frequent churn. As we automate more"
+    },
+    {
+      "start_ms": 2162000,
+      "duration_ms": 3839,
+      "text": "task, our value increase and we need"
+    },
+    {
+      "start_ms": 2164240,
+      "duration_ms": 4080,
+      "text": "more stable long-term client"
+    },
+    {
+      "start_ms": 2165839,
+      "duration_ms": 6081,
+      "text": "relationships. uh the goal is to reduce"
+    },
+    {
+      "start_ms": 2168320,
+      "duration_ms": 6240,
+      "text": "churn, increase uh predictability and"
+    },
+    {
+      "start_ms": 2171920,
+      "duration_ms": 5919,
+      "text": "streamline retention without sacrificing"
+    },
+    {
+      "start_ms": 2174560,
+      "duration_ms": 7840,
+      "text": "customer experience. So regarding the"
+    },
+    {
+      "start_ms": 2177839,
+      "duration_ms": 7361,
+      "text": "keyword that we show for the uh ranking"
+    },
+    {
+      "start_ms": 2182400,
+      "duration_ms": 6640,
+      "text": "uh report, let me show to uh everyone."
+    },
+    {
+      "start_ms": 2185200,
+      "duration_ms": 6480,
+      "text": "So let me go to home"
+    },
+    {
+      "start_ms": 2189040,
+      "duration_ms": 4799,
+      "text": "uh ranking and competitors."
+    },
+    {
+      "start_ms": 2191680,
+      "duration_ms": 4960,
+      "text": "uh of course as you know the keyword"
+    },
+    {
+      "start_ms": 2193839,
+      "duration_ms": 5441,
+      "text": "that we use here to create the ranking"
+    },
+    {
+      "start_ms": 2196640,
+      "duration_ms": 6479,
+      "text": "analysis is the category of the uh"
+    },
+    {
+      "start_ms": 2199280,
+      "duration_ms": 7120,
+      "text": "business. Um I know and we know that"
+    },
+    {
+      "start_ms": 2203119,
+      "duration_ms": 6561,
+      "text": "there are a lot of keywords for which uh"
+    },
+    {
+      "start_ms": 2206400,
+      "duration_ms": 6080,
+      "text": "your clients want to see their ranking."
+    },
+    {
+      "start_ms": 2209680,
+      "duration_ms": 6320,
+      "text": "Uh as I said when I presented this big"
+    },
+    {
+      "start_ms": 2212480,
+      "duration_ms": 5599,
+      "text": "feature, this is also a v1"
+    },
+    {
+      "start_ms": 2216000,
+      "duration_ms": 3839,
+      "text": "and so there will be other version in"
+    },
+    {
+      "start_ms": 2218079,
+      "duration_ms": 5040,
+      "text": "the future. And something that we want"
+    },
+    {
+      "start_ms": 2219839,
+      "duration_ms": 5841,
+      "text": "to do of course is to let your client"
+    },
+    {
+      "start_ms": 2223119,
+      "duration_ms": 5441,
+      "text": "change this and uh let your client see"
+    },
+    {
+      "start_ms": 2225680,
+      "duration_ms": 7439,
+      "text": "their rankings also for uh different"
+    },
+    {
+      "start_ms": 2228560,
+      "duration_ms": 7880,
+      "text": "keywords uh so they can take their uh uh"
+    },
+    {
+      "start_ms": 2233119,
+      "duration_ms": 3321,
+      "text": "their conclusions"
+    },
+    {
+      "start_ms": 2237920,
+      "duration_ms": 7280,
+      "text": "and of course yes. So regarding the uh"
+    },
+    {
+      "start_ms": 2240880,
+      "duration_ms": 7600,
+      "text": "AI agent, so the uh SEO agent, uh as you"
+    },
+    {
+      "start_ms": 2245200,
+      "duration_ms": 6399,
+      "text": "know, right now uh these keywords are"
+    },
+    {
+      "start_ms": 2248480,
+      "duration_ms": 5920,
+      "text": "not uh automatically uh prefilled for"
+    },
+    {
+      "start_ms": 2251599,
+      "duration_ms": 5921,
+      "text": "your clients. So you or your clients"
+    },
+    {
+      "start_ms": 2254400,
+      "duration_ms": 5760,
+      "text": "have to uh add them uh manually. Uh"
+    },
+    {
+      "start_ms": 2257520,
+      "duration_ms": 5040,
+      "text": "there will be also a V2 also for this"
+    },
+    {
+      "start_ms": 2260160,
+      "duration_ms": 5040,
+      "text": "where we automatically suggest a"
+    },
+    {
+      "start_ms": 2262560,
+      "duration_ms": 6000,
+      "text": "keyword. So maybe we go into the Google"
+    },
+    {
+      "start_ms": 2265200,
+      "duration_ms": 6720,
+      "text": "business profile. We just look at which"
+    },
+    {
+      "start_ms": 2268560,
+      "duration_ms": 5840,
+      "text": "are the uh most use most searched"
+    },
+    {
+      "start_ms": 2271920,
+      "duration_ms": 4880,
+      "text": "keyword for your client's business and"
+    },
+    {
+      "start_ms": 2274400,
+      "duration_ms": 5520,
+      "text": "we add them here. So we make sure that"
+    },
+    {
+      "start_ms": 2276800,
+      "duration_ms": 5920,
+      "text": "the SEO agent reply using those"
+    },
+    {
+      "start_ms": 2279920,
+      "duration_ms": 7080,
+      "text": "keywords. So your client starts to uh"
+    },
+    {
+      "start_ms": 2282720,
+      "duration_ms": 4280,
+      "text": "rank higher for those keywords."
+    },
+    {
+      "start_ms": 2292640,
+      "duration_ms": 5280,
+      "text": "question from Ryan uh regarding the app."
+    },
+    {
+      "start_ms": 2295520,
+      "duration_ms": 4720,
+      "text": "So regarding the app, right now this is"
+    },
+    {
+      "start_ms": 2297920,
+      "duration_ms": 6320,
+      "text": "the only thing that we do. So the done"
+    },
+    {
+      "start_ms": 2300240,
+      "duration_ms": 6960,
+      "text": "for you service where we uh um publish"
+    },
+    {
+      "start_ms": 2304240,
+      "duration_ms": 5359,
+      "text": "the app for you. Uh maybe in the future"
+    },
+    {
+      "start_ms": 2307200,
+      "duration_ms": 5360,
+      "text": "there will be uh new things but right"
+    },
+    {
+      "start_ms": 2309599,
+      "duration_ms": 7601,
+      "text": "now this is the only thing that we do uh"
+    },
+    {
+      "start_ms": 2312560,
+      "duration_ms": 8240,
+      "text": "uh related to the uh to the app."
+    },
+    {
+      "start_ms": 2317200,
+      "duration_ms": 6800,
+      "text": "Question from Paul. Uh request a quick"
+    },
+    {
+      "start_ms": 2320800,
+      "duration_ms": 7680,
+      "text": "brief training to use uh the integration"
+    },
+    {
+      "start_ms": 2324000,
+      "duration_ms": 7440,
+      "text": "client 2.0 to lead connector via Zapier."
+    },
+    {
+      "start_ms": 2328480,
+      "duration_ms": 7760,
+      "text": "All right. Uh yes. So as you know Climbo"
+    },
+    {
+      "start_ms": 2331440,
+      "duration_ms": 6880,
+      "text": "is on Zapier. So both our own Zapier app"
+    },
+    {
+      "start_ms": 2336240,
+      "duration_ms": 6080,
+      "text": "for the agency mode and also the"
+    },
+    {
+      "start_ms": 2338320,
+      "duration_ms": 7519,
+      "text": "unbranded app for the um clients mode."
+    },
+    {
+      "start_ms": 2342320,
+      "duration_ms": 7680,
+      "text": "So I'm talking about this um AI"
+    },
+    {
+      "start_ms": 2345839,
+      "duration_ms": 6801,
+      "text": "connector Zapier integration. Um there"
+    },
+    {
+      "start_ms": 2350000,
+      "duration_ms": 5599,
+      "text": "will be uh soon also a classroom"
+    },
+    {
+      "start_ms": 2352640,
+      "duration_ms": 5920,
+      "text": "dedicated to uh automations. So I'm"
+    },
+    {
+      "start_ms": 2355599,
+      "duration_ms": 5041,
+      "text": "recording uh this uh this lessons. So"
+    },
+    {
+      "start_ms": 2358560,
+      "duration_ms": 6240,
+      "text": "you'll be able to learn how to use uh"
+    },
+    {
+      "start_ms": 2360640,
+      "duration_ms": 7439,
+      "text": "client integrating it with the thousand"
+    },
+    {
+      "start_ms": 2364800,
+      "duration_ms": 5279,
+      "text": "of apps available in uh in Zapier and"
+    },
+    {
+      "start_ms": 2368079,
+      "duration_ms": 4801,
+      "text": "both for the agency mode and also for"
+    },
+    {
+      "start_ms": 2370079,
+      "duration_ms": 6641,
+      "text": "the uh for the clients mode"
+    },
+    {
+      "start_ms": 2372880,
+      "duration_ms": 6840,
+      "text": "not only Zapier but also NA10 public"
+    },
+    {
+      "start_ms": 2376720,
+      "duration_ms": 3000,
+      "text": "make.com"
+    },
+    {
+      "start_ms": 2382560,
+      "duration_ms": 5600,
+      "text": "uh Paul you're asking for the uh Thai uh"
+    },
+    {
+      "start_ms": 2385680,
+      "duration_ms": 6320,
+      "text": "language and when customer leave a"
+    },
+    {
+      "start_ms": 2388160,
+      "duration_ms": 6720,
+      "text": "review in a language, Thai or any other"
+    },
+    {
+      "start_ms": 2392000,
+      "duration_ms": 6480,
+      "text": "language, the AI automatically respond"
+    },
+    {
+      "start_ms": 2394880,
+      "duration_ms": 6880,
+      "text": "in that uh language. Yes. So right now"
+    },
+    {
+      "start_ms": 2398480,
+      "duration_ms": 6960,
+      "text": "you can already uh set up the uh"
+    },
+    {
+      "start_ms": 2401760,
+      "duration_ms": 7040,
+      "text": "language for the AI replies. So I guess"
+    },
+    {
+      "start_ms": 2405440,
+      "duration_ms": 5360,
+      "text": "Thailand is not uh present. All right,"
+    },
+    {
+      "start_ms": 2408800,
+      "duration_ms": 6400,
+      "text": "we have a lot of languages but Thailand"
+    },
+    {
+      "start_ms": 2410800,
+      "duration_ms": 6400,
+      "text": "is not present. Uh so um we I'm I'm"
+    },
+    {
+      "start_ms": 2415200,
+      "duration_ms": 4000,
+      "text": "going to notify my tech team about this."
+    },
+    {
+      "start_ms": 2417200,
+      "duration_ms": 6600,
+      "text": "It's very quick on our side to add a new"
+    },
+    {
+      "start_ms": 2419200,
+      "duration_ms": 4600,
+      "text": "language. So we'll we'll do this."
+    },
+    {
+      "start_ms": 2425520,
+      "duration_ms": 3920,
+      "text": "Question from Mattel. Is there any"
+    },
+    {
+      "start_ms": 2427280,
+      "duration_ms": 5280,
+      "text": "chance we can have a custom page in"
+    },
+    {
+      "start_ms": 2429440,
+      "duration_ms": 6720,
+      "text": "Climbo where we can embed some custom"
+    },
+    {
+      "start_ms": 2432560,
+      "duration_ms": 8080,
+      "text": "code as an easy example? Add a custom"
+    },
+    {
+      "start_ms": 2436160,
+      "duration_ms": 8480,
+      "text": "link contact page in the sidebar."
+    },
+    {
+      "start_ms": 2440640,
+      "duration_ms": 6479,
+      "text": "Uh yes yes so this is something that um"
+    },
+    {
+      "start_ms": 2444640,
+      "duration_ms": 6160,
+      "text": "was present in climbbo 2.0 sorry in"
+    },
+    {
+      "start_ms": 2447119,
+      "duration_ms": 5841,
+      "text": "climbo 1.0 for those who do not uh know."
+    },
+    {
+      "start_ms": 2450800,
+      "duration_ms": 5519,
+      "text": "So we are talking about the possibility"
+    },
+    {
+      "start_ms": 2452960,
+      "duration_ms": 6240,
+      "text": "for you to add a custom link uh maybe"
+    },
+    {
+      "start_ms": 2456319,
+      "duration_ms": 6081,
+      "text": "here that uh redirect to an external"
+    },
+    {
+      "start_ms": 2459200,
+      "duration_ms": 6960,
+      "text": "page. Um, right now the only thing that"
+    },
+    {
+      "start_ms": 2462400,
+      "duration_ms": 9000,
+      "text": "you can do is uh the possibility for you"
+    },
+    {
+      "start_ms": 2466160,
+      "duration_ms": 5240,
+      "text": "to add uh custom code."
+    },
+    {
+      "start_ms": 2473520,
+      "duration_ms": 4880,
+      "text": "So from the brand section"
+    },
+    {
+      "start_ms": 2476240,
+      "duration_ms": 4560,
+      "text": "you just go here and you can add custom"
+    },
+    {
+      "start_ms": 2478400,
+      "duration_ms": 4640,
+      "text": "code. So you can add maybe a floating"
+    },
+    {
+      "start_ms": 2480800,
+      "duration_ms": 6080,
+      "text": "button whatever. So this is currently"
+    },
+    {
+      "start_ms": 2483040,
+      "duration_ms": 6559,
+      "text": "possible. Uh you can use um tool for"
+    },
+    {
+      "start_ms": 2486880,
+      "duration_ms": 5360,
+      "text": "example like uh L site. I don't know if"
+    },
+    {
+      "start_ms": 2489599,
+      "duration_ms": 4561,
+      "text": "you know them. I just write here in the"
+    },
+    {
+      "start_ms": 2492240,
+      "duration_ms": 6400,
+      "text": "chat."
+    },
+    {
+      "start_ms": 2494160,
+      "duration_ms": 9080,
+      "text": "I think this is um the name of the tool."
+    },
+    {
+      "start_ms": 2498640,
+      "duration_ms": 4600,
+      "text": "Sorry. Let me just show you here."
+    },
+    {
+      "start_ms": 2505520,
+      "duration_ms": 5040,
+      "text": "So with this kind of tool, you can"
+    },
+    {
+      "start_ms": 2507440,
+      "duration_ms": 7440,
+      "text": "create uh I don't know floating button."
+    },
+    {
+      "start_ms": 2510560,
+      "duration_ms": 8400,
+      "text": "So you just uh WhatsApp chat uh widget"
+    },
+    {
+      "start_ms": 2514880,
+      "duration_ms": 7520,
+      "text": "uh whatever. uh you just get the um the"
+    },
+    {
+      "start_ms": 2518960,
+      "duration_ms": 5280,
+      "text": "code and you copy and paste it uh here."
+    },
+    {
+      "start_ms": 2522400,
+      "duration_ms": 4560,
+      "text": "So this is what you currently can do"
+    },
+    {
+      "start_ms": 2524240,
+      "duration_ms": 5359,
+      "text": "right now but we want to add the custom"
+    },
+    {
+      "start_ms": 2526960,
+      "duration_ms": 5520,
+      "text": "uh link. Uh also something that we want"
+    },
+    {
+      "start_ms": 2529599,
+      "duration_ms": 5760,
+      "text": "to work very very soon is the uh free"
+    },
+    {
+      "start_ms": 2532480,
+      "duration_ms": 6480,
+      "text": "trial banner. So your clients in free"
+    },
+    {
+      "start_ms": 2535359,
+      "duration_ms": 6561,
+      "text": "trial in the uh"
+    },
+    {
+      "start_ms": 2538960,
+      "duration_ms": 6560,
+      "text": "in the in their clients mode as a top"
+    },
+    {
+      "start_ms": 2541920,
+      "duration_ms": 6240,
+      "text": "bar uh they have a banner"
+    },
+    {
+      "start_ms": 2545520,
+      "duration_ms": 4720,
+      "text": "and you can uh customize the text and"
+    },
+    {
+      "start_ms": 2548160,
+      "duration_ms": 3760,
+      "text": "the call to action of the banner. This"
+    },
+    {
+      "start_ms": 2550240,
+      "duration_ms": 6119,
+      "text": "is something that we want to do custom"
+    },
+    {
+      "start_ms": 2551920,
+      "duration_ms": 4439,
+      "text": "links. Yes, this will be done."
+    },
+    {
+      "start_ms": 2559119,
+      "duration_ms": 5041,
+      "text": "Question from Andy. Anyone here running"
+    },
+    {
+      "start_ms": 2561760,
+      "duration_ms": 4240,
+      "text": "a reviews only clientbo agency? If"
+    },
+    {
+      "start_ms": 2564160,
+      "duration_ms": 4240,
+      "text": "you're starting with zero client, how"
+    },
+    {
+      "start_ms": 2566000,
+      "duration_ms": 4560,
+      "text": "realistic is it to make this"
+    },
+    {
+      "start_ms": 2568400,
+      "duration_ms": 4240,
+      "text": "sustainable?"
+    },
+    {
+      "start_ms": 2570560,
+      "duration_ms": 4720,
+      "text": "I suggest to do a post about it in the"
+    },
+    {
+      "start_ms": 2572640,
+      "duration_ms": 6160,
+      "text": "community. There are already posts about"
+    },
+    {
+      "start_ms": 2575280,
+      "duration_ms": 6000,
+      "text": "it. Um, of course, climbber is not a"
+    },
+    {
+      "start_ms": 2578800,
+      "duration_ms": 6400,
+      "text": "let's say a a super easy business model,"
+    },
+    {
+      "start_ms": 2581280,
+      "duration_ms": 8720,
+      "text": "but if you uh commit to work uh"
+    },
+    {
+      "start_ms": 2585200,
+      "duration_ms": 6960,
+      "text": "especially locally, uh so do not try to"
+    },
+    {
+      "start_ms": 2590000,
+      "duration_ms": 4880,
+      "text": "find customers, you know, in other"
+    },
+    {
+      "start_ms": 2592160,
+      "duration_ms": 5840,
+      "text": "continents, but wants to be a real a"
+    },
+    {
+      "start_ms": 2594880,
+      "duration_ms": 4719,
+      "text": "local partner for your clients. Uh there"
+    },
+    {
+      "start_ms": 2598000,
+      "duration_ms": 5839,
+      "text": "are a lot of people that started from"
+    },
+    {
+      "start_ms": 2599599,
+      "duration_ms": 6641,
+      "text": "zero and transformed it into a a real uh"
+    },
+    {
+      "start_ms": 2603839,
+      "duration_ms": 4641,
+      "text": "a real business. So this is uh this is"
+    },
+    {
+      "start_ms": 2606240,
+      "duration_ms": 4000,
+      "text": "possible. Not easy. Nothing is easy,"
+    },
+    {
+      "start_ms": 2608480,
+      "duration_ms": 4760,
+      "text": "especially business, but this is"
+    },
+    {
+      "start_ms": 2610240,
+      "duration_ms": 3000,
+      "text": "possible."
+    },
+    {
+      "start_ms": 2616800,
+      "duration_ms": 7200,
+      "text": "Donna, you have an issue with the um"
+    },
+    {
+      "start_ms": 2620079,
+      "duration_ms": 6561,
+      "text": "generation of reports via the uh widget."
+    },
+    {
+      "start_ms": 2624000,
+      "duration_ms": 7000,
+      "text": "Um please open a ticket and we're going"
+    },
+    {
+      "start_ms": 2626640,
+      "duration_ms": 4360,
+      "text": "to look into it."
+    },
+    {
+      "start_ms": 2634560,
+      "duration_ms": 4880,
+      "text": "Kevin, if you have question about"
+    },
+    {
+      "start_ms": 2636160,
+      "duration_ms": 6280,
+      "text": "switching from 1.0 to 2.0, please open a"
+    },
+    {
+      "start_ms": 2639440,
+      "duration_ms": 3000,
+      "text": "ticket."
+    },
+    {
+      "start_ms": 2643599,
+      "duration_ms": 4240,
+      "text": "Uh, question from Ryan. Will there be"
+    },
+    {
+      "start_ms": 2645520,
+      "duration_ms": 5440,
+      "text": "more design customization options on the"
+    },
+    {
+      "start_ms": 2647839,
+      "duration_ms": 6000,
+      "text": "platforms in terms of color scheme? For"
+    },
+    {
+      "start_ms": 2650960,
+      "duration_ms": 8240,
+      "text": "example, a different color palette for"
+    },
+    {
+      "start_ms": 2653839,
+      "duration_ms": 8561,
+      "text": "the uh next gold uh color bar. Uh, for"
+    },
+    {
+      "start_ms": 2659200,
+      "duration_ms": 6000,
+      "text": "now, no. So I'm talking about"
+    },
+    {
+      "start_ms": 2662400,
+      "duration_ms": 4719,
+      "text": "um of course this. So right now as you"
+    },
+    {
+      "start_ms": 2665200,
+      "duration_ms": 5040,
+      "text": "know in climbo"
+    },
+    {
+      "start_ms": 2667119,
+      "duration_ms": 6000,
+      "text": "uh we prefer simplicity. So we prefer"
+    },
+    {
+      "start_ms": 2670240,
+      "duration_ms": 6000,
+      "text": "that you choose a single color and then"
+    },
+    {
+      "start_ms": 2673119,
+      "duration_ms": 7041,
+      "text": "all the platform colors adapt to the"
+    },
+    {
+      "start_ms": 2676240,
+      "duration_ms": 7920,
+      "text": "color that uh you choose."
+    },
+    {
+      "start_ms": 2680160,
+      "duration_ms": 6000,
+      "text": "And um so for now we haven't planned to"
+    },
+    {
+      "start_ms": 2684160,
+      "duration_ms": 6000,
+      "text": "allow you to"
+    },
+    {
+      "start_ms": 2686160,
+      "duration_ms": 6400,
+      "text": "uh add the custom colors um on uh for"
+    },
+    {
+      "start_ms": 2690160,
+      "duration_ms": 4959,
+      "text": "example have a bar in a color and the"
+    },
+    {
+      "start_ms": 2692560,
+      "duration_ms": 7000,
+      "text": "buttons in another color. So we prefer"
+    },
+    {
+      "start_ms": 2695119,
+      "duration_ms": 4441,
+      "text": "this type of simplicity for now."
+    },
+    {
+      "start_ms": 2701520,
+      "duration_ms": 5280,
+      "text": "Question from Brian. Do you need to use"
+    },
+    {
+      "start_ms": 2703520,
+      "duration_ms": 6000,
+      "text": "any email finder or can I use another"
+    },
+    {
+      "start_ms": 2706800,
+      "duration_ms": 5120,
+      "text": "email finder tool? So if you use our"
+    },
+    {
+      "start_ms": 2709520,
+      "duration_ms": 4799,
+      "text": "prospecting tool uh the tool is"
+    },
+    {
+      "start_ms": 2711920,
+      "duration_ms": 6080,
+      "text": "integrated with any email finder. So you"
+    },
+    {
+      "start_ms": 2714319,
+      "duration_ms": 5760,
+      "text": "have to use uh any email finder. Uh of"
+    },
+    {
+      "start_ms": 2718000,
+      "duration_ms": 7079,
+      "text": "course you're free to use any other"
+    },
+    {
+      "start_ms": 2720079,
+      "duration_ms": 5000,
+      "text": "tools but externally from from clientop."
+    },
+    {
+      "start_ms": 2728560,
+      "duration_ms": 7279,
+      "text": "Uh Garby uh currently clients can cancel"
+    },
+    {
+      "start_ms": 2731599,
+      "duration_ms": 9760,
+      "text": "the subscription at any time. Um yes"
+    },
+    {
+      "start_ms": 2735839,
+      "duration_ms": 7921,
+      "text": "this is uh uh so your clients can um"
+    },
+    {
+      "start_ms": 2741359,
+      "duration_ms": 4161,
+      "text": "cancel their subscription from their uh"
+    },
+    {
+      "start_ms": 2743760,
+      "duration_ms": 6400,
+      "text": "stripe customer portal. So they just"
+    },
+    {
+      "start_ms": 2745520,
+      "duration_ms": 7280,
+      "text": "click on the the cancel button and uh"
+    },
+    {
+      "start_ms": 2750160,
+      "duration_ms": 6560,
+      "text": "this is uh the stripe customer portal"
+    },
+    {
+      "start_ms": 2752800,
+      "duration_ms": 7760,
+      "text": "but this is what also most of customers"
+    },
+    {
+      "start_ms": 2756720,
+      "duration_ms": 6720,
+      "text": "uh want. So they especially nowadays"
+    },
+    {
+      "start_ms": 2760560,
+      "duration_ms": 5759,
+      "text": "people they uh do not want to be forced"
+    },
+    {
+      "start_ms": 2763440,
+      "duration_ms": 4879,
+      "text": "to contact you or to schedule a meeting"
+    },
+    {
+      "start_ms": 2766319,
+      "duration_ms": 4641,
+      "text": "with you if they want to cancel the"
+    },
+    {
+      "start_ms": 2768319,
+      "duration_ms": 5361,
+      "text": "subscription. So we prefer that your"
+    },
+    {
+      "start_ms": 2770960,
+      "duration_ms": 6399,
+      "text": "clients are if they want of course are"
+    },
+    {
+      "start_ms": 2773680,
+      "duration_ms": 6919,
+      "text": "free to uh autonomously uh cancel the uh"
+    },
+    {
+      "start_ms": 2777359,
+      "duration_ms": 3240,
+      "text": "the subscription."
+    },
+    {
+      "start_ms": 2782560,
+      "duration_ms": 5279,
+      "text": "Um Paul, why we have to pay for"
+    },
+    {
+      "start_ms": 2785280,
+      "duration_ms": 6640,
+      "text": "WhatsApp? Uh because we use WhatsApp"
+    },
+    {
+      "start_ms": 2787839,
+      "duration_ms": 9041,
+      "text": "APIs. So we do not uh uh so WhatsApp"
+    },
+    {
+      "start_ms": 2791920,
+      "duration_ms": 8600,
+      "text": "APIs is not uh free. Uh I show you"
+    },
+    {
+      "start_ms": 2796880,
+      "duration_ms": 3640,
+      "text": "WhatsApp pricing."
+    },
+    {
+      "start_ms": 2803359,
+      "duration_ms": 6480,
+      "text": "All right. If you just go to Google"
+    },
+    {
+      "start_ms": 2805280,
+      "duration_ms": 7120,
+      "text": "WhatsApp API pricing and you go here,"
+    },
+    {
+      "start_ms": 2809839,
+      "duration_ms": 5921,
+      "text": "you scroll"
+    },
+    {
+      "start_ms": 2812400,
+      "duration_ms": 7120,
+      "text": "uh for example, sending a WhatsApp"
+    },
+    {
+      "start_ms": 2815760,
+      "duration_ms": 5359,
+      "text": "message to uh Italy for example in"
+    },
+    {
+      "start_ms": 2819520,
+      "duration_ms": 4880,
+      "text": "dollars,"
+    },
+    {
+      "start_ms": 2821119,
+      "duration_ms": 7921,
+      "text": "a marketing message, as you can see cost"
+    },
+    {
+      "start_ms": 2824400,
+      "duration_ms": 9520,
+      "text": "uh 7 cent to to us, right? And right now"
+    },
+    {
+      "start_ms": 2829040,
+      "duration_ms": 7760,
+      "text": "we charge per uh area. So we have uh US"
+    },
+    {
+      "start_ms": 2833920,
+      "duration_ms": 5520,
+      "text": "and Canada, uh UK and Australia, and"
+    },
+    {
+      "start_ms": 2836800,
+      "duration_ms": 5920,
+      "text": "then rest of the world. As I said in the"
+    },
+    {
+      "start_ms": 2839440,
+      "duration_ms": 7360,
+      "text": "community, we're going to implement a u"
+    },
+    {
+      "start_ms": 2842720,
+      "duration_ms": 7119,
+      "text": "more specific um price per country. So"
+    },
+    {
+      "start_ms": 2846800,
+      "duration_ms": 6080,
+      "text": "you're going to pay exactly what uh"
+    },
+    {
+      "start_ms": 2849839,
+      "duration_ms": 6041,
+      "text": "WhatsApp uh charge us to send uh"
+    },
+    {
+      "start_ms": 2852880,
+      "duration_ms": 3000,
+      "text": "messages."
+    },
+    {
+      "start_ms": 2858960,
+      "duration_ms": 6320,
+      "text": "A question from Gary. Will Autokit be"
+    },
+    {
+      "start_ms": 2862079,
+      "duration_ms": 6721,
+      "text": "supported? Autokit is a Zapier uh"
+    },
+    {
+      "start_ms": 2865280,
+      "duration_ms": 5760,
+      "text": "competitor. Um so right now as you know"
+    },
+    {
+      "start_ms": 2868800,
+      "duration_ms": 5760,
+      "text": "we have the app into Zapier but right"
+    },
+    {
+      "start_ms": 2871040,
+      "duration_ms": 7840,
+      "text": "now you can if you know how to use uh"
+    },
+    {
+      "start_ms": 2874560,
+      "duration_ms": 8640,
+      "text": "APIs and um you you can already use"
+    },
+    {
+      "start_ms": 2878880,
+      "duration_ms": 7840,
+      "text": "other no code tools like n10 uh make.com"
+    },
+    {
+      "start_ms": 2883200,
+      "duration_ms": 7360,
+      "text": "public uh etc. maybe also autokit if"
+    },
+    {
+      "start_ms": 2886720,
+      "duration_ms": 7440,
+      "text": "they allow to do uh custom API calls."
+    },
+    {
+      "start_ms": 2890560,
+      "duration_ms": 7759,
+      "text": "I'm going to do lessons about it of"
+    },
+    {
+      "start_ms": 2894160,
+      "duration_ms": 7280,
+      "text": "course, but you can already use our APIs"
+    },
+    {
+      "start_ms": 2898319,
+      "duration_ms": 5201,
+      "text": "with the tools like uh uh tools"
+    },
+    {
+      "start_ms": 2901440,
+      "duration_ms": 5080,
+      "text": "different from uh Zapier Zapier"
+    },
+    {
+      "start_ms": 2903520,
+      "duration_ms": 3000,
+      "text": "competitors."
+    },
+    {
+      "start_ms": 2908800,
+      "duration_ms": 7279,
+      "text": "Uh question from uh Josia. Can uh users"
+    },
+    {
+      "start_ms": 2912800,
+      "duration_ms": 5440,
+      "text": "uh purchase multiple locations under"
+    },
+    {
+      "start_ms": 2916079,
+      "duration_ms": 5201,
+      "text": "single plan?"
+    },
+    {
+      "start_ms": 2918240,
+      "duration_ms": 6879,
+      "text": "Example, customers want T1 with free"
+    },
+    {
+      "start_ms": 2921280,
+      "duration_ms": 6559,
+      "text": "location. T1 equals basic features plus"
+    },
+    {
+      "start_ms": 2925119,
+      "duration_ms": 5121,
+      "text": "one location."
+    },
+    {
+      "start_ms": 2927839,
+      "duration_ms": 4801,
+      "text": "T2 equals more features plus one"
+    },
+    {
+      "start_ms": 2930240,
+      "duration_ms": 7200,
+      "text": "location."
+    },
+    {
+      "start_ms": 2932640,
+      "duration_ms": 7520,
+      "text": "So um right now as you know we have as I"
+    },
+    {
+      "start_ms": 2937440,
+      "duration_ms": 7119,
+      "text": "presented today two different pricing"
+    },
+    {
+      "start_ms": 2940160,
+      "duration_ms": 7040,
+      "text": "mode uh price per location where uh you"
+    },
+    {
+      "start_ms": 2944559,
+      "duration_ms": 5520,
+      "text": "create for example three plans"
+    },
+    {
+      "start_ms": 2947200,
+      "duration_ms": 6720,
+      "text": "in every plan you just enable or disable"
+    },
+    {
+      "start_ms": 2950079,
+      "duration_ms": 7040,
+      "text": "features and uh then if if the clients"
+    },
+    {
+      "start_ms": 2953920,
+      "duration_ms": 6800,
+      "text": "wants to add multiple location they have"
+    },
+    {
+      "start_ms": 2957119,
+      "duration_ms": 5761,
+      "text": "to pay for each uh location or we have"
+    },
+    {
+      "start_ms": 2960720,
+      "duration_ms": 5920,
+      "text": "the pricing that I've presented today."
+    },
+    {
+      "start_ms": 2962880,
+      "duration_ms": 6160,
+      "text": "So the packaged uh pricing where you can"
+    },
+    {
+      "start_ms": 2966640,
+      "duration_ms": 4479,
+      "text": "do"
+    },
+    {
+      "start_ms": 2969040,
+      "duration_ms": 4720,
+      "text": "uh this thing here. So you can create"
+    },
+    {
+      "start_ms": 2971119,
+      "duration_ms": 4561,
+      "text": "three plans bronze, silver and gold. For"
+    },
+    {
+      "start_ms": 2973760,
+      "duration_ms": 4240,
+      "text": "every plan you enable air disabled"
+    },
+    {
+      "start_ms": 2975680,
+      "duration_ms": 4879,
+      "text": "feature and you set also the maximum"
+    },
+    {
+      "start_ms": 2978000,
+      "duration_ms": 5119,
+      "text": "number of locations. Uh bronze plan"
+    },
+    {
+      "start_ms": 2980559,
+      "duration_ms": 5841,
+      "text": "maximum three locations, silver plan"
+    },
+    {
+      "start_ms": 2983119,
+      "duration_ms": 6881,
+      "text": "maximum five and the gold plan maximum"
+    },
+    {
+      "start_ms": 2986400,
+      "duration_ms": 5840,
+      "text": "10. So in this way clients switching I"
+    },
+    {
+      "start_ms": 2990000,
+      "duration_ms": 4960,
+      "text": "mean upgrading the plans they unlock"
+    },
+    {
+      "start_ms": 2992240,
+      "duration_ms": 5760,
+      "text": "more features but also more location. So"
+    },
+    {
+      "start_ms": 2994960,
+      "duration_ms": 6080,
+      "text": "you can choose which type of pricing"
+    },
+    {
+      "start_ms": 2998000,
+      "duration_ms": 5839,
+      "text": "model uh is the best for you. Question"
+    },
+    {
+      "start_ms": 3001040,
+      "duration_ms": 6960,
+      "text": "from Eric. Does the social agent post"
+    },
+    {
+      "start_ms": 3003839,
+      "duration_ms": 7681,
+      "text": "only post or stories? Um will both be"
+    },
+    {
+      "start_ms": 3008000,
+      "duration_ms": 5440,
+      "text": "possible? Yes. Um we discussed it la"
+    },
+    {
+      "start_ms": 3011520,
+      "duration_ms": 3920,
+      "text": "last week."
+    },
+    {
+      "start_ms": 3013440,
+      "duration_ms": 4320,
+      "text": "uh and I forgot to add it in the plan"
+    },
+    {
+      "start_ms": 3015440,
+      "duration_ms": 5040,
+      "text": "features but I will add it. Basically"
+    },
+    {
+      "start_ms": 3017760,
+      "duration_ms": 4319,
+      "text": "there will be here in the uh social"
+    },
+    {
+      "start_ms": 3020480,
+      "duration_ms": 3839,
+      "text": "agent"
+    },
+    {
+      "start_ms": 3022079,
+      "duration_ms": 4721,
+      "text": "uh there will be post story and also"
+    },
+    {
+      "start_ms": 3024319,
+      "duration_ms": 6721,
+      "text": "both. So there will be this third option"
+    },
+    {
+      "start_ms": 3026800,
+      "duration_ms": 7799,
+      "text": "that the agent automatically post both"
+    },
+    {
+      "start_ms": 3031040,
+      "duration_ms": 3559,
+      "text": "stories and post."
+    },
+    {
+      "start_ms": 3035760,
+      "duration_ms": 5520,
+      "text": "Marco WhatsApp integration is still not"
+    },
+    {
+      "start_ms": 3038079,
+      "duration_ms": 6240,
+      "text": "working properly. Um"
+    },
+    {
+      "start_ms": 3041280,
+      "duration_ms": 6319,
+      "text": "yes so uh WhatsApp we're we are uh"
+    },
+    {
+      "start_ms": 3044319,
+      "duration_ms": 5760,
+      "text": "monitoring the uh WhatsApp integration"
+    },
+    {
+      "start_ms": 3047599,
+      "duration_ms": 6000,
+      "text": "let's say that 80% is working as you"
+    },
+    {
+      "start_ms": 3050079,
+      "duration_ms": 6641,
+      "text": "know we work with bird so um bird use"
+    },
+    {
+      "start_ms": 3053599,
+      "duration_ms": 6480,
+      "text": "WhatsApp APIs and we use bird APIs to"
+    },
+    {
+      "start_ms": 3056720,
+      "duration_ms": 5599,
+      "text": "send uh WhatsApp messages and uh it's"
+    },
+    {
+      "start_ms": 3060079,
+      "duration_ms": 4081,
+      "text": "also a new integration for them. So"
+    },
+    {
+      "start_ms": 3062319,
+      "duration_ms": 5280,
+      "text": "let's say that we are still in the in"
+    },
+    {
+      "start_ms": 3064160,
+      "duration_ms": 6240,
+      "text": "the beta phase for WhatsApp but we uh of"
+    },
+    {
+      "start_ms": 3067599,
+      "duration_ms": 4561,
+      "text": "course we will uh uh keep improving it"
+    },
+    {
+      "start_ms": 3070400,
+      "duration_ms": 3360,
+      "text": "and we are monitoring closely"
+    },
+    {
+      "start_ms": 3072160,
+      "duration_ms": 7199,
+      "text": "everything."
+    },
+    {
+      "start_ms": 3073760,
+      "duration_ms": 7760,
+      "text": "Uh yes Corsa this session is recorded"
+    },
+    {
+      "start_ms": 3079359,
+      "duration_ms": 4641,
+      "text": "and then we have last question from"
+    },
+    {
+      "start_ms": 3081520,
+      "duration_ms": 4240,
+      "text": "Martin."
+    },
+    {
+      "start_ms": 3084000,
+      "duration_ms": 4720,
+      "text": "How do you deal with incentivized"
+    },
+    {
+      "start_ms": 3085760,
+      "duration_ms": 5599,
+      "text": "reviews? Any workarounds? Uh it says"
+    },
+    {
+      "start_ms": 3088720,
+      "duration_ms": 4560,
+      "text": "offering incentives like discounts, gift"
+    },
+    {
+      "start_ms": 3091359,
+      "duration_ms": 4321,
+      "text": "or money for Google business profile"
+    },
+    {
+      "start_ms": 3093280,
+      "duration_ms": 5600,
+      "text": "reviews is strictly against Google"
+    },
+    {
+      "start_ms": 3095680,
+      "duration_ms": 5840,
+      "text": "policies and FTC rules risking review"
+    },
+    {
+      "start_ms": 3098880,
+      "duration_ms": 5840,
+      "text": "removal, profile uh suspension and"
+    },
+    {
+      "start_ms": 3101520,
+      "duration_ms": 8079,
+      "text": "damaging customer trust. So we all know"
+    },
+    {
+      "start_ms": 3104720,
+      "duration_ms": 8399,
+      "text": "about this and so we also all know that"
+    },
+    {
+      "start_ms": 3109599,
+      "duration_ms": 7441,
+      "text": "still a lot of uh businesses uh do it"
+    },
+    {
+      "start_ms": 3113119,
+      "duration_ms": 7521,
+      "text": "even if uh legally is not 100% uh"
+    },
+    {
+      "start_ms": 3117040,
+      "duration_ms": 6000,
+      "text": "possible. Uh of course we do not uh"
+    },
+    {
+      "start_ms": 3120640,
+      "duration_ms": 5040,
+      "text": "suggest to do something if in your"
+    },
+    {
+      "start_ms": 3123040,
+      "duration_ms": 4640,
+      "text": "country is not 100%"
+    },
+    {
+      "start_ms": 3125680,
+      "duration_ms": 5280,
+      "text": "uh legal."
+    },
+    {
+      "start_ms": 3127680,
+      "duration_ms": 6240,
+      "text": "Maybe verbally. Uh if your clients have"
+    },
+    {
+      "start_ms": 3130960,
+      "duration_ms": 5359,
+      "text": "some uh of course physical and verbal"
+    },
+    {
+      "start_ms": 3133920,
+      "duration_ms": 4399,
+      "text": "interaction with their end customer, uh"
+    },
+    {
+      "start_ms": 3136319,
+      "duration_ms": 5040,
+      "text": "they can say they can say something"
+    },
+    {
+      "start_ms": 3138319,
+      "duration_ms": 6481,
+      "text": "about the um uh the gift that they can"
+    },
+    {
+      "start_ms": 3141359,
+      "duration_ms": 6161,
+      "text": "give uh in exchange of the review. And"
+    },
+    {
+      "start_ms": 3144800,
+      "duration_ms": 5519,
+      "text": "this can be for example part of the"
+    },
+    {
+      "start_ms": 3147520,
+      "duration_ms": 7039,
+      "text": "training process that you do during the"
+    },
+    {
+      "start_ms": 3150319,
+      "duration_ms": 7040,
+      "text": "uh setup. uh when you train uh the staff"
+    },
+    {
+      "start_ms": 3154559,
+      "duration_ms": 5441,
+      "text": "of your clients about the words that"
+    },
+    {
+      "start_ms": 3157359,
+      "duration_ms": 5200,
+      "text": "they have to use in order to ask for"
+    },
+    {
+      "start_ms": 3160000,
+      "duration_ms": 5839,
+      "text": "review. Uh so they can talk about for"
+    },
+    {
+      "start_ms": 3162559,
+      "duration_ms": 4800,
+      "text": "example a reward if the customer leave a"
+    },
+    {
+      "start_ms": 3165839,
+      "duration_ms": 3520,
+      "text": "review."
+    },
+    {
+      "start_ms": 3167359,
+      "duration_ms": 4960,
+      "text": "uh maybe they do not write nothing in"
+    },
+    {
+      "start_ms": 3169359,
+      "duration_ms": 6161,
+      "text": "their review link and um but of course"
+    },
+    {
+      "start_ms": 3172319,
+      "duration_ms": 7921,
+      "text": "if in your specific country uh this is"
+    },
+    {
+      "start_ms": 3175520,
+      "duration_ms": 8079,
+      "text": "100% uh uh not legal and there are a lot"
+    },
+    {
+      "start_ms": 3180240,
+      "duration_ms": 5599,
+      "text": "of example of businesses um of Google"
+    },
+    {
+      "start_ms": 3183599,
+      "duration_ms": 5121,
+      "text": "business profiles shuted down because of"
+    },
+    {
+      "start_ms": 3185839,
+      "duration_ms": 7641,
+      "text": "this of course we do not suggest to use"
+    },
+    {
+      "start_ms": 3188720,
+      "duration_ms": 4760,
+      "text": "uh uh a reward system."
+    },
+    {
+      "start_ms": 3193839,
+      "duration_ms": 4000,
+      "text": "Uh, question from Mateo. The ranking"
+    },
+    {
+      "start_ms": 3195760,
+      "duration_ms": 4799,
+      "text": "section is great, but I've noticed two"
+    },
+    {
+      "start_ms": 3197839,
+      "duration_ms": 4801,
+      "text": "issues. Firstly, the ranking is in a tab"
+    },
+    {
+      "start_ms": 3200559,
+      "duration_ms": 4321,
+      "text": "and it's not very visible to users."
+    },
+    {
+      "start_ms": 3202640,
+      "duration_ms": 5919,
+      "text": "Everyone seems to ask where to find it."
+    },
+    {
+      "start_ms": 3204880,
+      "duration_ms": 8000,
+      "text": "Could we make it more uh noticeable? So,"
+    },
+    {
+      "start_ms": 3208559,
+      "duration_ms": 7760,
+      "text": "the ranking as you know is um here in"
+    },
+    {
+      "start_ms": 3212880,
+      "duration_ms": 5199,
+      "text": "the home section we have this four"
+    },
+    {
+      "start_ms": 3216319,
+      "duration_ms": 4161,
+      "text": "cards,"
+    },
+    {
+      "start_ms": 3218079,
+      "duration_ms": 5040,
+      "text": "reviews, statistics, Google performance."
+    },
+    {
+      "start_ms": 3220480,
+      "duration_ms": 5359,
+      "text": "ah sorry something that we moved um"
+    },
+    {
+      "start_ms": 3223119,
+      "duration_ms": 6161,
+      "text": "today. So Google performance that was"
+    },
+    {
+      "start_ms": 3225839,
+      "duration_ms": 6720,
+      "text": "into the profile section. So was below"
+    },
+    {
+      "start_ms": 3229280,
+      "duration_ms": 6880,
+      "text": "here. Uh we decided to move it in the uh"
+    },
+    {
+      "start_ms": 3232559,
+      "duration_ms": 6321,
+      "text": "home screen because in the homes we just"
+    },
+    {
+      "start_ms": 3236160,
+      "duration_ms": 6320,
+      "text": "put everything related to statistics and"
+    },
+    {
+      "start_ms": 3238880,
+      "duration_ms": 6320,
+      "text": "performance. The other sections are the"
+    },
+    {
+      "start_ms": 3242480,
+      "duration_ms": 5599,
+      "text": "management sections let's say of the uh"
+    },
+    {
+      "start_ms": 3245200,
+      "duration_ms": 5440,
+      "text": "platform. Home is just for uh"
+    },
+    {
+      "start_ms": 3248079,
+      "duration_ms": 5681,
+      "text": "monitoring. So we decide to centralize"
+    },
+    {
+      "start_ms": 3250640,
+      "duration_ms": 6080,
+      "text": "everything related to uh uh monitoring"
+    },
+    {
+      "start_ms": 3253760,
+      "duration_ms": 7040,
+      "text": "in the uh home section and ranking and"
+    },
+    {
+      "start_ms": 3256720,
+      "duration_ms": 6720,
+      "text": "competitor is the uh uh last one and let"
+    },
+    {
+      "start_ms": 3260800,
+      "duration_ms": 6240,
+      "text": "me show you also from uh mobile. All"
+    },
+    {
+      "start_ms": 3263440,
+      "duration_ms": 6720,
+      "text": "right. Uh we have now this uh uh"
+    },
+    {
+      "start_ms": 3267040,
+      "duration_ms": 6000,
+      "text": "beautiful drop-down menu where you can"
+    },
+    {
+      "start_ms": 3270160,
+      "duration_ms": 4800,
+      "text": "switch from a section to uh another. And"
+    },
+    {
+      "start_ms": 3273040,
+      "duration_ms": 6640,
+      "text": "so you say that this is not super"
+    },
+    {
+      "start_ms": 3274960,
+      "duration_ms": 7280,
+      "text": "visible. And of course"
+    },
+    {
+      "start_ms": 3279680,
+      "duration_ms": 6399,
+      "text": "uh it's um"
+    },
+    {
+      "start_ms": 3282240,
+      "duration_ms": 6160,
+      "text": "uh we cannot do a lot about this. Uh of"
+    },
+    {
+      "start_ms": 3286079,
+      "duration_ms": 4801,
+      "text": "course it's also your role during the"
+    },
+    {
+      "start_ms": 3288400,
+      "duration_ms": 4560,
+      "text": "setup to explain everything to the"
+    },
+    {
+      "start_ms": 3290880,
+      "duration_ms": 5679,
+      "text": "customers so they know that the ranking"
+    },
+    {
+      "start_ms": 3292960,
+      "duration_ms": 8159,
+      "text": "section is here. Uh maybe we can do a"
+    },
+    {
+      "start_ms": 3296559,
+      "duration_ms": 7760,
+      "text": "poll in the community to to just uh uh"
+    },
+    {
+      "start_ms": 3301119,
+      "duration_ms": 5281,
+      "text": "see if uh it's uh maybe more important"
+    },
+    {
+      "start_ms": 3304319,
+      "duration_ms": 6721,
+      "text": "than sentiment and Google performance."
+    },
+    {
+      "start_ms": 3306400,
+      "duration_ms": 8320,
+      "text": "So we move it maybe as second uh so we"
+    },
+    {
+      "start_ms": 3311040,
+      "duration_ms": 7440,
+      "text": "can do this poll and uh so you guys can"
+    },
+    {
+      "start_ms": 3314720,
+      "duration_ms": 6160,
+      "text": "see uh can decide if for example ranking"
+    },
+    {
+      "start_ms": 3318480,
+      "duration_ms": 4560,
+      "text": "is more important than other section. So"
+    },
+    {
+      "start_ms": 3320880,
+      "duration_ms": 5199,
+      "text": "we can move it to the second place. And"
+    },
+    {
+      "start_ms": 3323040,
+      "duration_ms": 4559,
+      "text": "then secondly, the chart comparing"
+    },
+    {
+      "start_ms": 3326079,
+      "duration_ms": 5040,
+      "text": "numbers"
+    },
+    {
+      "start_ms": 3327599,
+      "duration_ms": 7441,
+      "text": "um to average scores is powerful, but"
+    },
+    {
+      "start_ms": 3331119,
+      "duration_ms": 6161,
+      "text": "the design is a bit uh poor. Um I think"
+    },
+    {
+      "start_ms": 3335040,
+      "duration_ms": 7039,
+      "text": "you're talking about this. All right,"
+    },
+    {
+      "start_ms": 3337280,
+      "duration_ms": 6720,
+      "text": "let me Okay, let me show it entirely. Um"
+    },
+    {
+      "start_ms": 3342079,
+      "duration_ms": 4401,
+      "text": "it would be great if we could make it"
+    },
+    {
+      "start_ms": 3344000,
+      "duration_ms": 4319,
+      "text": "more visually appealing and easier to"
+    },
+    {
+      "start_ms": 3346480,
+      "duration_ms": 4000,
+      "text": "understand."
+    },
+    {
+      "start_ms": 3348319,
+      "duration_ms": 7921,
+      "text": "All right, so as also said, this is a"
+    },
+    {
+      "start_ms": 3350480,
+      "duration_ms": 10079,
+      "text": "V1. Uh, so if you have a suggestion for"
+    },
+    {
+      "start_ms": 3356240,
+      "duration_ms": 7040,
+      "text": "how to redesign this, um, feel free to"
+    },
+    {
+      "start_ms": 3360559,
+      "duration_ms": 5601,
+      "text": "to open a ticket or also to post in the"
+    },
+    {
+      "start_ms": 3363280,
+      "duration_ms": 5839,
+      "text": "community a a new design that maybe you"
+    },
+    {
+      "start_ms": 3366160,
+      "duration_ms": 6320,
+      "text": "you like about this and we can comment"
+    },
+    {
+      "start_ms": 3369119,
+      "duration_ms": 5121,
+      "text": "this uh together and if everyone likes"
+    },
+    {
+      "start_ms": 3372480,
+      "duration_ms": 4639,
+      "text": "the new design, we can uh we can"
+    },
+    {
+      "start_ms": 3374240,
+      "duration_ms": 5920,
+      "text": "implement it. So feel free to do a"
+    },
+    {
+      "start_ms": 3377119,
+      "duration_ms": 5041,
+      "text": "sketch about this and uh and so we can"
+    },
+    {
+      "start_ms": 3380160,
+      "duration_ms": 4159,
+      "text": "comment it all together in the"
+    },
+    {
+      "start_ms": 3382160,
+      "duration_ms": 5919,
+      "text": "community."
+    },
+    {
+      "start_ms": 3384319,
+      "duration_ms": 5361,
+      "text": "Then uh last question from Elliot. Uh"
+    },
+    {
+      "start_ms": 3388079,
+      "duration_ms": 4081,
+      "text": "will it be possible to add the team"
+    },
+    {
+      "start_ms": 3389680,
+      "duration_ms": 4320,
+      "text": "members to our climbbo account? I have"
+    },
+    {
+      "start_ms": 3392160,
+      "duration_ms": 3919,
+      "text": "people who sell services with me would"
+    },
+    {
+      "start_ms": 3394000,
+      "duration_ms": 4960,
+      "text": "like to let them log in under my"
+    },
+    {
+      "start_ms": 3396079,
+      "duration_ms": 5681,
+      "text": "account. Yes, this is the uh most voted"
+    },
+    {
+      "start_ms": 3398960,
+      "duration_ms": 6800,
+      "text": "features. Uh we want to do a big thing"
+    },
+    {
+      "start_ms": 3401760,
+      "duration_ms": 5680,
+      "text": "for uh uh your sales team."
+    },
+    {
+      "start_ms": 3405760,
+      "duration_ms": 4000,
+      "text": "So there will be a dedicated section"
+    },
+    {
+      "start_ms": 3407440,
+      "duration_ms": 4720,
+      "text": "where you can add uh not only team"
+    },
+    {
+      "start_ms": 3409760,
+      "duration_ms": 4960,
+      "text": "members that let's say staff team"
+    },
+    {
+      "start_ms": 3412160,
+      "duration_ms": 6560,
+      "text": "members that just uh access to your"
+    },
+    {
+      "start_ms": 3414720,
+      "duration_ms": 6399,
+      "text": "agency account to manage things. Uh but"
+    },
+    {
+      "start_ms": 3418720,
+      "duration_ms": 5520,
+      "text": "we want to do something specifically for"
+    },
+    {
+      "start_ms": 3421119,
+      "duration_ms": 8561,
+      "text": "uh sales people that can sell for you"
+    },
+    {
+      "start_ms": 3424240,
+      "duration_ms": 9200,
+      "text": "and earn a percentage of the MR of the"
+    },
+    {
+      "start_ms": 3429680,
+      "duration_ms": 5679,
+      "text": "clients that they uh they close."
+    },
+    {
+      "start_ms": 3433440,
+      "duration_ms": 5119,
+      "text": "So there will be this thing it's one of"
+    },
+    {
+      "start_ms": 3435359,
+      "duration_ms": 4960,
+      "text": "the priority for the first quarter of of"
+    },
+    {
+      "start_ms": 3438559,
+      "duration_ms": 3681,
+      "text": "this year."
+    },
+    {
+      "start_ms": 3440319,
+      "duration_ms": 4161,
+      "text": "So thank you guys for joining this"
+    },
+    {
+      "start_ms": 3442240,
+      "duration_ms": 4720,
+      "text": "event. I'm very very happy that I"
+    },
+    {
+      "start_ms": 3444480,
+      "duration_ms": 5920,
+      "text": "remember to record the event. So this"
+    },
+    {
+      "start_ms": 3446960,
+      "duration_ms": 8399,
+      "text": "will be published uh tomorrow uh in the"
+    },
+    {
+      "start_ms": 3450400,
+      "duration_ms": 7199,
+      "text": "community and um we will uh do a new a"
+    },
+    {
+      "start_ms": 3455359,
+      "duration_ms": 4161,
+      "text": "new post in the community on Monday as"
+    },
+    {
+      "start_ms": 3457599,
+      "duration_ms": 4720,
+      "text": "we did"
+    },
+    {
+      "start_ms": 3459520,
+      "duration_ms": 6079,
+      "text": "uh this Monday with the uh development"
+    },
+    {
+      "start_ms": 3462319,
+      "duration_ms": 4881,
+      "text": "plan for the uh for the week. And the"
+    },
+    {
+      "start_ms": 3465599,
+      "duration_ms": 4240,
+      "text": "last question from Donna. So like an"
+    },
+    {
+      "start_ms": 3467200,
+      "duration_ms": 6240,
+      "text": "affiliate scheme on our white label. Uh"
+    },
+    {
+      "start_ms": 3469839,
+      "duration_ms": 6641,
+      "text": "yes. So basically you can uh add your"
+    },
+    {
+      "start_ms": 3473440,
+      "duration_ms": 6000,
+      "text": "sales team. uh they will have probably a"
+    },
+    {
+      "start_ms": 3476480,
+      "duration_ms": 7839,
+      "text": "dedicated coupon code"
+    },
+    {
+      "start_ms": 3479440,
+      "duration_ms": 7520,
+      "text": "and uh if you uh get clients using that"
+    },
+    {
+      "start_ms": 3484319,
+      "duration_ms": 6881,
+      "text": "uh dedicated coupon code that you assign"
+    },
+    {
+      "start_ms": 3486960,
+      "duration_ms": 9520,
+      "text": "to each team member uh automatically a"
+    },
+    {
+      "start_ms": 3491200,
+      "duration_ms": 9200,
+      "text": "part of the MR of the uh client that uh"
+    },
+    {
+      "start_ms": 3496480,
+      "duration_ms": 5920,
+      "text": "uh got sold will go to uh your team"
+    },
+    {
+      "start_ms": 3500400,
+      "duration_ms": 5600,
+      "text": "member. So they'll be able maybe to add"
+    },
+    {
+      "start_ms": 3502400,
+      "duration_ms": 5840,
+      "text": "their payout the sorry the uh PayPal uh"
+    },
+    {
+      "start_ms": 3506000,
+      "duration_ms": 4720,
+      "text": "link. We track the commission and then"
+    },
+    {
+      "start_ms": 3508240,
+      "duration_ms": 5040,
+      "text": "externally you can pay out of the uh"
+    },
+    {
+      "start_ms": 3510720,
+      "duration_ms": 6560,
+      "text": "commission. All right. So thanks"
+    },
+    {
+      "start_ms": 3513280,
+      "duration_ms": 7200,
+      "text": "everyone and um as I said the features"
+    },
+    {
+      "start_ms": 3517280,
+      "duration_ms": 7440,
+      "text": "presented today are already live in your"
+    },
+    {
+      "start_ms": 3520480,
+      "duration_ms": 8319,
+      "text": "uh account and um we'll see each other"
+    },
+    {
+      "start_ms": 3524720,
+      "duration_ms": 6480,
+      "text": "next uh Thursday with another uh AMA"
+    },
+    {
+      "start_ms": 3528799,
+      "duration_ms": 6040,
+      "text": "event. It's been a pleasure and have a"
+    },
+    {
+      "start_ms": 3531200,
+      "duration_ms": 3639,
+      "text": "good weekend to everyone."
+    }
+  ],
+  "text": "recording has just started. All right. So, thanks everyone for joining this second live event and uh let's go straight to the point uh because I'm very very happy to um talk a little bit with uh Wayne that some of you most of you already uh know about something new that we're doing in the community from the um uh next month. So from uh from February and uh so basically we're going to work together with Wayne that in a few seconds is going to quickly uh present himself for the people who uh uh do not know him and talk a little bit about uh what uh he'll do with us. Uh so we're going to do uh monthly uh sales uh online meetups. Let's call them like this. uh where Wayne is going to show to everyone in the community the uh best sales strategies that he's using since um a lot of years to um to sell Climbbo uh to all his local business clients. And um before leaving the word to uh to you Wayne, I want to um um reply to Christian that in the chat is saying no sound. Uh probably you do not hear the sound if you join the event from a external link without being logged into school. So as the last time um you have to firstly go into school, log in into your school account, go into the climb accelerator community, click on calendar, select the event and then um click on the link of the uh event. So in this way you make sure you're logged into school. So you hear the uh sound basically you're not hearing the sound because you're logged out from uh from school. All right. So, uh, let's start. So, welcome, Wayne. I know it's a little bit late in, uh, in Australia. What, what time is it there? >> Uh, just gone 1:00 a.m. >> All right. So, we go, uh, uh, we go straight to the point with Wayne. So, if you can please um, uh, present you a little bit to all the people that uh, I I I guess that most of the people already know Wayne because was Wayne was very very present in our uh, previous community. But for all the people that maybe were not present in the previous community, if you can uh present a little bit about you and your back background and tell to everyone uh what you'll do in the climb accelerator community. >> No, look, happy to do that. Thanks for having me on, Jackamo. It's uh great to be working with you guys again. Um, as most of you know, we used in in Climbo one uh original school in 2024, we ran a a series of Zoom meetings every month and it was all sales related and then um Climbbo were focusing on the new software 2.0. So, we put that aside for a year so the boys could focus 100% on that. Um, and Jakam and I uh caught up the other day and had a good chat about what we can do uh together again to uh bring 2.0 really to the forefront. Um, and as some of you know, I've I've already migrated a lot of my clients across to the 2.0 platform. I'm far I'm a huge fan and uh and I've said publicly before, initially I wasn't, but now I'm I'm a raving fan of 2.0. My background is in direct sales. I've done businessto business and doortodoor selling since 1992. So, it's been a fair while. I've lost count of how many doors I've knocked on and presentations I've done. At one point in my career when I was selling inhome domestic sales, I I'd had 10,000 inhome presentations under my belt. So, there's a fair few. In businessto business sales, I've been doing that since uh probably around about 98. So, it's it's been a long time. Uh, and the market really hasn't changed. The way we do things, the way we communicate to businesses, especially locally, they they'd love to deal locally. People think when they join an online community like like um Climbbo, uh they want to have clients globally. They want to scale globally. Your biggest success is always in your backyard. You know, I'm I'm now known in my area as the review guy. >> Now, my area has grown. Admittedly, it's not only here on the Sunshine Coast, but we've got the Gold Coast. I've got clients in America. I've got clients in in New Zealand, and they've all come from referrals from other businesses. So, we're going to really harness and focus on local sales, the the techniques I've I've used and continue to change and develop. Um, and I see some people in the community come up with some great ideas and I'll I generally will grab them and test them myself and go, \"Yeah, that was fantastic. Let's let's see what we can do to make that even better.\" But yeah, so we're going to be running a Zoom once a month um back to what we used to do and that's it'll be an open forum Zoom. There'll always be a structure there, a topic and then from that topic in that call will evolve and move on. So, we're excited to to uh move forward and and grow the community and grow the sales and and help as many local business owners as we can. >> That's amazing. So, that's amazing and thank you, Wayne, for being present uh in the climate community. Uh I really love what you said about uh being local because I think that's the biggest uh lesson here. the biggest first lesson uh that we can take from this first uh let's say minutes of introduction uh because um as you said a lot of people come to client thinking that they can start to sell the platform to you know the other countries in the world businesses in other region other countries uh but what really a small local business owner wants is a local uh partner that they can talk physically, they can meet physically that they can uh trust. So of course we are software users, we are software buyers. So for us is not not a problem to buy a tool made in another continent because we are tech people. uh but small local business owners that usually are not tech-savvy uh people, they want something like a real local uh partnership. And Wayne is an expert on this on building local uh partnership and uh on acquiring customers for this uh uh review management uh business. So this is what we're going to do uh from the next month with uh Wayne. I know a lot of you guys uh need this because a lot of you uh asked for uh for this. So we're going to do uh monthly meetings with the Wayne. Everything of course is going to be um uh recorded and published into the classroom of the uh community and in every event of course there will be a Q&A session with uh Wayne where you can ask uh everything. And for those who want to go deep and have a real also uh onetoone with Wayne, there will be also the possibility to uh uh to do that to get onetoone support with uh with Wayne. So thanks Wayne for uh coming uh in this uh in the beginning of this uh event and so yep. >> No, my pleasure. I'll just address one quick question here. This is not uh this is absolutely separate to our climbbo pros group which is a private uh mentoring group we've got. So this is a free session I'll be running every month uh in the climbbo community. It's not a paid session. >> Of course it will be free for everyone inside the uh the community. So all of you guys will be able to uh to join. So thanks a lot Wayne. And so we see each other in the next event. >> Yeah. No, look forward to it. Look forward to it. Guys, thanks for allowing me the opportunity to share again. We're we're really excited for the future of Climb. >> Perfect. So, we're really do what you need to do. >> Let's go. All right. Thanks, Wayne. >> All right, guys. So, let's go with the um um plan agenda for today. I see that a lot of you still have problems with the audio. Um, and uh, let me clarify this again. In order to hear my voice, you have to be logged into school. You don't hear me because you're logged out. So, you click the school link from uh an external app and uh, you are not logged into your school account. So, you have to go to school.com, log in, go inside the client community, go to calendar and click the uh the event link. And in this way you'll be able to uh to hear the sound. All right. Um so let's go with the uh agendas for uh today. So as as you know every week uh firstly we talk about the new features and then we do a uh Q&A session uh related to the new features published and also if you want to ask things about uh our uh our road map. So let me share my screen. Uh, so I'll be able to show you what we've built. All right. Perfect. Perfect. You'll be able you should be able to see my screen now. Uh, just let me know in the chat if you see the screen. Perfect. All right. All right. So let's go with today's uh agenda. I'm very happy that now you hear also my voice. So as I uh previously announced in the uh community this week we work mainly on uh three things. So we uh of course um um work in the uh mobile app uh development. So everything is ready for um starting uh the next month with the first batch of apps and I'm very very happy that the first uh 15 uh people uh decided to uh join the uh first batch. So now all the other uh climbers who wants to uh join the mobile app service will go into the uh next batch which will be the uh March uh batch. And uh of course two be big things that we developed this week are coupon codes and uh uh tiered pricing um I prefer to call it package pricing that we're going to see in a minute. And these features are already live inside your um your account. So we published we released these features like a few minutes ago. So let's start with uh coupons. So of course coupons just work for paid plans. So uh of course as you know when you create your uh custom pricing plans you can create uh both uh free plans and the paid plan. Of course coupons works just for paid plan. And of course you have to uh integrate stripe in order to be able to create uh paid plans. And let's see how coupon uh works. So basically you just go to settings coupons and uh in order to create a coupon of course you just click on the plus button. Um you add the coupon name like for example 20 off. Uh you select the duration of the coupon. You can choose between once and forever. Uh once mean that uh for example for a monthly subscription uh the coupon will be used just for the first month and then all the next payments uh will be um charged without the coupon. Of course forever the coupon will be used uh forever. So, for example, if there is a $100 per month subscription and we have a 20 off coupon uh forever, every month the customer pays 80 uh $80. So, let's create for example a 20 uh% off coupon. So, we select uh for example forever because we want the coupon to works for every payment of the customer. Uh we select the type of the coupon. we have a percentage like 20% off or fixed uh amount. If we select percentage, we just have to insert the uh the scanned value like uh 20. Of course, if we select a fixed amount, firstly we select the currency and then the value. Of course, if you have plans in dollars here, you create uh coupons with uh the uh dollars uh amount. So just make sure that you you use the same currencies on plans and uh coupons and uh and that's it. So super super easy. Let's do for example a uh 20% coupon forever. Uh we just click save and the coupon is created. And here you have the um list of your uh coupons and you can see all the datas like the duration, the discount and also the usage. So, if a coupon is used by customers, you can see it uh here. And and of course, you can delete the coupon if you don't need to use them um anymore. And of course, uh in the uh plans section right now, when you create a um a plan, let's get into a plan already created, for example, the uh bronze bronze plan. You see you have here a new option uh which is called uh allow coupons. All right. So in the uh payment link there will be the possibility for uh your customers to add a coupon code. For example, let's open this um payment link for the uh $49 per month bronze plan uh where we allowed coupon. You see there is the um the button add uh promotion code. All right. And so if I click here, of course, as you know, this is the uh Stripe checkout. We can add the uh coupon that we've just uh created 20 off. And you see that the um the monthly amount goes uh down. So uh in the uh client sections right now when your clients use uh a coupon you will see a uh coupon icon here it means that the client is using a coupon and just moving the mouse uh over this you can see the details of the uh coupon usage use it for example this client used the uh 10 10 off v1 coupon which is 10% off uh forever ever. So that's the first big thing for this uh week. So of course this is a uh v1 so version one of coupons. There are a lot of other things that we can do with coupons. Uh for example we can uh set up an uh an expiration date for coupons or a redemption limit. Uh, for example, the coupon that we created for the mobile app, as you know, had a redial limit of uh 15 um usages and so you'll be able to set this advanced limits in in the future in a let's say V2 of the coupons. Uh so for example, we can set that for example, this coupon has a redemption limit of let's say uh five usages. So if it reach five the coupon doesn't work anymore. So in this way you can create some kind of um uh scarcity for your customers saying hey there is this coupon but it's expiring uh like in a week or uh just five people can use it. Uh so this is the first big thing. Then the the second big field that we released this week that was highly highly requested and will allow you to create a new pricing model for your plans is a package pricing. All right. So let me show you how it works. So we create of course a paid plan. And when we scroll down to uh the price section, you can see here that we can choose the um the pricing model. So we have price per location which is the uh the model that uh you are already using uh where you choose a price and then uh your clients can add multiple location and for each location they pay the the same price and uh another thing that you can do right now is a package price. All right so let me show you how it works. So super super simple. So this new pricing model allow you to create um a different model for your pricing plan. So uh instead of charging per location, you set the um maximum number of location that the client can add uh while it's subscribed to this uh plan. And if they need more location, they have of course to switch to uh a plan that allows more uh location. And uh so very very simple. So we can create a plan with for example free location as the uh limit. And then we can choose the monthly amount for example $50 and then the uh annual amount for example $500. So super super simple. So in this way we can create this type of uh pricing strategy. As you can see I have a bronze plan, silver plan, gold plan and uh enterprise. These are all plans with uh package uh pricing. And as you can see, we have the bronze plan that accept ma max maximum free locations and uh customers pay 49 per month or uh 499 per year. We have the silver plan that uh allow maximum five locations uh 99 and 999 per year and then we have the gold plan with 10 uh location. And then we have the enterprise plan maybe for very big customers which is disabled from the billing portal. So our customers subscribe to these plans so to bronze, silver and gold. They do not see the enterprise plan in the billing portal uh which allow up to 100 location and uh you charge uh 999 per month. All right. So that's the big thing and let me show you how it works. um client side. All right. Uh because I have here a client that as you can see is uh subscribed to the uh bronze plan. All right. So the bronze plan is this plan here that allows maximum free uh uh locations. Um before showing you how it works um client side, let me clarify a very very important thing. So, of course, it's important that um you choose a single pricing strategy. We do not suggest to mix uh price per location plans and packaged um uh plans, right? We do not suggest to have uh different type of plans. So uh also because you do not want in your client's billing portal to show you both uh plans that allows price per location and plans with the package pricing of course which suggests to use a single pricing strategy. So you choose uh do you want to charge uh per location or do you want to charge uh with the package pricing model. So you choose one of the uh two uh strategies. For example, as you can see in this account, we have choose the package uh pricing model. So we just have a plans uh with the uh packaged uh pricing models. All right. Uh so um let me log into this client account that is in the uh bronze plan. All right. So I click view client as you know I log into the client account. This is a an empty client, but I just want to show you the um uh the billing section. So, um this client is subscribed to the bronze plan. All right. So, we have bronze, silver, and uh gold. As you see, as you can see, the enterprise plan is not visible because we disabled it from the uh billing portal. So the bronze plan allows up to uh three locations. All right. And as you can see here, we have added a single location. All right. So let me add the second location, location two. And as you can see, I can do this. So I can add the uh second location. And I should be able to add also the third location because the bronze plan allow up to uh free uh locations. All right. So now I have a free uh location and of course with the uh menu here I can switch from a location to another. If I click new location right now, you can see that uh I've reached the limit of location provided for this plan because my bronze plan allow maximum free uh location. So in order to add the fourth location, I have to switch uh plan. So I go to building and I see that the silver plan allows uh five uh location. So I want to add my uh fourth location. So the only thing that I can do is switch to the silver plan. So as a customer I click on switch and I'm redirected into your um into your Berlin portal directly into the uh pricing table where I can uh switch uh the plan. Here your clients can see your plans and uh both the monthly um um the monthly plans and also sorry the monthly price pricing and the yearly pricing and um I want to switch to the silver plan because I want to add the um the fourth location. So I select the silver plan. I click on continue. I see uh how much I'm going to be charged. Uh, of course, uh I I had a 10% coupon applied. Uh that was a forever uh coupon. And so this coupon is also transition in the um in the silver plan because it's it's a forever coupon. So I'm not going to pay 99 per month. Um but I pay 89 uh10 and I subscribe. So I switch to the silver plan. All right. So I'm a silver uh customer right now. I return to the platform. As you can see now the silver plan is active. So I'm now able to add as you can see the location 4 location location for sorry location and so this is all automated for you. So uh in the in this way your clients can autonomously switch add more uh location. For example the silver allows five locations. So let me add also the uh location number five. And let me just verify that that if I try to add a a new location now, I cannot do it because I have to go to the uh gold plan that allows uh 10 locations. Uh so this is uh the uh two big things for this uh week. So coupon codes. All right, very very simple settings, coupon codes. So you can uh create whatever you want. As I said, it's a V1, so we will add more uh coupon settings in the future. And we have now packaged pricing uh plans. As I said, I suggest to use a single strategy. So if you want to use this type of pricing model, just create uh plans with this uh pricing uh pricing model. And uh so this allow you to to if you want recreate your plans, change your pricing strategy. So uh you can choose which is the pricing model that better adapt to your uh agency business. So that's it for the demo of this uh week. Uh I see a question from uh frankly what was the gift? Uh so the gift that was presented at the beginning of the event is that from the uh next month every month we're going to do a live event with uh Wayne uh which is a uh top climber hundreds of customers in uh in Australia and he's going to teach to the community the best uh sales strategy in order to get real concrete results with the client as he's doing since uh since a lot of years and uh so he's going to come live to the community every month. Of course, it's a free event for all the people in the community. He's going to provide so much value uh related to sales because he has so much experience on uh on this. And of course, all the Wayne's lessons are going to be recorded, saved, and published into a classroom of the community. And for those of you who want to go deep with Wayne, there will be also the option to do a um a paid onetoone with him that I know a lot of you are already uh doing. Uh so Wayne will be uh able to reply to all your uh questions uh privately. And so that that was the uh the big gift uh that we announced. So let's go with Q&A. All right. Uh let's start with um Quincy. Sorry. Let me move my microphone. Um I see that you can't add package pricing uh to panels that already exist in Stripe. Exactly. Okay. So um if you are familiar with stripe uh you know that also inside the stripe when you create a product you cannot edit the price of the product. This is not possible even into uh stripe. So if you have already created a plan um you cannot edit the plan uh price and also of course the uh price and model. So this is not possible even into stripe and so of course even uh also without with the stripe APIs this is not possible. So in order to create this this type of uh plans you have to rebuild so to recreate new plans. Uh question from Orion is the mobile app really uh 5K yes it's a done for you service. uh we explain everything in the previous event and so you can watch the uh uh recording of the previous event where we uh talk about everything that we're going to uh do for you for this uh done for you uh service. Question from Paul, you suggest to use package plan rather than the original plan earlier. No, I just suggest to use a single uh pricing model. uh you can choose which type of uh pricing model um better fit your uh your agency business. Both models are good. Uh there are both uh there are climbers who are getting ex extre extremely good results with the with a model and also other climbers that are getting uh good results with the other models. I'm talking about of course this this package uh uh pricing model was also previously available in the previous version of cliento. So climbo 1.0 and so a lot of people got good results with this model but also the price perocation model uh works very well. So you can choose between uh these two type of uh pricing model. A question from Eric. Would it be possible that when I make a quick request for a review, I can also access my templates here? Uh yes, uh we've already talked internally about uh this. Uh let me just show you uh in the uh screen. So right now um when you when you want to do a quick recess uh sorry, let me show you here from the demo account. So when you do a um a quick request uh your uh templates created in the uh templates section are not visible. Uh but you simply um see the a single previously created template. Let me just go to the text section. So basically when you get to this step which is the last step of the quick request you do not see your templates but you see just this uh text that you can edit of course it's saved so the next time you see the um the previously sent uh text. Uh why we didn't add here the uh templates because it can happen that um your uh your client uh are for example just have this uh uh review features enabled and do not have the uh uh request um feature enabled. So they do not have templates enabled. So in this case if templates are not enabled uh there should be uh something to show them. That's that's why we've added the uh this flow here. Uh but we want to do that if your clients have this uh uh request feature enabled. So if they have template uh we can show also the uh templates. So they can choose if they want to create a custom template or if they can use the uh templates already uh already created. Uh question from um Garby. I want to set up um automation um so this CRM connected with existing clients uh to send a review request um reminder and last call and then the process of free review request need to start with every new client in the CRM. Uh yeah, we're going to work on review reminders if that's the um uh the question. So you'll be able you'll be able to set set up a flow or of review request directly from uh uh from client. Question from Eric. Could you please prevent the page from constantly reloading after an action so that one can continue at the point where they left off? It always starts at the top of the page and you have to scroll back to place where you stopped. Uh yeah. All right. I'm going to notify my tech team about this. Uh I think you're talking about um the fact that for example if I go in another tab and I return here sometime the page refresh itself. So I I I will notify the the team about it. Uh Donna is this recorded? Yes. Yeah. Yeah. Yes. So I click the record button this time. So, uh, it's going to be uploaded in the community probably tomorrow. Eric, could you please prioritize custom prompts for answers? Uh, we have a lot of thing to to prioritize. Of course, we try to do our best. Uh, we prioritize what has uh the most votes uh for now. So, in the climbbo road map, you see there are a lot of things with a lot of votes. So, we uh prioritize them. question from Paul. You're going to explain how to set up the app. Yes, next week uh in the um uh community, we're going to publish this new classroom related to the app. So, there will be lessons related to how to fill the uh the Google form. next week. Yes. Question from uh Garby. All right. Very long question. So on ranking the analyze keyword is the category you have to uh choose when setting up your Google business profile. If you scroll down, you see the um longtail keywords people looked for in the last uh month. It will be great if you could take that keyword and see how you rank on uh that one. It it suggests you which keyword to use in your AI responses. You could use those keyword uh for ads. Currently, clients can cancel their subscription at any time leading to unpredictable revenue and frequent churn. As we automate more task, our value increase and we need more stable long-term client relationships. uh the goal is to reduce churn, increase uh predictability and streamline retention without sacrificing customer experience. So regarding the keyword that we show for the uh ranking uh report, let me show to uh everyone. So let me go to home uh ranking and competitors. uh of course as you know the keyword that we use here to create the ranking analysis is the category of the uh business. Um I know and we know that there are a lot of keywords for which uh your clients want to see their ranking. Uh as I said when I presented this big feature, this is also a v1 and so there will be other version in the future. And something that we want to do of course is to let your client change this and uh let your client see their rankings also for uh different keywords uh so they can take their uh uh their conclusions and of course yes. So regarding the uh AI agent, so the uh SEO agent, uh as you know, right now uh these keywords are not uh automatically uh prefilled for your clients. So you or your clients have to uh add them uh manually. Uh there will be also a V2 also for this where we automatically suggest a keyword. So maybe we go into the Google business profile. We just look at which are the uh most use most searched keyword for your client's business and we add them here. So we make sure that the SEO agent reply using those keywords. So your client starts to uh rank higher for those keywords. question from Ryan uh regarding the app. So regarding the app, right now this is the only thing that we do. So the done for you service where we uh um publish the app for you. Uh maybe in the future there will be uh new things but right now this is the only thing that we do uh uh related to the uh to the app. Question from Paul. Uh request a quick brief training to use uh the integration client 2.0 to lead connector via Zapier. All right. Uh yes. So as you know Climbo is on Zapier. So both our own Zapier app for the agency mode and also the unbranded app for the um clients mode. So I'm talking about this um AI connector Zapier integration. Um there will be uh soon also a classroom dedicated to uh automations. So I'm recording uh this uh this lessons. So you'll be able to learn how to use uh client integrating it with the thousand of apps available in uh in Zapier and both for the agency mode and also for the uh for the clients mode not only Zapier but also NA10 public make.com uh Paul you're asking for the uh Thai uh language and when customer leave a review in a language, Thai or any other language, the AI automatically respond in that uh language. Yes. So right now you can already uh set up the uh language for the AI replies. So I guess Thailand is not uh present. All right, we have a lot of languages but Thailand is not present. Uh so um we I'm I'm going to notify my tech team about this. It's very quick on our side to add a new language. So we'll we'll do this. Question from Mattel. Is there any chance we can have a custom page in Climbo where we can embed some custom code as an easy example? Add a custom link contact page in the sidebar. Uh yes yes so this is something that um was present in climbbo 2.0 sorry in climbo 1.0 for those who do not uh know. So we are talking about the possibility for you to add a custom link uh maybe here that uh redirect to an external page. Um, right now the only thing that you can do is uh the possibility for you to add uh custom code. So from the brand section you just go here and you can add custom code. So you can add maybe a floating button whatever. So this is currently possible. Uh you can use um tool for example like uh L site. I don't know if you know them. I just write here in the chat. I think this is um the name of the tool. Sorry. Let me just show you here. So with this kind of tool, you can create uh I don't know floating button. So you just uh WhatsApp chat uh widget uh whatever. uh you just get the um the code and you copy and paste it uh here. So this is what you currently can do right now but we want to add the custom uh link. Uh also something that we want to work very very soon is the uh free trial banner. So your clients in free trial in the uh in the in their clients mode as a top bar uh they have a banner and you can uh customize the text and the call to action of the banner. This is something that we want to do custom links. Yes, this will be done. Question from Andy. Anyone here running a reviews only clientbo agency? If you're starting with zero client, how realistic is it to make this sustainable? I suggest to do a post about it in the community. There are already posts about it. Um, of course, climbber is not a let's say a a super easy business model, but if you uh commit to work uh especially locally, uh so do not try to find customers, you know, in other continents, but wants to be a real a local partner for your clients. Uh there are a lot of people that started from zero and transformed it into a a real uh a real business. So this is uh this is possible. Not easy. Nothing is easy, especially business, but this is possible. Donna, you have an issue with the um generation of reports via the uh widget. Um please open a ticket and we're going to look into it. Kevin, if you have question about switching from 1.0 to 2.0, please open a ticket. Uh, question from Ryan. Will there be more design customization options on the platforms in terms of color scheme? For example, a different color palette for the uh next gold uh color bar. Uh, for now, no. So I'm talking about um of course this. So right now as you know in climbo uh we prefer simplicity. So we prefer that you choose a single color and then all the platform colors adapt to the color that uh you choose. And um so for now we haven't planned to allow you to uh add the custom colors um on uh for example have a bar in a color and the buttons in another color. So we prefer this type of simplicity for now. Question from Brian. Do you need to use any email finder or can I use another email finder tool? So if you use our prospecting tool uh the tool is integrated with any email finder. So you have to use uh any email finder. Uh of course you're free to use any other tools but externally from from clientop. Uh Garby uh currently clients can cancel the subscription at any time. Um yes this is uh uh so your clients can um cancel their subscription from their uh stripe customer portal. So they just click on the the cancel button and uh this is uh the stripe customer portal but this is what also most of customers uh want. So they especially nowadays people they uh do not want to be forced to contact you or to schedule a meeting with you if they want to cancel the subscription. So we prefer that your clients are if they want of course are free to uh autonomously uh cancel the uh the subscription. Um Paul, why we have to pay for WhatsApp? Uh because we use WhatsApp APIs. So we do not uh uh so WhatsApp APIs is not uh free. Uh I show you WhatsApp pricing. All right. If you just go to Google WhatsApp API pricing and you go here, you scroll uh for example, sending a WhatsApp message to uh Italy for example in dollars, a marketing message, as you can see cost uh 7 cent to to us, right? And right now we charge per uh area. So we have uh US and Canada, uh UK and Australia, and then rest of the world. As I said in the community, we're going to implement a u more specific um price per country. So you're going to pay exactly what uh WhatsApp uh charge us to send uh messages. A question from Gary. Will Autokit be supported? Autokit is a Zapier uh competitor. Um so right now as you know we have the app into Zapier but right now you can if you know how to use uh APIs and um you you can already use other no code tools like n10 uh make.com public uh etc. maybe also autokit if they allow to do uh custom API calls. I'm going to do lessons about it of course, but you can already use our APIs with the tools like uh uh tools different from uh Zapier Zapier competitors. Uh question from uh Josia. Can uh users uh purchase multiple locations under single plan? Example, customers want T1 with free location. T1 equals basic features plus one location. T2 equals more features plus one location. So um right now as you know we have as I presented today two different pricing mode uh price per location where uh you create for example three plans in every plan you just enable or disable features and uh then if if the clients wants to add multiple location they have to pay for each uh location or we have the pricing that I've presented today. So the packaged uh pricing where you can do uh this thing here. So you can create three plans bronze, silver and gold. For every plan you enable air disabled feature and you set also the maximum number of locations. Uh bronze plan maximum three locations, silver plan maximum five and the gold plan maximum 10. So in this way clients switching I mean upgrading the plans they unlock more features but also more location. So you can choose which type of pricing model uh is the best for you. Question from Eric. Does the social agent post only post or stories? Um will both be possible? Yes. Um we discussed it la last week. uh and I forgot to add it in the plan features but I will add it. Basically there will be here in the uh social agent uh there will be post story and also both. So there will be this third option that the agent automatically post both stories and post. Marco WhatsApp integration is still not working properly. Um yes so uh WhatsApp we're we are uh monitoring the uh WhatsApp integration let's say that 80% is working as you know we work with bird so um bird use WhatsApp APIs and we use bird APIs to send uh WhatsApp messages and uh it's also a new integration for them. So let's say that we are still in the in the beta phase for WhatsApp but we uh of course we will uh uh keep improving it and we are monitoring closely everything. Uh yes Corsa this session is recorded and then we have last question from Martin. How do you deal with incentivized reviews? Any workarounds? Uh it says offering incentives like discounts, gift or money for Google business profile reviews is strictly against Google policies and FTC rules risking review removal, profile uh suspension and damaging customer trust. So we all know about this and so we also all know that still a lot of uh businesses uh do it even if uh legally is not 100% uh possible. Uh of course we do not uh suggest to do something if in your country is not 100% uh legal. Maybe verbally. Uh if your clients have some uh of course physical and verbal interaction with their end customer, uh they can say they can say something about the um uh the gift that they can give uh in exchange of the review. And this can be for example part of the training process that you do during the uh setup. uh when you train uh the staff of your clients about the words that they have to use in order to ask for review. Uh so they can talk about for example a reward if the customer leave a review. uh maybe they do not write nothing in their review link and um but of course if in your specific country uh this is 100% uh uh not legal and there are a lot of example of businesses um of Google business profiles shuted down because of this of course we do not suggest to use uh uh a reward system. Uh, question from Mateo. The ranking section is great, but I've noticed two issues. Firstly, the ranking is in a tab and it's not very visible to users. Everyone seems to ask where to find it. Could we make it more uh noticeable? So, the ranking as you know is um here in the home section we have this four cards, reviews, statistics, Google performance. ah sorry something that we moved um today. So Google performance that was into the profile section. So was below here. Uh we decided to move it in the uh home screen because in the homes we just put everything related to statistics and performance. The other sections are the management sections let's say of the uh platform. Home is just for uh monitoring. So we decide to centralize everything related to uh uh monitoring in the uh home section and ranking and competitor is the uh uh last one and let me show you also from uh mobile. All right. Uh we have now this uh uh beautiful drop-down menu where you can switch from a section to uh another. And so you say that this is not super visible. And of course uh it's um uh we cannot do a lot about this. Uh of course it's also your role during the setup to explain everything to the customers so they know that the ranking section is here. Uh maybe we can do a poll in the community to to just uh uh see if uh it's uh maybe more important than sentiment and Google performance. So we move it maybe as second uh so we can do this poll and uh so you guys can see uh can decide if for example ranking is more important than other section. So we can move it to the second place. And then secondly, the chart comparing numbers um to average scores is powerful, but the design is a bit uh poor. Um I think you're talking about this. All right, let me Okay, let me show it entirely. Um it would be great if we could make it more visually appealing and easier to understand. All right, so as also said, this is a V1. Uh, so if you have a suggestion for how to redesign this, um, feel free to to open a ticket or also to post in the community a a new design that maybe you you like about this and we can comment this uh together and if everyone likes the new design, we can uh we can implement it. So feel free to do a sketch about this and uh and so we can comment it all together in the community. Then uh last question from Elliot. Uh will it be possible to add the team members to our climbbo account? I have people who sell services with me would like to let them log in under my account. Yes, this is the uh most voted features. Uh we want to do a big thing for uh uh your sales team. So there will be a dedicated section where you can add uh not only team members that let's say staff team members that just uh access to your agency account to manage things. Uh but we want to do something specifically for uh sales people that can sell for you and earn a percentage of the MR of the clients that they uh they close. So there will be this thing it's one of the priority for the first quarter of of this year. So thank you guys for joining this event. I'm very very happy that I remember to record the event. So this will be published uh tomorrow uh in the community and um we will uh do a new a new post in the community on Monday as we did uh this Monday with the uh development plan for the uh for the week. And the last question from Donna. So like an affiliate scheme on our white label. Uh yes. So basically you can uh add your sales team. uh they will have probably a dedicated coupon code and uh if you uh get clients using that uh dedicated coupon code that you assign to each team member uh automatically a part of the MR of the uh client that uh uh got sold will go to uh your team member. So they'll be able maybe to add their payout the sorry the uh PayPal uh link. We track the commission and then externally you can pay out of the uh commission. All right. So thanks everyone and um as I said the features presented today are already live in your uh account and um we'll see each other next uh Thursday with another uh AMA event. It's been a pleasure and have a good weekend to everyone."
+}
