@@ -1,0 +1,1603 @@
+{
+  "meta": {
+    "source": "live"
+  },
+  "results": {
+    "etag": "thp2DABHcVfuunYg16ofZeQmIPE",
+    "items": [
+      {
+        "etag": "ga4TxjZSKW2HqEYNVRVahkOD1MQ",
+        "id": "12NwL4G8vIE",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "22",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "en",
+          "description": "Start and Grow your AI Local Agency: https://climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start and Grow your AI Local Agency: https://climbo.com",
+            "title": "Live A.M.A. (09/07/2026) - Home Charts Are Live!"
+          },
+          "publishedAt": "2026-07-10T20:18:06Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/12NwL4G8vIE/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/12NwL4G8vIE/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/12NwL4G8vIE/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/12NwL4G8vIE/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/12NwL4G8vIE/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (09/07/2026) - Home Charts Are Live!"
+        },
+        "statistics": {
+          "commentCount": "0",
+          "favoriteCount": "0",
+          "likeCount": "1",
+          "viewCount": "41"
+        }
+      },
+      {
+        "etag": "eEfzez_8OIUCYgkDHGwnSsJYAOw",
+        "id": "heg4L7e0QNs",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "22",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "en",
+          "description": "Start and Grow your AI Local Agency: https://climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start and Grow your AI Local Agency: https://climbo.com",
+            "title": "Live A.M.A. (01/07/2026) - Trial Limits, Google Event/Offer Posts, Stripe Accounting, \u0026 More!"
+          },
+          "publishedAt": "2026-07-03T13:47:48Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/heg4L7e0QNs/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/heg4L7e0QNs/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/heg4L7e0QNs/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/heg4L7e0QNs/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/heg4L7e0QNs/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (01/07/2026) - Trial Limits, Google Event/Offer Posts, Stripe Accounting, \u0026 More!"
+        },
+        "statistics": {
+          "commentCount": "1",
+          "favoriteCount": "0",
+          "likeCount": "4",
+          "viewCount": "98"
+        }
+      },
+      {
+        "etag": "ycDXfN-WZzaWp0jyCawTf6wTCvM",
+        "id": "hg7302kRED4",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "22",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultLanguage": "en",
+          "description": "",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "",
+            "title": "Apply at climbo.com"
+          },
+          "publishedAt": "2026-07-02T15:57:56Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/hg7302kRED4/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/hg7302kRED4/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/hg7302kRED4/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/hg7302kRED4/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/hg7302kRED4/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Apply at climbo.com"
+        },
+        "statistics": {
+          "commentCount": "0",
+          "favoriteCount": "0",
+          "likeCount": "0",
+          "viewCount": "833"
+        }
+      },
+      {
+        "etag": "bpINVjKVh0LNt5Wdxe3JN9A-Vc4",
+        "id": "HZ-9avetOnE",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "2",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "en",
+          "description": "Start and Grow your AI Local Agency: https://climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start and Grow your AI Local Agency: https://climbo.com",
+            "title": "Live A.M.A. (25/06/2026) - SMTP For Review Requests, Coupon Codes, Email History, \u0026 More!"
+          },
+          "publishedAt": "2026-06-26T08:41:56Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/HZ-9avetOnE/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/HZ-9avetOnE/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/HZ-9avetOnE/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/HZ-9avetOnE/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/HZ-9avetOnE/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (25/06/2026) - SMTP For Review Requests, Coupon Codes, Email History, \u0026 More!"
+        },
+        "statistics": {
+          "commentCount": "1",
+          "favoriteCount": "0",
+          "likeCount": "5",
+          "viewCount": "128"
+        }
+      },
+      {
+        "etag": "m5BgvD2woxvc3JS-vLJrkD1J2TE",
+        "id": "60nbKPfQ-eA",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "2",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "en",
+          "description": "Start and Grow your AI Local Agency: https://climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start and Grow your AI Local Agency: https://climbo.com",
+            "title": "Live A.M.A. (04/06/2026) - Launch Your Own Affiliate Program!"
+          },
+          "publishedAt": "2026-06-19T08:25:56Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/60nbKPfQ-eA/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/60nbKPfQ-eA/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/60nbKPfQ-eA/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/60nbKPfQ-eA/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/60nbKPfQ-eA/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (04/06/2026) - Launch Your Own Affiliate Program!"
+        },
+        "statistics": {
+          "commentCount": "0",
+          "favoriteCount": "0",
+          "likeCount": "3",
+          "viewCount": "126"
+        }
+      },
+      {
+        "etag": "WbSo5noI_Tzy3L0Z4pw18kWTb0Q",
+        "id": "qo0YRSxQgIU",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "2",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "",
+            "title": "Balance Explained: Messaging \u0026 AI Costs"
+          },
+          "publishedAt": "2026-06-17T09:27:15Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/qo0YRSxQgIU/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/qo0YRSxQgIU/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/qo0YRSxQgIU/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/qo0YRSxQgIU/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/qo0YRSxQgIU/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Balance Explained: Messaging \u0026 AI Costs"
+        },
+        "statistics": {
+          "commentCount": "0",
+          "favoriteCount": "0",
+          "likeCount": "3",
+          "viewCount": "112"
+        }
+      },
+      {
+        "etag": "p2o6c0HEbs3cOlbkLaBJckBWNPA",
+        "id": "oPElvf0vT6Y",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "2",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (04/06/2026) - AI Token Allocation for Clients"
+          },
+          "publishedAt": "2026-06-05T08:45:44Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/oPElvf0vT6Y/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/oPElvf0vT6Y/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/oPElvf0vT6Y/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/oPElvf0vT6Y/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/oPElvf0vT6Y/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (04/06/2026) - AI Token Allocation for Clients"
+        },
+        "statistics": {
+          "commentCount": "1",
+          "favoriteCount": "0",
+          "likeCount": "7",
+          "viewCount": "129"
+        }
+      },
+      {
+        "etag": "kyu-7dqPrCibRVfBbyaBJQYJ2jE",
+        "id": "rJhFyiE_Yvk",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "2",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (21/05/2026) - Your Branded AI Is Here!"
+          },
+          "publishedAt": "2026-05-21T15:49:33Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/rJhFyiE_Yvk/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/rJhFyiE_Yvk/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/rJhFyiE_Yvk/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/rJhFyiE_Yvk/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/rJhFyiE_Yvk/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (21/05/2026) - Your Branded AI Is Here!"
+        },
+        "statistics": {
+          "commentCount": "3",
+          "favoriteCount": "0",
+          "likeCount": "7",
+          "viewCount": "193"
+        }
+      },
+      {
+        "etag": "NQO3xDGKZmJKqKcXPf-MCbvTpAU",
+        "id": "e7WP2_j-Gmk",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "2",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultLanguage": "en",
+          "description": "New in Climbo: your AI, fully branded.\n\nAgencies can now customize the entire AI experience for their clients.\n\nGive your AI its own name, logo, and identity.\nPersonalize every single agent — SEO Agent, Social Agent, and GEO Agent — so the platform feels more unique, branded, and personal.\n\nAnd that’s not all.\n\nWe’re also introducing AI Chat.\n\nYour clients can now take action simply by chatting with their AI.\n\nThey can send review requests, get reports, update Google Business Profile hours, and much more — without navigating complex dashboards.\n\nJust one simple interface:\nChat with your AI. Get things done.\n\nBuilt for agencies that want to offer a smarter, more branded client experience.",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "New in Climbo: your AI, fully branded.\n\nAgencies can now customize the entire AI experience for their clients.\n\nGive your AI its own name, logo, and identity.\nPersonalize every single agent — SEO Agent, Social Agent, and GEO Agent — so the platform feels more unique, branded, and personal.\n\nAnd that’s not all.\n\nWe’re also introducing AI Chat.\n\nYour clients can now take action simply by chatting with their AI.\n\nThey can send review requests, get reports, update Google Business Profile hours, and much more — without navigating complex dashboards.\n\nJust one simple interface:\nChat with your AI. Get things done.\n\nBuilt for agencies that want to offer a smarter, more branded client experience.",
+            "title": "New in Climbo: your AI, fully branded."
+          },
+          "publishedAt": "2026-05-21T15:29:30Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/e7WP2_j-Gmk/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/e7WP2_j-Gmk/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/e7WP2_j-Gmk/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/e7WP2_j-Gmk/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/e7WP2_j-Gmk/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "New in Climbo: your AI, fully branded."
+        },
+        "statistics": {
+          "commentCount": "0",
+          "favoriteCount": "0",
+          "likeCount": "2",
+          "viewCount": "176"
+        }
+      },
+      {
+        "etag": "WMUgjzs2fio8dk-w3CANm01H9x0",
+        "id": "sIGOLZ1kFAQ",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Climbo in 1 minute"
+          },
+          "publishedAt": "2026-05-18T09:34:26Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/sIGOLZ1kFAQ/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/sIGOLZ1kFAQ/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/sIGOLZ1kFAQ/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/sIGOLZ1kFAQ/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/sIGOLZ1kFAQ/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Climbo in 1 minute"
+        },
+        "statistics": {
+          "commentCount": "0",
+          "favoriteCount": "0",
+          "likeCount": "9",
+          "viewCount": "509"
+        }
+      },
+      {
+        "etag": "O9r3kiNiM_005vZYXSh5B-tkb3s",
+        "id": "yFsRXQ4E9Wc",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (14/05/2026) - Google Sheets Integration \u0026 Complaint Review Link!"
+          },
+          "publishedAt": "2026-05-15T08:16:51Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/yFsRXQ4E9Wc/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/yFsRXQ4E9Wc/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/yFsRXQ4E9Wc/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/yFsRXQ4E9Wc/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/yFsRXQ4E9Wc/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (14/05/2026) - Google Sheets Integration \u0026 Complaint Review Link!"
+        },
+        "statistics": {
+          "commentCount": "0",
+          "favoriteCount": "0",
+          "likeCount": "4",
+          "viewCount": "148"
+        }
+      },
+      {
+        "etag": "G3e0rR9YyIXIuS7ZJbxCwGwde7w",
+        "id": "esTnEB5CyzA",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (07/04052026) - AI Ranking is Here!"
+          },
+          "publishedAt": "2026-05-08T12:53:50Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/esTnEB5CyzA/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/esTnEB5CyzA/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/esTnEB5CyzA/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/esTnEB5CyzA/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/esTnEB5CyzA/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (07/04052026) - AI Ranking is Here!"
+        },
+        "statistics": {
+          "commentCount": "4",
+          "favoriteCount": "0",
+          "likeCount": "13",
+          "viewCount": "262"
+        }
+      },
+      {
+        "etag": "zXALtG3QpvWEF1D270CfiYZtWpk",
+        "id": "0Jek3W4-9pk",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (23/04/2026) - Embed GEO Agent + Fixes \u0026 Improvements!"
+          },
+          "publishedAt": "2026-05-01T09:18:15Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/0Jek3W4-9pk/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/0Jek3W4-9pk/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/0Jek3W4-9pk/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/0Jek3W4-9pk/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/0Jek3W4-9pk/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (23/04/2026) - Embed GEO Agent + Fixes \u0026 Improvements!"
+        },
+        "statistics": {
+          "commentCount": "1",
+          "favoriteCount": "0",
+          "likeCount": "6",
+          "viewCount": "175"
+        }
+      },
+      {
+        "etag": "muAEWjSGFeAMORsKMy_o9BAIV1Q",
+        "id": "WUPOkx48fGY",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (23/04/2026) - Employees Tracking \u0026 Leaderboard + New UI Clients Mode"
+          },
+          "publishedAt": "2026-04-24T08:05:39Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/WUPOkx48fGY/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/WUPOkx48fGY/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/WUPOkx48fGY/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/WUPOkx48fGY/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/WUPOkx48fGY/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (23/04/2026) - Employees Tracking \u0026 Leaderboard + New UI Clients Mode"
+        },
+        "statistics": {
+          "commentCount": "2",
+          "favoriteCount": "0",
+          "likeCount": "8",
+          "viewCount": "190"
+        }
+      },
+      {
+        "etag": "g9hSs3Nv6Mi4OCUI78qbRMcCgB8",
+        "id": "LIn64wsy8wA",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (17/04/2026) - GEO Agent is Live!"
+          },
+          "publishedAt": "2026-04-17T07:44:45Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/LIn64wsy8wA/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/LIn64wsy8wA/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/LIn64wsy8wA/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/LIn64wsy8wA/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/LIn64wsy8wA/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (17/04/2026) - GEO Agent is Live!"
+        },
+        "statistics": {
+          "commentCount": "1",
+          "favoriteCount": "0",
+          "likeCount": "8",
+          "viewCount": "249"
+        }
+      },
+      {
+        "etag": "K-q4Dplppy0u589qLknVIxzSShY",
+        "id": "6Mj7hZUtfAA",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (09/04/2026) - GEO Agent is Coming! #2"
+          },
+          "publishedAt": "2026-04-10T12:59:20Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/6Mj7hZUtfAA/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/6Mj7hZUtfAA/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/6Mj7hZUtfAA/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/6Mj7hZUtfAA/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/6Mj7hZUtfAA/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (09/04/2026) - GEO Agent is Coming! #2"
+        },
+        "statistics": {
+          "commentCount": "1",
+          "favoriteCount": "0",
+          "likeCount": "5",
+          "viewCount": "192"
+        }
+      },
+      {
+        "etag": "8dWjsUFvfBrNwqvYBfgEncIvDGE",
+        "id": "ctiVjKi2LrU",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (02/04/2026) - GEO Agent is Coming!"
+          },
+          "publishedAt": "2026-04-02T18:52:05Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/ctiVjKi2LrU/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/ctiVjKi2LrU/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/ctiVjKi2LrU/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/ctiVjKi2LrU/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/ctiVjKi2LrU/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (02/04/2026) - GEO Agent is Coming!"
+        },
+        "statistics": {
+          "commentCount": "1",
+          "favoriteCount": "0",
+          "likeCount": "6",
+          "viewCount": "143"
+        }
+      },
+      {
+        "etag": "TeFNtoPfzRnrl-PI_y4njU63Xtk",
+        "id": "Q2RkdIdJBoY",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (31/03/2026) - Your Branded iOS \u0026 Android Mobile App!"
+          },
+          "publishedAt": "2026-04-01T09:50:57Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/Q2RkdIdJBoY/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/Q2RkdIdJBoY/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/Q2RkdIdJBoY/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/Q2RkdIdJBoY/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/Q2RkdIdJBoY/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (31/03/2026) - Your Branded iOS \u0026 Android Mobile App!"
+        },
+        "statistics": {
+          "commentCount": "0",
+          "favoriteCount": "0",
+          "likeCount": "5",
+          "viewCount": "166"
+        }
+      },
+      {
+        "etag": "CaSQc1JP01CNrPdsMV9W4x44i6w",
+        "id": "Cbw27lPDN-c",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "en",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (26/03/2026) - Email Reminders, Review Link Auto Translation, Printable Reports, \u0026 More!"
+          },
+          "publishedAt": "2026-03-27T11:25:55Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/Cbw27lPDN-c/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/Cbw27lPDN-c/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/Cbw27lPDN-c/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/Cbw27lPDN-c/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/Cbw27lPDN-c/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (26/03/2026) - Email Reminders, Review Link Auto Translation, Printable Reports, \u0026 More!"
+        },
+        "statistics": {
+          "commentCount": "2",
+          "favoriteCount": "0",
+          "likeCount": "7",
+          "viewCount": "174"
+        }
+      },
+      {
+        "etag": "N7yO53gLrR1xmZ0UEyQ_gV6M9L4",
+        "id": "BRocA7husPU",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Start a $3k/mo Reputation Management Business (No GHL Complex Setup)"
+          },
+          "publishedAt": "2026-03-20T11:15:38Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/BRocA7husPU/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/BRocA7husPU/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/BRocA7husPU/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/BRocA7husPU/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/BRocA7husPU/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Start a $3k/mo Reputation Management Business (No GHL Complex Setup)"
+        },
+        "statistics": {
+          "commentCount": "0",
+          "favoriteCount": "0",
+          "likeCount": "8",
+          "viewCount": "845"
+        }
+      },
+      {
+        "etag": "e9yLV9T-cJ2IXhrF4XrHkpxeFO4",
+        "id": "w3upDdv8hlY",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (19/03/2026) - Clients Filter, Booking Links, Demo Per Category \u0026 More!"
+          },
+          "publishedAt": "2026-03-20T10:28:14Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/w3upDdv8hlY/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/w3upDdv8hlY/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/w3upDdv8hlY/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/w3upDdv8hlY/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/w3upDdv8hlY/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (19/03/2026) - Clients Filter, Booking Links, Demo Per Category \u0026 More!"
+        },
+        "statistics": {
+          "commentCount": "1",
+          "favoriteCount": "0",
+          "likeCount": "11",
+          "viewCount": "150"
+        }
+      },
+      {
+        "etag": "-YdwnpNj6f0LkzJpHfQj_Sn-3_0",
+        "id": "bw83Z71GQzo",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (12/03/2026) - Review Request Reminders \u0026 Custom Links!"
+          },
+          "publishedAt": "2026-03-13T11:46:15Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/bw83Z71GQzo/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/bw83Z71GQzo/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/bw83Z71GQzo/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/bw83Z71GQzo/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/bw83Z71GQzo/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (12/03/2026) - Review Request Reminders \u0026 Custom Links!"
+        },
+        "statistics": {
+          "commentCount": "1",
+          "favoriteCount": "0",
+          "likeCount": "6",
+          "viewCount": "139"
+        }
+      },
+      {
+        "etag": "vzHFIfYUI0f7GyPfpBuMT660lhA",
+        "id": "yAx4pzDTmsY",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (05/03/2026) - Turn On/Off Review Link Features on Custom Plans!"
+          },
+          "publishedAt": "2026-03-06T10:26:59Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/yAx4pzDTmsY/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/yAx4pzDTmsY/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/yAx4pzDTmsY/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/yAx4pzDTmsY/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/yAx4pzDTmsY/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (05/03/2026) - Turn On/Off Review Link Features on Custom Plans!"
+        },
+        "statistics": {
+          "commentCount": "0",
+          "favoriteCount": "0",
+          "likeCount": "5",
+          "viewCount": "134"
+        }
+      },
+      {
+        "etag": "PsPoZZYnVdnC5nXB79iajgZZjhc",
+        "id": "i4D5yXclzEY",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (26/02/2026) - AI Review Suggestion is Here!"
+          },
+          "publishedAt": "2026-02-26T19:35:55Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/i4D5yXclzEY/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/i4D5yXclzEY/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/i4D5yXclzEY/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/i4D5yXclzEY/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/i4D5yXclzEY/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (26/02/2026) - AI Review Suggestion is Here!"
+        },
+        "statistics": {
+          "commentCount": "3",
+          "favoriteCount": "0",
+          "likeCount": "13",
+          "viewCount": "171"
+        }
+      },
+      {
+        "etag": "nVJ71iRZ-pn-iohGv-TLD4Sc1Ck",
+        "id": "pbGfIjJEwFE",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (19/02/2026) - Video Reviews Widgets, AI Chatbot, Webhook Builder \u0026 More!"
+          },
+          "publishedAt": "2026-02-19T21:17:09Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/pbGfIjJEwFE/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/pbGfIjJEwFE/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/pbGfIjJEwFE/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/pbGfIjJEwFE/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/pbGfIjJEwFE/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (19/02/2026) - Video Reviews Widgets, AI Chatbot, Webhook Builder \u0026 More!"
+        },
+        "statistics": {
+          "commentCount": "0",
+          "favoriteCount": "0",
+          "likeCount": "12",
+          "viewCount": "188"
+        }
+      },
+      {
+        "etag": "f90AumouJsaG5IJ1ki3Ht8ptbxU",
+        "id": "FXjbN3T1BU8",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (12/02/2026) - Automated Website For Clients \u0026 Instant Google Reviews"
+          },
+          "publishedAt": "2026-02-12T21:33:03Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/FXjbN3T1BU8/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/FXjbN3T1BU8/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/FXjbN3T1BU8/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/FXjbN3T1BU8/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/FXjbN3T1BU8/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (12/02/2026) - Automated Website For Clients \u0026 Instant Google Reviews"
+        },
+        "statistics": {
+          "commentCount": "6",
+          "favoriteCount": "0",
+          "likeCount": "12",
+          "viewCount": "259"
+        }
+      },
+      {
+        "etag": "khgc0oyg6sWq9xlQWX-kixpUp7w",
+        "id": "FtEM-FRfOgo",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (05/02/2026) - Agency Email Templates, Pre-Built Website For Clients, GEO Agent Coming!"
+          },
+          "publishedAt": "2026-02-05T21:43:35Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/FtEM-FRfOgo/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/FtEM-FRfOgo/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/FtEM-FRfOgo/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/FtEM-FRfOgo/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/FtEM-FRfOgo/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (05/02/2026) - Agency Email Templates, Pre-Built Website For Clients, GEO Agent Coming!"
+        },
+        "statistics": {
+          "commentCount": "2",
+          "favoriteCount": "0",
+          "likeCount": "8",
+          "viewCount": "189"
+        }
+      },
+      {
+        "etag": "4leoFHRix3fcd4BrOtnST4gL32k",
+        "id": "VibWfDfMwVA",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "en",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (29/01/2026) - Custom AI Prompt, Bulk Review Replies, Video on Review Link, \u0026 More!"
+          },
+          "publishedAt": "2026-01-30T14:57:55Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/VibWfDfMwVA/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/VibWfDfMwVA/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/VibWfDfMwVA/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/VibWfDfMwVA/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/VibWfDfMwVA/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (29/01/2026) - Custom AI Prompt, Bulk Review Replies, Video on Review Link, \u0026 More!"
+        },
+        "statistics": {
+          "commentCount": "2",
+          "favoriteCount": "0",
+          "likeCount": "17",
+          "viewCount": "199"
+        }
+      },
+      {
+        "etag": "Vkg2RWBrHm8hnOLLq5E9FnEAnPU",
+        "id": "Y-JnPapla-8",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Live A.M.A. (22/01/2026) - Monthly Sales Trainings, Coupon Codes \u0026 Package Pricing"
+          },
+          "publishedAt": "2026-01-23T11:01:59Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/Y-JnPapla-8/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/Y-JnPapla-8/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/Y-JnPapla-8/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/Y-JnPapla-8/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/Y-JnPapla-8/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Live A.M.A. (22/01/2026) - Monthly Sales Trainings, Coupon Codes \u0026 Package Pricing"
+        },
+        "statistics": {
+          "commentCount": "1",
+          "favoriteCount": "0",
+          "likeCount": "17",
+          "viewCount": "229"
+        }
+      },
+      {
+        "etag": "EssJ6k1s8GzGEuJkUJb6Cfx6Tt0",
+        "id": "PQiNrTKVLOU",
+        "kind": "youtube#video",
+        "snippet": {
+          "categoryId": "28",
+          "channelId": "UCZm2kvByDm6st8b_x7Dsf7w",
+          "channelTitle": "Climbo - Start Your AI Business",
+          "defaultAudioLanguage": "en",
+          "defaultLanguage": "it",
+          "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com\nFree Community: https://skool.climbo.com",
+            "title": "Climbo Restart: Features Drop, New Community, New Website \u0026 Pricing, Mobile Apps"
+          },
+          "publishedAt": "2026-01-16T16:27:55Z",
+          "thumbnails": {
+            "default": {
+              "height": 90,
+              "url": "https://i.ytimg.com/vi/PQiNrTKVLOU/default.jpg",
+              "width": 120
+            },
+            "high": {
+              "height": 360,
+              "url": "https://i.ytimg.com/vi/PQiNrTKVLOU/hqdefault.jpg",
+              "width": 480
+            },
+            "maxres": {
+              "height": 720,
+              "url": "https://i.ytimg.com/vi/PQiNrTKVLOU/maxresdefault.jpg",
+              "width": 1280
+            },
+            "medium": {
+              "height": 180,
+              "url": "https://i.ytimg.com/vi/PQiNrTKVLOU/mqdefault.jpg",
+              "width": 320
+            },
+            "standard": {
+              "height": 480,
+              "url": "https://i.ytimg.com/vi/PQiNrTKVLOU/sddefault.jpg",
+              "width": 640
+            }
+          },
+          "title": "Climbo Restart: Features Drop, New Community, New Website \u0026 Pricing, Mobile Apps"
+        },
+        "statistics": {
+          "commentCount": "4",
+          "favoriteCount": "0",
+          "likeCount": "17",
+          "viewCount": "347"
+        }
+      }
+    ],
+    "kind": "youtube#videoListResponse",
+    "pageInfo": {
+      "resultsPerPage": 30,
+      "totalResults": 30
+    }
+  }
+}

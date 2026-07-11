@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "source": "live"
+  },
+  "results": {
+    "etag": "x07cInqcAzGq452dZwkwFroPlUY",
+    "items": [
+      {
+        "etag": "hbFKFFlSKu1y0qcKF-T4a5RwbOc",
+        "id": "UCZm2kvByDm6st8b_x7Dsf7w",
+        "kind": "youtube#channel",
+        "snippet": {
+          "customUrl": "@climboapp",
+          "description": "Start Your AI Business: https://climbo.com",
+          "localized": {
+            "description": "Start Your AI Business: https://climbo.com",
+            "title": "Climbo - Start Your AI Business"
+          },
+          "publishedAt": "2019-12-16T13:24:31.062701Z",
+          "thumbnails": {
+            "default": {
+              "height": 88,
+              "url": "https://yt3.ggpht.com/5pDNV0mjJX-3Tsih0XAtPilDaS84tnI4keYBGjH_XHl0IdIKnuM_kL5AWysnCFaIW9_SdSC5lQ=s88-c-k-c0x00ffffff-no-rj",
+              "width": 88
+            },
+            "high": {
+              "height": 800,
+              "url": "https://yt3.ggpht.com/5pDNV0mjJX-3Tsih0XAtPilDaS84tnI4keYBGjH_XHl0IdIKnuM_kL5AWysnCFaIW9_SdSC5lQ=s800-c-k-c0x00ffffff-no-rj",
+              "width": 800
+            },
+            "medium": {
+              "height": 240,
+              "url": "https://yt3.ggpht.com/5pDNV0mjJX-3Tsih0XAtPilDaS84tnI4keYBGjH_XHl0IdIKnuM_kL5AWysnCFaIW9_SdSC5lQ=s240-c-k-c0x00ffffff-no-rj",
+              "width": 240
+            }
+          },
+          "title": "Climbo - Start Your AI Business"
+        }
+      }
+    ],
+    "kind": "youtube#channelListResponse",
+    "pageInfo": {
+      "resultsPerPage": 25,
+      "totalResults": 1
+    }
+  }
+}

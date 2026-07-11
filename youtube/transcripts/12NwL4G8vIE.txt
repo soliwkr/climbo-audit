@@ -1,0 +1,4743 @@
+{
+  "videoId": "12NwL4G8vIE",
+  "language": "en",
+  "kind": "asr",
+  "segments": [
+    {
+      "start_ms": 80,
+      "duration_ms": 5120,
+      "text": "and is recording. Perfect. So, let's"
+    },
+    {
+      "start_ms": 3520,
+      "duration_ms": 5640,
+      "text": "start."
+    },
+    {
+      "start_ms": 5200,
+      "duration_ms": 3960,
+      "text": "Let me share the screen."
+    },
+    {
+      "start_ms": 11120,
+      "duration_ms": 4399,
+      "text": "Perfect."
+    },
+    {
+      "start_ms": 13040,
+      "duration_ms": 5040,
+      "text": "All right guys, so"
+    },
+    {
+      "start_ms": 15519,
+      "duration_ms": 4961,
+      "text": "your clients uh from probably tomorrow"
+    },
+    {
+      "start_ms": 18080,
+      "duration_ms": 5199,
+      "text": "when we release this feature uh we'll"
+    },
+    {
+      "start_ms": 20480,
+      "duration_ms": 6480,
+      "text": "have this new section in their uh home"
+    },
+    {
+      "start_ms": 23279,
+      "duration_ms": 7281,
+      "text": "screen. So now the home screen is uh"
+    },
+    {
+      "start_ms": 26960,
+      "duration_ms": 7439,
+      "text": "divided into two section uh related to"
+    },
+    {
+      "start_ms": 30560,
+      "duration_ms": 7200,
+      "text": "the agent activity and to the uh growth."
+    },
+    {
+      "start_ms": 34399,
+      "duration_ms": 7521,
+      "text": "So we have these three beautiful charts"
+    },
+    {
+      "start_ms": 37760,
+      "duration_ms": 6560,
+      "text": "that I'm going to show you in a second"
+    },
+    {
+      "start_ms": 41920,
+      "duration_ms": 4720,
+      "text": "uh which are very helpful for them to"
+    },
+    {
+      "start_ms": 44320,
+      "duration_ms": 4800,
+      "text": "understand that since they join your"
+    },
+    {
+      "start_ms": 46640,
+      "duration_ms": 5520,
+      "text": "white label uh platform uh they are"
+    },
+    {
+      "start_ms": 49120,
+      "duration_ms": 5759,
+      "text": "growing the number of reviews the rating"
+    },
+    {
+      "start_ms": 52160,
+      "duration_ms": 5120,
+      "text": "the rankings and the impression and"
+    },
+    {
+      "start_ms": 54879,
+      "duration_ms": 4641,
+      "text": "clicks on the Google business profile."
+    },
+    {
+      "start_ms": 57280,
+      "duration_ms": 4880,
+      "text": "Uh this is super important for you"
+    },
+    {
+      "start_ms": 59520,
+      "duration_ms": 6080,
+      "text": "because of course we all know that uh"
+    },
+    {
+      "start_ms": 62160,
+      "duration_ms": 5600,
+      "text": "your clients buy results. They do not"
+    },
+    {
+      "start_ms": 65600,
+      "duration_ms": 4559,
+      "text": "buy features. So this is what they want"
+    },
+    {
+      "start_ms": 67760,
+      "duration_ms": 3840,
+      "text": "to see. Uh they are going to pay a"
+    },
+    {
+      "start_ms": 70159,
+      "duration_ms": 5521,
+      "text": "subscription with you. So they want to"
+    },
+    {
+      "start_ms": 71600,
+      "duration_ms": 7040,
+      "text": "see that the most important KPIs are"
+    },
+    {
+      "start_ms": 75680,
+      "duration_ms": 6400,
+      "text": "improving month by month and you're"
+    },
+    {
+      "start_ms": 78640,
+      "duration_ms": 6400,
+      "text": "bringing them real uh results. Uh on the"
+    },
+    {
+      "start_ms": 82080,
+      "duration_ms": 5200,
+      "text": "right we have the agent activity. So by"
+    },
+    {
+      "start_ms": 85040,
+      "duration_ms": 4640,
+      "text": "scrolling they can easily see that every"
+    },
+    {
+      "start_ms": 87280,
+      "duration_ms": 5280,
+      "text": "agent so the SEO agent, social agent,"
+    },
+    {
+      "start_ms": 89680,
+      "duration_ms": 5200,
+      "text": "geo agent are working every day in the"
+    },
+    {
+      "start_ms": 92560,
+      "duration_ms": 4160,
+      "text": "background and they are replying to"
+    },
+    {
+      "start_ms": 94880,
+      "duration_ms": 4960,
+      "text": "reviews, sharing reviews, creating blog"
+    },
+    {
+      "start_ms": 96720,
+      "duration_ms": 6719,
+      "text": "posts etc. And here on the right we have"
+    },
+    {
+      "start_ms": 99840,
+      "duration_ms": 6720,
+      "text": "firstly this um chart related to"
+    },
+    {
+      "start_ms": 103439,
+      "duration_ms": 5841,
+      "text": "reviews. So build trust turn reviews"
+    },
+    {
+      "start_ms": 106560,
+      "duration_ms": 5839,
+      "text": "into instant uh credibility and we have"
+    },
+    {
+      "start_ms": 109280,
+      "duration_ms": 7839,
+      "text": "two lines. So the blue lines represent"
+    },
+    {
+      "start_ms": 112399,
+      "duration_ms": 7921,
+      "text": "the uh number of uh reviews growing and"
+    },
+    {
+      "start_ms": 117119,
+      "duration_ms": 5841,
+      "text": "uh here we can also see the uh grow rate"
+    },
+    {
+      "start_ms": 120320,
+      "duration_ms": 5680,
+      "text": "since the beginning. So since the day"
+    },
+    {
+      "start_ms": 122960,
+      "duration_ms": 5919,
+      "text": "one and the day one is the day when they"
+    },
+    {
+      "start_ms": 126000,
+      "duration_ms": 5920,
+      "text": "uh join your platform and then we have"
+    },
+    {
+      "start_ms": 128879,
+      "duration_ms": 6881,
+      "text": "this uh orange uh line that represent"
+    },
+    {
+      "start_ms": 131920,
+      "duration_ms": 6080,
+      "text": "the uh average uh rating. So the rating"
+    },
+    {
+      "start_ms": 135760,
+      "duration_ms": 5280,
+      "text": "considering all the different uh review"
+    },
+    {
+      "start_ms": 138000,
+      "duration_ms": 5520,
+      "text": "platforms that they have uh integrated."
+    },
+    {
+      "start_ms": 141040,
+      "duration_ms": 6320,
+      "text": "So for example, Google, Yelp and uh Trip"
+    },
+    {
+      "start_ms": 143520,
+      "duration_ms": 7040,
+      "text": "Advisor. So here we have this um double"
+    },
+    {
+      "start_ms": 147360,
+      "duration_ms": 5760,
+      "text": "Yaxis of course in the left we have the"
+    },
+    {
+      "start_ms": 150560,
+      "duration_ms": 6080,
+      "text": "number of uh reviews. This case for"
+    },
+    {
+      "start_ms": 153120,
+      "duration_ms": 6320,
+      "text": "example this business has totally 52 uh"
+    },
+    {
+      "start_ms": 156640,
+      "duration_ms": 6959,
+      "text": "reviews. So here we have from zero to uh"
+    },
+    {
+      "start_ms": 159440,
+      "duration_ms": 7680,
+      "text": "16. And here on the right we have the"
+    },
+    {
+      "start_ms": 163599,
+      "duration_ms": 5920,
+      "text": "rating of course from uh zero to uh to"
+    },
+    {
+      "start_ms": 167120,
+      "duration_ms": 5920,
+      "text": "five. And here for example we can see"
+    },
+    {
+      "start_ms": 169519,
+      "duration_ms": 6161,
+      "text": "that when the client join the uh"
+    },
+    {
+      "start_ms": 173040,
+      "duration_ms": 5440,
+      "text": "platform for example in this case 12"
+    },
+    {
+      "start_ms": 175680,
+      "duration_ms": 6080,
+      "text": "month ago uh they had an average rating"
+    },
+    {
+      "start_ms": 178480,
+      "duration_ms": 5360,
+      "text": "of uh 35."
+    },
+    {
+      "start_ms": 181760,
+      "duration_ms": 5119,
+      "text": "As you can see with the mouse we can"
+    },
+    {
+      "start_ms": 183840,
+      "duration_ms": 6960,
+      "text": "move uh through the line and see for"
+    },
+    {
+      "start_ms": 186879,
+      "duration_ms": 7521,
+      "text": "every month their average uh rating uh"
+    },
+    {
+      "start_ms": 190800,
+      "duration_ms": 7920,
+      "text": "growing and right now they have average"
+    },
+    {
+      "start_ms": 194400,
+      "duration_ms": 7360,
+      "text": "rating of uh 4.9. All right. So a huge"
+    },
+    {
+      "start_ms": 198720,
+      "duration_ms": 6560,
+      "text": "improvement and so you will be able to"
+    },
+    {
+      "start_ms": 201760,
+      "duration_ms": 7680,
+      "text": "uh prove this improvement thanks to this"
+    },
+    {
+      "start_ms": 205280,
+      "duration_ms": 6400,
+      "text": "very uh easy to understand uh chart. So"
+    },
+    {
+      "start_ms": 209440,
+      "duration_ms": 7439,
+      "text": "they have improved their average rating"
+    },
+    {
+      "start_ms": 211680,
+      "duration_ms": 8240,
+      "text": "from uh 4 point sorry 3.5 to uh 4.9. So"
+    },
+    {
+      "start_ms": 216879,
+      "duration_ms": 5920,
+      "text": "huge results and also their number of"
+    },
+    {
+      "start_ms": 219920,
+      "duration_ms": 5280,
+      "text": "number of total reviews is growing. So"
+    },
+    {
+      "start_ms": 222799,
+      "duration_ms": 6160,
+      "text": "when they join your platform they have"
+    },
+    {
+      "start_ms": 225200,
+      "duration_ms": 5920,
+      "text": "for example just six uh total reviews"
+    },
+    {
+      "start_ms": 228959,
+      "duration_ms": 5121,
+      "text": "considering all the different uh review"
+    },
+    {
+      "start_ms": 231120,
+      "duration_ms": 5759,
+      "text": "platforms integrated and right now they"
+    },
+    {
+      "start_ms": 234080,
+      "duration_ms": 6159,
+      "text": "have uh 52 review. Of course, these are"
+    },
+    {
+      "start_ms": 236879,
+      "duration_ms": 6801,
+      "text": "just uh example uh data. We are using"
+    },
+    {
+      "start_ms": 240239,
+      "duration_ms": 6321,
+      "text": "this uh test business"
+    },
+    {
+      "start_ms": 243680,
+      "duration_ms": 5919,
+      "text": "and um but of course in a real uh"
+    },
+    {
+      "start_ms": 246560,
+      "duration_ms": 5840,
+      "text": "situation you'll be able to uh prove the"
+    },
+    {
+      "start_ms": 249599,
+      "duration_ms": 5121,
+      "text": "fact that uh they join your platform"
+    },
+    {
+      "start_ms": 252400,
+      "duration_ms": 4959,
+      "text": "with an average rating and after a few"
+    },
+    {
+      "start_ms": 254720,
+      "duration_ms": 5280,
+      "text": "months you've helped them to increase"
+    },
+    {
+      "start_ms": 257359,
+      "duration_ms": 4801,
+      "text": "this uh number. Same thing for the uh"
+    },
+    {
+      "start_ms": 260000,
+      "duration_ms": 4960,
+      "text": "total uh reviews. So here they"
+    },
+    {
+      "start_ms": 262160,
+      "duration_ms": 6640,
+      "text": "understand that the platform is working"
+    },
+    {
+      "start_ms": 264960,
+      "duration_ms": 6640,
+      "text": "in terms of uh reviews and uh rating."
+    },
+    {
+      "start_ms": 268800,
+      "duration_ms": 5839,
+      "text": "They see their number of reviews growing"
+    },
+    {
+      "start_ms": 271600,
+      "duration_ms": 5360,
+      "text": "month by month. The rating uh growing"
+    },
+    {
+      "start_ms": 274639,
+      "duration_ms": 5441,
+      "text": "month by month and so they see their"
+    },
+    {
+      "start_ms": 276960,
+      "duration_ms": 7040,
+      "text": "reputation is getting better and better"
+    },
+    {
+      "start_ms": 280080,
+      "duration_ms": 6640,
+      "text": "month by month. And you can easily prove"
+    },
+    {
+      "start_ms": 284000,
+      "duration_ms": 5440,
+      "text": "uh this through this uh chart dedicated"
+    },
+    {
+      "start_ms": 286720,
+      "duration_ms": 5440,
+      "text": "to uh reviews. So number of reviews and"
+    },
+    {
+      "start_ms": 289440,
+      "duration_ms": 6880,
+      "text": "average uh rating. Then we have this"
+    },
+    {
+      "start_ms": 292160,
+      "duration_ms": 6640,
+      "text": "second uh chart related to uh rankings."
+    },
+    {
+      "start_ms": 296320,
+      "duration_ms": 6080,
+      "text": "So as you know we track two different"
+    },
+    {
+      "start_ms": 298800,
+      "duration_ms": 5839,
+      "text": "types of uh ranking. So we track the"
+    },
+    {
+      "start_ms": 302400,
+      "duration_ms": 5760,
+      "text": "ranking on"
+    },
+    {
+      "start_ms": 304639,
+      "duration_ms": 6481,
+      "text": "uh Google maps and the ranking on uh AI"
+    },
+    {
+      "start_ms": 308160,
+      "duration_ms": 7599,
+      "text": "platform. And also here you can prove"
+    },
+    {
+      "start_ms": 311120,
+      "duration_ms": 9440,
+      "text": "that uh since they um joined"
+    },
+    {
+      "start_ms": 315759,
+      "duration_ms": 7681,
+      "text": "uh your platform they have um improved"
+    },
+    {
+      "start_ms": 320560,
+      "duration_ms": 6000,
+      "text": "their uh average uh ranking both on"
+    },
+    {
+      "start_ms": 323440,
+      "duration_ms": 8080,
+      "text": "Google maps and on AI platform. So here"
+    },
+    {
+      "start_ms": 326560,
+      "duration_ms": 8160,
+      "text": "we do an um average of the different um"
+    },
+    {
+      "start_ms": 331520,
+      "duration_ms": 5600,
+      "text": "positions um sorry on on an average on"
+    },
+    {
+      "start_ms": 334720,
+      "duration_ms": 4800,
+      "text": "the different rankings uh calculated on"
+    },
+    {
+      "start_ms": 337120,
+      "duration_ms": 6720,
+      "text": "the different uh positions. So as you"
+    },
+    {
+      "start_ms": 339520,
+      "duration_ms": 7119,
+      "text": "know uh in the uh visibility section uh"
+    },
+    {
+      "start_ms": 343840,
+      "duration_ms": 5919,
+      "text": "your clients can see their uh ranking"
+    },
+    {
+      "start_ms": 346639,
+      "duration_ms": 6081,
+      "text": "not only in their exact address but also"
+    },
+    {
+      "start_ms": 349759,
+      "duration_ms": 6081,
+      "text": "on different uh position. So we"
+    },
+    {
+      "start_ms": 352720,
+      "duration_ms": 7600,
+      "text": "basically do an average of all these uh"
+    },
+    {
+      "start_ms": 355840,
+      "duration_ms": 7520,
+      "text": "nine numbers and this is the uh average"
+    },
+    {
+      "start_ms": 360320,
+      "duration_ms": 6640,
+      "text": "map maps uh ranking and we can see that"
+    },
+    {
+      "start_ms": 363360,
+      "duration_ms": 6320,
+      "text": "when they u join your platform for"
+    },
+    {
+      "start_ms": 366960,
+      "duration_ms": 6160,
+      "text": "example in this case they had an average"
+    },
+    {
+      "start_ms": 369680,
+      "duration_ms": 6639,
+      "text": "maps ranking of uh 12. So they were in"
+    },
+    {
+      "start_ms": 373120,
+      "duration_ms": 7120,
+      "text": "the 12 uh position. So 12 was the"
+    },
+    {
+      "start_ms": 376319,
+      "duration_ms": 6561,
+      "text": "average of all these nine numbers and"
+    },
+    {
+      "start_ms": 380240,
+      "duration_ms": 5679,
+      "text": "every month they are improving the"
+    },
+    {
+      "start_ms": 382880,
+      "duration_ms": 5759,
+      "text": "average maps ranking and today they are"
+    },
+    {
+      "start_ms": 385919,
+      "duration_ms": 6560,
+      "text": "in the uh first position. So you can"
+    },
+    {
+      "start_ms": 388639,
+      "duration_ms": 6721,
+      "text": "prove that you are helping them to be in"
+    },
+    {
+      "start_ms": 392479,
+      "duration_ms": 6241,
+      "text": "the top position of the Google maps"
+    },
+    {
+      "start_ms": 395360,
+      "duration_ms": 5200,
+      "text": "ranking. Same thing for the AI ranking."
+    },
+    {
+      "start_ms": 398720,
+      "duration_ms": 3440,
+      "text": "So when they join your white label"
+    },
+    {
+      "start_ms": 400560,
+      "duration_ms": 4079,
+      "text": "platform"
+    },
+    {
+      "start_ms": 402160,
+      "duration_ms": 6960,
+      "text": "uh their average AI ranking which is of"
+    },
+    {
+      "start_ms": 404639,
+      "duration_ms": 6881,
+      "text": "course uh their um the average of these"
+    },
+    {
+      "start_ms": 409120,
+      "duration_ms": 5280,
+      "text": "uh four different numbers. So the"
+    },
+    {
+      "start_ms": 411520,
+      "duration_ms": 6560,
+      "text": "ranking on OpenAI, Gemini, Perplexity"
+    },
+    {
+      "start_ms": 414400,
+      "duration_ms": 5680,
+      "text": "and uh Grop. So when they join"
+    },
+    {
+      "start_ms": 418080,
+      "duration_ms": 5839,
+      "text": "uh your weight level platform they had"
+    },
+    {
+      "start_ms": 420080,
+      "duration_ms": 6239,
+      "text": "an average AI ranking of uh four. So on"
+    },
+    {
+      "start_ms": 423919,
+      "duration_ms": 4241,
+      "text": "average you were in the fourth position."
+    },
+    {
+      "start_ms": 426319,
+      "duration_ms": 4720,
+      "text": "And of course as you can see here the"
+    },
+    {
+      "start_ms": 428160,
+      "duration_ms": 6479,
+      "text": "ranking is improving month by month and"
+    },
+    {
+      "start_ms": 431039,
+      "duration_ms": 6241,
+      "text": "now they are also first on the uh AI"
+    },
+    {
+      "start_ms": 434639,
+      "duration_ms": 4000,
+      "text": "ranking. So also this chart is super"
+    },
+    {
+      "start_ms": 437280,
+      "duration_ms": 4400,
+      "text": "important because you can prove them"
+    },
+    {
+      "start_ms": 438639,
+      "duration_ms": 6241,
+      "text": "that uh when they join your weight label"
+    },
+    {
+      "start_ms": 441680,
+      "duration_ms": 6639,
+      "text": "platform they have a bad ranking on maps"
+    },
+    {
+      "start_ms": 444880,
+      "duration_ms": 5599,
+      "text": "and on AI platform and thanks to your"
+    },
+    {
+      "start_ms": 448319,
+      "duration_ms": 4641,
+      "text": "platform month by month they are"
+    },
+    {
+      "start_ms": 450479,
+      "duration_ms": 5681,
+      "text": "improving their rankings and right now"
+    },
+    {
+      "start_ms": 452960,
+      "duration_ms": 6720,
+      "text": "they are in the top uh position. uh they"
+    },
+    {
+      "start_ms": 456160,
+      "duration_ms": 6640,
+      "text": "show up on Google Maps and uh AI and so"
+    },
+    {
+      "start_ms": 459680,
+      "duration_ms": 6079,
+      "text": "they attract more uh customers because"
+    },
+    {
+      "start_ms": 462800,
+      "duration_ms": 6000,
+      "text": "they have more and more visibility month"
+    },
+    {
+      "start_ms": 465759,
+      "duration_ms": 7121,
+      "text": "by month and uh thanks to the last uh"
+    },
+    {
+      "start_ms": 468800,
+      "duration_ms": 8079,
+      "text": "chart you can prove the most important"
+    },
+    {
+      "start_ms": 472880,
+      "duration_ms": 7120,
+      "text": "uh data. So um thanks to the uh trust"
+    },
+    {
+      "start_ms": 476879,
+      "duration_ms": 6720,
+      "text": "that they build through uh reputation uh"
+    },
+    {
+      "start_ms": 480000,
+      "duration_ms": 7599,
+      "text": "they uh improve their rankings on maps"
+    },
+    {
+      "start_ms": 483599,
+      "duration_ms": 6241,
+      "text": "and AI platforms. Thanks to this uh uh"
+    },
+    {
+      "start_ms": 487599,
+      "duration_ms": 4641,
+      "text": "improved rankings, they get more uh"
+    },
+    {
+      "start_ms": 489840,
+      "duration_ms": 5199,
+      "text": "visibility which of course brings them"
+    },
+    {
+      "start_ms": 492240,
+      "duration_ms": 7440,
+      "text": "more impression on the Google business"
+    },
+    {
+      "start_ms": 495039,
+      "duration_ms": 7361,
+      "text": "uh profile and you are able to um track"
+    },
+    {
+      "start_ms": 499680,
+      "duration_ms": 6160,
+      "text": "the uh impressions"
+    },
+    {
+      "start_ms": 502400,
+      "duration_ms": 5040,
+      "text": "um month by month and we have also the"
+    },
+    {
+      "start_ms": 505840,
+      "duration_ms": 5120,
+      "text": "data"
+    },
+    {
+      "start_ms": 507440,
+      "duration_ms": 8640,
+      "text": "uh of the um detailed uh statistics. As"
+    },
+    {
+      "start_ms": 510960,
+      "duration_ms": 6800,
+      "text": "you can see uh we see the the um the"
+    },
+    {
+      "start_ms": 516080,
+      "duration_ms": 3439,
+      "text": "impression which are the sum of the"
+    },
+    {
+      "start_ms": 517760,
+      "duration_ms": 4399,
+      "text": "search impression and the maps uh"
+    },
+    {
+      "start_ms": 519519,
+      "duration_ms": 5681,
+      "text": "impression. So you can prove that every"
+    },
+    {
+      "start_ms": 522159,
+      "duration_ms": 5120,
+      "text": "month they are growing the number of uh"
+    },
+    {
+      "start_ms": 525200,
+      "duration_ms": 6400,
+      "text": "impression. For example in the last"
+    },
+    {
+      "start_ms": 527279,
+      "duration_ms": 7521,
+      "text": "month totally they had uh 331"
+    },
+    {
+      "start_ms": 531600,
+      "duration_ms": 7280,
+      "text": "uh impressions uh divided in uh this"
+    },
+    {
+      "start_ms": 534800,
+      "duration_ms": 7120,
+      "text": "way. So 235 search impression and 96"
+    },
+    {
+      "start_ms": 538880,
+      "duration_ms": 7360,
+      "text": "maps uh impression when they join your"
+    },
+    {
+      "start_ms": 541920,
+      "duration_ms": 7919,
+      "text": "platform they were collecting just 124"
+    },
+    {
+      "start_ms": 546240,
+      "duration_ms": 7440,
+      "text": "uh total impression. So 90 uh search"
+    },
+    {
+      "start_ms": 549839,
+      "duration_ms": 6961,
+      "text": "impression and 34 maps uh impression. So"
+    },
+    {
+      "start_ms": 553680,
+      "duration_ms": 6080,
+      "text": "a huge uh result. So when they join for"
+    },
+    {
+      "start_ms": 556800,
+      "duration_ms": 5440,
+      "text": "example in this case 12 month ago they"
+    },
+    {
+      "start_ms": 559760,
+      "duration_ms": 4400,
+      "text": "had every month just a little bit more"
+    },
+    {
+      "start_ms": 562240,
+      "duration_ms": 4400,
+      "text": "than 100 impression on their Google"
+    },
+    {
+      "start_ms": 564160,
+      "duration_ms": 7679,
+      "text": "business profile. Now they have more"
+    },
+    {
+      "start_ms": 566640,
+      "duration_ms": 7120,
+      "text": "than uh 300. So a huge uh improvement"
+    },
+    {
+      "start_ms": 571839,
+      "duration_ms": 5120,
+      "text": "and of course thanks to this uh"
+    },
+    {
+      "start_ms": 573760,
+      "duration_ms": 6000,
+      "text": "impression they are attracting uh clicks"
+    },
+    {
+      "start_ms": 576959,
+      "duration_ms": 5921,
+      "text": "which is what uh we see as uh"
+    },
+    {
+      "start_ms": 579760,
+      "duration_ms": 5840,
+      "text": "conversions because clicks are people"
+    },
+    {
+      "start_ms": 582880,
+      "duration_ms": 6240,
+      "text": "who uh visit the Google business profile"
+    },
+    {
+      "start_ms": 585600,
+      "duration_ms": 6160,
+      "text": "and click on the available buttons for"
+    },
+    {
+      "start_ms": 589120,
+      "duration_ms": 6000,
+      "text": "example the click on the website the"
+    },
+    {
+      "start_ms": 591760,
+      "duration_ms": 6720,
+      "text": "call clicks the uh direction request. So"
+    },
+    {
+      "start_ms": 595120,
+      "duration_ms": 5920,
+      "text": "uh here we do a sum of all these free"
+    },
+    {
+      "start_ms": 598480,
+      "duration_ms": 5520,
+      "text": "data. So the website clicks, the call"
+    },
+    {
+      "start_ms": 601040,
+      "duration_ms": 6000,
+      "text": "clicks and the uh directional requests"
+    },
+    {
+      "start_ms": 604000,
+      "duration_ms": 5760,
+      "text": "and uh so every month they can see that"
+    },
+    {
+      "start_ms": 607040,
+      "duration_ms": 4400,
+      "text": "they are getting more and more clicks on"
+    },
+    {
+      "start_ms": 609760,
+      "duration_ms": 4319,
+      "text": "their Google business profile which"
+    },
+    {
+      "start_ms": 611440,
+      "duration_ms": 4480,
+      "text": "means that there are more people uh"
+    },
+    {
+      "start_ms": 614079,
+      "duration_ms": 4000,
+      "text": "visiting visiting their website, more"
+    },
+    {
+      "start_ms": 615920,
+      "duration_ms": 4640,
+      "text": "people calling them and more people"
+    },
+    {
+      "start_ms": 618079,
+      "duration_ms": 5521,
+      "text": "clicking on the button to get direction"
+    },
+    {
+      "start_ms": 620560,
+      "duration_ms": 6480,
+      "text": "uh to see uh to visit the uh uh the"
+    },
+    {
+      "start_ms": 623600,
+      "duration_ms": 5280,
+      "text": "business. So more uh of course people"
+    },
+    {
+      "start_ms": 627040,
+      "duration_ms": 5120,
+      "text": "interested in their business, more"
+    },
+    {
+      "start_ms": 628880,
+      "duration_ms": 5920,
+      "text": "people calling which usually are people"
+    },
+    {
+      "start_ms": 632160,
+      "duration_ms": 5119,
+      "text": "um looking to for example book a table"
+    },
+    {
+      "start_ms": 634800,
+      "duration_ms": 5360,
+      "text": "for restaurants or people looking to"
+    },
+    {
+      "start_ms": 637279,
+      "duration_ms": 5441,
+      "text": "book an appointment with for example uh"
+    },
+    {
+      "start_ms": 640160,
+      "duration_ms": 6000,
+      "text": "dentist and direction requests are"
+    },
+    {
+      "start_ms": 642720,
+      "duration_ms": 6400,
+      "text": "people which are uh physically uh going"
+    },
+    {
+      "start_ms": 646160,
+      "duration_ms": 5840,
+      "text": "to visit the business. So more uh uh put"
+    },
+    {
+      "start_ms": 649120,
+      "duration_ms": 6080,
+      "text": "traffic. So this chart is the last chart"
+    },
+    {
+      "start_ms": 652000,
+      "duration_ms": 5760,
+      "text": "and represent exactly what they want uh"
+    },
+    {
+      "start_ms": 655200,
+      "duration_ms": 5199,
+      "text": "to see. So they are getting more"
+    },
+    {
+      "start_ms": 657760,
+      "duration_ms": 5440,
+      "text": "visibility month by month and they see"
+    },
+    {
+      "start_ms": 660399,
+      "duration_ms": 5921,
+      "text": "the improvements uh since they they"
+    },
+    {
+      "start_ms": 663200,
+      "duration_ms": 5199,
+      "text": "since the day they join the uh platform"
+    },
+    {
+      "start_ms": 666320,
+      "duration_ms": 5199,
+      "text": "and most importantly they getting more"
+    },
+    {
+      "start_ms": 668399,
+      "duration_ms": 5440,
+      "text": "and more uh clicks uh month by month. So"
+    },
+    {
+      "start_ms": 671519,
+      "duration_ms": 4880,
+      "text": "more website clicks, call clicks and uh"
+    },
+    {
+      "start_ms": 673839,
+      "duration_ms": 4881,
+      "text": "deduction uh request. For example, in"
+    },
+    {
+      "start_ms": 676399,
+      "duration_ms": 7680,
+      "text": "this case, when they join your white"
+    },
+    {
+      "start_ms": 678720,
+      "duration_ms": 8640,
+      "text": "label platform, they had just u 15 total"
+    },
+    {
+      "start_ms": 684079,
+      "duration_ms": 5921,
+      "text": "uh clicks uh in the uh first month when"
+    },
+    {
+      "start_ms": 687360,
+      "duration_ms": 6800,
+      "text": "they join the platform and now they are"
+    },
+    {
+      "start_ms": 690000,
+      "duration_ms": 7760,
+      "text": "getting um uh totally 74"
+    },
+    {
+      "start_ms": 694160,
+      "duration_ms": 6720,
+      "text": "uh clicks uh so 18 website clicks, six"
+    },
+    {
+      "start_ms": 697760,
+      "duration_ms": 5280,
+      "text": "call clicks, uh 50 direction request. So"
+    },
+    {
+      "start_ms": 700880,
+      "duration_ms": 4880,
+      "text": "you can easily see that of course the"
+    },
+    {
+      "start_ms": 703040,
+      "duration_ms": 4720,
+      "text": "numbers are uh improving and of course"
+    },
+    {
+      "start_ms": 705760,
+      "duration_ms": 4880,
+      "text": "this is what they want to see and this"
+    },
+    {
+      "start_ms": 707760,
+      "duration_ms": 4240,
+      "text": "is the reason why they will uh uh pay"
+    },
+    {
+      "start_ms": 710640,
+      "duration_ms": 3600,
+      "text": "you they will pay you the monthly"
+    },
+    {
+      "start_ms": 712000,
+      "duration_ms": 5680,
+      "text": "subscription because they see exactly"
+    },
+    {
+      "start_ms": 714240,
+      "duration_ms": 6960,
+      "text": "this uh data here. So better uh"
+    },
+    {
+      "start_ms": 717680,
+      "duration_ms": 6880,
+      "text": "reputation and more uh visibility thanks"
+    },
+    {
+      "start_ms": 721200,
+      "duration_ms": 6000,
+      "text": "to a better uh uh rankings on maps and"
+    },
+    {
+      "start_ms": 724560,
+      "duration_ms": 5760,
+      "text": "AI platform and of course more"
+    },
+    {
+      "start_ms": 727200,
+      "duration_ms": 4960,
+      "text": "visibility brings more uh customers and"
+    },
+    {
+      "start_ms": 730320,
+      "duration_ms": 4400,
+      "text": "we are able to prove that they are"
+    },
+    {
+      "start_ms": 732160,
+      "duration_ms": 5359,
+      "text": "getting more customers thanks to this uh"
+    },
+    {
+      "start_ms": 734720,
+      "duration_ms": 4720,
+      "text": "super important data. So impression and"
+    },
+    {
+      "start_ms": 737519,
+      "duration_ms": 5921,
+      "text": "uh clicks on the Google business"
+    },
+    {
+      "start_ms": 739440,
+      "duration_ms": 7760,
+      "text": "profile. So this is the new uh home. Uh"
+    },
+    {
+      "start_ms": 743440,
+      "duration_ms": 5280,
+      "text": "there is also uh something new on the uh"
+    },
+    {
+      "start_ms": 747200,
+      "duration_ms": 4160,
+      "text": "reputation"
+    },
+    {
+      "start_ms": 748720,
+      "duration_ms": 6400,
+      "text": "um dashboard because as you can see here"
+    },
+    {
+      "start_ms": 751360,
+      "duration_ms": 6000,
+      "text": "we have added this uh section here uh"
+    },
+    {
+      "start_ms": 755120,
+      "duration_ms": 4719,
+      "text": "where we can they can see the"
+    },
+    {
+      "start_ms": 757360,
+      "duration_ms": 4479,
+      "text": "distribution of uh reviews on the"
+    },
+    {
+      "start_ms": 759839,
+      "duration_ms": 5761,
+      "text": "different uh platform. For example, this"
+    },
+    {
+      "start_ms": 761839,
+      "duration_ms": 6560,
+      "text": "business totally has uh 443"
+    },
+    {
+      "start_ms": 765600,
+      "duration_ms": 6080,
+      "text": "reviews. So we can see how reviews are"
+    },
+    {
+      "start_ms": 768399,
+      "duration_ms": 6481,
+      "text": "uh distributed in terms of u uh"
+    },
+    {
+      "start_ms": 771680,
+      "duration_ms": 6959,
+      "text": "percentage. I want also to show you how"
+    },
+    {
+      "start_ms": 774880,
+      "duration_ms": 6800,
+      "text": "it looks like in the um mobile version"
+    },
+    {
+      "start_ms": 778639,
+      "duration_ms": 6000,
+      "text": "because we all know that a lot of uh"
+    },
+    {
+      "start_ms": 781680,
+      "duration_ms": 5120,
+      "text": "your clients uh use the platform through"
+    },
+    {
+      "start_ms": 784639,
+      "duration_ms": 5041,
+      "text": "their uh mobile phone. And as you can"
+    },
+    {
+      "start_ms": 786800,
+      "duration_ms": 5440,
+      "text": "see this is the new uh home. We have on"
+    },
+    {
+      "start_ms": 789680,
+      "duration_ms": 6320,
+      "text": "the left your results and on the right"
+    },
+    {
+      "start_ms": 792240,
+      "duration_ms": 6080,
+      "text": "the uh agent uh activity. So when they"
+    },
+    {
+      "start_ms": 796000,
+      "duration_ms": 5839,
+      "text": "log in the first thing that they see is"
+    },
+    {
+      "start_ms": 798320,
+      "duration_ms": 6639,
+      "text": "that they are getting uh new uh results"
+    },
+    {
+      "start_ms": 801839,
+      "duration_ms": 6000,
+      "text": "month by month and this results are uh"
+    },
+    {
+      "start_ms": 804959,
+      "duration_ms": 6320,
+      "text": "growing uh over time. So this is the"
+    },
+    {
+      "start_ms": 807839,
+      "duration_ms": 5120,
+      "text": "first thing that we show them. So uh the"
+    },
+    {
+      "start_ms": 811279,
+      "duration_ms": 4481,
+      "text": "the first thing that they see is that"
+    },
+    {
+      "start_ms": 812959,
+      "duration_ms": 5440,
+      "text": "they are getting more uh outcomes month"
+    },
+    {
+      "start_ms": 815760,
+      "duration_ms": 5759,
+      "text": "by month and they reputation, rankings"
+    },
+    {
+      "start_ms": 818399,
+      "duration_ms": 6000,
+      "text": "and um visibility are improving. And on"
+    },
+    {
+      "start_ms": 821519,
+      "duration_ms": 6081,
+      "text": "the right they see that the uh agent"
+    },
+    {
+      "start_ms": 824399,
+      "duration_ms": 5921,
+      "text": "team is working on the background uh"
+    },
+    {
+      "start_ms": 827600,
+      "duration_ms": 4560,
+      "text": "every day. And uh so this is the new uh"
+    },
+    {
+      "start_ms": 830320,
+      "duration_ms": 5440,
+      "text": "redesign"
+    },
+    {
+      "start_ms": 832160,
+      "duration_ms": 7200,
+      "text": "um home section. And uh that's all for"
+    },
+    {
+      "start_ms": 835760,
+      "duration_ms": 6720,
+      "text": "the um new feature related to uh"
+    },
+    {
+      "start_ms": 839360,
+      "duration_ms": 5440,
+      "text": "reporting charts. Before"
+    },
+    {
+      "start_ms": 842480,
+      "duration_ms": 5280,
+      "text": "switching to Q\u0026A, I just want to talk a"
+    },
+    {
+      "start_ms": 844800,
+      "duration_ms": 7120,
+      "text": "little bit about Tik Tok because finally"
+    },
+    {
+      "start_ms": 847760,
+      "duration_ms": 6400,
+      "text": "we got uh approved as you can see here"
+    },
+    {
+      "start_ms": 851920,
+      "duration_ms": 5919,
+      "text": "and uh we are not going to release the"
+    },
+    {
+      "start_ms": 854160,
+      "duration_ms": 6080,
+      "text": "integration uh tomorrow but 100% uh next"
+    },
+    {
+      "start_ms": 857839,
+      "duration_ms": 6161,
+      "text": "week. Of course, it will be an uh"
+    },
+    {
+      "start_ms": 860240,
+      "duration_ms": 6640,
+      "text": "unbranded integration uh as for uh"
+    },
+    {
+      "start_ms": 864000,
+      "duration_ms": 4639,
+      "text": "Google's and also as for the other"
+    },
+    {
+      "start_ms": 866880,
+      "duration_ms": 4800,
+      "text": "direct integration that we have inside"
+    },
+    {
+      "start_ms": 868639,
+      "duration_ms": 4721,
+      "text": "the platform. So as for Google uh we"
+    },
+    {
+      "start_ms": 871680,
+      "duration_ms": 4959,
+      "text": "have direct integration with the"
+    },
+    {
+      "start_ms": 873360,
+      "duration_ms": 5440,
+      "text": "unbreeded name uh myas. It will be the"
+    },
+    {
+      "start_ms": 876639,
+      "duration_ms": 4560,
+      "text": "same for uh Tik Tok. So your clients"
+    },
+    {
+      "start_ms": 878800,
+      "duration_ms": 5599,
+      "text": "will connect their Tik Tok page with"
+    },
+    {
+      "start_ms": 881199,
+      "duration_ms": 6481,
+      "text": "this uh unbranded uh integration and"
+    },
+    {
+      "start_ms": 884399,
+      "duration_ms": 5521,
+      "text": "they will be able to uh use the uh"
+    },
+    {
+      "start_ms": 887680,
+      "duration_ms": 4240,
+      "text": "social feature of the platform such as"
+    },
+    {
+      "start_ms": 889920,
+      "duration_ms": 4560,
+      "text": "uh review sharing"
+    },
+    {
+      "start_ms": 891920,
+      "duration_ms": 6320,
+      "text": "through uh not only Google, Facebook and"
+    },
+    {
+      "start_ms": 894480,
+      "duration_ms": 7359,
+      "text": "Instagram but now also with uh Tik Tok."
+    },
+    {
+      "start_ms": 898240,
+      "duration_ms": 5520,
+      "text": "Uh all right guys, so let me uh switch"
+    },
+    {
+      "start_ms": 901839,
+      "duration_ms": 5761,
+      "text": "to Q\u0026A."
+    },
+    {
+      "start_ms": 903760,
+      "duration_ms": 6480,
+      "text": "Uh let me open uh the chat from my phone"
+    },
+    {
+      "start_ms": 907600,
+      "duration_ms": 7440,
+      "text": "because unfortunately I do not have my"
+    },
+    {
+      "start_ms": 910240,
+      "duration_ms": 8120,
+      "text": "second computer today. Um give me just"
+    },
+    {
+      "start_ms": 915040,
+      "duration_ms": 3320,
+      "text": "one second."
+    },
+    {
+      "start_ms": 920240,
+      "duration_ms": 3000,
+      "text": "Right."
+    },
+    {
+      "start_ms": 929040,
+      "duration_ms": 4120,
+      "text": "Let me see if I can"
+    },
+    {
+      "start_ms": 936560,
+      "duration_ms": 3880,
+      "text": "see the messages here."
+    },
+    {
+      "start_ms": 943600,
+      "duration_ms": 5880,
+      "text": "No, let me just open the chat from here."
+    },
+    {
+      "start_ms": 949680,
+      "duration_ms": 3159,
+      "text": "All right."
+    },
+    {
+      "start_ms": 957199,
+      "duration_ms": 5121,
+      "text": "I think I have to disable the screen. So"
+    },
+    {
+      "start_ms": 959600,
+      "duration_ms": 4640,
+      "text": "the screen sharing. So let me disable"
+    },
+    {
+      "start_ms": 962320,
+      "duration_ms": 4560,
+      "text": "the screen sharing for one second."
+    },
+    {
+      "start_ms": 964240,
+      "duration_ms": 4640,
+      "text": "Perfect."
+    },
+    {
+      "start_ms": 966880,
+      "duration_ms": 4800,
+      "text": "All right. So if I need to share the"
+    },
+    {
+      "start_ms": 968880,
+      "duration_ms": 6720,
+      "text": "screen again, of course I will quickly"
+    },
+    {
+      "start_ms": 971680,
+      "duration_ms": 6800,
+      "text": "share the screen. Uh let's start with"
+    },
+    {
+      "start_ms": 975600,
+      "duration_ms": 6000,
+      "text": "question from Jeremy. So I noticed that"
+    },
+    {
+      "start_ms": 978480,
+      "duration_ms": 5200,
+      "text": "the charts currently display only one"
+    },
+    {
+      "start_ms": 981600,
+      "duration_ms": 4960,
+      "text": "year of data. Uh couldn't you please"
+    },
+    {
+      "start_ms": 983680,
+      "duration_ms": 5200,
+      "text": "clarify how the information will be uh"
+    },
+    {
+      "start_ms": 986560,
+      "duration_ms": 6399,
+      "text": "presented after the first year? Uh no"
+    },
+    {
+      "start_ms": 988880,
+      "duration_ms": 7440,
+      "text": "the chart start from uh the month when"
+    },
+    {
+      "start_ms": 992959,
+      "duration_ms": 6000,
+      "text": "your clients join your uh platform. All"
+    },
+    {
+      "start_ms": 996320,
+      "duration_ms": 4959,
+      "text": "right. So in this example we have one"
+    },
+    {
+      "start_ms": 998959,
+      "duration_ms": 5281,
+      "text": "year of data assuming that the client"
+    },
+    {
+      "start_ms": 1001279,
+      "duration_ms": 4800,
+      "text": "was on boarded exactly one year ago. But"
+    },
+    {
+      "start_ms": 1004240,
+      "duration_ms": 4800,
+      "text": "of course if the client was on boarded"
+    },
+    {
+      "start_ms": 1006079,
+      "duration_ms": 7521,
+      "text": "uh two years ago we have uh two years of"
+    },
+    {
+      "start_ms": 1009040,
+      "duration_ms": 6640,
+      "text": "uh data divided by uh month. Uh so for"
+    },
+    {
+      "start_ms": 1013600,
+      "duration_ms": 4400,
+      "text": "example also the client joined three"
+    },
+    {
+      "start_ms": 1015680,
+      "duration_ms": 6000,
+      "text": "month ago of course we have three month"
+    },
+    {
+      "start_ms": 1018000,
+      "duration_ms": 7120,
+      "text": "of uh data. So the the charts uh will"
+    },
+    {
+      "start_ms": 1021680,
+      "duration_ms": 7600,
+      "text": "show uh just uh let's say free uh free"
+    },
+    {
+      "start_ms": 1025120,
+      "duration_ms": 6959,
+      "text": "data and um so we track all this data"
+    },
+    {
+      "start_ms": 1029280,
+      "duration_ms": 6000,
+      "text": "since the month when they join. And of"
+    },
+    {
+      "start_ms": 1032079,
+      "duration_ms": 5681,
+      "text": "course uh we we track this data forever"
+    },
+    {
+      "start_ms": 1035280,
+      "duration_ms": 5519,
+      "text": "and all this data will be reported in"
+    },
+    {
+      "start_ms": 1037760,
+      "duration_ms": 6720,
+      "text": "the chart. Uh this is a v1 of course as"
+    },
+    {
+      "start_ms": 1040799,
+      "duration_ms": 6640,
+      "text": "always uh probably in the future"
+    },
+    {
+      "start_ms": 1044480,
+      "duration_ms": 5280,
+      "text": "there will be also a little filter uh"
+    },
+    {
+      "start_ms": 1047439,
+      "duration_ms": 5360,
+      "text": "where you can see you can filter for"
+    },
+    {
+      "start_ms": 1049760,
+      "duration_ms": 6080,
+      "text": "example for uh different time frames."
+    },
+    {
+      "start_ms": 1052799,
+      "duration_ms": 5521,
+      "text": "For example, uh the default one will be"
+    },
+    {
+      "start_ms": 1055840,
+      "duration_ms": 4719,
+      "text": "since joining, but you'll be able also"
+    },
+    {
+      "start_ms": 1058320,
+      "duration_ms": 6560,
+      "text": "to switch, for example, last six month,"
+    },
+    {
+      "start_ms": 1060559,
+      "duration_ms": 8401,
+      "text": "last year, uh etc., etc. Um question"
+    },
+    {
+      "start_ms": 1064880,
+      "duration_ms": 6799,
+      "text": "from FA. Um very nice updates."
+    },
+    {
+      "start_ms": 1068960,
+      "duration_ms": 5440,
+      "text": "Question, uh I want to train an AI"
+    },
+    {
+      "start_ms": 1071679,
+      "duration_ms": 6000,
+      "text": "receptionist on the knowledge base. Um"
+    },
+    {
+      "start_ms": 1074400,
+      "duration_ms": 5360,
+      "text": "is it possible to have API for that?"
+    },
+    {
+      "start_ms": 1077679,
+      "duration_ms": 6801,
+      "text": "I can't add a file to the AI"
+    },
+    {
+      "start_ms": 1079760,
+      "duration_ms": 6799,
+      "text": "receptionist. uh neither uh uh link uh"
+    },
+    {
+      "start_ms": 1084480,
+      "duration_ms": 4319,
+      "text": "all right so you would like to have if I"
+    },
+    {
+      "start_ms": 1086559,
+      "duration_ms": 6240,
+      "text": "understand well"
+    },
+    {
+      "start_ms": 1088799,
+      "duration_ms": 7441,
+      "text": "an API to get all the articles of the"
+    },
+    {
+      "start_ms": 1092799,
+      "duration_ms": 6880,
+      "text": "knowledge base if I understand well"
+    },
+    {
+      "start_ms": 1096240,
+      "duration_ms": 4799,
+      "text": "I think we can easily uh do it um maybe"
+    },
+    {
+      "start_ms": 1099679,
+      "duration_ms": 4240,
+      "text": "it's better if you do a post in the"
+    },
+    {
+      "start_ms": 1101039,
+      "duration_ms": 5681,
+      "text": "community about it so we can see if also"
+    },
+    {
+      "start_ms": 1103919,
+      "duration_ms": 4880,
+      "text": "other members uh are interested we can"
+    },
+    {
+      "start_ms": 1106720,
+      "duration_ms": 4400,
+      "text": "see different use cases and of course if"
+    },
+    {
+      "start_ms": 1108799,
+      "duration_ms": 7521,
+      "text": "highly requested we will Uh we will do"
+    },
+    {
+      "start_ms": 1111120,
+      "duration_ms": 8320,
+      "text": "it. Uh Sandy um hi John great update uh"
+    },
+    {
+      "start_ms": 1116320,
+      "duration_ms": 5200,
+      "text": "really great for the ROI proof some"
+    },
+    {
+      "start_ms": 1119440,
+      "duration_ms": 4479,
+      "text": "overall question"
+    },
+    {
+      "start_ms": 1121520,
+      "duration_ms": 6159,
+      "text": "uh the link in the reviews uh shown in"
+    },
+    {
+      "start_ms": 1123919,
+      "duration_ms": 6401,
+      "text": "the widget to the um originated platform"
+    },
+    {
+      "start_ms": 1127679,
+      "duration_ms": 6401,
+      "text": "um is requested often by my customer and"
+    },
+    {
+      "start_ms": 1130320,
+      "duration_ms": 5520,
+      "text": "insight on uh time plan for this uh yes"
+    },
+    {
+      "start_ms": 1134080,
+      "duration_ms": 6080,
+      "text": "this is planned. So we have in the road"
+    },
+    {
+      "start_ms": 1135840,
+      "duration_ms": 7839,
+      "text": "map um a plan feature related to"
+    },
+    {
+      "start_ms": 1140160,
+      "duration_ms": 6399,
+      "text": "widgets. So we have to do um not only"
+    },
+    {
+      "start_ms": 1143679,
+      "duration_ms": 5601,
+      "text": "this theme but also other uh things. Uh"
+    },
+    {
+      "start_ms": 1146559,
+      "duration_ms": 5761,
+      "text": "I think we'll do it uh for sure this"
+    },
+    {
+      "start_ms": 1149280,
+      "duration_ms": 6800,
+      "text": "this year and for sure not at the end of"
+    },
+    {
+      "start_ms": 1152320,
+      "duration_ms": 7280,
+      "text": "the year. So expect to have it uh maybe"
+    },
+    {
+      "start_ms": 1156080,
+      "duration_ms": 5680,
+      "text": "uh within a couple of months."
+    },
+    {
+      "start_ms": 1159600,
+      "duration_ms": 4959,
+      "text": "And"
+    },
+    {
+      "start_ms": 1161760,
+      "duration_ms": 6640,
+      "text": "uh Sandy other question we mention"
+    },
+    {
+      "start_ms": 1164559,
+      "duration_ms": 5921,
+      "text": "somewhere sometimes 80 plus integration."
+    },
+    {
+      "start_ms": 1168400,
+      "duration_ms": 6320,
+      "text": "How do we count those? Uh do we count"
+    },
+    {
+      "start_ms": 1170480,
+      "duration_ms": 7199,
+      "text": "API also? Um now for review charts sorry"
+    },
+    {
+      "start_ms": 1174720,
+      "duration_ms": 6560,
+      "text": "for review integrations um we do not"
+    },
+    {
+      "start_ms": 1177679,
+      "duration_ms": 7201,
+      "text": "have 80 plus uh integrations. I think we"
+    },
+    {
+      "start_ms": 1181280,
+      "duration_ms": 6800,
+      "text": "have something around uh 20. So what you"
+    },
+    {
+      "start_ms": 1184880,
+      "duration_ms": 7440,
+      "text": "can uh promote in your website is like"
+    },
+    {
+      "start_ms": 1188080,
+      "duration_ms": 6160,
+      "text": "20 plus uh integrations uh with uh uh"
+    },
+    {
+      "start_ms": 1192320,
+      "duration_ms": 3920,
+      "text": "review sites."
+    },
+    {
+      "start_ms": 1194240,
+      "duration_ms": 5679,
+      "text": "JSON on the client's page. It will be"
+    },
+    {
+      "start_ms": 1196240,
+      "duration_ms": 6000,
+      "text": "possible to have an overish how much of"
+    },
+    {
+      "start_ms": 1199919,
+      "duration_ms": 5601,
+      "text": "their SMS AI and WhatsApp they are"
+    },
+    {
+      "start_ms": 1202240,
+      "duration_ms": 7120,
+      "text": "sending um"
+    },
+    {
+      "start_ms": 1205520,
+      "duration_ms": 8000,
+      "text": "uh to you at the bar chart maybe in"
+    },
+    {
+      "start_ms": 1209360,
+      "duration_ms": 7199,
+      "text": "green amber and red. Uh all right. So"
+    },
+    {
+      "start_ms": 1213520,
+      "duration_ms": 5760,
+      "text": "you would like to have another chart"
+    },
+    {
+      "start_ms": 1216559,
+      "duration_ms": 6721,
+      "text": "related to uh review request sent via"
+    },
+    {
+      "start_ms": 1219280,
+      "duration_ms": 8560,
+      "text": "the platform. Uh that's interesting."
+    },
+    {
+      "start_ms": 1223280,
+      "duration_ms": 6800,
+      "text": "Um let me share again the screen. So we"
+    },
+    {
+      "start_ms": 1227840,
+      "duration_ms": 6319,
+      "text": "talk a little bit more about why we"
+    },
+    {
+      "start_ms": 1230080,
+      "duration_ms": 9200,
+      "text": "decided to do these three different uh"
+    },
+    {
+      "start_ms": 1234159,
+      "duration_ms": 9041,
+      "text": "charts. And u uh yes, as you can see uh"
+    },
+    {
+      "start_ms": 1239280,
+      "duration_ms": 6639,
+      "text": "we decided to do uh this uh free charts."
+    },
+    {
+      "start_ms": 1243200,
+      "duration_ms": 5839,
+      "text": "Of course, we had the possibility to do"
+    },
+    {
+      "start_ms": 1245919,
+      "duration_ms": 6321,
+      "text": "uh more charts. Uh for example, if you"
+    },
+    {
+      "start_ms": 1249039,
+      "duration_ms": 7281,
+      "text": "see this uh chart here, uh we could have"
+    },
+    {
+      "start_ms": 1252240,
+      "duration_ms": 6720,
+      "text": "done for example a chart um for each uh"
+    },
+    {
+      "start_ms": 1256320,
+      "duration_ms": 4800,
+      "text": "clicks. So a chart dedicated to website"
+    },
+    {
+      "start_ms": 1258960,
+      "duration_ms": 4240,
+      "text": "clicks, a chart dedicated to call clicks"
+    },
+    {
+      "start_ms": 1261120,
+      "duration_ms": 4320,
+      "text": "and a chart dedicated to direction"
+    },
+    {
+      "start_ms": 1263200,
+      "duration_ms": 6560,
+      "text": "request. Same thing for the uh"
+    },
+    {
+      "start_ms": 1265440,
+      "duration_ms": 6080,
+      "text": "impression. Uh same thing for the um AI"
+    },
+    {
+      "start_ms": 1269760,
+      "duration_ms": 6240,
+      "text": "ranking. For example, we would have done"
+    },
+    {
+      "start_ms": 1271520,
+      "duration_ms": 7920,
+      "text": "a chart dedicated to each AI platform."
+    },
+    {
+      "start_ms": 1276000,
+      "duration_ms": 6799,
+      "text": "Uh the thing is that we do not want to"
+    },
+    {
+      "start_ms": 1279440,
+      "duration_ms": 6239,
+      "text": "add too many data because uh we all know"
+    },
+    {
+      "start_ms": 1282799,
+      "duration_ms": 6161,
+      "text": "that um local businesses are not"
+    },
+    {
+      "start_ms": 1285679,
+      "duration_ms": 6641,
+      "text": "techsavvy people and uh maybe it can be"
+    },
+    {
+      "start_ms": 1288960,
+      "duration_ms": 6800,
+      "text": "confusing to show too many things. uh"
+    },
+    {
+      "start_ms": 1292320,
+      "duration_ms": 7040,
+      "text": "for example six eight different uh"
+    },
+    {
+      "start_ms": 1295760,
+      "duration_ms": 8000,
+      "text": "charts will probably be too much uh for"
+    },
+    {
+      "start_ms": 1299360,
+      "duration_ms": 6799,
+      "text": "them. Um they want an easy way to track"
+    },
+    {
+      "start_ms": 1303760,
+      "duration_ms": 6399,
+      "text": "uh in a few seconds that they are"
+    },
+    {
+      "start_ms": 1306159,
+      "duration_ms": 6721,
+      "text": "growing the most important outcomes"
+    },
+    {
+      "start_ms": 1310159,
+      "duration_ms": 6161,
+      "text": "uh month by month. And we believe that"
+    },
+    {
+      "start_ms": 1312880,
+      "duration_ms": 7120,
+      "text": "three is a good number uh as always. And"
+    },
+    {
+      "start_ms": 1316320,
+      "duration_ms": 6479,
+      "text": "so one uh chart dedicated to uh"
+    },
+    {
+      "start_ms": 1320000,
+      "duration_ms": 6240,
+      "text": "reputation, one chart dedicated to uh"
+    },
+    {
+      "start_ms": 1322799,
+      "duration_ms": 6401,
+      "text": "rankings and one chart dedicated to uh"
+    },
+    {
+      "start_ms": 1326240,
+      "duration_ms": 5360,
+      "text": "Google uh Google metrics. Um of course"
+    },
+    {
+      "start_ms": 1329200,
+      "duration_ms": 5200,
+      "text": "we want to hear your feedback on this if"
+    },
+    {
+      "start_ms": 1331600,
+      "duration_ms": 6559,
+      "text": "you would like to see things uh"
+    },
+    {
+      "start_ms": 1334400,
+      "duration_ms": 7200,
+      "text": "differently. Um but we believe three is"
+    },
+    {
+      "start_ms": 1338159,
+      "duration_ms": 7841,
+      "text": "a good number because it's not uh um"
+    },
+    {
+      "start_ms": 1341600,
+      "duration_ms": 7360,
+      "text": "it's not too much and literally in 10 20"
+    },
+    {
+      "start_ms": 1346000,
+      "duration_ms": 6720,
+      "text": "seconds they are able to read"
+    },
+    {
+      "start_ms": 1348960,
+      "duration_ms": 5599,
+      "text": "all the uh chart and then close the uh"
+    },
+    {
+      "start_ms": 1352720,
+      "duration_ms": 5280,
+      "text": "the application. They do not want to"
+    },
+    {
+      "start_ms": 1354559,
+      "duration_ms": 6081,
+      "text": "spend too much uh time reading at uh"
+    },
+    {
+      "start_ms": 1358000,
+      "duration_ms": 4480,
+      "text": "chart. So we believe three is a uh is a"
+    },
+    {
+      "start_ms": 1360640,
+      "duration_ms": 4640,
+      "text": "great number. Something that I didn't"
+    },
+    {
+      "start_ms": 1362480,
+      "duration_ms": 6480,
+      "text": "mention which is uh very very important"
+    },
+    {
+      "start_ms": 1365280,
+      "duration_ms": 6560,
+      "text": "is this uh button here that allows your"
+    },
+    {
+      "start_ms": 1368960,
+      "duration_ms": 8320,
+      "text": "client to export a CSV"
+    },
+    {
+      "start_ms": 1371840,
+      "duration_ms": 8640,
+      "text": "um that uh keep all the data of uh each"
+    },
+    {
+      "start_ms": 1377280,
+      "duration_ms": 5680,
+      "text": "month since they uh they join. So they"
+    },
+    {
+      "start_ms": 1380480,
+      "duration_ms": 5280,
+      "text": "can download a CSU"
+    },
+    {
+      "start_ms": 1382960,
+      "duration_ms": 5440,
+      "text": "with all this data uh here. So there"
+    },
+    {
+      "start_ms": 1385760,
+      "duration_ms": 6799,
+      "text": "will be um"
+    },
+    {
+      "start_ms": 1388400,
+      "duration_ms": 7680,
+      "text": "a column dedicated to"
+    },
+    {
+      "start_ms": 1392559,
+      "duration_ms": 7681,
+      "text": "each month well um columns and for every"
+    },
+    {
+      "start_ms": 1396080,
+      "duration_ms": 6880,
+      "text": "month we can see how the uh for example"
+    },
+    {
+      "start_ms": 1400240,
+      "duration_ms": 4720,
+      "text": "total reviews are growing. Same thing"
+    },
+    {
+      "start_ms": 1402960,
+      "duration_ms": 4480,
+      "text": "for the rankings and same thing for the"
+    },
+    {
+      "start_ms": 1404960,
+      "duration_ms": 6480,
+      "text": "Google uh metrics. So they can export a"
+    },
+    {
+      "start_ms": 1407440,
+      "duration_ms": 7119,
+      "text": "CSV containing all these uh data uh here"
+    },
+    {
+      "start_ms": 1411440,
+      "duration_ms": 5920,
+      "text": "a CSV that they can use for uh whatever"
+    },
+    {
+      "start_ms": 1414559,
+      "duration_ms": 5681,
+      "text": "they want or also you as an agency you"
+    },
+    {
+      "start_ms": 1417360,
+      "duration_ms": 7199,
+      "text": "can easily download the CS and build"
+    },
+    {
+      "start_ms": 1420240,
+      "duration_ms": 6319,
+      "text": "other things with this uh CS. Uh let me"
+    },
+    {
+      "start_ms": 1424559,
+      "duration_ms": 5281,
+      "text": "go back"
+    },
+    {
+      "start_ms": 1426559,
+      "duration_ms": 5360,
+      "text": "to the question."
+    },
+    {
+      "start_ms": 1429840,
+      "duration_ms": 5520,
+      "text": "Perfect."
+    },
+    {
+      "start_ms": 1431919,
+      "duration_ms": 6721,
+      "text": "All right. Question from um Roy. uh is"
+    },
+    {
+      "start_ms": 1435360,
+      "duration_ms": 7199,
+      "text": "the AI blocks information uh add uh to"
+    },
+    {
+      "start_ms": 1438640,
+      "duration_ms": 7680,
+      "text": "the knowledge base? Uh I think so. Yes."
+    },
+    {
+      "start_ms": 1442559,
+      "duration_ms": 6641,
+      "text": "So there is u a chapter dedicated to the"
+    },
+    {
+      "start_ms": 1446320,
+      "duration_ms": 6239,
+      "text": "geo agent. Uh I think with all the info"
+    },
+    {
+      "start_ms": 1449200,
+      "duration_ms": 5120,
+      "text": "about how the agent uh works. Uh if we"
+    },
+    {
+      "start_ms": 1452559,
+      "duration_ms": 4401,
+      "text": "if you see something missing in the"
+    },
+    {
+      "start_ms": 1454320,
+      "duration_ms": 6400,
+      "text": "knowledge base uh please open a ticket"
+    },
+    {
+      "start_ms": 1456960,
+      "duration_ms": 7040,
+      "text": "so our tech our support team can update"
+    },
+    {
+      "start_ms": 1460720,
+      "duration_ms": 6240,
+      "text": "uh the uh the articles. sended why are"
+    },
+    {
+      "start_ms": 1464000,
+      "duration_ms": 6320,
+      "text": "the WhatsApp cost so high? We are used"
+    },
+    {
+      "start_ms": 1466960,
+      "duration_ms": 6880,
+      "text": "uh WhatsApp being free."
+    },
+    {
+      "start_ms": 1470320,
+      "duration_ms": 5280,
+      "text": "Um I keep on running customer question"
+    },
+    {
+      "start_ms": 1473840,
+      "duration_ms": 3920,
+      "text": "why they have to pay for it in their"
+    },
+    {
+      "start_ms": 1475600,
+      "duration_ms": 6160,
+      "text": "mind that is really strange. Uh this is"
+    },
+    {
+      "start_ms": 1477760,
+      "duration_ms": 6960,
+      "text": "WhatsApp API. Uh so of course WhatsApp"
+    },
+    {
+      "start_ms": 1481760,
+      "duration_ms": 6080,
+      "text": "is free if you use it through the U"
+    },
+    {
+      "start_ms": 1484720,
+      "duration_ms": 6079,
+      "text": "application. Uh but if you use it the uh"
+    },
+    {
+      "start_ms": 1487840,
+      "duration_ms": 6880,
+      "text": "API there is a cost charged uh directly"
+    },
+    {
+      "start_ms": 1490799,
+      "duration_ms": 6921,
+      "text": "by uh Meta. I can show you the public"
+    },
+    {
+      "start_ms": 1494720,
+      "duration_ms": 3000,
+      "text": "page"
+    },
+    {
+      "start_ms": 1497760,
+      "duration_ms": 7760,
+      "text": "WhatsApp API pricing."
+    },
+    {
+      "start_ms": 1501440,
+      "duration_ms": 9599,
+      "text": "There should be there we go"
+    },
+    {
+      "start_ms": 1505520,
+      "duration_ms": 8639,
+      "text": "a section on the um WhatsApp website"
+    },
+    {
+      "start_ms": 1511039,
+      "duration_ms": 5841,
+      "text": "dedicated to this. Uh you can see here"
+    },
+    {
+      "start_ms": 1514159,
+      "duration_ms": 6081,
+      "text": "for example if we send a message in"
+    },
+    {
+      "start_ms": 1516880,
+      "duration_ms": 6399,
+      "text": "France uh currency is euro and the"
+    },
+    {
+      "start_ms": 1520240,
+      "duration_ms": 6880,
+      "text": "message is a marketing message"
+    },
+    {
+      "start_ms": 1523279,
+      "duration_ms": 7441,
+      "text": "you see this is uh the uh rate which is"
+    },
+    {
+      "start_ms": 1527120,
+      "duration_ms": 6720,
+      "text": "around um very very similar to what we"
+    },
+    {
+      "start_ms": 1530720,
+      "duration_ms": 5680,
+      "text": "uh charge. So we do not make uh profit"
+    },
+    {
+      "start_ms": 1533840,
+      "duration_ms": 5680,
+      "text": "on this. Um so this is the WhatsApp"
+    },
+    {
+      "start_ms": 1536400,
+      "duration_ms": 5279,
+      "text": "business models. So WhatsApp uh give the"
+    },
+    {
+      "start_ms": 1539520,
+      "duration_ms": 4720,
+      "text": "application of course for free to uh to"
+    },
+    {
+      "start_ms": 1541679,
+      "duration_ms": 6961,
+      "text": "users. Uh if you want to use it via uh"
+    },
+    {
+      "start_ms": 1544240,
+      "duration_ms": 8000,
+      "text": "APIs as we use it uh there is a cost"
+    },
+    {
+      "start_ms": 1548640,
+      "duration_ms": 6080,
+      "text": "which of course it's a it's a B2B"
+    },
+    {
+      "start_ms": 1552240,
+      "duration_ms": 6319,
+      "text": "pricing. So unfortunately there are this"
+    },
+    {
+      "start_ms": 1554720,
+      "duration_ms": 8480,
+      "text": "uh cost charged by uh WhatsApp."
+    },
+    {
+      "start_ms": 1558559,
+      "duration_ms": 9441,
+      "text": "Let me share the um"
+    },
+    {
+      "start_ms": 1563200,
+      "duration_ms": 6400,
+      "text": "the link in the chat. All right."
+    },
+    {
+      "start_ms": 1568000,
+      "duration_ms": 3840,
+      "text": "Yeah, sorry I was not sharing the screen"
+    },
+    {
+      "start_ms": 1569600,
+      "duration_ms": 5120,
+      "text": "but I send you the the link here in the"
+    },
+    {
+      "start_ms": 1571840,
+      "duration_ms": 7520,
+      "text": "uh in the chat."
+    },
+    {
+      "start_ms": 1574720,
+      "duration_ms": 8319,
+      "text": "Um yes so as you know for um messages so"
+    },
+    {
+      "start_ms": 1579360,
+      "duration_ms": 7360,
+      "text": "WhatsApp, SMS and also email um we are"
+    },
+    {
+      "start_ms": 1583039,
+      "duration_ms": 6961,
+      "text": "partner with bird.com so of course bird"
+    },
+    {
+      "start_ms": 1586720,
+      "duration_ms": 6720,
+      "text": "charge us a price and of course bird pay"
+    },
+    {
+      "start_ms": 1590000,
+      "duration_ms": 6080,
+      "text": "meta directly and so uh of course there"
+    },
+    {
+      "start_ms": 1593440,
+      "duration_ms": 5760,
+      "text": "is this um"
+    },
+    {
+      "start_ms": 1596080,
+      "duration_ms": 5280,
+      "text": "the reason why you can also limit the"
+    },
+    {
+      "start_ms": 1599200,
+      "duration_ms": 4719,
+      "text": "number of WhatsApp messages uh your"
+    },
+    {
+      "start_ms": 1601360,
+      "duration_ms": 9120,
+      "text": "client can send every"
+    },
+    {
+      "start_ms": 1603919,
+      "duration_ms": 9281,
+      "text": "JSON. Um what I was trying to get uh is"
+    },
+    {
+      "start_ms": 1610480,
+      "duration_ms": 5760,
+      "text": "is an act view overview. Uh you can see"
+    },
+    {
+      "start_ms": 1613200,
+      "duration_ms": 5599,
+      "text": "by looking at all your clients uh who"
+    },
+    {
+      "start_ms": 1616240,
+      "duration_ms": 4080,
+      "text": "was using the most credits. Uh if you"
+    },
+    {
+      "start_ms": 1618799,
+      "duration_ms": 3681,
+      "text": "need to discuss with them about getting"
+    },
+    {
+      "start_ms": 1620320,
+      "duration_ms": 4560,
+      "text": "more, you can do it uh before. All"
+    },
+    {
+      "start_ms": 1622480,
+      "duration_ms": 7199,
+      "text": "right. So if if I understand well you"
+    },
+    {
+      "start_ms": 1624880,
+      "duration_ms": 8799,
+      "text": "want to understand from your agency mode"
+    },
+    {
+      "start_ms": 1629679,
+      "duration_ms": 6161,
+      "text": "the clients who are using more more SMS"
+    },
+    {
+      "start_ms": 1633679,
+      "duration_ms": 4561,
+      "text": "or WhatsApp and the clients who are"
+    },
+    {
+      "start_ms": 1635840,
+      "duration_ms": 4800,
+      "text": "approaching the limits. So maybe you can"
+    },
+    {
+      "start_ms": 1638240,
+      "duration_ms": 6400,
+      "text": "contact them before they get to the"
+    },
+    {
+      "start_ms": 1640640,
+      "duration_ms": 6240,
+      "text": "limit. Uh this is interesting. So"
+    },
+    {
+      "start_ms": 1644640,
+      "duration_ms": 6240,
+      "text": "because of course this is an opportunity"
+    },
+    {
+      "start_ms": 1646880,
+      "duration_ms": 7919,
+      "text": "for you to um let the client switch to"
+    },
+    {
+      "start_ms": 1650880,
+      "duration_ms": 8960,
+      "text": "the uh to your um most expensive plans."
+    },
+    {
+      "start_ms": 1654799,
+      "duration_ms": 8641,
+      "text": "Uh so yes um I see"
+    },
+    {
+      "start_ms": 1659840,
+      "duration_ms": 6640,
+      "text": "uh I see this as an important thing uh"
+    },
+    {
+      "start_ms": 1663440,
+      "duration_ms": 6160,
+      "text": "because of course it can help you to"
+    },
+    {
+      "start_ms": 1666480,
+      "duration_ms": 6799,
+      "text": "sell your more uh expensive plans and so"
+    },
+    {
+      "start_ms": 1669600,
+      "duration_ms": 5600,
+      "text": "we can definitely uh think uh about"
+    },
+    {
+      "start_ms": 1673279,
+      "duration_ms": 4880,
+      "text": "building something around it maybe of"
+    },
+    {
+      "start_ms": 1675200,
+      "duration_ms": 6000,
+      "text": "course in the balance uh section. So"
+    },
+    {
+      "start_ms": 1678159,
+      "duration_ms": 7520,
+      "text": "maybe in the balance section"
+    },
+    {
+      "start_ms": 1681200,
+      "duration_ms": 7120,
+      "text": "we can uh put something like a badge to"
+    },
+    {
+      "start_ms": 1685679,
+      "duration_ms": 4720,
+      "text": "the clients who are approaching their uh"
+    },
+    {
+      "start_ms": 1688320,
+      "duration_ms": 4320,
+      "text": "their limits. So you can easily"
+    },
+    {
+      "start_ms": 1690399,
+      "duration_ms": 6400,
+      "text": "understand"
+    },
+    {
+      "start_ms": 1692640,
+      "duration_ms": 6560,
+      "text": "who is getting to uh to the limit. And"
+    },
+    {
+      "start_ms": 1696799,
+      "duration_ms": 4480,
+      "text": "we can also build a kind of automated"
+    },
+    {
+      "start_ms": 1699200,
+      "duration_ms": 4320,
+      "text": "message that you can personalize from"
+    },
+    {
+      "start_ms": 1701279,
+      "duration_ms": 5841,
+      "text": "the uh template section. For example,"
+    },
+    {
+      "start_ms": 1703520,
+      "duration_ms": 7840,
+      "text": "when a client reach the 80% for example"
+    },
+    {
+      "start_ms": 1707120,
+      "duration_ms": 6240,
+      "text": "or of SMS provided or 80% of uh AI"
+    },
+    {
+      "start_ms": 1711360,
+      "duration_ms": 4400,
+      "text": "tokens provided, you can send an"
+    },
+    {
+      "start_ms": 1713360,
+      "duration_ms": 6720,
+      "text": "automated message. Hey, you are reaching"
+    },
+    {
+      "start_ms": 1715760,
+      "duration_ms": 7680,
+      "text": "the limit. Uh if you need more uh AI"
+    },
+    {
+      "start_ms": 1720080,
+      "duration_ms": 7680,
+      "text": "tokens or more SMS uh feel free to"
+    },
+    {
+      "start_ms": 1723440,
+      "duration_ms": 6959,
+      "text": "explore our um premium plans uh which of"
+    },
+    {
+      "start_ms": 1727760,
+      "duration_ms": 5039,
+      "text": "course have higher higher limits. But"
+    },
+    {
+      "start_ms": 1730399,
+      "duration_ms": 6000,
+      "text": "this can be an opportunity for you to"
+    },
+    {
+      "start_ms": 1732799,
+      "duration_ms": 5921,
+      "text": "sell your other plans. So uh we can plan"
+    },
+    {
+      "start_ms": 1736399,
+      "duration_ms": 6880,
+      "text": "this in the road map and thanks for the"
+    },
+    {
+      "start_ms": 1738720,
+      "duration_ms": 7199,
+      "text": "uh for the nice feedback and"
+    },
+    {
+      "start_ms": 1743279,
+      "duration_ms": 5041,
+      "text": "question from Kristoff."
+    },
+    {
+      "start_ms": 1745919,
+      "duration_ms": 5760,
+      "text": "Um negative reviews are company's"
+    },
+    {
+      "start_ms": 1748320,
+      "duration_ms": 5200,
+      "text": "biggest concern. Will it be possible to"
+    },
+    {
+      "start_ms": 1751679,
+      "duration_ms": 4641,
+      "text": "receive notifications specifically for"
+    },
+    {
+      "start_ms": 1753520,
+      "duration_ms": 5840,
+      "text": "negative reviews uh rather than for"
+    },
+    {
+      "start_ms": 1756320,
+      "duration_ms": 7120,
+      "text": "every review they receive? Uh yeah,"
+    },
+    {
+      "start_ms": 1759360,
+      "duration_ms": 7640,
+      "text": "great question. Um so let me quickly"
+    },
+    {
+      "start_ms": 1763440,
+      "duration_ms": 3560,
+      "text": "share the screen."
+    },
+    {
+      "start_ms": 1768640,
+      "duration_ms": 7200,
+      "text": "All right. So now as uh you can see here"
+    },
+    {
+      "start_ms": 1773039,
+      "duration_ms": 6161,
+      "text": "in the uh notifications"
+    },
+    {
+      "start_ms": 1775840,
+      "duration_ms": 8480,
+      "text": "uh your client can enable a notification"
+    },
+    {
+      "start_ms": 1779200,
+      "duration_ms": 8079,
+      "text": "for new reviews. Um"
+    },
+    {
+      "start_ms": 1784320,
+      "duration_ms": 5839,
+      "text": "this is of course related to new Google"
+    },
+    {
+      "start_ms": 1787279,
+      "duration_ms": 5601,
+      "text": "uh reviews because uh Google allows via"
+    },
+    {
+      "start_ms": 1790159,
+      "duration_ms": 5441,
+      "text": "API to receive a web book when there is"
+    },
+    {
+      "start_ms": 1792880,
+      "duration_ms": 6960,
+      "text": "a a new uh a new Google review coming"
+    },
+    {
+      "start_ms": 1795600,
+      "duration_ms": 7280,
+      "text": "in. uh but we can let's say have two"
+    },
+    {
+      "start_ms": 1799840,
+      "duration_ms": 6719,
+      "text": "different types of uh notification"
+    },
+    {
+      "start_ms": 1802880,
+      "duration_ms": 6960,
+      "text": "uh maybe new uh positive reviews so four"
+    },
+    {
+      "start_ms": 1806559,
+      "duration_ms": 6720,
+      "text": "and five star reviews and new uh"
+    },
+    {
+      "start_ms": 1809840,
+      "duration_ms": 5680,
+      "text": "negative review for one two or uh three"
+    },
+    {
+      "start_ms": 1813279,
+      "duration_ms": 5041,
+      "text": "star reviews. So maybe your clients can"
+    },
+    {
+      "start_ms": 1815520,
+      "duration_ms": 4399,
+      "text": "enable just the new negative review"
+    },
+    {
+      "start_ms": 1818320,
+      "duration_ms": 4800,
+      "text": "notification"
+    },
+    {
+      "start_ms": 1819919,
+      "duration_ms": 5921,
+      "text": "and they do not receive any notification"
+    },
+    {
+      "start_ms": 1823120,
+      "duration_ms": 6000,
+      "text": "if they get a four or five star reviews."
+    },
+    {
+      "start_ms": 1825840,
+      "duration_ms": 5600,
+      "text": "So this is uh interesting. Um there is"
+    },
+    {
+      "start_ms": 1829120,
+      "duration_ms": 5760,
+      "text": "also this notification daily reviews"
+    },
+    {
+      "start_ms": 1831440,
+      "duration_ms": 5359,
+      "text": "notification. Uh basically if activated"
+    },
+    {
+      "start_ms": 1834880,
+      "duration_ms": 5360,
+      "text": "at the end of each day your client"
+    },
+    {
+      "start_ms": 1836799,
+      "duration_ms": 6081,
+      "text": "receive an email with a summary of what"
+    },
+    {
+      "start_ms": 1840240,
+      "duration_ms": 6240,
+      "text": "happened during the day and uh in the"
+    },
+    {
+      "start_ms": 1842880,
+      "duration_ms": 7760,
+      "text": "email we u show them what how many uh"
+    },
+    {
+      "start_ms": 1846480,
+      "duration_ms": 6400,
+      "text": "reviews they received, how many uh um"
+    },
+    {
+      "start_ms": 1850640,
+      "duration_ms": 4240,
+      "text": "private feedback. Uh but what you said"
+    },
+    {
+      "start_ms": 1852880,
+      "duration_ms": 5279,
+      "text": "about negative reviews is interesting."
+    },
+    {
+      "start_ms": 1854880,
+      "duration_ms": 7600,
+      "text": "So we can send this notification just if"
+    },
+    {
+      "start_ms": 1858159,
+      "duration_ms": 7681,
+      "text": "they receive a one, two or three star"
+    },
+    {
+      "start_ms": 1862480,
+      "duration_ms": 6720,
+      "text": "review. So they can uh quickly uh come"
+    },
+    {
+      "start_ms": 1865840,
+      "duration_ms": 5920,
+      "text": "in and resolve any negative situation."
+    },
+    {
+      "start_ms": 1869200,
+      "duration_ms": 6079,
+      "text": "So I think we're going to add all um"
+    },
+    {
+      "start_ms": 1871760,
+      "duration_ms": 7960,
+      "text": "also this uh thing"
+    },
+    {
+      "start_ms": 1875279,
+      "duration_ms": 4441,
+      "text": "as a applying feature."
+    },
+    {
+      "start_ms": 1880159,
+      "duration_ms": 9201,
+      "text": "um JSON uh also one of my personal"
+    },
+    {
+      "start_ms": 1884720,
+      "duration_ms": 9439,
+      "text": "accounts I'm using um I've got uh 4,600"
+    },
+    {
+      "start_ms": 1889360,
+      "duration_ms": 6960,
+      "text": "units in AI. Um"
+    },
+    {
+      "start_ms": 1894159,
+      "duration_ms": 4880,
+      "text": "yeah, so if you're talking about what we"
+    },
+    {
+      "start_ms": 1896320,
+      "duration_ms": 7359,
+      "text": "discussed before, I think there is a"
+    },
+    {
+      "start_ms": 1899039,
+      "duration_ms": 6401,
+      "text": "value on it. So um we will uh think uh"
+    },
+    {
+      "start_ms": 1903679,
+      "duration_ms": 4321,
+      "text": "about how to implement it in the agency"
+    },
+    {
+      "start_ms": 1905440,
+      "duration_ms": 5839,
+      "text": "mode. Also uh feel free to open a post"
+    },
+    {
+      "start_ms": 1908000,
+      "duration_ms": 5760,
+      "text": "in the community. So we can see the uh"
+    },
+    {
+      "start_ms": 1911279,
+      "duration_ms": 6961,
+      "text": "feedback uh also with the other"
+    },
+    {
+      "start_ms": 1913760,
+      "duration_ms": 6560,
+      "text": "community members. Um send it uh the"
+    },
+    {
+      "start_ms": 1918240,
+      "duration_ms": 5279,
+      "text": "blog post automation is a concern for"
+    },
+    {
+      "start_ms": 1920320,
+      "duration_ms": 7359,
+      "text": "customer. Um how is the quality"
+    },
+    {
+      "start_ms": 1923519,
+      "duration_ms": 9361,
+      "text": "perceived by their uh readers?"
+    },
+    {
+      "start_ms": 1927679,
+      "duration_ms": 7360,
+      "text": "Um of course um I mean we can only uh we"
+    },
+    {
+      "start_ms": 1932880,
+      "duration_ms": 5360,
+      "text": "cannot have we cannot track the"
+    },
+    {
+      "start_ms": 1935039,
+      "duration_ms": 5841,
+      "text": "sentiment of uh or of readers while they"
+    },
+    {
+      "start_ms": 1938240,
+      "duration_ms": 7600,
+      "text": "read the uh article. Uh of course this"
+    },
+    {
+      "start_ms": 1940880,
+      "duration_ms": 8159,
+      "text": "is a v1 uh of the let's say uh blog"
+    },
+    {
+      "start_ms": 1945840,
+      "duration_ms": 5839,
+      "text": "article generation. We can improve the"
+    },
+    {
+      "start_ms": 1949039,
+      "duration_ms": 5120,
+      "text": "uh prompt over time. There is also a"
+    },
+    {
+      "start_ms": 1951679,
+      "duration_ms": 5921,
+      "text": "possibility for you to add a custom"
+    },
+    {
+      "start_ms": 1954159,
+      "duration_ms": 6880,
+      "text": "prompt on the go agent to change uh"
+    },
+    {
+      "start_ms": 1957600,
+      "duration_ms": 5439,
+      "text": "something about how the article is uh is"
+    },
+    {
+      "start_ms": 1961039,
+      "duration_ms": 3601,
+      "text": "generated."
+    },
+    {
+      "start_ms": 1963039,
+      "duration_ms": 4721,
+      "text": "If you feel that we need to change"
+    },
+    {
+      "start_ms": 1964640,
+      "duration_ms": 4960,
+      "text": "something in the prompt, uh feel free to"
+    },
+    {
+      "start_ms": 1967760,
+      "duration_ms": 4639,
+      "text": "open a post in the community so we can"
+    },
+    {
+      "start_ms": 1969600,
+      "duration_ms": 5919,
+      "text": "all help each other understand how to"
+    },
+    {
+      "start_ms": 1972399,
+      "duration_ms": 5841,
+      "text": "improve the um the geo agent and the"
+    },
+    {
+      "start_ms": 1975519,
+      "duration_ms": 6321,
+      "text": "blog post uh automation."
+    },
+    {
+      "start_ms": 1978240,
+      "duration_ms": 7200,
+      "text": "And um in the future we will be able to"
+    },
+    {
+      "start_ms": 1981840,
+      "duration_ms": 8959,
+      "text": "also track for example the visits on um"
+    },
+    {
+      "start_ms": 1985440,
+      "duration_ms": 8719,
+      "text": "every uh blog post maybe also the um the"
+    },
+    {
+      "start_ms": 1990799,
+      "duration_ms": 6720,
+      "text": "time spent by users on each blog post."
+    },
+    {
+      "start_ms": 1994159,
+      "duration_ms": 6481,
+      "text": "So we can understand if users are uh"
+    },
+    {
+      "start_ms": 1997519,
+      "duration_ms": 5841,
+      "text": "reading the uh the post and so that"
+    },
+    {
+      "start_ms": 2000640,
+      "duration_ms": 6000,
+      "text": "maybe could be a kind of indication of"
+    },
+    {
+      "start_ms": 2003360,
+      "duration_ms": 4720,
+      "text": "the uh quality of the uh of the blog"
+    },
+    {
+      "start_ms": 2006640,
+      "duration_ms": 3840,
+      "text": "post."
+    },
+    {
+      "start_ms": 2008080,
+      "duration_ms": 4959,
+      "text": "Um but right now what we can do easily"
+    },
+    {
+      "start_ms": 2010480,
+      "duration_ms": 4960,
+      "text": "in the short term we can improve the uh"
+    },
+    {
+      "start_ms": 2013039,
+      "duration_ms": 4240,
+      "text": "the prompt to generate uh better"
+    },
+    {
+      "start_ms": 2015440,
+      "duration_ms": 4479,
+      "text": "articles"
+    },
+    {
+      "start_ms": 2017279,
+      "duration_ms": 5841,
+      "text": "and so um this is something that we can"
+    },
+    {
+      "start_ms": 2019919,
+      "duration_ms": 6081,
+      "text": "do just by fixing the uh the prompt. Um"
+    },
+    {
+      "start_ms": 2023120,
+      "duration_ms": 5279,
+      "text": "if you want to do something in the short"
+    },
+    {
+      "start_ms": 2026000,
+      "duration_ms": 5519,
+      "text": "term you can also use the custom prompt"
+    },
+    {
+      "start_ms": 2028399,
+      "duration_ms": 4481,
+      "text": "section. So uh over there uh in the geo"
+    },
+    {
+      "start_ms": 2031519,
+      "duration_ms": 3121,
+      "text": "agent settings there is the custom"
+    },
+    {
+      "start_ms": 2032880,
+      "duration_ms": 4639,
+      "text": "prompt section and you can add whatever"
+    },
+    {
+      "start_ms": 2034640,
+      "duration_ms": 6080,
+      "text": "you want there."
+    },
+    {
+      "start_ms": 2037519,
+      "duration_ms": 7841,
+      "text": "Um, Victor, is it totally white label"
+    },
+    {
+      "start_ms": 2040720,
+      "duration_ms": 7280,
+      "text": "integrated in my uh website? Um, yes."
+    },
+    {
+      "start_ms": 2045360,
+      "duration_ms": 6559,
+      "text": "So, if you're uh if your question is"
+    },
+    {
+      "start_ms": 2048000,
+      "duration_ms": 6720,
+      "text": "related to the general uh platform, yes,"
+    },
+    {
+      "start_ms": 2051919,
+      "duration_ms": 7200,
+      "text": "client is fully white labelled and you"
+    },
+    {
+      "start_ms": 2054720,
+      "duration_ms": 7600,
+      "text": "sell it as your uh as your own."
+    },
+    {
+      "start_ms": 2059119,
+      "duration_ms": 6000,
+      "text": "um send him the missing edit mode and"
+    },
+    {
+      "start_ms": 2062320,
+      "duration_ms": 5200,
+      "text": "the limit on hours uh when it goes live"
+    },
+    {
+      "start_ms": 2065119,
+      "duration_ms": 6800,
+      "text": "is dangerous because cause when they"
+    },
+    {
+      "start_ms": 2067520,
+      "duration_ms": 7920,
+      "text": "forget to check it goes live. Um yes, so"
+    },
+    {
+      "start_ms": 2071919,
+      "duration_ms": 6801,
+      "text": "the possibility to edit the title and"
+    },
+    {
+      "start_ms": 2075440,
+      "duration_ms": 6639,
+      "text": "description and text of uh every article"
+    },
+    {
+      "start_ms": 2078720,
+      "duration_ms": 6080,
+      "text": "is coming in the short term. So this is"
+    },
+    {
+      "start_ms": 2082079,
+      "duration_ms": 5840,
+      "text": "something we will work on for sure uh"
+    },
+    {
+      "start_ms": 2084800,
+      "duration_ms": 6319,
+      "text": "within a couple of months. And we want"
+    },
+    {
+      "start_ms": 2087919,
+      "duration_ms": 7200,
+      "text": "we also want to uh understand how to"
+    },
+    {
+      "start_ms": 2091119,
+      "duration_ms": 5601,
+      "text": "manage uh better the uh the auto"
+    },
+    {
+      "start_ms": 2095119,
+      "duration_ms": 4401,
+      "text": "approval"
+    },
+    {
+      "start_ms": 2096720,
+      "duration_ms": 6240,
+      "text": "um feature. Right now your clients have"
+    },
+    {
+      "start_ms": 2099520,
+      "duration_ms": 6800,
+      "text": "24 hours to approve it uh or not. If"
+    },
+    {
+      "start_ms": 2102960,
+      "duration_ms": 5200,
+      "text": "during this 24 hours they do not do uh"
+    },
+    {
+      "start_ms": 2106320,
+      "duration_ms": 4560,
+      "text": "nothing,"
+    },
+    {
+      "start_ms": 2108160,
+      "duration_ms": 7040,
+      "text": "the article is automatically approved."
+    },
+    {
+      "start_ms": 2110880,
+      "duration_ms": 9360,
+      "text": "Uh we can change this. So uh we can let"
+    },
+    {
+      "start_ms": 2115200,
+      "duration_ms": 6800,
+      "text": "your clients uh have a an easy way to um"
+    },
+    {
+      "start_ms": 2120240,
+      "duration_ms": 7040,
+      "text": "publish the article just if they"
+    },
+    {
+      "start_ms": 2122000,
+      "duration_ms": 7920,
+      "text": "manually uh approve it. And so uh maybe"
+    },
+    {
+      "start_ms": 2127280,
+      "duration_ms": 5600,
+      "text": "uh every uh couple of weeks they go to"
+    },
+    {
+      "start_ms": 2129920,
+      "duration_ms": 5520,
+      "text": "the geoen section, they see the article"
+    },
+    {
+      "start_ms": 2132880,
+      "duration_ms": 5040,
+      "text": "which are not approved yet. uh they"
+    },
+    {
+      "start_ms": 2135440,
+      "duration_ms": 4800,
+      "text": "easily uh read them and manually they"
+    },
+    {
+      "start_ms": 2137920,
+      "duration_ms": 4720,
+      "text": "approve or uh disapprove and if they"
+    },
+    {
+      "start_ms": 2140240,
+      "duration_ms": 6560,
+      "text": "want to change uh the text they'll be"
+    },
+    {
+      "start_ms": 2142640,
+      "duration_ms": 9439,
+      "text": "able to uh to do it. Um"
+    },
+    {
+      "start_ms": 2146800,
+      "duration_ms": 7600,
+      "text": "so this can be v2 of the go agent. Um"
+    },
+    {
+      "start_ms": 2152079,
+      "duration_ms": 5040,
+      "text": "you're asking maybe send reminders about"
+    },
+    {
+      "start_ms": 2154400,
+      "duration_ms": 7040,
+      "text": "the remaining hours left before it goes"
+    },
+    {
+      "start_ms": 2157119,
+      "duration_ms": 8641,
+      "text": "live. Um yeah so now we just send um a"
+    },
+    {
+      "start_ms": 2161440,
+      "duration_ms": 8080,
+      "text": "reminder when the article is created. Uh"
+    },
+    {
+      "start_ms": 2165760,
+      "duration_ms": 6960,
+      "text": "let me share quickly the uh screen. So"
+    },
+    {
+      "start_ms": 2169520,
+      "duration_ms": 5520,
+      "text": "as you can see here we have this two"
+    },
+    {
+      "start_ms": 2172720,
+      "duration_ms": 4960,
+      "text": "notification. So article generation"
+    },
+    {
+      "start_ms": 2175040,
+      "duration_ms": 6640,
+      "text": "notification and article publication uh"
+    },
+    {
+      "start_ms": 2177680,
+      "duration_ms": 7120,
+      "text": "notification. So this reminder is sent"
+    },
+    {
+      "start_ms": 2181680,
+      "duration_ms": 5919,
+      "text": "when the article is uh generated and"
+    },
+    {
+      "start_ms": 2184800,
+      "duration_ms": 6000,
+      "text": "they have 24 hours to approve it or not"
+    },
+    {
+      "start_ms": 2187599,
+      "duration_ms": 6721,
+      "text": "and this is sent when the article is um"
+    },
+    {
+      "start_ms": 2190800,
+      "duration_ms": 7120,
+      "text": "published. I think the best way"
+    },
+    {
+      "start_ms": 2194320,
+      "duration_ms": 6640,
+      "text": "to uh fix this is by letting uh your"
+    },
+    {
+      "start_ms": 2197920,
+      "duration_ms": 7360,
+      "text": "clients publish article just if they"
+    },
+    {
+      "start_ms": 2200960,
+      "duration_ms": 7360,
+      "text": "manually uh approve it without um the"
+    },
+    {
+      "start_ms": 2205280,
+      "duration_ms": 7680,
+      "text": "pressure of the uh the 24 hours. I think"
+    },
+    {
+      "start_ms": 2208320,
+      "duration_ms": 7640,
+      "text": "that's the best way to uh to fix this."
+    },
+    {
+      "start_ms": 2212960,
+      "duration_ms": 3000,
+      "text": "Yeah."
+    },
+    {
+      "start_ms": 2216240,
+      "duration_ms": 4720,
+      "text": "All right, guys. Let me know if you have"
+    },
+    {
+      "start_ms": 2218240,
+      "duration_ms": 4640,
+      "text": "other u questions related to today's"
+    },
+    {
+      "start_ms": 2220960,
+      "duration_ms": 7040,
+      "text": "feature."
+    },
+    {
+      "start_ms": 2222880,
+      "duration_ms": 8959,
+      "text": "Um so probably um tomorrow uh we'll uh"
+    },
+    {
+      "start_ms": 2228000,
+      "duration_ms": 6000,
+      "text": "um release this uh big update related to"
+    },
+    {
+      "start_ms": 2231839,
+      "duration_ms": 5441,
+      "text": "reporting charts. Um the first thing"
+    },
+    {
+      "start_ms": 2234000,
+      "duration_ms": 5680,
+      "text": "that we want to um to to hear our"
+    },
+    {
+      "start_ms": 2237280,
+      "duration_ms": 3920,
+      "text": "feedbacks of course."
+    },
+    {
+      "start_ms": 2239680,
+      "duration_ms": 4399,
+      "text": "So this is a new thing and a very"
+    },
+    {
+      "start_ms": 2241200,
+      "duration_ms": 6080,
+      "text": "important thing. So when we will do the"
+    },
+    {
+      "start_ms": 2244079,
+      "duration_ms": 8481,
+      "text": "post tomorrow uh feel free to comment on"
+    },
+    {
+      "start_ms": 2247280,
+      "duration_ms": 7680,
+      "text": "how you uh you you would like to maybe"
+    },
+    {
+      "start_ms": 2252560,
+      "duration_ms": 5039,
+      "text": "uh add more value to this uh to this"
+    },
+    {
+      "start_ms": 2254960,
+      "duration_ms": 7680,
+      "text": "section."
+    },
+    {
+      "start_ms": 2257599,
+      "duration_ms": 8240,
+      "text": "And um our goal was to create something"
+    },
+    {
+      "start_ms": 2262640,
+      "duration_ms": 6160,
+      "text": "easy to understand uh not with too many"
+    },
+    {
+      "start_ms": 2265839,
+      "duration_ms": 5921,
+      "text": "data um because of course there are a"
+    },
+    {
+      "start_ms": 2268800,
+      "duration_ms": 7840,
+      "text": "lot of data in the platform reputation"
+    },
+    {
+      "start_ms": 2271760,
+      "duration_ms": 7920,
+      "text": "rankings uh reviews uh ratings uh"
+    },
+    {
+      "start_ms": 2276640,
+      "duration_ms": 5199,
+      "text": "impressions etc. There are a lot of a"
+    },
+    {
+      "start_ms": 2279680,
+      "duration_ms": 5040,
+      "text": "lot of data but we do not want to add"
+    },
+    {
+      "start_ms": 2281839,
+      "duration_ms": 6721,
+      "text": "complexity. Uh it's very easy sometimes"
+    },
+    {
+      "start_ms": 2284720,
+      "duration_ms": 6639,
+      "text": "to do complex uh things and the"
+    },
+    {
+      "start_ms": 2288560,
+      "duration_ms": 7920,
+      "text": "difficult thing is to turn complexity"
+    },
+    {
+      "start_ms": 2291359,
+      "duration_ms": 7441,
+      "text": "into uh simplicity and uh this is why we"
+    },
+    {
+      "start_ms": 2296480,
+      "duration_ms": 5119,
+      "text": "took at the beginning of the week a"
+    },
+    {
+      "start_ms": 2298800,
+      "duration_ms": 5440,
+      "text": "couple of days just to understand how to"
+    },
+    {
+      "start_ms": 2301599,
+      "duration_ms": 5681,
+      "text": "put all this data into three easy to"
+    },
+    {
+      "start_ms": 2304240,
+      "duration_ms": 6080,
+      "text": "understand uh charts related to the most"
+    },
+    {
+      "start_ms": 2307280,
+      "duration_ms": 5839,
+      "text": "important outputs that your clients want"
+    },
+    {
+      "start_ms": 2310320,
+      "duration_ms": 5840,
+      "text": "to see. And so we decided to create this"
+    },
+    {
+      "start_ms": 2313119,
+      "duration_ms": 6561,
+      "text": "uh chart. The first chart is build the"
+    },
+    {
+      "start_ms": 2316160,
+      "duration_ms": 6240,
+      "text": "trust. The second chart is get found and"
+    },
+    {
+      "start_ms": 2319680,
+      "duration_ms": 5679,
+      "text": "the third chart is win customers which"
+    },
+    {
+      "start_ms": 2322400,
+      "duration_ms": 5840,
+      "text": "are the main three reason why your"
+    },
+    {
+      "start_ms": 2325359,
+      "duration_ms": 7681,
+      "text": "clients decide to uh uh to join your"
+    },
+    {
+      "start_ms": 2328240,
+      "duration_ms": 7520,
+      "text": "platform. And um also let me share again"
+    },
+    {
+      "start_ms": 2333040,
+      "duration_ms": 5280,
+      "text": "the new"
+    },
+    {
+      "start_ms": 2335760,
+      "duration_ms": 6079,
+      "text": "home section"
+    },
+    {
+      "start_ms": 2338320,
+      "duration_ms": 7440,
+      "text": "also this um"
+    },
+    {
+      "start_ms": 2341839,
+      "duration_ms": 6161,
+      "text": "new home section has now um let's say"
+    },
+    {
+      "start_ms": 2345760,
+      "duration_ms": 6400,
+      "text": "the most important"
+    },
+    {
+      "start_ms": 2348000,
+      "duration_ms": 7920,
+      "text": "uh value brought by the uh platform. So"
+    },
+    {
+      "start_ms": 2352160,
+      "duration_ms": 5520,
+      "text": "at the top we have this cover with the"
+    },
+    {
+      "start_ms": 2355920,
+      "duration_ms": 4000,
+      "text": "uh information about the business and"
+    },
+    {
+      "start_ms": 2357680,
+      "duration_ms": 5760,
+      "text": "with the ratings on the different review"
+    },
+    {
+      "start_ms": 2359920,
+      "duration_ms": 6960,
+      "text": "platforms. On the right we have agent uh"
+    },
+    {
+      "start_ms": 2363440,
+      "duration_ms": 7200,
+      "text": "activity and on the left we have the uh"
+    },
+    {
+      "start_ms": 2366880,
+      "duration_ms": 5920,
+      "text": "results since uh since joining and so we"
+    },
+    {
+      "start_ms": 2370640,
+      "duration_ms": 5040,
+      "text": "believe this is"
+    },
+    {
+      "start_ms": 2372800,
+      "duration_ms": 5600,
+      "text": "a nice uh home because it has the most"
+    },
+    {
+      "start_ms": 2375680,
+      "duration_ms": 5520,
+      "text": "important things that the platform uh"
+    },
+    {
+      "start_ms": 2378400,
+      "duration_ms": 6400,
+      "text": "brings. So on the right we have"
+    },
+    {
+      "start_ms": 2381200,
+      "duration_ms": 6240,
+      "text": "automations powered by AI agents. Uh so"
+    },
+    {
+      "start_ms": 2384800,
+      "duration_ms": 6400,
+      "text": "your clients here easily understand that"
+    },
+    {
+      "start_ms": 2387440,
+      "duration_ms": 5600,
+      "text": "the AI team is working every day uh"
+    },
+    {
+      "start_ms": 2391200,
+      "duration_ms": 4399,
+      "text": "without the need for them to lift a"
+    },
+    {
+      "start_ms": 2393040,
+      "duration_ms": 4240,
+      "text": "finger. Uh as you know I remember you"
+    },
+    {
+      "start_ms": 2395599,
+      "duration_ms": 5760,
+      "text": "you can personalize the name of the"
+    },
+    {
+      "start_ms": 2397280,
+      "duration_ms": 7120,
+      "text": "agents both the title and the um uh"
+    },
+    {
+      "start_ms": 2401359,
+      "duration_ms": 6000,
+      "text": "image so the profile picture of each"
+    },
+    {
+      "start_ms": 2404400,
+      "duration_ms": 5120,
+      "text": "agent to make them more uh personalized"
+    },
+    {
+      "start_ms": 2407359,
+      "duration_ms": 4161,
+      "text": "and more connected to your brand. So"
+    },
+    {
+      "start_ms": 2409520,
+      "duration_ms": 4240,
+      "text": "here on the right your clients easily"
+    },
+    {
+      "start_ms": 2411520,
+      "duration_ms": 4960,
+      "text": "see that there is a team of agents"
+    },
+    {
+      "start_ms": 2413760,
+      "duration_ms": 4960,
+      "text": "working for them every day and on the"
+    },
+    {
+      "start_ms": 2416480,
+      "duration_ms": 4960,
+      "text": "left they see uh outcomes they see"
+    },
+    {
+      "start_ms": 2418720,
+      "duration_ms": 6560,
+      "text": "results which is the reason why they uh"
+    },
+    {
+      "start_ms": 2421440,
+      "duration_ms": 6720,
+      "text": "they decide to pay the monthly or the uh"
+    },
+    {
+      "start_ms": 2425280,
+      "duration_ms": 5680,
+      "text": "the annual subscription. So again we can"
+    },
+    {
+      "start_ms": 2428160,
+      "duration_ms": 5280,
+      "text": "add more things we can cut uh more"
+    },
+    {
+      "start_ms": 2430960,
+      "duration_ms": 6720,
+      "text": "things just let us know your uh"
+    },
+    {
+      "start_ms": 2433440,
+      "duration_ms": 6639,
+      "text": "feedbacks. Um, as as I said before, we"
+    },
+    {
+      "start_ms": 2437680,
+      "duration_ms": 7040,
+      "text": "do not want to add too many data because"
+    },
+    {
+      "start_ms": 2440079,
+      "duration_ms": 8401,
+      "text": "it will become too complex and uh we"
+    },
+    {
+      "start_ms": 2444720,
+      "duration_ms": 6320,
+      "text": "want you to let you present this section"
+    },
+    {
+      "start_ms": 2448480,
+      "duration_ms": 5680,
+      "text": "very very quickly. So your clients have"
+    },
+    {
+      "start_ms": 2451040,
+      "duration_ms": 7039,
+      "text": "a aha moment. Let's say they understand"
+    },
+    {
+      "start_ms": 2454160,
+      "duration_ms": 7040,
+      "text": "that it's a platform made for uh result"
+    },
+    {
+      "start_ms": 2458079,
+      "duration_ms": 6481,
+      "text": "and not a platform made for for features"
+    },
+    {
+      "start_ms": 2461200,
+      "duration_ms": 6399,
+      "text": "or for using it manually every day. You"
+    },
+    {
+      "start_ms": 2464560,
+      "duration_ms": 6400,
+      "text": "help them to bring uh results, real"
+    },
+    {
+      "start_ms": 2467599,
+      "duration_ms": 6161,
+      "text": "results, reviews, rating, rankings and"
+    },
+    {
+      "start_ms": 2470960,
+      "duration_ms": 5920,
+      "text": "impression and clicks uh with a team of"
+    },
+    {
+      "start_ms": 2473760,
+      "duration_ms": 5760,
+      "text": "agents working for them every day in the"
+    },
+    {
+      "start_ms": 2476880,
+      "duration_ms": 6000,
+      "text": "uh background. So this is something also"
+    },
+    {
+      "start_ms": 2479520,
+      "duration_ms": 7520,
+      "text": "nice to put on your website."
+    },
+    {
+      "start_ms": 2482880,
+      "duration_ms": 7040,
+      "text": "as a let's say a screenshot that"
+    },
+    {
+      "start_ms": 2487040,
+      "duration_ms": 4400,
+      "text": "represents how the platform works. Uh as"
+    },
+    {
+      "start_ms": 2489920,
+      "duration_ms": 4560,
+      "text": "you know you have the opportunity to"
+    },
+    {
+      "start_ms": 2491440,
+      "duration_ms": 6480,
+      "text": "embed the uh demo platform on all your"
+    },
+    {
+      "start_ms": 2494480,
+      "duration_ms": 6960,
+      "text": "website. So if you go to the uh brand"
+    },
+    {
+      "start_ms": 2497920,
+      "duration_ms": 6880,
+      "text": "section you know you have this uh embed"
+    },
+    {
+      "start_ms": 2501440,
+      "duration_ms": 7520,
+      "text": "code. So you can just copy and paste"
+    },
+    {
+      "start_ms": 2504800,
+      "duration_ms": 7200,
+      "text": "this uh HTML and this demo account will"
+    },
+    {
+      "start_ms": 2508960,
+      "duration_ms": 6560,
+      "text": "appear on your uh website of course with"
+    },
+    {
+      "start_ms": 2512000,
+      "duration_ms": 5920,
+      "text": "your logo your color so your uh visitors"
+    },
+    {
+      "start_ms": 2515520,
+      "duration_ms": 4880,
+      "text": "can see how the platform works directly"
+    },
+    {
+      "start_ms": 2517920,
+      "duration_ms": 5760,
+      "text": "in your website without the need to uh"
+    },
+    {
+      "start_ms": 2520400,
+      "duration_ms": 5919,
+      "text": "to create an account. And uh this home"
+    },
+    {
+      "start_ms": 2523680,
+      "duration_ms": 5280,
+      "text": "section represent now"
+    },
+    {
+      "start_ms": 2526319,
+      "duration_ms": 5441,
+      "text": "real uh outcomes real results which is"
+    },
+    {
+      "start_ms": 2528960,
+      "duration_ms": 6000,
+      "text": "what your clients uh want to see. They"
+    },
+    {
+      "start_ms": 2531760,
+      "duration_ms": 4800,
+      "text": "don't want to to see that this is"
+    },
+    {
+      "start_ms": 2534960,
+      "duration_ms": 3119,
+      "text": "something that they have to use"
+    },
+    {
+      "start_ms": 2536560,
+      "duration_ms": 4960,
+      "text": "manually. They want to see that this is"
+    },
+    {
+      "start_ms": 2538079,
+      "duration_ms": 5921,
+      "text": "a platform they have to uh uh they just"
+    },
+    {
+      "start_ms": 2541520,
+      "duration_ms": 6440,
+      "text": "uh set up and that the platform brings"
+    },
+    {
+      "start_ms": 2544000,
+      "duration_ms": 3960,
+      "text": "uh real uh results."
+    },
+    {
+      "start_ms": 2548720,
+      "duration_ms": 8440,
+      "text": "All right guys um"
+    },
+    {
+      "start_ms": 2551599,
+      "duration_ms": 5561,
+      "text": "let's see the last uh questions. Um"
+    },
+    {
+      "start_ms": 2557440,
+      "duration_ms": 4960,
+      "text": "um Franis, how is it possible to contact"
+    },
+    {
+      "start_ms": 2559680,
+      "duration_ms": 6080,
+      "text": "you in the end?"
+    },
+    {
+      "start_ms": 2562400,
+      "duration_ms": 7040,
+      "text": "Um I'm going to check VM as soon as"
+    },
+    {
+      "start_ms": 2565760,
+      "duration_ms": 9200,
+      "text": "possible. So uh expect a reply from me"
+    },
+    {
+      "start_ms": 2569440,
+      "duration_ms": 9360,
+      "text": "maybe in a few days. Um I usually my uh"
+    },
+    {
+      "start_ms": 2574960,
+      "duration_ms": 6960,
+      "text": "I mean the the possibility to contact uh"
+    },
+    {
+      "start_ms": 2578800,
+      "duration_ms": 5600,
+      "text": "me let's say is not open to uh to"
+    },
+    {
+      "start_ms": 2581920,
+      "duration_ms": 5040,
+      "text": "everyone. We have a support team for any"
+    },
+    {
+      "start_ms": 2584400,
+      "duration_ms": 5040,
+      "text": "kind of issue related to the uh to the"
+    },
+    {
+      "start_ms": 2586960,
+      "duration_ms": 5280,
+      "text": "platform. Um"
+    },
+    {
+      "start_ms": 2589440,
+      "duration_ms": 6240,
+      "text": "I open DMs sometimes. So if there are"
+    },
+    {
+      "start_ms": 2592240,
+      "duration_ms": 6720,
+      "text": "important things to uh to check uh I"
+    },
+    {
+      "start_ms": 2595680,
+      "duration_ms": 5439,
+      "text": "will make sure uh"
+    },
+    {
+      "start_ms": 2598960,
+      "duration_ms": 5760,
+      "text": "uh you get a reply. So Frana I will"
+    },
+    {
+      "start_ms": 2601119,
+      "duration_ms": 7281,
+      "text": "check your DM as soon as possible."
+    },
+    {
+      "start_ms": 2604720,
+      "duration_ms": 6560,
+      "text": "Sandy yes better home. Uh what is"
+    },
+    {
+      "start_ms": 2608400,
+      "duration_ms": 5919,
+      "text": "visible if you connect a customer with"
+    },
+    {
+      "start_ms": 2611280,
+      "duration_ms": 6799,
+      "text": "uh zero uh reviews? Uh yeah. So if a"
+    },
+    {
+      "start_ms": 2614319,
+      "duration_ms": 7361,
+      "text": "customer is uh zero u review of course"
+    },
+    {
+      "start_ms": 2618079,
+      "duration_ms": 6401,
+      "text": "for example in the uh reviews uh chart"
+    },
+    {
+      "start_ms": 2621680,
+      "duration_ms": 7600,
+      "text": "um they will see that the line start"
+    },
+    {
+      "start_ms": 2624480,
+      "duration_ms": 7839,
+      "text": "from uh zero. So in the month number one"
+    },
+    {
+      "start_ms": 2629280,
+      "duration_ms": 5039,
+      "text": "you connect all the review platforms. If"
+    },
+    {
+      "start_ms": 2632319,
+      "duration_ms": 4321,
+      "text": "they have zero reviews on every review"
+    },
+    {
+      "start_ms": 2634319,
+      "duration_ms": 6641,
+      "text": "platform of course the line of the first"
+    },
+    {
+      "start_ms": 2636640,
+      "duration_ms": 6959,
+      "text": "map will start from the uh number zero."
+    },
+    {
+      "start_ms": 2640960,
+      "duration_ms": 6240,
+      "text": "Jason, yes, thanks for uh remembering"
+    },
+    {
+      "start_ms": 2643599,
+      "duration_ms": 5281,
+      "text": "this to me. Uh we will upload the uh the"
+    },
+    {
+      "start_ms": 2647200,
+      "duration_ms": 4399,
+      "text": "training as soon as possible. Uh"
+    },
+    {
+      "start_ms": 2648880,
+      "duration_ms": 4880,
+      "text": "probably tomorrow when we do the uh the"
+    },
+    {
+      "start_ms": 2651599,
+      "duration_ms": 4561,
+      "text": "release of the features. So we will"
+    },
+    {
+      "start_ms": 2653760,
+      "duration_ms": 4240,
+      "text": "upload it as always in the uh in the"
+    },
+    {
+      "start_ms": 2656160,
+      "duration_ms": 4720,
+      "text": "classroom."
+    },
+    {
+      "start_ms": 2658000,
+      "duration_ms": 6079,
+      "text": "Sandy, will the embedded demo update"
+    },
+    {
+      "start_ms": 2660880,
+      "duration_ms": 5680,
+      "text": "automatically the homepage uh with uh"
+    },
+    {
+      "start_ms": 2664079,
+      "duration_ms": 5520,
+      "text": "new reviews? Uh yes, the embedded demo"
+    },
+    {
+      "start_ms": 2666560,
+      "duration_ms": 4880,
+      "text": "is always uh updated automatically. So"
+    },
+    {
+      "start_ms": 2669599,
+      "duration_ms": 4561,
+      "text": "every week as you know we release new"
+    },
+    {
+      "start_ms": 2671440,
+      "duration_ms": 6480,
+      "text": "feature. Whenever we release new feature"
+    },
+    {
+      "start_ms": 2674160,
+      "duration_ms": 7120,
+      "text": "we also uh update the uh the demo"
+    },
+    {
+      "start_ms": 2677920,
+      "duration_ms": 5360,
+      "text": "account and so automatically uh the demo"
+    },
+    {
+      "start_ms": 2681280,
+      "duration_ms": 5120,
+      "text": "that you have in your website through"
+    },
+    {
+      "start_ms": 2683280,
+      "duration_ms": 6079,
+      "text": "the embedded code is updated uh"
+    },
+    {
+      "start_ms": 2686400,
+      "duration_ms": 5120,
+      "text": "automatically. So no need to change the"
+    },
+    {
+      "start_ms": 2689359,
+      "duration_ms": 4480,
+      "text": "uh the code. Uh this is good for you"
+    },
+    {
+      "start_ms": 2691520,
+      "duration_ms": 5599,
+      "text": "because you know that every week"
+    },
+    {
+      "start_ms": 2693839,
+      "duration_ms": 7801,
+      "text": "automatically the new features are uh"
+    },
+    {
+      "start_ms": 2697119,
+      "duration_ms": 4521,
+      "text": "uploaded in your embedded demo."
+    },
+    {
+      "start_ms": 2702079,
+      "duration_ms": 5201,
+      "text": "All right guys uh I think we have"
+    },
+    {
+      "start_ms": 2704960,
+      "duration_ms": 8159,
+      "text": "covered everything for today. Thanks for"
+    },
+    {
+      "start_ms": 2707280,
+      "duration_ms": 9520,
+      "text": "coming as always. Um a little um a few"
+    },
+    {
+      "start_ms": 2713119,
+      "duration_ms": 6401,
+      "text": "words about uh next week."
+    },
+    {
+      "start_ms": 2716800,
+      "duration_ms": 5920,
+      "text": "Uh so next week for sure uh we will"
+    },
+    {
+      "start_ms": 2719520,
+      "duration_ms": 6720,
+      "text": "release the uh Tik Tok integration. Very"
+    },
+    {
+      "start_ms": 2722720,
+      "duration_ms": 6080,
+      "text": "happy for this because uh it's been a"
+    },
+    {
+      "start_ms": 2726240,
+      "duration_ms": 4400,
+      "text": "long road to have finally Tik Tok"
+    },
+    {
+      "start_ms": 2728800,
+      "duration_ms": 3360,
+      "text": "approved."
+    },
+    {
+      "start_ms": 2730640,
+      "duration_ms": 3920,
+      "text": "And so this is a new social media"
+    },
+    {
+      "start_ms": 2732160,
+      "duration_ms": 4720,
+      "text": "channel for your clients."
+    },
+    {
+      "start_ms": 2734560,
+      "duration_ms": 6720,
+      "text": "Uh so your clients will be able to post"
+    },
+    {
+      "start_ms": 2736880,
+      "duration_ms": 7439,
+      "text": "uh views on Tik Tok. So uh not so many"
+    },
+    {
+      "start_ms": 2741280,
+      "duration_ms": 5920,
+      "text": "local businesses have uh a Tik Tok page"
+    },
+    {
+      "start_ms": 2744319,
+      "duration_ms": 6081,
+      "text": "but this is something you can um sell"
+    },
+    {
+      "start_ms": 2747200,
+      "duration_ms": 6879,
+      "text": "also as your uh as one of your service."
+    },
+    {
+      "start_ms": 2750400,
+      "duration_ms": 5520,
+      "text": "So before connecting all the uh review"
+    },
+    {
+      "start_ms": 2754079,
+      "duration_ms": 4401,
+      "text": "platforms doing the setup and connecting"
+    },
+    {
+      "start_ms": 2755920,
+      "duration_ms": 4880,
+      "text": "social media uh if they do not have a"
+    },
+    {
+      "start_ms": 2758480,
+      "duration_ms": 4320,
+      "text": "Tik Tok uh page you can create it for"
+    },
+    {
+      "start_ms": 2760800,
+      "duration_ms": 5279,
+      "text": "them and connect it to the uh to the"
+    },
+    {
+      "start_ms": 2762800,
+      "duration_ms": 4960,
+      "text": "platform. Uh Tik Tok as you know is"
+    },
+    {
+      "start_ms": 2766079,
+      "duration_ms": 5201,
+      "text": "getting more and more attention"
+    },
+    {
+      "start_ms": 2767760,
+      "duration_ms": 4960,
+      "text": "especially by the Gen Z so young people."
+    },
+    {
+      "start_ms": 2771280,
+      "duration_ms": 6559,
+      "text": "So it's a good opportunity for your"
+    },
+    {
+      "start_ms": 2772720,
+      "duration_ms": 7520,
+      "text": "clients to attract uh that uh that share"
+    },
+    {
+      "start_ms": 2777839,
+      "duration_ms": 6401,
+      "text": "of uh uh"
+    },
+    {
+      "start_ms": 2780240,
+      "duration_ms": 7520,
+      "text": "of potential customers and um"
+    },
+    {
+      "start_ms": 2784240,
+      "duration_ms": 5839,
+      "text": "and then probably we will also work on u"
+    },
+    {
+      "start_ms": 2787760,
+      "duration_ms": 4720,
+      "text": "small features related to the uh"
+    },
+    {
+      "start_ms": 2790079,
+      "duration_ms": 4961,
+      "text": "business mode. Um we've talked about"
+    },
+    {
+      "start_ms": 2792480,
+      "duration_ms": 6000,
+      "text": "widgets. We have also have other things"
+    },
+    {
+      "start_ms": 2795040,
+      "duration_ms": 5840,
+      "text": "in the road map planned since uh month"
+    },
+    {
+      "start_ms": 2798480,
+      "duration_ms": 4800,
+      "text": "ago. Uh so probably next week will be"
+    },
+    {
+      "start_ms": 2800880,
+      "duration_ms": 4959,
+      "text": "dedicated to Tik Tok integration and"
+    },
+    {
+      "start_ms": 2803280,
+      "duration_ms": 4559,
+      "text": "also small features but important"
+    },
+    {
+      "start_ms": 2805839,
+      "duration_ms": 6000,
+      "text": "features uh related to the business"
+    },
+    {
+      "start_ms": 2807839,
+      "duration_ms": 9201,
+      "text": "model. But of course you'll be always um"
+    },
+    {
+      "start_ms": 2811839,
+      "duration_ms": 9321,
+      "text": "updated on Monday or Tuesday uh about"
+    },
+    {
+      "start_ms": 2817040,
+      "duration_ms": 4120,
+      "text": "the plan for next week."
+    },
+    {
+      "start_ms": 2823119,
+      "duration_ms": 10641,
+      "text": "JSON any more uh tools? Uh yes. So"
+    },
+    {
+      "start_ms": 2829280,
+      "duration_ms": 7760,
+      "text": "um we can uh build whatever is needed."
+    },
+    {
+      "start_ms": 2833760,
+      "duration_ms": 7120,
+      "text": "Um it's just a matter of thinking about"
+    },
+    {
+      "start_ms": 2837040,
+      "duration_ms": 7200,
+      "text": "what to uh to build. Uh but probably in"
+    },
+    {
+      "start_ms": 2840880,
+      "duration_ms": 7680,
+      "text": "the next uh weeks I'll take a day to"
+    },
+    {
+      "start_ms": 2844240,
+      "duration_ms": 7359,
+      "text": "think about uh other uh tools that are"
+    },
+    {
+      "start_ms": 2848560,
+      "duration_ms": 6480,
+      "text": "very useful for climbers and we can"
+    },
+    {
+      "start_ms": 2851599,
+      "duration_ms": 6480,
+      "text": "build for you and uh and give away. Um I"
+    },
+    {
+      "start_ms": 2855040,
+      "duration_ms": 5120,
+      "text": "really like that you all tried prompt to"
+    },
+    {
+      "start_ms": 2858079,
+      "duration_ms": 5280,
+      "text": "site. Some of you also publish their"
+    },
+    {
+      "start_ms": 2860160,
+      "duration_ms": 6320,
+      "text": "real website with uh prompt to site and"
+    },
+    {
+      "start_ms": 2863359,
+      "duration_ms": 5760,
+      "text": "um for sure we will work on more tools"
+    },
+    {
+      "start_ms": 2866480,
+      "duration_ms": 5760,
+      "text": "uh down the road."
+    },
+    {
+      "start_ms": 2869119,
+      "duration_ms": 6401,
+      "text": "All right guys, thanks for coming uh as"
+    },
+    {
+      "start_ms": 2872240,
+      "duration_ms": 6240,
+      "text": "always. Uh so tomorrow big day finally"
+    },
+    {
+      "start_ms": 2875520,
+      "duration_ms": 5280,
+      "text": "we have this uh reporting chart that was"
+    },
+    {
+      "start_ms": 2878480,
+      "duration_ms": 6560,
+      "text": "highly highly requested since beginning."
+    },
+    {
+      "start_ms": 2880800,
+      "duration_ms": 7279,
+      "text": "So a new way for you to prove uh ROI but"
+    },
+    {
+      "start_ms": 2885040,
+      "duration_ms": 7039,
+      "text": "not also this. also a good way for you"
+    },
+    {
+      "start_ms": 2888079,
+      "duration_ms": 6240,
+      "text": "to close clients uh because uh uh when"
+    },
+    {
+      "start_ms": 2892079,
+      "duration_ms": 5441,
+      "text": "you present the platform during the demo"
+    },
+    {
+      "start_ms": 2894319,
+      "duration_ms": 6800,
+      "text": "and you immediately show this new home"
+    },
+    {
+      "start_ms": 2897520,
+      "duration_ms": 6400,
+      "text": "section with this uh uh results that are"
+    },
+    {
+      "start_ms": 2901119,
+      "duration_ms": 5681,
+      "text": "growing uh month by month reviews,"
+    },
+    {
+      "start_ms": 2903920,
+      "duration_ms": 6240,
+      "text": "ratings, rankings, uh impression,"
+    },
+    {
+      "start_ms": 2906800,
+      "duration_ms": 5680,
+      "text": "clicks, your clients understand that uh"
+    },
+    {
+      "start_ms": 2910160,
+      "duration_ms": 5199,
+      "text": "it's not a platform to use manually but"
+    },
+    {
+      "start_ms": 2912480,
+      "duration_ms": 5119,
+      "text": "it's a platform for uh getting more"
+    },
+    {
+      "start_ms": 2915359,
+      "duration_ms": 4480,
+      "text": "clients. So they see immediately the"
+    },
+    {
+      "start_ms": 2917599,
+      "duration_ms": 4881,
+      "text": "value. So it's a good update not only"
+    },
+    {
+      "start_ms": 2919839,
+      "duration_ms": 5201,
+      "text": "for proving the ROI to existing clients"
+    },
+    {
+      "start_ms": 2922480,
+      "duration_ms": 5119,
+      "text": "but also for closing new uh clients. So"
+    },
+    {
+      "start_ms": 2925040,
+      "duration_ms": 5279,
+      "text": "let us know your feedback tomorrow"
+    },
+    {
+      "start_ms": 2927599,
+      "duration_ms": 5041,
+      "text": "and uh as always we see each other next"
+    },
+    {
+      "start_ms": 2930319,
+      "duration_ms": 5601,
+      "text": "week. So have an amazing weekend"
+    },
+    {
+      "start_ms": 2932640,
+      "duration_ms": 6280,
+      "text": "everyone and uh wait for your feedback."
+    },
+    {
+      "start_ms": 2935920,
+      "duration_ms": 3000,
+      "text": "Bye-bye."
+    }
+  ],
+  "text": "and is recording. Perfect. So, let's start. Let me share the screen. Perfect. All right guys, so your clients uh from probably tomorrow when we release this feature uh we'll have this new section in their uh home screen. So now the home screen is uh divided into two section uh related to the agent activity and to the uh growth. So we have these three beautiful charts that I'm going to show you in a second uh which are very helpful for them to understand that since they join your white label uh platform uh they are growing the number of reviews the rating the rankings and the impression and clicks on the Google business profile. Uh this is super important for you because of course we all know that uh your clients buy results. They do not buy features. So this is what they want to see. Uh they are going to pay a subscription with you. So they want to see that the most important KPIs are improving month by month and you're bringing them real uh results. Uh on the right we have the agent activity. So by scrolling they can easily see that every agent so the SEO agent, social agent, geo agent are working every day in the background and they are replying to reviews, sharing reviews, creating blog posts etc. And here on the right we have firstly this um chart related to reviews. So build trust turn reviews into instant uh credibility and we have two lines. So the blue lines represent the uh number of uh reviews growing and uh here we can also see the uh grow rate since the beginning. So since the day one and the day one is the day when they uh join your platform and then we have this uh orange uh line that represent the uh average uh rating. So the rating considering all the different uh review platforms that they have uh integrated. So for example, Google, Yelp and uh Trip Advisor. So here we have this um double Yaxis of course in the left we have the number of uh reviews. This case for example this business has totally 52 uh reviews. So here we have from zero to uh 16. And here on the right we have the rating of course from uh zero to uh to five. And here for example we can see that when the client join the uh platform for example in this case 12 month ago uh they had an average rating of uh 35. As you can see with the mouse we can move uh through the line and see for every month their average uh rating uh growing and right now they have average rating of uh 4.9. All right. So a huge improvement and so you will be able to uh prove this improvement thanks to this very uh easy to understand uh chart. So they have improved their average rating from uh 4 point sorry 3.5 to uh 4.9. So huge results and also their number of number of total reviews is growing. So when they join your platform they have for example just six uh total reviews considering all the different uh review platforms integrated and right now they have uh 52 review. Of course, these are just uh example uh data. We are using this uh test business and um but of course in a real uh situation you'll be able to uh prove the fact that uh they join your platform with an average rating and after a few months you've helped them to increase this uh number. Same thing for the uh total uh reviews. So here they understand that the platform is working in terms of uh reviews and uh rating. They see their number of reviews growing month by month. The rating uh growing month by month and so they see their reputation is getting better and better month by month. And you can easily prove uh this through this uh chart dedicated to uh reviews. So number of reviews and average uh rating. Then we have this second uh chart related to uh rankings. So as you know we track two different types of uh ranking. So we track the ranking on uh Google maps and the ranking on uh AI platform. And also here you can prove that uh since they um joined uh your platform they have um improved their uh average uh ranking both on Google maps and on AI platform. So here we do an um average of the different um positions um sorry on on an average on the different rankings uh calculated on the different uh positions. So as you know uh in the uh visibility section uh your clients can see their uh ranking not only in their exact address but also on different uh position. So we basically do an average of all these uh nine numbers and this is the uh average map maps uh ranking and we can see that when they u join your platform for example in this case they had an average maps ranking of uh 12. So they were in the 12 uh position. So 12 was the average of all these nine numbers and every month they are improving the average maps ranking and today they are in the uh first position. So you can prove that you are helping them to be in the top position of the Google maps ranking. Same thing for the AI ranking. So when they join your white label platform uh their average AI ranking which is of course uh their um the average of these uh four different numbers. So the ranking on OpenAI, Gemini, Perplexity and uh Grop. So when they join uh your weight level platform they had an average AI ranking of uh four. So on average you were in the fourth position. And of course as you can see here the ranking is improving month by month and now they are also first on the uh AI ranking. So also this chart is super important because you can prove them that uh when they join your weight label platform they have a bad ranking on maps and on AI platform and thanks to your platform month by month they are improving their rankings and right now they are in the top uh position. uh they show up on Google Maps and uh AI and so they attract more uh customers because they have more and more visibility month by month and uh thanks to the last uh chart you can prove the most important uh data. So um thanks to the uh trust that they build through uh reputation uh they uh improve their rankings on maps and AI platforms. Thanks to this uh uh improved rankings, they get more uh visibility which of course brings them more impression on the Google business uh profile and you are able to um track the uh impressions um month by month and we have also the data uh of the um detailed uh statistics. As you can see uh we see the the um the impression which are the sum of the search impression and the maps uh impression. So you can prove that every month they are growing the number of uh impression. For example in the last month totally they had uh 331 uh impressions uh divided in uh this way. So 235 search impression and 96 maps uh impression when they join your platform they were collecting just 124 uh total impression. So 90 uh search impression and 34 maps uh impression. So a huge uh result. So when they join for example in this case 12 month ago they had every month just a little bit more than 100 impression on their Google business profile. Now they have more than uh 300. So a huge uh improvement and of course thanks to this uh impression they are attracting uh clicks which is what uh we see as uh conversions because clicks are people who uh visit the Google business profile and click on the available buttons for example the click on the website the call clicks the uh direction request. So uh here we do a sum of all these free data. So the website clicks, the call clicks and the uh directional requests and uh so every month they can see that they are getting more and more clicks on their Google business profile which means that there are more people uh visiting visiting their website, more people calling them and more people clicking on the button to get direction uh to see uh to visit the uh uh the business. So more uh of course people interested in their business, more people calling which usually are people um looking to for example book a table for restaurants or people looking to book an appointment with for example uh dentist and direction requests are people which are uh physically uh going to visit the business. So more uh uh put traffic. So this chart is the last chart and represent exactly what they want uh to see. So they are getting more visibility month by month and they see the improvements uh since they they since the day they join the uh platform and most importantly they getting more and more uh clicks uh month by month. So more website clicks, call clicks and uh deduction uh request. For example, in this case, when they join your white label platform, they had just u 15 total uh clicks uh in the uh first month when they join the platform and now they are getting um uh totally 74 uh clicks uh so 18 website clicks, six call clicks, uh 50 direction request. So you can easily see that of course the numbers are uh improving and of course this is what they want to see and this is the reason why they will uh uh pay you they will pay you the monthly subscription because they see exactly this uh data here. So better uh reputation and more uh visibility thanks to a better uh uh rankings on maps and AI platform and of course more visibility brings more uh customers and we are able to prove that they are getting more customers thanks to this uh super important data. So impression and uh clicks on the Google business profile. So this is the new uh home. Uh there is also uh something new on the uh reputation um dashboard because as you can see here we have added this uh section here uh where we can they can see the distribution of uh reviews on the different uh platform. For example, this business totally has uh 443 reviews. So we can see how reviews are uh distributed in terms of u uh percentage. I want also to show you how it looks like in the um mobile version because we all know that a lot of uh your clients uh use the platform through their uh mobile phone. And as you can see this is the new uh home. We have on the left your results and on the right the uh agent uh activity. So when they log in the first thing that they see is that they are getting uh new uh results month by month and this results are uh growing uh over time. So this is the first thing that we show them. So uh the the first thing that they see is that they are getting more uh outcomes month by month and they reputation, rankings and um visibility are improving. And on the right they see that the uh agent team is working on the background uh every day. And uh so this is the new uh redesign um home section. And uh that's all for the um new feature related to uh reporting charts. Before switching to Q\u0026A, I just want to talk a little bit about Tik Tok because finally we got uh approved as you can see here and uh we are not going to release the integration uh tomorrow but 100% uh next week. Of course, it will be an uh unbranded integration uh as for uh Google's and also as for the other direct integration that we have inside the platform. So as for Google uh we have direct integration with the unbreeded name uh myas. It will be the same for uh Tik Tok. So your clients will connect their Tik Tok page with this uh unbranded uh integration and they will be able to uh use the uh social feature of the platform such as uh review sharing through uh not only Google, Facebook and Instagram but now also with uh Tik Tok. Uh all right guys, so let me uh switch to Q\u0026A. Uh let me open uh the chat from my phone because unfortunately I do not have my second computer today. Um give me just one second. Right. Let me see if I can see the messages here. No, let me just open the chat from here. All right. I think I have to disable the screen. So the screen sharing. So let me disable the screen sharing for one second. Perfect. All right. So if I need to share the screen again, of course I will quickly share the screen. Uh let's start with question from Jeremy. So I noticed that the charts currently display only one year of data. Uh couldn't you please clarify how the information will be uh presented after the first year? Uh no the chart start from uh the month when your clients join your uh platform. All right. So in this example we have one year of data assuming that the client was on boarded exactly one year ago. But of course if the client was on boarded uh two years ago we have uh two years of uh data divided by uh month. Uh so for example also the client joined three month ago of course we have three month of uh data. So the the charts uh will show uh just uh let's say free uh free data and um so we track all this data since the month when they join. And of course uh we we track this data forever and all this data will be reported in the chart. Uh this is a v1 of course as always uh probably in the future there will be also a little filter uh where you can see you can filter for example for uh different time frames. For example, uh the default one will be since joining, but you'll be able also to switch, for example, last six month, last year, uh etc., etc. Um question from FA. Um very nice updates. Question, uh I want to train an AI receptionist on the knowledge base. Um is it possible to have API for that? I can't add a file to the AI receptionist. uh neither uh uh link uh all right so you would like to have if I understand well an API to get all the articles of the knowledge base if I understand well I think we can easily uh do it um maybe it's better if you do a post in the community about it so we can see if also other members uh are interested we can see different use cases and of course if highly requested we will Uh we will do it. Uh Sandy um hi John great update uh really great for the ROI proof some overall question uh the link in the reviews uh shown in the widget to the um originated platform um is requested often by my customer and insight on uh time plan for this uh yes this is planned. So we have in the road map um a plan feature related to widgets. So we have to do um not only this theme but also other uh things. Uh I think we'll do it uh for sure this this year and for sure not at the end of the year. So expect to have it uh maybe uh within a couple of months. And uh Sandy other question we mention somewhere sometimes 80 plus integration. How do we count those? Uh do we count API also? Um now for review charts sorry for review integrations um we do not have 80 plus uh integrations. I think we have something around uh 20. So what you can uh promote in your website is like 20 plus uh integrations uh with uh uh review sites. JSON on the client's page. It will be possible to have an overish how much of their SMS AI and WhatsApp they are sending um uh to you at the bar chart maybe in green amber and red. Uh all right. So you would like to have another chart related to uh review request sent via the platform. Uh that's interesting. Um let me share again the screen. So we talk a little bit more about why we decided to do these three different uh charts. And u uh yes, as you can see uh we decided to do uh this uh free charts. Of course, we had the possibility to do uh more charts. Uh for example, if you see this uh chart here, uh we could have done for example a chart um for each uh clicks. So a chart dedicated to website clicks, a chart dedicated to call clicks and a chart dedicated to direction request. Same thing for the uh impression. Uh same thing for the um AI ranking. For example, we would have done a chart dedicated to each AI platform. Uh the thing is that we do not want to add too many data because uh we all know that um local businesses are not techsavvy people and uh maybe it can be confusing to show too many things. uh for example six eight different uh charts will probably be too much uh for them. Um they want an easy way to track uh in a few seconds that they are growing the most important outcomes uh month by month. And we believe that three is a good number uh as always. And so one uh chart dedicated to uh reputation, one chart dedicated to uh rankings and one chart dedicated to uh Google uh Google metrics. Um of course we want to hear your feedback on this if you would like to see things uh differently. Um but we believe three is a good number because it's not uh um it's not too much and literally in 10 20 seconds they are able to read all the uh chart and then close the uh the application. They do not want to spend too much uh time reading at uh chart. So we believe three is a uh is a great number. Something that I didn't mention which is uh very very important is this uh button here that allows your client to export a CSV um that uh keep all the data of uh each month since they uh they join. So they can download a CSU with all this data uh here. So there will be um a column dedicated to each month well um columns and for every month we can see how the uh for example total reviews are growing. Same thing for the rankings and same thing for the Google uh metrics. So they can export a CSV containing all these uh data uh here a CSV that they can use for uh whatever they want or also you as an agency you can easily download the CS and build other things with this uh CS. Uh let me go back to the question. Perfect. All right. Question from um Roy. uh is the AI blocks information uh add uh to the knowledge base? Uh I think so. Yes. So there is u a chapter dedicated to the geo agent. Uh I think with all the info about how the agent uh works. Uh if we if you see something missing in the knowledge base uh please open a ticket so our tech our support team can update uh the uh the articles. sended why are the WhatsApp cost so high? We are used uh WhatsApp being free. Um I keep on running customer question why they have to pay for it in their mind that is really strange. Uh this is WhatsApp API. Uh so of course WhatsApp is free if you use it through the U application. Uh but if you use it the uh API there is a cost charged uh directly by uh Meta. I can show you the public page WhatsApp API pricing. There should be there we go a section on the um WhatsApp website dedicated to this. Uh you can see here for example if we send a message in France uh currency is euro and the message is a marketing message you see this is uh the uh rate which is around um very very similar to what we uh charge. So we do not make uh profit on this. Um so this is the WhatsApp business models. So WhatsApp uh give the application of course for free to uh to users. Uh if you want to use it via uh APIs as we use it uh there is a cost which of course it's a it's a B2B pricing. So unfortunately there are this uh cost charged by uh WhatsApp. Let me share the um the link in the chat. All right. Yeah, sorry I was not sharing the screen but I send you the the link here in the uh in the chat. Um yes so as you know for um messages so WhatsApp, SMS and also email um we are partner with bird.com so of course bird charge us a price and of course bird pay meta directly and so uh of course there is this um the reason why you can also limit the number of WhatsApp messages uh your client can send every JSON. Um what I was trying to get uh is is an act view overview. Uh you can see by looking at all your clients uh who was using the most credits. Uh if you need to discuss with them about getting more, you can do it uh before. All right. So if if I understand well you want to understand from your agency mode the clients who are using more more SMS or WhatsApp and the clients who are approaching the limits. So maybe you can contact them before they get to the limit. Uh this is interesting. So because of course this is an opportunity for you to um let the client switch to the uh to your um most expensive plans. Uh so yes um I see uh I see this as an important thing uh because of course it can help you to sell your more uh expensive plans and so we can definitely uh think uh about building something around it maybe of course in the balance uh section. So maybe in the balance section we can uh put something like a badge to the clients who are approaching their uh their limits. So you can easily understand who is getting to uh to the limit. And we can also build a kind of automated message that you can personalize from the uh template section. For example, when a client reach the 80% for example or of SMS provided or 80% of uh AI tokens provided, you can send an automated message. Hey, you are reaching the limit. Uh if you need more uh AI tokens or more SMS uh feel free to explore our um premium plans uh which of course have higher higher limits. But this can be an opportunity for you to sell your other plans. So uh we can plan this in the road map and thanks for the uh for the nice feedback and question from Kristoff. Um negative reviews are company's biggest concern. Will it be possible to receive notifications specifically for negative reviews uh rather than for every review they receive? Uh yeah, great question. Um so let me quickly share the screen. All right. So now as uh you can see here in the uh notifications uh your client can enable a notification for new reviews. Um this is of course related to new Google uh reviews because uh Google allows via API to receive a web book when there is a a new uh a new Google review coming in. uh but we can let's say have two different types of uh notification uh maybe new uh positive reviews so four and five star reviews and new uh negative review for one two or uh three star reviews. So maybe your clients can enable just the new negative review notification and they do not receive any notification if they get a four or five star reviews. So this is uh interesting. Um there is also this notification daily reviews notification. Uh basically if activated at the end of each day your client receive an email with a summary of what happened during the day and uh in the email we u show them what how many uh reviews they received, how many uh um private feedback. Uh but what you said about negative reviews is interesting. So we can send this notification just if they receive a one, two or three star review. So they can uh quickly uh come in and resolve any negative situation. So I think we're going to add all um also this uh thing as a applying feature. um JSON uh also one of my personal accounts I'm using um I've got uh 4,600 units in AI. Um yeah, so if you're talking about what we discussed before, I think there is a value on it. So um we will uh think uh about how to implement it in the agency mode. Also uh feel free to open a post in the community. So we can see the uh feedback uh also with the other community members. Um send it uh the blog post automation is a concern for customer. Um how is the quality perceived by their uh readers? Um of course um I mean we can only uh we cannot have we cannot track the sentiment of uh or of readers while they read the uh article. Uh of course this is a v1 uh of the let's say uh blog article generation. We can improve the uh prompt over time. There is also a possibility for you to add a custom prompt on the go agent to change uh something about how the article is uh is generated. If you feel that we need to change something in the prompt, uh feel free to open a post in the community so we can all help each other understand how to improve the um the geo agent and the blog post uh automation. And um in the future we will be able to also track for example the visits on um every uh blog post maybe also the um the time spent by users on each blog post. So we can understand if users are uh reading the uh the post and so that maybe could be a kind of indication of the uh quality of the uh of the blog post. Um but right now what we can do easily in the short term we can improve the uh the prompt to generate uh better articles and so um this is something that we can do just by fixing the uh the prompt. Um if you want to do something in the short term you can also use the custom prompt section. So uh over there uh in the geo agent settings there is the custom prompt section and you can add whatever you want there. Um, Victor, is it totally white label integrated in my uh website? Um, yes. So, if you're uh if your question is related to the general uh platform, yes, client is fully white labelled and you sell it as your uh as your own. um send him the missing edit mode and the limit on hours uh when it goes live is dangerous because cause when they forget to check it goes live. Um yes, so the possibility to edit the title and description and text of uh every article is coming in the short term. So this is something we will work on for sure uh within a couple of months. And we want we also want to uh understand how to manage uh better the uh the auto approval um feature. Right now your clients have 24 hours to approve it uh or not. If during this 24 hours they do not do uh nothing, the article is automatically approved. Uh we can change this. So uh we can let your clients uh have a an easy way to um publish the article just if they manually uh approve it. And so uh maybe uh every uh couple of weeks they go to the geoen section, they see the article which are not approved yet. uh they easily uh read them and manually they approve or uh disapprove and if they want to change uh the text they'll be able to uh to do it. Um so this can be v2 of the go agent. Um you're asking maybe send reminders about the remaining hours left before it goes live. Um yeah so now we just send um a reminder when the article is created. Uh let me share quickly the uh screen. So as you can see here we have this two notification. So article generation notification and article publication uh notification. So this reminder is sent when the article is uh generated and they have 24 hours to approve it or not and this is sent when the article is um published. I think the best way to uh fix this is by letting uh your clients publish article just if they manually uh approve it without um the pressure of the uh the 24 hours. I think that's the best way to uh to fix this. Yeah. All right, guys. Let me know if you have other u questions related to today's feature. Um so probably um tomorrow uh we'll uh um release this uh big update related to reporting charts. Um the first thing that we want to um to to hear our feedbacks of course. So this is a new thing and a very important thing. So when we will do the post tomorrow uh feel free to comment on how you uh you you would like to maybe uh add more value to this uh to this section. And um our goal was to create something easy to understand uh not with too many data um because of course there are a lot of data in the platform reputation rankings uh reviews uh ratings uh impressions etc. There are a lot of a lot of data but we do not want to add complexity. Uh it's very easy sometimes to do complex uh things and the difficult thing is to turn complexity into uh simplicity and uh this is why we took at the beginning of the week a couple of days just to understand how to put all this data into three easy to understand uh charts related to the most important outputs that your clients want to see. And so we decided to create this uh chart. The first chart is build the trust. The second chart is get found and the third chart is win customers which are the main three reason why your clients decide to uh uh to join your platform. And um also let me share again the new home section also this um new home section has now um let's say the most important uh value brought by the uh platform. So at the top we have this cover with the uh information about the business and with the ratings on the different review platforms. On the right we have agent uh activity and on the left we have the uh results since uh since joining and so we believe this is a nice uh home because it has the most important things that the platform uh brings. So on the right we have automations powered by AI agents. Uh so your clients here easily understand that the AI team is working every day uh without the need for them to lift a finger. Uh as you know I remember you you can personalize the name of the agents both the title and the um uh image so the profile picture of each agent to make them more uh personalized and more connected to your brand. So here on the right your clients easily see that there is a team of agents working for them every day and on the left they see uh outcomes they see results which is the reason why they uh they decide to pay the monthly or the uh the annual subscription. So again we can add more things we can cut uh more things just let us know your uh feedbacks. Um, as as I said before, we do not want to add too many data because it will become too complex and uh we want you to let you present this section very very quickly. So your clients have a aha moment. Let's say they understand that it's a platform made for uh result and not a platform made for for features or for using it manually every day. You help them to bring uh results, real results, reviews, rating, rankings and impression and clicks uh with a team of agents working for them every day in the uh background. So this is something also nice to put on your website. as a let's say a screenshot that represents how the platform works. Uh as you know you have the opportunity to embed the uh demo platform on all your website. So if you go to the uh brand section you know you have this uh embed code. So you can just copy and paste this uh HTML and this demo account will appear on your uh website of course with your logo your color so your uh visitors can see how the platform works directly in your website without the need to uh to create an account. And uh this home section represent now real uh outcomes real results which is what your clients uh want to see. They don't want to to see that this is something that they have to use manually. They want to see that this is a platform they have to uh uh they just uh set up and that the platform brings uh real uh results. All right guys um let's see the last uh questions. Um um Franis, how is it possible to contact you in the end? Um I'm going to check VM as soon as possible. So uh expect a reply from me maybe in a few days. Um I usually my uh I mean the the possibility to contact uh me let's say is not open to uh to everyone. We have a support team for any kind of issue related to the uh to the platform. Um I open DMs sometimes. So if there are important things to uh to check uh I will make sure uh uh you get a reply. So Frana I will check your DM as soon as possible. Sandy yes better home. Uh what is visible if you connect a customer with uh zero uh reviews? Uh yeah. So if a customer is uh zero u review of course for example in the uh reviews uh chart um they will see that the line start from uh zero. So in the month number one you connect all the review platforms. If they have zero reviews on every review platform of course the line of the first map will start from the uh number zero. Jason, yes, thanks for uh remembering this to me. Uh we will upload the uh the training as soon as possible. Uh probably tomorrow when we do the uh the release of the features. So we will upload it as always in the uh in the classroom. Sandy, will the embedded demo update automatically the homepage uh with uh new reviews? Uh yes, the embedded demo is always uh updated automatically. So every week as you know we release new feature. Whenever we release new feature we also uh update the uh the demo account and so automatically uh the demo that you have in your website through the embedded code is updated uh automatically. So no need to change the uh the code. Uh this is good for you because you know that every week automatically the new features are uh uploaded in your embedded demo. All right guys uh I think we have covered everything for today. Thanks for coming as always. Um a little um a few words about uh next week. Uh so next week for sure uh we will release the uh Tik Tok integration. Very happy for this because uh it's been a long road to have finally Tik Tok approved. And so this is a new social media channel for your clients. Uh so your clients will be able to post uh views on Tik Tok. So uh not so many local businesses have uh a Tik Tok page but this is something you can um sell also as your uh as one of your service. So before connecting all the uh review platforms doing the setup and connecting social media uh if they do not have a Tik Tok uh page you can create it for them and connect it to the uh to the platform. Uh Tik Tok as you know is getting more and more attention especially by the Gen Z so young people. So it's a good opportunity for your clients to attract uh that uh that share of uh uh of potential customers and um and then probably we will also work on u small features related to the uh business mode. Um we've talked about widgets. We have also have other things in the road map planned since uh month ago. Uh so probably next week will be dedicated to Tik Tok integration and also small features but important features uh related to the business model. But of course you'll be always um updated on Monday or Tuesday uh about the plan for next week. JSON any more uh tools? Uh yes. So um we can uh build whatever is needed. Um it's just a matter of thinking about what to uh to build. Uh but probably in the next uh weeks I'll take a day to think about uh other uh tools that are very useful for climbers and we can build for you and uh and give away. Um I really like that you all tried prompt to site. Some of you also publish their real website with uh prompt to site and um for sure we will work on more tools uh down the road. All right guys, thanks for coming uh as always. Uh so tomorrow big day finally we have this uh reporting chart that was highly highly requested since beginning. So a new way for you to prove uh ROI but not also this. also a good way for you to close clients uh because uh uh when you present the platform during the demo and you immediately show this new home section with this uh uh results that are growing uh month by month reviews, ratings, rankings, uh impression, clicks, your clients understand that uh it's not a platform to use manually but it's a platform for uh getting more clients. So they see immediately the value. So it's a good update not only for proving the ROI to existing clients but also for closing new uh clients. So let us know your feedback tomorrow and uh as always we see each other next week. So have an amazing weekend everyone and uh wait for your feedback. Bye-bye."
+}

@@ -1,0 +1,18 @@
+{
+  "videoId": "hg7302kRED4",
+  "language": "en",
+  "kind": "asr",
+  "segments": [
+    {
+      "start_ms": 654,
+      "duration_ms": 4906,
+      "text": "[music]"
+    },
+    {
+      "start_ms": 840,
+      "duration_ms": 4720,
+      "text": "\u003e\u003e Cuz when I hear your voice talk to me"
+    }
+  ],
+  "text": "[music] \u003e\u003e Cuz when I hear your voice talk to me"
+}

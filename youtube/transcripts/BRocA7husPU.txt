@@ -1,0 +1,6078 @@
+{
+  "videoId": "BRocA7husPU",
+  "language": "en",
+  "kind": "asr",
+  "segments": [
+    {
+      "start_ms": 160,
+      "duration_ms": 3279,
+      "text": "Hello and welcome to this training. My"
+    },
+    {
+      "start_ms": 1920,
+      "duration_ms": 4160,
+      "text": "name is Jakamo and today I'm going to"
+    },
+    {
+      "start_ms": 3439,
+      "duration_ms": 5120,
+      "text": "teach you how to launch your $3,000 per"
+    },
+    {
+      "start_ms": 6080,
+      "duration_ms": 4880,
+      "text": "month AI reputation management SAS"
+    },
+    {
+      "start_ms": 8559,
+      "duration_ms": 4481,
+      "text": "agency in less than 30 days. And no,"
+    },
+    {
+      "start_ms": 10960,
+      "duration_ms": 3759,
+      "text": "we're not talking about go high level. I"
+    },
+    {
+      "start_ms": 13040,
+      "duration_ms": 3920,
+      "text": "know that you're probably have seen a"
+    },
+    {
+      "start_ms": 14719,
+      "duration_ms": 4480,
+      "text": "lot of videos in YouTube about starting"
+    },
+    {
+      "start_ms": 16960,
+      "duration_ms": 4800,
+      "text": "your SAS agency, your reputation"
+    },
+    {
+      "start_ms": 19199,
+      "duration_ms": 5201,
+      "text": "management agency with high level. But"
+    },
+    {
+      "start_ms": 21760,
+      "duration_ms": 4400,
+      "text": "we are not talking about this tool. I"
+    },
+    {
+      "start_ms": 24400,
+      "duration_ms": 3600,
+      "text": "know that go level can feel uh"
+    },
+    {
+      "start_ms": 26160,
+      "duration_ms": 4400,
+      "text": "complicated. Maybe you have a little bit"
+    },
+    {
+      "start_ms": 28000,
+      "duration_ms": 4399,
+      "text": "of doubt about starting the reputation"
+    },
+    {
+      "start_ms": 30560,
+      "duration_ms": 4080,
+      "text": "management agency with high level"
+    },
+    {
+      "start_ms": 32399,
+      "duration_ms": 4641,
+      "text": "because it seems very complex to use"
+    },
+    {
+      "start_ms": 34640,
+      "duration_ms": 4480,
+      "text": "both for you as an agency and for your"
+    },
+    {
+      "start_ms": 37040,
+      "duration_ms": 4080,
+      "text": "clients. The good news is that we're not"
+    },
+    {
+      "start_ms": 39120,
+      "duration_ms": 4240,
+      "text": "talking about this tool, but we're going"
+    },
+    {
+      "start_ms": 41120,
+      "duration_ms": 5200,
+      "text": "to see how to start a reputation"
+    },
+    {
+      "start_ms": 43360,
+      "duration_ms": 5600,
+      "text": "management SAS agency easily with a very"
+    },
+    {
+      "start_ms": 46320,
+      "duration_ms": 5440,
+      "text": "very simple uh plug-and-play system that"
+    },
+    {
+      "start_ms": 48960,
+      "duration_ms": 5200,
+      "text": "your clients can set up autonomously. So"
+    },
+    {
+      "start_ms": 51760,
+      "duration_ms": 4639,
+      "text": "you can run your agency fully on"
+    },
+    {
+      "start_ms": 54160,
+      "duration_ms": 4320,
+      "text": "autopilot without providing manual"
+    },
+    {
+      "start_ms": 56399,
+      "duration_ms": 3761,
+      "text": "services to your clients. All right,"
+    },
+    {
+      "start_ms": 58480,
+      "duration_ms": 3520,
+      "text": "let's start. This is what we're going to"
+    },
+    {
+      "start_ms": 60160,
+      "duration_ms": 3840,
+      "text": "cover today. Firstly, we're going to see"
+    },
+    {
+      "start_ms": 62000,
+      "duration_ms": 4159,
+      "text": "what is reputation management. There is"
+    },
+    {
+      "start_ms": 64000,
+      "duration_ms": 4560,
+      "text": "a lot of confusion online about what"
+    },
+    {
+      "start_ms": 66159,
+      "duration_ms": 4161,
+      "text": "reputation management really is. A lot"
+    },
+    {
+      "start_ms": 68560,
+      "duration_ms": 3440,
+      "text": "of people think that is just getting"
+    },
+    {
+      "start_ms": 70320,
+      "duration_ms": 4400,
+      "text": "Google reviews and reply to Google"
+    },
+    {
+      "start_ms": 72000,
+      "duration_ms": 4159,
+      "text": "reviews. It's not like this. It's much"
+    },
+    {
+      "start_ms": 74720,
+      "duration_ms": 4160,
+      "text": "uh more. So we're going to see in"
+    },
+    {
+      "start_ms": 76159,
+      "duration_ms": 4561,
+      "text": "details what reputation management is."
+    },
+    {
+      "start_ms": 78880,
+      "duration_ms": 4160,
+      "text": "Then we're going to see why it's the"
+    },
+    {
+      "start_ms": 80720,
+      "duration_ms": 4399,
+      "text": "easiest entry point for uh local"
+    },
+    {
+      "start_ms": 83040,
+      "duration_ms": 5200,
+      "text": "businesses and why it's so easy to sell"
+    },
+    {
+      "start_ms": 85119,
+      "duration_ms": 5601,
+      "text": "to some kind of uh local businesses that"
+    },
+    {
+      "start_ms": 88240,
+      "duration_ms": 4160,
+      "text": "will immediately understand uh what"
+    },
+    {
+      "start_ms": 90720,
+      "duration_ms": 3520,
+      "text": "you're offering. They will immediately"
+    },
+    {
+      "start_ms": 92400,
+      "duration_ms": 4320,
+      "text": "get the problem that they currently"
+    },
+    {
+      "start_ms": 94240,
+      "duration_ms": 5199,
+      "text": "have. So they will immediately see the"
+    },
+    {
+      "start_ms": 96720,
+      "duration_ms": 4480,
+      "text": "return on investment. All right, we're"
+    },
+    {
+      "start_ms": 99439,
+      "duration_ms": 4320,
+      "text": "going to see how you will be able to get"
+    },
+    {
+      "start_ms": 101200,
+      "duration_ms": 4800,
+      "text": "your first client within 30 days. So,"
+    },
+    {
+      "start_ms": 103759,
+      "duration_ms": 4881,
+      "text": "we're going to see a proven strategy"
+    },
+    {
+      "start_ms": 106000,
+      "duration_ms": 5119,
+      "text": "that will allow you to identify your"
+    },
+    {
+      "start_ms": 108640,
+      "duration_ms": 4479,
+      "text": "perfect uh client. We're going to see"
+    },
+    {
+      "start_ms": 111119,
+      "duration_ms": 4161,
+      "text": "how you pitch the platform. So, the"
+    },
+    {
+      "start_ms": 113119,
+      "duration_ms": 4721,
+      "text": "exact words that you need to use when"
+    },
+    {
+      "start_ms": 115280,
+      "duration_ms": 4560,
+      "text": "you meet face tof face your prospects,"
+    },
+    {
+      "start_ms": 117840,
+      "duration_ms": 3680,
+      "text": "and we're going to see how to convert"
+    },
+    {
+      "start_ms": 119840,
+      "duration_ms": 4319,
+      "text": "them. Of course, there is not going to"
+    },
+    {
+      "start_ms": 121520,
+      "duration_ms": 5199,
+      "text": "be a 100% conversion, but we're going to"
+    },
+    {
+      "start_ms": 124159,
+      "duration_ms": 4960,
+      "text": "see the best converting strategies"
+    },
+    {
+      "start_ms": 126719,
+      "duration_ms": 4880,
+      "text": "already proven by thousand of agencies"
+    },
+    {
+      "start_ms": 129119,
+      "duration_ms": 4561,
+      "text": "that are already working with us. And"
+    },
+    {
+      "start_ms": 131599,
+      "duration_ms": 4881,
+      "text": "then we're going to see how to automate"
+    },
+    {
+      "start_ms": 133680,
+      "duration_ms": 4639,
+      "text": "the fulfillment easily. So clients pay"
+    },
+    {
+      "start_ms": 136480,
+      "duration_ms": 4320,
+      "text": "you forever. Clients are going to pay"
+    },
+    {
+      "start_ms": 138319,
+      "duration_ms": 4321,
+      "text": "you a monthly subscription or an annual"
+    },
+    {
+      "start_ms": 140800,
+      "duration_ms": 3840,
+      "text": "subscription. And we're going to see how"
+    },
+    {
+      "start_ms": 142640,
+      "duration_ms": 4239,
+      "text": "you can automate everything. So you"
+    },
+    {
+      "start_ms": 144640,
+      "duration_ms": 4480,
+      "text": "don't have to manually build complex"
+    },
+    {
+      "start_ms": 146879,
+      "duration_ms": 4161,
+      "text": "automations for your clients that they"
+    },
+    {
+      "start_ms": 149120,
+      "duration_ms": 3600,
+      "text": "do not understand. So they have to"
+    },
+    {
+      "start_ms": 151040,
+      "duration_ms": 3600,
+      "text": "contact you if they want to change"
+    },
+    {
+      "start_ms": 152720,
+      "duration_ms": 3920,
+      "text": "something. No, this is a completely"
+    },
+    {
+      "start_ms": 154640,
+      "duration_ms": 5679,
+      "text": "different world. We're going to see how"
+    },
+    {
+      "start_ms": 156640,
+      "duration_ms": 5280,
+      "text": "you can 100% automate every process. So"
+    },
+    {
+      "start_ms": 160319,
+      "duration_ms": 3920,
+      "text": "clients pay you forever and most"
+    },
+    {
+      "start_ms": 161920,
+      "duration_ms": 4319,
+      "text": "importantly they do not contact you to"
+    },
+    {
+      "start_ms": 164239,
+      "duration_ms": 3441,
+      "text": "change something if they want to change"
+    },
+    {
+      "start_ms": 166239,
+      "duration_ms": 3121,
+      "text": "something. They will do everything"
+    },
+    {
+      "start_ms": 167680,
+      "duration_ms": 4320,
+      "text": "autonomously. And finally, we're going"
+    },
+    {
+      "start_ms": 169360,
+      "duration_ms": 6080,
+      "text": "to see how you can turn your agency into"
+    },
+    {
+      "start_ms": 172000,
+      "duration_ms": 5200,
+      "text": "a scalable $3,000 per month AI software"
+    },
+    {
+      "start_ms": 175440,
+      "duration_ms": 4079,
+      "text": "as a service. So we're going to see"
+    },
+    {
+      "start_ms": 177200,
+      "duration_ms": 4080,
+      "text": "numbers, we're going to do some math and"
+    },
+    {
+      "start_ms": 179519,
+      "duration_ms": 4161,
+      "text": "we're going to see how you can reach to"
+    },
+    {
+      "start_ms": 181280,
+      "duration_ms": 4800,
+      "text": "this goal and of course uh beyond if you"
+    },
+    {
+      "start_ms": 183680,
+      "duration_ms": 4800,
+      "text": "keep doing this business model for years"
+    },
+    {
+      "start_ms": 186080,
+      "duration_ms": 4159,
+      "text": "and years. All right, so let's start."
+    },
+    {
+      "start_ms": 188480,
+      "duration_ms": 3920,
+      "text": "Firstly, reputation management isn't"
+    },
+    {
+      "start_ms": 190239,
+      "duration_ms": 4640,
+      "text": "just getting Google reviews. There are a"
+    },
+    {
+      "start_ms": 192400,
+      "duration_ms": 4880,
+      "text": "lot of videos online on YouTube about"
+    },
+    {
+      "start_ms": 194879,
+      "duration_ms": 4080,
+      "text": "this about the fact that uh reputation"
+    },
+    {
+      "start_ms": 197280,
+      "duration_ms": 3679,
+      "text": "management is just helping small local"
+    },
+    {
+      "start_ms": 198959,
+      "duration_ms": 4640,
+      "text": "businesses like restaurants, gyms,"
+    },
+    {
+      "start_ms": 200959,
+      "duration_ms": 4721,
+      "text": "saloons, barber shops, etc. to get"
+    },
+    {
+      "start_ms": 203599,
+      "duration_ms": 4081,
+      "text": "Google reviews. This is just a just a"
+    },
+    {
+      "start_ms": 205680,
+      "duration_ms": 4479,
+      "text": "part of uh reputation management."
+    },
+    {
+      "start_ms": 207680,
+      "duration_ms": 4559,
+      "text": "Reputation management is much more. This"
+    },
+    {
+      "start_ms": 210159,
+      "duration_ms": 4720,
+      "text": "is what reputation management is about."
+    },
+    {
+      "start_ms": 212239,
+      "duration_ms": 4640,
+      "text": "Firstly, we're going to improve uh your"
+    },
+    {
+      "start_ms": 214879,
+      "duration_ms": 4401,
+      "text": "client's reputation by generating more"
+    },
+    {
+      "start_ms": 216879,
+      "duration_ms": 5201,
+      "text": "positive reviews and replying to every"
+    },
+    {
+      "start_ms": 219280,
+      "duration_ms": 4959,
+      "text": "review. So, this is just the first step"
+    },
+    {
+      "start_ms": 222080,
+      "duration_ms": 4000,
+      "text": "of reputation management, but there is"
+    },
+    {
+      "start_ms": 224239,
+      "duration_ms": 4161,
+      "text": "much more. We're going to protect"
+    },
+    {
+      "start_ms": 226080,
+      "duration_ms": 4879,
+      "text": "ratings by collecting private feedbacks"
+    },
+    {
+      "start_ms": 228400,
+      "duration_ms": 4640,
+      "text": "from unhappy customers first without"
+    },
+    {
+      "start_ms": 230959,
+      "duration_ms": 4560,
+      "text": "gating. So, we're not going to use"
+    },
+    {
+      "start_ms": 233040,
+      "duration_ms": 4559,
+      "text": "illegal system. We're not going to gate"
+    },
+    {
+      "start_ms": 235519,
+      "duration_ms": 4401,
+      "text": "our customers and redirect unhappy"
+    },
+    {
+      "start_ms": 237599,
+      "duration_ms": 3840,
+      "text": "customers to just leave private"
+    },
+    {
+      "start_ms": 239920,
+      "duration_ms": 4399,
+      "text": "feedbacks. We're going to use a"
+    },
+    {
+      "start_ms": 241439,
+      "duration_ms": 5041,
+      "text": "compliant system that allow us to"
+    },
+    {
+      "start_ms": 244319,
+      "duration_ms": 4241,
+      "text": "collect private feedbacks from customers"
+    },
+    {
+      "start_ms": 246480,
+      "duration_ms": 4720,
+      "text": "who didn't have a good experience with"
+    },
+    {
+      "start_ms": 248560,
+      "duration_ms": 4239,
+      "text": "us. So we can fix issues before they go"
+    },
+    {
+      "start_ms": 251200,
+      "duration_ms": 3679,
+      "text": "public. So before they go to Google to"
+    },
+    {
+      "start_ms": 252799,
+      "duration_ms": 4400,
+      "text": "leave a negative reviews. This is also"
+    },
+    {
+      "start_ms": 254879,
+      "duration_ms": 4721,
+      "text": "part of reputation management. Then"
+    },
+    {
+      "start_ms": 257199,
+      "duration_ms": 5201,
+      "text": "we're going to track and analyze what"
+    },
+    {
+      "start_ms": 259600,
+      "duration_ms": 4640,
+      "text": "customers are saying about your client's"
+    },
+    {
+      "start_ms": 262400,
+      "duration_ms": 4799,
+      "text": "business online. So, we're going to"
+    },
+    {
+      "start_ms": 264240,
+      "duration_ms": 5679,
+      "text": "centralize everything to understand what"
+    },
+    {
+      "start_ms": 267199,
+      "duration_ms": 5361,
+      "text": "customers are saying about us, to spot"
+    },
+    {
+      "start_ms": 269919,
+      "duration_ms": 5361,
+      "text": "trends, to understand what they really"
+    },
+    {
+      "start_ms": 272560,
+      "duration_ms": 4560,
+      "text": "like or dislike. We're going to showcase"
+    },
+    {
+      "start_ms": 275280,
+      "duration_ms": 3919,
+      "text": "your clients best feedbacks like"
+    },
+    {
+      "start_ms": 277120,
+      "duration_ms": 4079,
+      "text": "fivestar reviews and video testimonials"
+    },
+    {
+      "start_ms": 279199,
+      "duration_ms": 3921,
+      "text": "to build trust and attract more"
+    },
+    {
+      "start_ms": 281199,
+      "duration_ms": 3521,
+      "text": "customers. This is also part of"
+    },
+    {
+      "start_ms": 283120,
+      "duration_ms": 3840,
+      "text": "reputation management. We're not just"
+    },
+    {
+      "start_ms": 284720,
+      "duration_ms": 5039,
+      "text": "collecting reviews and feedback. We are"
+    },
+    {
+      "start_ms": 286960,
+      "duration_ms": 5360,
+      "text": "also exploiting the power of reviews to"
+    },
+    {
+      "start_ms": 289759,
+      "duration_ms": 4720,
+      "text": "get more clients. We're going also to"
+    },
+    {
+      "start_ms": 292320,
+      "duration_ms": 5760,
+      "text": "keep your clients public listings"
+    },
+    {
+      "start_ms": 294479,
+      "duration_ms": 5521,
+      "text": "accurate and upto-date with uh photos uh"
+    },
+    {
+      "start_ms": 298080,
+      "duration_ms": 4640,
+      "text": "up-to-date services, contact info,"
+    },
+    {
+      "start_ms": 300000,
+      "duration_ms": 4800,
+      "text": "social links, hours, etc. This is also"
+    },
+    {
+      "start_ms": 302720,
+      "duration_ms": 4560,
+      "text": "part of reputation management. And a lot"
+    },
+    {
+      "start_ms": 304800,
+      "duration_ms": 4640,
+      "text": "of uh agencies uh forget this. They"
+    },
+    {
+      "start_ms": 307280,
+      "duration_ms": 4160,
+      "text": "think that reputation management is just"
+    },
+    {
+      "start_ms": 309440,
+      "duration_ms": 4479,
+      "text": "getting reviews. But if you have a"
+    },
+    {
+      "start_ms": 311440,
+      "duration_ms": 4240,
+      "text": "public listing with uncorrect uh"
+    },
+    {
+      "start_ms": 313919,
+      "duration_ms": 3840,
+      "text": "information, this is leading to"
+    },
+    {
+      "start_ms": 315680,
+      "duration_ms": 4640,
+      "text": "confusion and also negative reviews."
+    },
+    {
+      "start_ms": 317759,
+      "duration_ms": 4880,
+      "text": "This is why uh keeping public listing"
+    },
+    {
+      "start_ms": 320320,
+      "duration_ms": 4879,
+      "text": "accurate is part of reputation"
+    },
+    {
+      "start_ms": 322639,
+      "duration_ms": 5201,
+      "text": "management. And finally also keeping the"
+    },
+    {
+      "start_ms": 325199,
+      "duration_ms": 6241,
+      "text": "website consistent with your listing and"
+    },
+    {
+      "start_ms": 327840,
+      "duration_ms": 6079,
+      "text": "adding the uh necessary schema markup is"
+    },
+    {
+      "start_ms": 331440,
+      "duration_ms": 5920,
+      "text": "part of uh reputation management because"
+    },
+    {
+      "start_ms": 333919,
+      "duration_ms": 5840,
+      "text": "this allow us to exploit 100% the power"
+    },
+    {
+      "start_ms": 337360,
+      "duration_ms": 5760,
+      "text": "of reviews and this is reputation"
+    },
+    {
+      "start_ms": 339759,
+      "duration_ms": 5761,
+      "text": "management. So all these six points are"
+    },
+    {
+      "start_ms": 343120,
+      "duration_ms": 4079,
+      "text": "what reputation management is. You can"
+    },
+    {
+      "start_ms": 345520,
+      "duration_ms": 4640,
+      "text": "easily see that it's not just getting"
+    },
+    {
+      "start_ms": 347199,
+      "duration_ms": 4881,
+      "text": "Google reviews is much more. All right."
+    },
+    {
+      "start_ms": 350160,
+      "duration_ms": 3440,
+      "text": "So why are we doing reputation"
+    },
+    {
+      "start_ms": 352080,
+      "duration_ms": 3520,
+      "text": "management? Why are we offering"
+    },
+    {
+      "start_ms": 353600,
+      "duration_ms": 4159,
+      "text": "reputation management to our client to"
+    },
+    {
+      "start_ms": 355600,
+      "duration_ms": 4640,
+      "text": "local businesses? Firstly, to win more"
+    },
+    {
+      "start_ms": 357759,
+      "duration_ms": 5121,
+      "text": "business because more and better reviews"
+    },
+    {
+      "start_ms": 360240,
+      "duration_ms": 4720,
+      "text": "increase trust and improve local"
+    },
+    {
+      "start_ms": 362880,
+      "duration_ms": 4879,
+      "text": "rankings. And this is a fact. And later"
+    },
+    {
+      "start_ms": 364960,
+      "duration_ms": 4400,
+      "text": "we're going to see data that prove this."
+    },
+    {
+      "start_ms": 367759,
+      "duration_ms": 4560,
+      "text": "We're going to do reputation management"
+    },
+    {
+      "start_ms": 369360,
+      "duration_ms": 5679,
+      "text": "to improve our offer because engaging"
+    },
+    {
+      "start_ms": 372319,
+      "duration_ms": 5281,
+      "text": "privately with unhappy customers helps"
+    },
+    {
+      "start_ms": 375039,
+      "duration_ms": 4801,
+      "text": "uh your clients to identify and fix"
+    },
+    {
+      "start_ms": 377600,
+      "duration_ms": 4960,
+      "text": "issues. So we keep improving we are"
+    },
+    {
+      "start_ms": 379840,
+      "duration_ms": 5280,
+      "text": "going to understand uh the areas that we"
+    },
+    {
+      "start_ms": 382560,
+      "duration_ms": 5040,
+      "text": "need to uh improve. So we keep improving"
+    },
+    {
+      "start_ms": 385120,
+      "duration_ms": 4560,
+      "text": "our products and services and this is"
+    },
+    {
+      "start_ms": 387600,
+      "duration_ms": 4400,
+      "text": "also very important because we have to"
+    },
+    {
+      "start_ms": 389680,
+      "duration_ms": 4480,
+      "text": "talk with unhappy customers. We have to"
+    },
+    {
+      "start_ms": 392000,
+      "duration_ms": 4240,
+      "text": "understand what is not going good in our"
+    },
+    {
+      "start_ms": 394160,
+      "duration_ms": 4560,
+      "text": "business to stay in control because"
+    },
+    {
+      "start_ms": 396240,
+      "duration_ms": 5040,
+      "text": "monitoring what people say helps you"
+    },
+    {
+      "start_ms": 398720,
+      "duration_ms": 4960,
+      "text": "measure overall sentiment and uncover"
+    },
+    {
+      "start_ms": 401280,
+      "duration_ms": 4320,
+      "text": "your real strengths. So we are not going"
+    },
+    {
+      "start_ms": 403680,
+      "duration_ms": 4560,
+      "text": "just to talk with unhealthy customers"
+    },
+    {
+      "start_ms": 405600,
+      "duration_ms": 5599,
+      "text": "but we're going also to understand what"
+    },
+    {
+      "start_ms": 408240,
+      "duration_ms": 5600,
+      "text": "our best customers like about us so we"
+    },
+    {
+      "start_ms": 411199,
+      "duration_ms": 4881,
+      "text": "can focus on these areas to have the"
+    },
+    {
+      "start_ms": 413840,
+      "duration_ms": 4960,
+      "text": "best offer in the market and we can keep"
+    },
+    {
+      "start_ms": 416080,
+      "duration_ms": 4320,
+      "text": "improving this offer. All right, we're"
+    },
+    {
+      "start_ms": 418800,
+      "duration_ms": 3760,
+      "text": "going to do also reputation management"
+    },
+    {
+      "start_ms": 420400,
+      "duration_ms": 4799,
+      "text": "for marketing because we are turning"
+    },
+    {
+      "start_ms": 422560,
+      "duration_ms": 4479,
+      "text": "happy customers into marketing. Sharing"
+    },
+    {
+      "start_ms": 425199,
+      "duration_ms": 4560,
+      "text": "five star reviews and testimonials"
+    },
+    {
+      "start_ms": 427039,
+      "duration_ms": 4880,
+      "text": "brings in new customers. So when we get"
+    },
+    {
+      "start_ms": 429759,
+      "duration_ms": 4401,
+      "text": "five star reviews, we have to exploit"
+    },
+    {
+      "start_ms": 431919,
+      "duration_ms": 4000,
+      "text": "the power of fivestar reviews. Of"
+    },
+    {
+      "start_ms": 434160,
+      "duration_ms": 3840,
+      "text": "course, a Google business profile with a"
+    },
+    {
+      "start_ms": 435919,
+      "duration_ms": 4161,
+      "text": "lot of fivestar reviews is going to"
+    },
+    {
+      "start_ms": 438000,
+      "duration_ms": 4160,
+      "text": "attract a lot of customers, but we have"
+    },
+    {
+      "start_ms": 440080,
+      "duration_ms": 4959,
+      "text": "also to exploit these reviews on social"
+    },
+    {
+      "start_ms": 442160,
+      "duration_ms": 4960,
+      "text": "media and on websites in order to"
+    },
+    {
+      "start_ms": 445039,
+      "duration_ms": 4160,
+      "text": "exploit the power of online reviews."
+    },
+    {
+      "start_ms": 447120,
+      "duration_ms": 3840,
+      "text": "Online reviews can bring new customers"
+    },
+    {
+      "start_ms": 449199,
+      "duration_ms": 4400,
+      "text": "to our business, but we have to use"
+    },
+    {
+      "start_ms": 450960,
+      "duration_ms": 4480,
+      "text": "them. We have to use them correctly. Uh"
+    },
+    {
+      "start_ms": 453599,
+      "duration_ms": 4160,
+      "text": "we do reputation management to avoid"
+    },
+    {
+      "start_ms": 455440,
+      "duration_ms": 5120,
+      "text": "losing leads because accurate listings"
+    },
+    {
+      "start_ms": 457759,
+      "duration_ms": 5601,
+      "text": "with photos, correct services, hours, uh"
+    },
+    {
+      "start_ms": 460560,
+      "duration_ms": 5359,
+      "text": "contact info, etc. prevent missed calls"
+    },
+    {
+      "start_ms": 463360,
+      "duration_ms": 4399,
+      "text": "and uh confusion. There's nothing worse"
+    },
+    {
+      "start_ms": 465919,
+      "duration_ms": 4881,
+      "text": "than having a Google business profile"
+    },
+    {
+      "start_ms": 467759,
+      "duration_ms": 4560,
+      "text": "with uh uncorrect hours. uh our clients"
+    },
+    {
+      "start_ms": 470800,
+      "duration_ms": 3920,
+      "text": "visit the business because they see it"
+    },
+    {
+      "start_ms": 472319,
+      "duration_ms": 4320,
+      "text": "open on Google and they find it closed"
+    },
+    {
+      "start_ms": 474720,
+      "duration_ms": 3919,
+      "text": "and this is leading to a lot of"
+    },
+    {
+      "start_ms": 476639,
+      "duration_ms": 3840,
+      "text": "confusion. They're going to talk bad"
+    },
+    {
+      "start_ms": 478639,
+      "duration_ms": 3601,
+      "text": "about the business with their friends"
+    },
+    {
+      "start_ms": 480479,
+      "duration_ms": 4081,
+      "text": "and probably they're going to leave a"
+    },
+    {
+      "start_ms": 482240,
+      "duration_ms": 4160,
+      "text": "bad review. So this is why we do uh"
+    },
+    {
+      "start_ms": 484560,
+      "duration_ms": 4560,
+      "text": "reputation management and why we keep"
+    },
+    {
+      "start_ms": 486400,
+      "duration_ms": 4400,
+      "text": "the um listing profiles accurate and"
+    },
+    {
+      "start_ms": 489120,
+      "duration_ms": 4560,
+      "text": "also we do reputation management to"
+    },
+    {
+      "start_ms": 490800,
+      "duration_ms": 5360,
+      "text": "enforce SEO because a consistent website"
+    },
+    {
+      "start_ms": 493680,
+      "duration_ms": 4560,
+      "text": "and schema markup help Google understand"
+    },
+    {
+      "start_ms": 496160,
+      "duration_ms": 4400,
+      "text": "your business and rank you higher"
+    },
+    {
+      "start_ms": 498240,
+      "duration_ms": 4239,
+      "text": "locally. And this is super super uh"
+    },
+    {
+      "start_ms": 500560,
+      "duration_ms": 4800,
+      "text": "important. We're going to exploit the"
+    },
+    {
+      "start_ms": 502479,
+      "duration_ms": 5761,
+      "text": "power of reviews to have a website that"
+    },
+    {
+      "start_ms": 505360,
+      "duration_ms": 5200,
+      "text": "Google and also AI system can understand"
+    },
+    {
+      "start_ms": 508240,
+      "duration_ms": 4000,
+      "text": "because we have added the correct schema"
+    },
+    {
+      "start_ms": 510560,
+      "duration_ms": 3839,
+      "text": "markup in our website. If you don't know"
+    },
+    {
+      "start_ms": 512240,
+      "duration_ms": 4799,
+      "text": "what schema markup is later, of course,"
+    },
+    {
+      "start_ms": 514399,
+      "duration_ms": 4320,
+      "text": "we're going to uh show how it works. But"
+    },
+    {
+      "start_ms": 517039,
+      "duration_ms": 4240,
+      "text": "basically this is going to help your"
+    },
+    {
+      "start_ms": 518719,
+      "duration_ms": 4560,
+      "text": "clients to rank higher uh locally"
+    },
+    {
+      "start_ms": 521279,
+      "duration_ms": 4560,
+      "text": "because they built the website"
+    },
+    {
+      "start_ms": 523279,
+      "duration_ms": 5281,
+      "text": "exploiting the power of reviews uh"
+    },
+    {
+      "start_ms": 525839,
+      "duration_ms": 5281,
+      "text": "thanks to uh the review snippet schema"
+    },
+    {
+      "start_ms": 528560,
+      "duration_ms": 4719,
+      "text": "markup that later we're going to see how"
+    },
+    {
+      "start_ms": 531120,
+      "duration_ms": 4000,
+      "text": "you can set this up automatically for"
+    },
+    {
+      "start_ms": 533279,
+      "duration_ms": 3680,
+      "text": "your clients without lifting a finger."
+    },
+    {
+      "start_ms": 535120,
+      "duration_ms": 3760,
+      "text": "So this is why we do reputation"
+    },
+    {
+      "start_ms": 536959,
+      "duration_ms": 4081,
+      "text": "management. I hope you understood what"
+    },
+    {
+      "start_ms": 538880,
+      "duration_ms": 4160,
+      "text": "reputation management is and why we do"
+    },
+    {
+      "start_ms": 541040,
+      "duration_ms": 3919,
+      "text": "reputation management because there is a"
+    },
+    {
+      "start_ms": 543040,
+      "duration_ms": 3680,
+      "text": "lot of confusion online about this"
+    },
+    {
+      "start_ms": 544959,
+      "duration_ms": 3921,
+      "text": "topic. This is not just getting Google"
+    },
+    {
+      "start_ms": 546720,
+      "duration_ms": 4080,
+      "text": "reviews. This is much more. And this is"
+    },
+    {
+      "start_ms": 548880,
+      "duration_ms": 4800,
+      "text": "why we do it. Basically, we're going to"
+    },
+    {
+      "start_ms": 550800,
+      "duration_ms": 5039,
+      "text": "help your clients to earn more business"
+    },
+    {
+      "start_ms": 553680,
+      "duration_ms": 3839,
+      "text": "thanks to the power of reputation"
+    },
+    {
+      "start_ms": 555839,
+      "duration_ms": 4161,
+      "text": "management."
+    },
+    {
+      "start_ms": 557519,
+      "duration_ms": 4641,
+      "text": "And these are data that proves that"
+    },
+    {
+      "start_ms": 560000,
+      "duration_ms": 4640,
+      "text": "reviews are going to bring more revenues"
+    },
+    {
+      "start_ms": 562160,
+      "duration_ms": 4320,
+      "text": "to your customers. This is not just"
+    },
+    {
+      "start_ms": 564640,
+      "duration_ms": 4639,
+      "text": "words, but there are a lot of"
+    },
+    {
+      "start_ms": 566480,
+      "duration_ms": 5280,
+      "text": "researchers online about this fact. For"
+    },
+    {
+      "start_ms": 569279,
+      "duration_ms": 4961,
+      "text": "example, uh Bright Local proved that"
+    },
+    {
+      "start_ms": 571760,
+      "duration_ms": 4800,
+      "text": "almost every single customer uh read"
+    },
+    {
+      "start_ms": 574240,
+      "duration_ms": 5039,
+      "text": "reviews before calling a local business."
+    },
+    {
+      "start_ms": 576560,
+      "duration_ms": 4640,
+      "text": "98% of customer. And think about"
+    },
+    {
+      "start_ms": 579279,
+      "duration_ms": 4801,
+      "text": "yourself. If you are, for example, in a"
+    },
+    {
+      "start_ms": 581200,
+      "duration_ms": 4000,
+      "text": "new uh town and you need a vet, the"
+    },
+    {
+      "start_ms": 584080,
+      "duration_ms": 3120,
+      "text": "first thing that you do, you go to"
+    },
+    {
+      "start_ms": 585200,
+      "duration_ms": 4079,
+      "text": "Google and you start comparing the vets"
+    },
+    {
+      "start_ms": 587200,
+      "duration_ms": 3360,
+      "text": "by reading the uh reviews. And of"
+    },
+    {
+      "start_ms": 589279,
+      "duration_ms": 3680,
+      "text": "course, the first businesses that you"
+    },
+    {
+      "start_ms": 590560,
+      "duration_ms": 4800,
+      "text": "want to see are the ones with more"
+    },
+    {
+      "start_ms": 592959,
+      "duration_ms": 5521,
+      "text": "reviews and higher rating. So this is a"
+    },
+    {
+      "start_ms": 595360,
+      "duration_ms": 6400,
+      "text": "fact. We have also a research by Harvard"
+    },
+    {
+      "start_ms": 598480,
+      "duration_ms": 6479,
+      "text": "Business Review that states that just by"
+    },
+    {
+      "start_ms": 601760,
+      "duration_ms": 7920,
+      "text": "increasing a rating by 0.5"
+    },
+    {
+      "start_ms": 604959,
+      "duration_ms": 6320,
+      "text": "star lead to uh more revenue plus 59%"
+    },
+    {
+      "start_ms": 609680,
+      "duration_ms": 4159,
+      "text": "more revenue. So you're going to help"
+    },
+    {
+      "start_ms": 611279,
+      "duration_ms": 4401,
+      "text": "your clients to earn more money. We have"
+    },
+    {
+      "start_ms": 613839,
+      "duration_ms": 4721,
+      "text": "also another research from uh Bright"
+    },
+    {
+      "start_ms": 615680,
+      "duration_ms": 5599,
+      "text": "Local that say that getting to the uh"
+    },
+    {
+      "start_ms": 618560,
+      "duration_ms": 7680,
+      "text": "Google map pack so to the first three"
+    },
+    {
+      "start_ms": 621279,
+      "duration_ms": 6800,
+      "text": "results of uh Google leads to 126% more"
+    },
+    {
+      "start_ms": 626240,
+      "duration_ms": 4080,
+      "text": "traffic. We're going to bring a very big"
+    },
+    {
+      "start_ms": 628079,
+      "duration_ms": 4880,
+      "text": "amount of traffic to our clients, new"
+    },
+    {
+      "start_ms": 630320,
+      "duration_ms": 4959,
+      "text": "traffic that will lead to new calls, new"
+    },
+    {
+      "start_ms": 632959,
+      "duration_ms": 4241,
+      "text": "click on the website, new messages, new"
+    },
+    {
+      "start_ms": 635279,
+      "duration_ms": 4161,
+      "text": "leads, new visits to their local"
+    },
+    {
+      "start_ms": 637200,
+      "duration_ms": 4480,
+      "text": "business. And then we have also another"
+    },
+    {
+      "start_ms": 639440,
+      "duration_ms": 4639,
+      "text": "uh research from search engine and giant"
+    },
+    {
+      "start_ms": 641680,
+      "duration_ms": 4480,
+      "text": "land that proved that fivestar profiles"
+    },
+    {
+      "start_ms": 644079,
+      "duration_ms": 6000,
+      "text": "get significantly more clicks than"
+    },
+    {
+      "start_ms": 646160,
+      "duration_ms": 5919,
+      "text": "fourstar profiles leading to plus 35%"
+    },
+    {
+      "start_ms": 650079,
+      "duration_ms": 5281,
+      "text": "more calls. So if you have a prospect"
+    },
+    {
+      "start_ms": 652079,
+      "duration_ms": 5760,
+      "text": "with a fourst star profiles it's proven"
+    },
+    {
+      "start_ms": 655360,
+      "duration_ms": 7120,
+      "text": "mathematically that increasing the"
+    },
+    {
+      "start_ms": 657839,
+      "duration_ms": 6560,
+      "text": "rating from four to uh 4.7 4.8 8 4.9 uh"
+    },
+    {
+      "start_ms": 662480,
+      "duration_ms": 4479,
+      "text": "by increasing the number of positive"
+    },
+    {
+      "start_ms": 664399,
+      "duration_ms": 5201,
+      "text": "reviews will lead to more calls and more"
+    },
+    {
+      "start_ms": 666959,
+      "duration_ms": 5361,
+      "text": "calls equals to more revenues. So this"
+    },
+    {
+      "start_ms": 669600,
+      "duration_ms": 4640,
+      "text": "is proven by numbers that managing the"
+    },
+    {
+      "start_ms": 672320,
+      "duration_ms": 4880,
+      "text": "reputation of your clients will help"
+    },
+    {
+      "start_ms": 674240,
+      "duration_ms": 4640,
+      "text": "them to get more revenue. So this is why"
+    },
+    {
+      "start_ms": 677200,
+      "duration_ms": 4560,
+      "text": "you're doing it to help your clients to"
+    },
+    {
+      "start_ms": 678880,
+      "duration_ms": 5280,
+      "text": "win more business and to keep growing"
+    },
+    {
+      "start_ms": 681760,
+      "duration_ms": 5519,
+      "text": "and your clients will immediately get"
+    },
+    {
+      "start_ms": 684160,
+      "duration_ms": 4960,
+      "text": "the ROI, the return on investment of"
+    },
+    {
+      "start_ms": 687279,
+      "duration_ms": 3921,
+      "text": "reputation management because you can"
+    },
+    {
+      "start_ms": 689120,
+      "duration_ms": 5120,
+      "text": "bring them a case study for example this"
+    },
+    {
+      "start_ms": 691200,
+      "duration_ms": 5520,
+      "text": "one where you had a vet in Seattle Lake"
+    },
+    {
+      "start_ms": 694240,
+      "duration_ms": 5039,
+      "text": "Union Veterinary Clinic to go from this"
+    },
+    {
+      "start_ms": 696720,
+      "duration_ms": 5359,
+      "text": "situation where they had just 13 reviews"
+    },
+    {
+      "start_ms": 699279,
+      "duration_ms": 4800,
+      "text": "on Google 4.2 rating and they were not"
+    },
+    {
+      "start_ms": 702079,
+      "duration_ms": 4561,
+      "text": "visible in the Google free pack. So in"
+    },
+    {
+      "start_ms": 704079,
+      "duration_ms": 5921,
+      "text": "the first three results when searching"
+    },
+    {
+      "start_ms": 706640,
+      "duration_ms": 5680,
+      "text": "on Google vet near Seattle and thanks to"
+    },
+    {
+      "start_ms": 710000,
+      "duration_ms": 4560,
+      "text": "your service, thanks to your reputation"
+    },
+    {
+      "start_ms": 712320,
+      "duration_ms": 3920,
+      "text": "management service, they got to this"
+    },
+    {
+      "start_ms": 714560,
+      "duration_ms": 3600,
+      "text": "situation here where they have a"
+    },
+    {
+      "start_ms": 716240,
+      "duration_ms": 5200,
+      "text": "completely new different Google business"
+    },
+    {
+      "start_ms": 718160,
+      "duration_ms": 6880,
+      "text": "profile, much more accurate with infos,"
+    },
+    {
+      "start_ms": 721440,
+      "duration_ms": 5760,
+      "text": "photos, services, social links, uh, etc."
+    },
+    {
+      "start_ms": 725040,
+      "duration_ms": 6720,
+      "text": "And most importantly, they got in a few"
+    },
+    {
+      "start_ms": 727200,
+      "duration_ms": 6879,
+      "text": "months 270 Google reviews leading to 4.8"
+    },
+    {
+      "start_ms": 731760,
+      "duration_ms": 4400,
+      "text": "ratings. And most importantly, they got"
+    },
+    {
+      "start_ms": 734079,
+      "duration_ms": 4320,
+      "text": "to the Google free park. They are now in"
+    },
+    {
+      "start_ms": 736160,
+      "duration_ms": 4720,
+      "text": "the second position in Google when"
+    },
+    {
+      "start_ms": 738399,
+      "duration_ms": 4641,
+      "text": "searching a vet near Seattle. So,"
+    },
+    {
+      "start_ms": 740880,
+      "duration_ms": 5040,
+      "text": "everyone can understand it. If you're"
+    },
+    {
+      "start_ms": 743040,
+      "duration_ms": 5200,
+      "text": "able to create these case studies with"
+    },
+    {
+      "start_ms": 745920,
+      "duration_ms": 4479,
+      "text": "your first uh clients, you can just"
+    },
+    {
+      "start_ms": 748240,
+      "duration_ms": 5680,
+      "text": "bring this case study to maybe another"
+    },
+    {
+      "start_ms": 750399,
+      "duration_ms": 5921,
+      "text": "vet in a new uh town and everyone will"
+    },
+    {
+      "start_ms": 753920,
+      "duration_ms": 5120,
+      "text": "be able to understand that reputation"
+    },
+    {
+      "start_ms": 756320,
+      "duration_ms": 5360,
+      "text": "management is leading to more traffic,"
+    },
+    {
+      "start_ms": 759040,
+      "duration_ms": 4960,
+      "text": "more leads, more calls and more visits"
+    },
+    {
+      "start_ms": 761680,
+      "duration_ms": 4320,
+      "text": "to the uh business. So your goal is just"
+    },
+    {
+      "start_ms": 764000,
+      "duration_ms": 4639,
+      "text": "to get started with the first local"
+    },
+    {
+      "start_ms": 766000,
+      "duration_ms": 4480,
+      "text": "businesses in your area. Create your"
+    },
+    {
+      "start_ms": 768639,
+      "duration_ms": 3601,
+      "text": "first case study. Maybe you can work"
+    },
+    {
+      "start_ms": 770480,
+      "duration_ms": 3919,
+      "text": "with a vet, you can work with a"
+    },
+    {
+      "start_ms": 772240,
+      "duration_ms": 5440,
+      "text": "restaurant, you can work with a barber"
+    },
+    {
+      "start_ms": 774399,
+      "duration_ms": 5921,
+      "text": "shop, you work closely with your first"
+    },
+    {
+      "start_ms": 777680,
+      "duration_ms": 4560,
+      "text": "clients. You build a case study like for"
+    },
+    {
+      "start_ms": 780320,
+      "duration_ms": 4400,
+      "text": "example this case study here where you"
+    },
+    {
+      "start_ms": 782240,
+      "duration_ms": 4800,
+      "text": "help a vet to go from this situation to"
+    },
+    {
+      "start_ms": 784720,
+      "duration_ms": 4559,
+      "text": "this situation here. And then you just"
+    },
+    {
+      "start_ms": 787040,
+      "duration_ms": 5039,
+      "text": "take these case studies and you bring"
+    },
+    {
+      "start_ms": 789279,
+      "duration_ms": 4721,
+      "text": "them to uh new prospects. And everyone,"
+    },
+    {
+      "start_ms": 792079,
+      "duration_ms": 4161,
+      "text": "every small local business owner will"
+    },
+    {
+      "start_ms": 794000,
+      "duration_ms": 4480,
+      "text": "understand the benefit of reputation"
+    },
+    {
+      "start_ms": 796240,
+      "duration_ms": 4240,
+      "text": "management thanks to these case studies."
+    },
+    {
+      "start_ms": 798480,
+      "duration_ms": 5039,
+      "text": "And this is why local business owners"
+    },
+    {
+      "start_ms": 800480,
+      "duration_ms": 5520,
+      "text": "can't say no to these results. Firstly,"
+    },
+    {
+      "start_ms": 803519,
+      "duration_ms": 5521,
+      "text": "clarity. They instantly get the problem"
+    },
+    {
+      "start_ms": 806000,
+      "duration_ms": 5519,
+      "text": "and the ROI. So, every small local"
+    },
+    {
+      "start_ms": 809040,
+      "duration_ms": 4799,
+      "text": "business is already getting reviews uh"
+    },
+    {
+      "start_ms": 811519,
+      "duration_ms": 4320,
+      "text": "on Google. So, they understand what"
+    },
+    {
+      "start_ms": 813839,
+      "duration_ms": 5281,
+      "text": "reviews are. So, you're not talking with"
+    },
+    {
+      "start_ms": 815839,
+      "duration_ms": 5120,
+      "text": "them about tech stuff, about features,"
+    },
+    {
+      "start_ms": 819120,
+      "duration_ms": 4159,
+      "text": "about automation. You're going to talk"
+    },
+    {
+      "start_ms": 820959,
+      "duration_ms": 4721,
+      "text": "with them about a real thing, a real"
+    },
+    {
+      "start_ms": 823279,
+      "duration_ms": 5041,
+      "text": "concrete results that you're helping"
+    },
+    {
+      "start_ms": 825680,
+      "duration_ms": 5279,
+      "text": "them to achieve. Secondly, fear. They"
+    },
+    {
+      "start_ms": 828320,
+      "duration_ms": 4720,
+      "text": "are terrified of one-star reviews. A lot"
+    },
+    {
+      "start_ms": 830959,
+      "duration_ms": 3921,
+      "text": "of business owners don't want to start"
+    },
+    {
+      "start_ms": 833040,
+      "duration_ms": 4479,
+      "text": "working on their reviews because they"
+    },
+    {
+      "start_ms": 834880,
+      "duration_ms": 4880,
+      "text": "are terrified of getting onestar"
+    },
+    {
+      "start_ms": 837519,
+      "duration_ms": 5440,
+      "text": "reviews. So, they prefer to collect uh"
+    },
+    {
+      "start_ms": 839760,
+      "duration_ms": 5519,
+      "text": "less uh reviews to avoid uh this thing."
+    },
+    {
+      "start_ms": 842959,
+      "duration_ms": 5120,
+      "text": "But you're helping them to protect their"
+    },
+    {
+      "start_ms": 845279,
+      "duration_ms": 4881,
+      "text": "reputation from one-star reviews. Third,"
+    },
+    {
+      "start_ms": 848079,
+      "duration_ms": 4241,
+      "text": "ego. They want to rank higher than the"
+    },
+    {
+      "start_ms": 850160,
+      "duration_ms": 3840,
+      "text": "guy across the street. All these small"
+    },
+    {
+      "start_ms": 852320,
+      "duration_ms": 3680,
+      "text": "local business owners, they want to be"
+    },
+    {
+      "start_ms": 854000,
+      "duration_ms": 3440,
+      "text": "better than their competitors. They know"
+    },
+    {
+      "start_ms": 856000,
+      "duration_ms": 4160,
+      "text": "they are better they than their"
+    },
+    {
+      "start_ms": 857440,
+      "duration_ms": 4800,
+      "text": "competitors in the same area but Google"
+    },
+    {
+      "start_ms": 860160,
+      "duration_ms": 5039,
+      "text": "is not proving this. So you're helping"
+    },
+    {
+      "start_ms": 862240,
+      "duration_ms": 4880,
+      "text": "them to have also Google prove that they"
+    },
+    {
+      "start_ms": 865199,
+      "duration_ms": 4401,
+      "text": "are better than their competitor. So"
+    },
+    {
+      "start_ms": 867120,
+      "duration_ms": 5200,
+      "text": "finally they can say to everyone hey I'm"
+    },
+    {
+      "start_ms": 869600,
+      "duration_ms": 4479,
+      "text": "the best rated business in the area and"
+    },
+    {
+      "start_ms": 872320,
+      "duration_ms": 3440,
+      "text": "finally peace of mind because when they"
+    },
+    {
+      "start_ms": 874079,
+      "duration_ms": 4161,
+      "text": "know they collect lots of positive"
+    },
+    {
+      "start_ms": 875760,
+      "duration_ms": 5519,
+      "text": "reviews the occasional negative one gets"
+    },
+    {
+      "start_ms": 878240,
+      "duration_ms": 5360,
+      "text": "buried and feels less scary. So by"
+    },
+    {
+      "start_ms": 881279,
+      "duration_ms": 5120,
+      "text": "pitching the platform in the uh correct"
+    },
+    {
+      "start_ms": 883600,
+      "duration_ms": 5200,
+      "text": "way and of course in our uh community we"
+    },
+    {
+      "start_ms": 886399,
+      "duration_ms": 4481,
+      "text": "have hours and hours of courses about"
+    },
+    {
+      "start_ms": 888800,
+      "duration_ms": 4960,
+      "text": "how to pitch the platform the correct"
+    },
+    {
+      "start_ms": 890880,
+      "duration_ms": 4480,
+      "text": "way. So business owners can't say no."
+    },
+    {
+      "start_ms": 893760,
+      "duration_ms": 3519,
+      "text": "They're going to just see the benefits"
+    },
+    {
+      "start_ms": 895360,
+      "duration_ms": 4000,
+      "text": "of your reputation management service."
+    },
+    {
+      "start_ms": 897279,
+      "duration_ms": 4240,
+      "text": "They're going to imagine themselves in a"
+    },
+    {
+      "start_ms": 899360,
+      "duration_ms": 3760,
+      "text": "future situation with a lot of reviews,"
+    },
+    {
+      "start_ms": 901519,
+      "duration_ms": 3440,
+      "text": "a lot of people that comes to their"
+    },
+    {
+      "start_ms": 903120,
+      "duration_ms": 4480,
+      "text": "business saying, \"Hey, I read your"
+    },
+    {
+      "start_ms": 904959,
+      "duration_ms": 5120,
+      "text": "positive uh reviews in your uh social"
+    },
+    {
+      "start_ms": 907600,
+      "duration_ms": 4880,
+      "text": "media profile and I decided to visit you"
+    },
+    {
+      "start_ms": 910079,
+      "duration_ms": 4320,
+      "text": "instead of their uh competitor.\" This is"
+    },
+    {
+      "start_ms": 912480,
+      "duration_ms": 4159,
+      "text": "the situation that they have to uh"
+    },
+    {
+      "start_ms": 914399,
+      "duration_ms": 4880,
+      "text": "imagine and this is your uh job to"
+    },
+    {
+      "start_ms": 916639,
+      "duration_ms": 4560,
+      "text": "create this situation in their mind so"
+    },
+    {
+      "start_ms": 919279,
+      "duration_ms": 4000,
+      "text": "they can't say no and they start"
+    },
+    {
+      "start_ms": 921199,
+      "duration_ms": 4241,
+      "text": "purchasing your reputation management"
+    },
+    {
+      "start_ms": 923279,
+      "duration_ms": 4401,
+      "text": "service. Now, in 10 minutes, let's talk"
+    },
+    {
+      "start_ms": 925440,
+      "duration_ms": 4800,
+      "text": "about the cool part. how to get your"
+    },
+    {
+      "start_ms": 927680,
+      "duration_ms": 4080,
+      "text": "first $100 per month client. Of course,"
+    },
+    {
+      "start_ms": 930240,
+      "duration_ms": 4000,
+      "text": "you're not going to learn in 10 minutes"
+    },
+    {
+      "start_ms": 931760,
+      "duration_ms": 4639,
+      "text": "how to create a $3,000 per month"
+    },
+    {
+      "start_ms": 934240,
+      "duration_ms": 4159,
+      "text": "reputation management software business."
+    },
+    {
+      "start_ms": 936399,
+      "duration_ms": 4401,
+      "text": "In our community, we have hours of"
+    },
+    {
+      "start_ms": 938399,
+      "duration_ms": 5361,
+      "text": "videos about marketing and sales. We"
+    },
+    {
+      "start_ms": 940800,
+      "duration_ms": 6000,
+      "text": "have also monthly live sessions where we"
+    },
+    {
+      "start_ms": 943760,
+      "duration_ms": 4639,
+      "text": "teach to our agencies how to create a"
+    },
+    {
+      "start_ms": 946800,
+      "duration_ms": 3520,
+      "text": "real reputation management software"
+    },
+    {
+      "start_ms": 948399,
+      "duration_ms": 4641,
+      "text": "business. And we do this with the"
+    },
+    {
+      "start_ms": 950320,
+      "duration_ms": 4560,
+      "text": "practical lessons with the people"
+    },
+    {
+      "start_ms": 953040,
+      "duration_ms": 3760,
+      "text": "already doing this already collecting"
+    },
+    {
+      "start_ms": 954880,
+      "duration_ms": 4240,
+      "text": "thousand of dollars per month just with"
+    },
+    {
+      "start_ms": 956800,
+      "duration_ms": 4560,
+      "text": "reputation management. But in small"
+    },
+    {
+      "start_ms": 959120,
+      "duration_ms": 4880,
+      "text": "words this is the strategy. Basically"
+    },
+    {
+      "start_ms": 961360,
+      "duration_ms": 4560,
+      "text": "we're going to find the perfect target."
+    },
+    {
+      "start_ms": 964000,
+      "duration_ms": 4639,
+      "text": "So not every small local business in"
+    },
+    {
+      "start_ms": 965920,
+      "duration_ms": 5440,
+      "text": "your area is the perfect target. We're"
+    },
+    {
+      "start_ms": 968639,
+      "duration_ms": 4961,
+      "text": "going to look for a specific type of"
+    },
+    {
+      "start_ms": 971360,
+      "duration_ms": 5360,
+      "text": "business. So businesses with low Google"
+    },
+    {
+      "start_ms": 973600,
+      "duration_ms": 5200,
+      "text": "rating. So with poor star ratings, maybe"
+    },
+    {
+      "start_ms": 976720,
+      "duration_ms": 5359,
+      "text": "they do not have a five rating, but"
+    },
+    {
+      "start_ms": 978800,
+      "duration_ms": 5440,
+      "text": "maybe they have a 4.2, 4.3. Businesses"
+    },
+    {
+      "start_ms": 982079,
+      "duration_ms": 4320,
+      "text": "with low review velocity, so they're not"
+    },
+    {
+      "start_ms": 984240,
+      "duration_ms": 4880,
+      "text": "getting reviews consistently. Maybe the"
+    },
+    {
+      "start_ms": 986399,
+      "duration_ms": 5281,
+      "text": "last reviews is uh 3 month ago, six"
+    },
+    {
+      "start_ms": 989120,
+      "duration_ms": 5600,
+      "text": "month ago. And this is very very bad for"
+    },
+    {
+      "start_ms": 991680,
+      "duration_ms": 6079,
+      "text": "uh Google uh businesses with competitors"
+    },
+    {
+      "start_ms": 994720,
+      "duration_ms": 6320,
+      "text": "winning. So for example, a dentist with"
+    },
+    {
+      "start_ms": 997759,
+      "duration_ms": 6721,
+      "text": "24 reviews while their competitor two"
+    },
+    {
+      "start_ms": 1001040,
+      "duration_ms": 5200,
+      "text": "blocks away has 350 reviews. So we're"
+    },
+    {
+      "start_ms": 1004480,
+      "duration_ms": 4400,
+      "text": "going to find this kind of businesses so"
+    },
+    {
+      "start_ms": 1006240,
+      "duration_ms": 4240,
+      "text": "we can show them during the pitch that"
+    },
+    {
+      "start_ms": 1008880,
+      "duration_ms": 3600,
+      "text": "they have a problem. They are not"
+    },
+    {
+      "start_ms": 1010480,
+      "duration_ms": 4400,
+      "text": "ranking high on Google. Their"
+    },
+    {
+      "start_ms": 1012480,
+      "duration_ms": 5760,
+      "text": "competitors are doing better. So they"
+    },
+    {
+      "start_ms": 1014880,
+      "duration_ms": 5360,
+      "text": "want to uh overcome their uh competitor."
+    },
+    {
+      "start_ms": 1018240,
+      "duration_ms": 4159,
+      "text": "And businesses uh very very important"
+    },
+    {
+      "start_ms": 1020240,
+      "duration_ms": 4240,
+      "text": "are already marketing minded. So they"
+    },
+    {
+      "start_ms": 1022399,
+      "duration_ms": 4081,
+      "text": "have a website, they post on Instagram"
+    },
+    {
+      "start_ms": 1024480,
+      "duration_ms": 4079,
+      "text": "and Facebook. So they already value"
+    },
+    {
+      "start_ms": 1026480,
+      "duration_ms": 4319,
+      "text": "digital marketing. We don't want to go"
+    },
+    {
+      "start_ms": 1028559,
+      "duration_ms": 4880,
+      "text": "to local businesses that do not care"
+    },
+    {
+      "start_ms": 1030799,
+      "duration_ms": 4321,
+      "text": "about uh their uh online presence. So we"
+    },
+    {
+      "start_ms": 1033439,
+      "duration_ms": 3921,
+      "text": "want businesses with low rating, low"
+    },
+    {
+      "start_ms": 1035120,
+      "duration_ms": 4000,
+      "text": "review velocity that they are doing"
+    },
+    {
+      "start_ms": 1037360,
+      "duration_ms": 3920,
+      "text": "worse than their competitors and"
+    },
+    {
+      "start_ms": 1039120,
+      "duration_ms": 4000,
+      "text": "businesses are already marketing minded."
+    },
+    {
+      "start_ms": 1041280,
+      "duration_ms": 4399,
+      "text": "So you have to create a list of these"
+    },
+    {
+      "start_ms": 1043120,
+      "duration_ms": 4640,
+      "text": "businesses in your area. And this is the"
+    },
+    {
+      "start_ms": 1045679,
+      "duration_ms": 4961,
+      "text": "foot in the door strategy. the strategy"
+    },
+    {
+      "start_ms": 1047760,
+      "duration_ms": 5520,
+      "text": "that all our agencies are already"
+    },
+    {
+      "start_ms": 1050640,
+      "duration_ms": 4560,
+      "text": "applying with amazing results. So the"
+    },
+    {
+      "start_ms": 1053280,
+      "duration_ms": 4000,
+      "text": "outreach is very simple. You have to ask"
+    },
+    {
+      "start_ms": 1055200,
+      "duration_ms": 5599,
+      "text": "a question like this. Did you know that"
+    },
+    {
+      "start_ms": 1057280,
+      "duration_ms": 5200,
+      "text": "when we search for dentist in the city,"
+    },
+    {
+      "start_ms": 1060799,
+      "duration_ms": 4321,
+      "text": "Google is hiding you because of your"
+    },
+    {
+      "start_ms": 1062480,
+      "duration_ms": 5199,
+      "text": "review count? And you show them the"
+    },
+    {
+      "start_ms": 1065120,
+      "duration_ms": 4080,
+      "text": "Google uh ranking and you show them also"
+    },
+    {
+      "start_ms": 1067679,
+      "duration_ms": 3921,
+      "text": "a report that we're going to"
+    },
+    {
+      "start_ms": 1069200,
+      "duration_ms": 4320,
+      "text": "automatically uh generate uh with a"
+    },
+    {
+      "start_ms": 1071600,
+      "duration_ms": 3840,
+      "text": "click. So this is how you visit face to"
+    },
+    {
+      "start_ms": 1073520,
+      "duration_ms": 4080,
+      "text": "face the business and this is the uh"
+    },
+    {
+      "start_ms": 1075440,
+      "duration_ms": 4000,
+      "text": "outreach. uh then of course they"
+    },
+    {
+      "start_ms": 1077600,
+      "duration_ms": 4079,
+      "text": "understand the problem during the"
+    },
+    {
+      "start_ms": 1079440,
+      "duration_ms": 4960,
+      "text": "outreach. The goal is that they feel the"
+    },
+    {
+      "start_ms": 1081679,
+      "duration_ms": 4721,
+      "text": "pain and they want to resolve this"
+    },
+    {
+      "start_ms": 1084400,
+      "duration_ms": 4000,
+      "text": "problem but you do not want to offer"
+    },
+    {
+      "start_ms": 1086400,
+      "duration_ms": 4000,
+      "text": "immediately the platform. You do not"
+    },
+    {
+      "start_ms": 1088400,
+      "duration_ms": 4399,
+      "text": "want to offer immediately the reputation"
+    },
+    {
+      "start_ms": 1090400,
+      "duration_ms": 4320,
+      "text": "management paid service. You want to"
+    },
+    {
+      "start_ms": 1092799,
+      "duration_ms": 3921,
+      "text": "have a guarantee. So you can say"
+    },
+    {
+      "start_ms": 1094720,
+      "duration_ms": 4560,
+      "text": "something like I will set up the system"
+    },
+    {
+      "start_ms": 1096720,
+      "duration_ms": 4959,
+      "text": "for you this week and get your next five"
+    },
+    {
+      "start_ms": 1099280,
+      "duration_ms": 4320,
+      "text": "reviews for free. So they don't have to"
+    },
+    {
+      "start_ms": 1101679,
+      "duration_ms": 4401,
+      "text": "pay nothing. They don't have to uh"
+    },
+    {
+      "start_ms": 1103600,
+      "duration_ms": 5040,
+      "text": "commit. you just have to prove them that"
+    },
+    {
+      "start_ms": 1106080,
+      "duration_ms": 5200,
+      "text": "you're able to get the first five"
+    },
+    {
+      "start_ms": 1108640,
+      "duration_ms": 5600,
+      "text": "reviews for free. So, this is your goal"
+    },
+    {
+      "start_ms": 1111280,
+      "duration_ms": 4560,
+      "text": "during the um closing part. So, you"
+    },
+    {
+      "start_ms": 1114240,
+      "duration_ms": 3360,
+      "text": "don't have to sell immediately, but"
+    },
+    {
+      "start_ms": 1115840,
+      "duration_ms": 3680,
+      "text": "firstly, you have to prove that the"
+    },
+    {
+      "start_ms": 1117600,
+      "duration_ms": 3920,
+      "text": "system that you're going to install for"
+    },
+    {
+      "start_ms": 1119520,
+      "duration_ms": 4080,
+      "text": "them work. And once they see the"
+    },
+    {
+      "start_ms": 1121520,
+      "duration_ms": 5200,
+      "text": "fivestar reviews notification hitting"
+    },
+    {
+      "start_ms": 1123600,
+      "duration_ms": 5280,
+      "text": "their phone, the sale is already closed."
+    },
+    {
+      "start_ms": 1126720,
+      "duration_ms": 4560,
+      "text": "So, this is a kind of free trial that"
+    },
+    {
+      "start_ms": 1128880,
+      "duration_ms": 4640,
+      "text": "you offer to uh them. You want to prove"
+    },
+    {
+      "start_ms": 1131280,
+      "duration_ms": 5440,
+      "text": "that the system is working and you have"
+    },
+    {
+      "start_ms": 1133520,
+      "duration_ms": 5440,
+      "text": "to propose the paid service just when"
+    },
+    {
+      "start_ms": 1136720,
+      "duration_ms": 5040,
+      "text": "they've already collected results. And"
+    },
+    {
+      "start_ms": 1138960,
+      "duration_ms": 4560,
+      "text": "imagine going to a business with uh 12"
+    },
+    {
+      "start_ms": 1141760,
+      "duration_ms": 3919,
+      "text": "reviews. For example, a business that"
+    },
+    {
+      "start_ms": 1143520,
+      "duration_ms": 4480,
+      "text": "has been in the market since uh years"
+    },
+    {
+      "start_ms": 1145679,
+      "duration_ms": 4561,
+      "text": "and years and just in a matter of two"
+    },
+    {
+      "start_ms": 1148000,
+      "duration_ms": 4799,
+      "text": "weeks you help them to collect five"
+    },
+    {
+      "start_ms": 1150240,
+      "duration_ms": 4960,
+      "text": "positive reviews. Of course, they see"
+    },
+    {
+      "start_ms": 1152799,
+      "duration_ms": 4880,
+      "text": "concrete uh results and they want to"
+    },
+    {
+      "start_ms": 1155200,
+      "duration_ms": 4719,
+      "text": "keep these results forever. That's why"
+    },
+    {
+      "start_ms": 1157679,
+      "duration_ms": 4240,
+      "text": "once they see the fivestar uh reviews"
+    },
+    {
+      "start_ms": 1159919,
+      "duration_ms": 3681,
+      "text": "notification, the sale is already"
+    },
+    {
+      "start_ms": 1161919,
+      "duration_ms": 3441,
+      "text": "closed. So this is the foot in the door"
+    },
+    {
+      "start_ms": 1163600,
+      "duration_ms": 4240,
+      "text": "strategy and this is how you can get"
+    },
+    {
+      "start_ms": 1165360,
+      "duration_ms": 5280,
+      "text": "your first client within 30 days. All"
+    },
+    {
+      "start_ms": 1167840,
+      "duration_ms": 5360,
+      "text": "right. Daily mission. Visit one local"
+    },
+    {
+      "start_ms": 1170640,
+      "duration_ms": 4720,
+      "text": "business per day and ask for 60 seconds"
+    },
+    {
+      "start_ms": 1173200,
+      "duration_ms": 4240,
+      "text": "to show their Google ranking versus"
+    },
+    {
+      "start_ms": 1175360,
+      "duration_ms": 3840,
+      "text": "their uh competitor. So you have to"
+    },
+    {
+      "start_ms": 1177440,
+      "duration_ms": 4160,
+      "text": "start you have to start with this daily"
+    },
+    {
+      "start_ms": 1179200,
+      "duration_ms": 4479,
+      "text": "mission. It takes like 10 minutes per"
+    },
+    {
+      "start_ms": 1181600,
+      "duration_ms": 4959,
+      "text": "day. You can dedicate for example five"
+    },
+    {
+      "start_ms": 1183679,
+      "duration_ms": 5841,
+      "text": "days per month to visit at least 30"
+    },
+    {
+      "start_ms": 1186559,
+      "duration_ms": 5681,
+      "text": "local businesses and you have to propose"
+    },
+    {
+      "start_ms": 1189520,
+      "duration_ms": 4960,
+      "text": "to all of them the free trial. So five"
+    },
+    {
+      "start_ms": 1192240,
+      "duration_ms": 4160,
+      "text": "reviews for free. No risk. You set it"
+    },
+    {
+      "start_ms": 1194480,
+      "duration_ms": 4480,
+      "text": "up, they approve, you deliver the first"
+    },
+    {
+      "start_ms": 1196400,
+      "duration_ms": 4880,
+      "text": "five reviews fast. So you reach out to"
+    },
+    {
+      "start_ms": 1198960,
+      "duration_ms": 5760,
+      "text": "local businesses that are in your list"
+    },
+    {
+      "start_ms": 1201280,
+      "duration_ms": 5759,
+      "text": "of perfect targets. You show them the uh"
+    },
+    {
+      "start_ms": 1204720,
+      "duration_ms": 4319,
+      "text": "comparison with their competitors in the"
+    },
+    {
+      "start_ms": 1207039,
+      "duration_ms": 4000,
+      "text": "same area and you show them they are not"
+    },
+    {
+      "start_ms": 1209039,
+      "duration_ms": 4401,
+      "text": "ranking in the first position. So they"
+    },
+    {
+      "start_ms": 1211039,
+      "duration_ms": 4401,
+      "text": "are losing customers. They want to reach"
+    },
+    {
+      "start_ms": 1213440,
+      "duration_ms": 4000,
+      "text": "to the top to the Google ranking. And"
+    },
+    {
+      "start_ms": 1215440,
+      "duration_ms": 4080,
+      "text": "you're going to help them to reach this"
+    },
+    {
+      "start_ms": 1217440,
+      "duration_ms": 3680,
+      "text": "uh result. The first reviews are free."
+    },
+    {
+      "start_ms": 1219520,
+      "duration_ms": 3680,
+      "text": "They don't have to pay nothing. They"
+    },
+    {
+      "start_ms": 1221120,
+      "duration_ms": 5120,
+      "text": "don't have to add a credit card. You"
+    },
+    {
+      "start_ms": 1223200,
+      "duration_ms": 5359,
+      "text": "just prove them that your system work."
+    },
+    {
+      "start_ms": 1226240,
+      "duration_ms": 4319,
+      "text": "And you do it for free. And then once"
+    },
+    {
+      "start_ms": 1228559,
+      "duration_ms": 4321,
+      "text": "they've collected the first reviews, you"
+    },
+    {
+      "start_ms": 1230559,
+      "duration_ms": 4401,
+      "text": "come back to them and you talk about"
+    },
+    {
+      "start_ms": 1232880,
+      "duration_ms": 4159,
+      "text": "your paid service, the fact that they"
+    },
+    {
+      "start_ms": 1234960,
+      "duration_ms": 4160,
+      "text": "can get these results forever, not just"
+    },
+    {
+      "start_ms": 1237039,
+      "duration_ms": 4721,
+      "text": "for the first two weeks. and you propose"
+    },
+    {
+      "start_ms": 1239120,
+      "duration_ms": 4559,
+      "text": "them the $100 per month reputation"
+    },
+    {
+      "start_ms": 1241760,
+      "duration_ms": 4720,
+      "text": "management service. Not only for"
+    },
+    {
+      "start_ms": 1243679,
+      "duration_ms": 4721,
+      "text": "collecting reviews forever, but also for"
+    },
+    {
+      "start_ms": 1246480,
+      "duration_ms": 4160,
+      "text": "automated review replies, for review"
+    },
+    {
+      "start_ms": 1248400,
+      "duration_ms": 4480,
+      "text": "marketing, for simple reporting, listing"
+    },
+    {
+      "start_ms": 1250640,
+      "duration_ms": 4640,
+      "text": "updates, and up-to-date website. So, you"
+    },
+    {
+      "start_ms": 1252880,
+      "duration_ms": 4320,
+      "text": "present also all the backend features of"
+    },
+    {
+      "start_ms": 1255280,
+      "duration_ms": 4320,
+      "text": "the platform. They understand that the"
+    },
+    {
+      "start_ms": 1257200,
+      "duration_ms": 4479,
+      "text": "$100 per month investment is worthy"
+    },
+    {
+      "start_ms": 1259600,
+      "duration_ms": 3920,
+      "text": "because the return on investment is much"
+    },
+    {
+      "start_ms": 1261679,
+      "duration_ms": 4641,
+      "text": "more. And this is what happen if you do"
+    },
+    {
+      "start_ms": 1263520,
+      "duration_ms": 5680,
+      "text": "it consistently for one year. So every"
+    },
+    {
+      "start_ms": 1266320,
+      "duration_ms": 4800,
+      "text": "month you do at least 30 face-to-face"
+    },
+    {
+      "start_ms": 1269200,
+      "duration_ms": 4560,
+      "text": "outreach. We're not talking about cold"
+    },
+    {
+      "start_ms": 1271120,
+      "duration_ms": 4480,
+      "text": "emails or cold calling. This can work,"
+    },
+    {
+      "start_ms": 1273760,
+      "duration_ms": 3360,
+      "text": "but the face-to-face strategy,"
+    },
+    {
+      "start_ms": 1275600,
+      "duration_ms": 4240,
+      "text": "especially with small local business"
+    },
+    {
+      "start_ms": 1277120,
+      "duration_ms": 6240,
+      "text": "owners, is the best strategy ever. So"
+    },
+    {
+      "start_ms": 1279840,
+      "duration_ms": 6560,
+      "text": "every year you do at least 360 outreach."
+    },
+    {
+      "start_ms": 1283360,
+      "duration_ms": 6000,
+      "text": "Let's suppose a 30% conversion on free"
+    },
+    {
+      "start_ms": 1286400,
+      "duration_ms": 5279,
+      "text": "trial. So out of 30 facetoface outreach,"
+    },
+    {
+      "start_ms": 1289360,
+      "duration_ms": 4400,
+      "text": "10 of them decide to start the free"
+    },
+    {
+      "start_ms": 1291679,
+      "duration_ms": 4480,
+      "text": "trial with you. 10 of them wants you to"
+    },
+    {
+      "start_ms": 1293760,
+      "duration_ms": 4399,
+      "text": "set up the system for them for free"
+    },
+    {
+      "start_ms": 1296159,
+      "duration_ms": 4880,
+      "text": "without paying nothing. So you collect"
+    },
+    {
+      "start_ms": 1298159,
+      "duration_ms": 5201,
+      "text": "10 free trial per month which is 120"
+    },
+    {
+      "start_ms": 1301039,
+      "duration_ms": 5041,
+      "text": "free trial per year and let's suppose"
+    },
+    {
+      "start_ms": 1303360,
+      "duration_ms": 5199,
+      "text": "another 30% conversion from free trial"
+    },
+    {
+      "start_ms": 1306080,
+      "duration_ms": 4719,
+      "text": "to paying customers. Every month you"
+    },
+    {
+      "start_ms": 1308559,
+      "duration_ms": 4961,
+      "text": "have free paying customer. It means"
+    },
+    {
+      "start_ms": 1310799,
+      "duration_ms": 6081,
+      "text": "every year you have 36 new paying"
+    },
+    {
+      "start_ms": 1313520,
+      "duration_ms": 5760,
+      "text": "client. Supposing a $100 per month cost"
+    },
+    {
+      "start_ms": 1316880,
+      "duration_ms": 5840,
+      "text": "of the service. Every month you collect"
+    },
+    {
+      "start_ms": 1319280,
+      "duration_ms": 6000,
+      "text": "3,600 monthly recurring revenues, which"
+    },
+    {
+      "start_ms": 1322720,
+      "duration_ms": 5040,
+      "text": "is $43,200"
+    },
+    {
+      "start_ms": 1325280,
+      "duration_ms": 4560,
+      "text": "annual recurring revenues. These are"
+    },
+    {
+      "start_ms": 1327760,
+      "duration_ms": 4240,
+      "text": "super achievable results. In our"
+    },
+    {
+      "start_ms": 1329840,
+      "duration_ms": 4880,
+      "text": "community, we have agencies doing much"
+    },
+    {
+      "start_ms": 1332000,
+      "duration_ms": 4960,
+      "text": "more. But of course, it's not easy. It's"
+    },
+    {
+      "start_ms": 1334720,
+      "duration_ms": 4640,
+      "text": "not a quick rich scheme. It's a real"
+    },
+    {
+      "start_ms": 1336960,
+      "duration_ms": 3920,
+      "text": "real business. You're selling reputation"
+    },
+    {
+      "start_ms": 1339360,
+      "duration_ms": 4640,
+      "text": "management to small local business"
+    },
+    {
+      "start_ms": 1340880,
+      "duration_ms": 6080,
+      "text": "owners. And this requires time, effort,"
+    },
+    {
+      "start_ms": 1344000,
+      "duration_ms": 4720,
+      "text": "energy, uh investment. Uh, of course,"
+    },
+    {
+      "start_ms": 1346960,
+      "duration_ms": 4560,
+      "text": "the only job for you, the most important"
+    },
+    {
+      "start_ms": 1348720,
+      "duration_ms": 5360,
+      "text": "job for you is the sales part. So, the"
+    },
+    {
+      "start_ms": 1351520,
+      "duration_ms": 4880,
+      "text": "pitching part, the free trial, and the"
+    },
+    {
+      "start_ms": 1354080,
+      "duration_ms": 4079,
+      "text": "closing part. Then the rest is"
+    },
+    {
+      "start_ms": 1356400,
+      "duration_ms": 3600,
+      "text": "automated. So, you're not going to"
+    },
+    {
+      "start_ms": 1358159,
+      "duration_ms": 3201,
+      "text": "manually uh do something for your"
+    },
+    {
+      "start_ms": 1360000,
+      "duration_ms": 3840,
+      "text": "clients. You're not going to offer a"
+    },
+    {
+      "start_ms": 1361360,
+      "duration_ms": 4880,
+      "text": "done for you uh service. But the secret"
+    },
+    {
+      "start_ms": 1363840,
+      "duration_ms": 5040,
+      "text": "source is the automation because you are"
+    },
+    {
+      "start_ms": 1366240,
+      "duration_ms": 5120,
+      "text": "offering a service that every month is"
+    },
+    {
+      "start_ms": 1368880,
+      "duration_ms": 4640,
+      "text": "going to be done by a software. So, not"
+    },
+    {
+      "start_ms": 1371360,
+      "duration_ms": 4400,
+      "text": "by you. You just have to set up the"
+    },
+    {
+      "start_ms": 1373520,
+      "duration_ms": 4000,
+      "text": "platform for them and then the rest is"
+    },
+    {
+      "start_ms": 1375760,
+      "duration_ms": 4240,
+      "text": "automated and clients are going to pay"
+    },
+    {
+      "start_ms": 1377520,
+      "duration_ms": 4000,
+      "text": "you a recurring revenue. So, it's not a"
+    },
+    {
+      "start_ms": 1380000,
+      "duration_ms": 3840,
+      "text": "one-time fee, but they're going to pay"
+    },
+    {
+      "start_ms": 1381520,
+      "duration_ms": 4320,
+      "text": "you month by month. And this is the"
+    },
+    {
+      "start_ms": 1383840,
+      "duration_ms": 4240,
+      "text": "beauty of the software as a service"
+    },
+    {
+      "start_ms": 1385840,
+      "duration_ms": 4400,
+      "text": "business model comparing to the done for"
+    },
+    {
+      "start_ms": 1388080,
+      "duration_ms": 5040,
+      "text": "you business model where you have to"
+    },
+    {
+      "start_ms": 1390240,
+      "duration_ms": 5360,
+      "text": "manually work on stuff and most of the"
+    },
+    {
+      "start_ms": 1393120,
+      "duration_ms": 5120,
+      "text": "time clients pay you for a fixed amount"
+    },
+    {
+      "start_ms": 1395600,
+      "duration_ms": 4480,
+      "text": "of time and not forever. With software,"
+    },
+    {
+      "start_ms": 1398240,
+      "duration_ms": 4160,
+      "text": "you just have to do the sales part and"
+    },
+    {
+      "start_ms": 1400080,
+      "duration_ms": 4560,
+      "text": "the setup and then the rest is automated"
+    },
+    {
+      "start_ms": 1402400,
+      "duration_ms": 4080,
+      "text": "and clients pay you every month"
+    },
+    {
+      "start_ms": 1404640,
+      "duration_ms": 4960,
+      "text": "recurring because the software is going"
+    },
+    {
+      "start_ms": 1406480,
+      "duration_ms": 5280,
+      "text": "to do the work for you. So the best part"
+    },
+    {
+      "start_ms": 1409600,
+      "duration_ms": 4000,
+      "text": "of this business model is the automation"
+    },
+    {
+      "start_ms": 1411760,
+      "duration_ms": 4159,
+      "text": "and now we're going to see how to set up"
+    },
+    {
+      "start_ms": 1413600,
+      "duration_ms": 4640,
+      "text": "this automation for your clients. So"
+    },
+    {
+      "start_ms": 1415919,
+      "duration_ms": 4561,
+      "text": "firstly we are going to uh connect"
+    },
+    {
+      "start_ms": 1418240,
+      "duration_ms": 4080,
+      "text": "Google and the social media pages to the"
+    },
+    {
+      "start_ms": 1420480,
+      "duration_ms": 3679,
+      "text": "system. Then we're going to set up a"
+    },
+    {
+      "start_ms": 1422320,
+      "duration_ms": 4640,
+      "text": "review collection process and this is"
+    },
+    {
+      "start_ms": 1424159,
+      "duration_ms": 5281,
+      "text": "the crucial part. This is the 90% of the"
+    },
+    {
+      "start_ms": 1426960,
+      "duration_ms": 4719,
+      "text": "sales. So if you set up a review"
+    },
+    {
+      "start_ms": 1429440,
+      "duration_ms": 4960,
+      "text": "collection process correctly, they will"
+    },
+    {
+      "start_ms": 1431679,
+      "duration_ms": 4721,
+      "text": "get results during the uh free trial. So"
+    },
+    {
+      "start_ms": 1434400,
+      "duration_ms": 3519,
+      "text": "they convert into paying customer and"
+    },
+    {
+      "start_ms": 1436400,
+      "duration_ms": 4000,
+      "text": "they will pay you forever because there"
+    },
+    {
+      "start_ms": 1437919,
+      "duration_ms": 5441,
+      "text": "is an automated system that collect"
+    },
+    {
+      "start_ms": 1440400,
+      "duration_ms": 5440,
+      "text": "positive reviews for them every week."
+    },
+    {
+      "start_ms": 1443360,
+      "duration_ms": 4880,
+      "text": "And then we're going to enable AI agents"
+    },
+    {
+      "start_ms": 1445840,
+      "duration_ms": 5360,
+      "text": "to automatically reply to reviews and"
+    },
+    {
+      "start_ms": 1448240,
+      "duration_ms": 5679,
+      "text": "share reviews on uh social media and on"
+    },
+    {
+      "start_ms": 1451200,
+      "duration_ms": 6160,
+      "text": "website. So this is the setup part. But"
+    },
+    {
+      "start_ms": 1453919,
+      "duration_ms": 5521,
+      "text": "the 90% of the sales is the review"
+    },
+    {
+      "start_ms": 1457360,
+      "duration_ms": 4480,
+      "text": "collection process. And specifically,"
+    },
+    {
+      "start_ms": 1459440,
+      "duration_ms": 4400,
+      "text": "we're going to see three type of review"
+    },
+    {
+      "start_ms": 1461840,
+      "duration_ms": 3600,
+      "text": "collection process. Because depending on"
+    },
+    {
+      "start_ms": 1463840,
+      "duration_ms": 3199,
+      "text": "the uh business that you have in front"
+    },
+    {
+      "start_ms": 1465440,
+      "duration_ms": 3599,
+      "text": "of you, you can set up type different"
+    },
+    {
+      "start_ms": 1467039,
+      "duration_ms": 3601,
+      "text": "types of review collection process."
+    },
+    {
+      "start_ms": 1469039,
+      "duration_ms": 3681,
+      "text": "There is a first type of review"
+    },
+    {
+      "start_ms": 1470640,
+      "duration_ms": 4080,
+      "text": "collection process which is QR code in"
+    },
+    {
+      "start_ms": 1472720,
+      "duration_ms": 4079,
+      "text": "local where basically you help your"
+    },
+    {
+      "start_ms": 1474720,
+      "duration_ms": 4079,
+      "text": "clients to have QR codes inside their"
+    },
+    {
+      "start_ms": 1476799,
+      "duration_ms": 4561,
+      "text": "local businesses and you train them to"
+    },
+    {
+      "start_ms": 1478799,
+      "duration_ms": 4321,
+      "text": "ask for reviews to their end customers."
+    },
+    {
+      "start_ms": 1481360,
+      "duration_ms": 4080,
+      "text": "So they scan the QR code and they leave"
+    },
+    {
+      "start_ms": 1483120,
+      "duration_ms": 4320,
+      "text": "the reviews. There is a second type of"
+    },
+    {
+      "start_ms": 1485440,
+      "duration_ms": 5520,
+      "text": "review collection process where your"
+    },
+    {
+      "start_ms": 1487440,
+      "duration_ms": 5760,
+      "text": "clients manually send to each client a"
+    },
+    {
+      "start_ms": 1490960,
+      "duration_ms": 5199,
+      "text": "review request via email, SMS or"
+    },
+    {
+      "start_ms": 1493200,
+      "duration_ms": 4719,
+      "text": "WhatsApp after the uh service. And this"
+    },
+    {
+      "start_ms": 1496159,
+      "duration_ms": 4400,
+      "text": "is perfect for businesses like for"
+    },
+    {
+      "start_ms": 1497919,
+      "duration_ms": 4240,
+      "text": "example lawyers who do not have a lot of"
+    },
+    {
+      "start_ms": 1500559,
+      "duration_ms": 4240,
+      "text": "customers every month but maybe they"
+    },
+    {
+      "start_ms": 1502159,
+      "duration_ms": 4880,
+      "text": "have three five uh customers. So it's"
+    },
+    {
+      "start_ms": 1504799,
+      "duration_ms": 5601,
+      "text": "important that after the experience they"
+    },
+    {
+      "start_ms": 1507039,
+      "duration_ms": 5120,
+      "text": "just send a quick request to their uh"
+    },
+    {
+      "start_ms": 1510400,
+      "duration_ms": 3680,
+      "text": "end customers and also we're going to"
+    },
+    {
+      "start_ms": 1512159,
+      "duration_ms": 4241,
+      "text": "see a third type of review collection"
+    },
+    {
+      "start_ms": 1514080,
+      "duration_ms": 5199,
+      "text": "process where your clients uh simply"
+    },
+    {
+      "start_ms": 1516400,
+      "duration_ms": 5279,
+      "text": "connect their uh CRM and when there is a"
+    },
+    {
+      "start_ms": 1519279,
+      "duration_ms": 4321,
+      "text": "new contact in the CRM automatically the"
+    },
+    {
+      "start_ms": 1521679,
+      "duration_ms": 4081,
+      "text": "contact is going to be added in the"
+    },
+    {
+      "start_ms": 1523600,
+      "duration_ms": 4720,
+      "text": "system and a review request is going to"
+    },
+    {
+      "start_ms": 1525760,
+      "duration_ms": 4000,
+      "text": "automatically sent to the uh end"
+    },
+    {
+      "start_ms": 1528320,
+      "duration_ms": 3599,
+      "text": "customer. So, we're going to see these"
+    },
+    {
+      "start_ms": 1529760,
+      "duration_ms": 4159,
+      "text": "three type of review collection process"
+    },
+    {
+      "start_ms": 1531919,
+      "duration_ms": 4481,
+      "text": "and we're going to decide which type of"
+    },
+    {
+      "start_ms": 1533919,
+      "duration_ms": 4721,
+      "text": "review collection process is uh perfect"
+    },
+    {
+      "start_ms": 1536400,
+      "duration_ms": 4639,
+      "text": "for your clients, best fit uh your"
+    },
+    {
+      "start_ms": 1538640,
+      "duration_ms": 4960,
+      "text": "client's need. So, let's start and let's"
+    },
+    {
+      "start_ms": 1541039,
+      "duration_ms": 4640,
+      "text": "see how you can set up the automation"
+    },
+    {
+      "start_ms": 1543600,
+      "duration_ms": 4079,
+      "text": "for your clients. This is the platform"
+    },
+    {
+      "start_ms": 1545679,
+      "duration_ms": 4801,
+      "text": "that you're going to use. It's called"
+    },
+    {
+      "start_ms": 1547679,
+      "duration_ms": 5281,
+      "text": "Climbo and it's fully white label with"
+    },
+    {
+      "start_ms": 1550480,
+      "duration_ms": 4319,
+      "text": "your colors, your logo, your domain,"
+    },
+    {
+      "start_ms": 1552960,
+      "duration_ms": 4560,
+      "text": "your font. So, your clients will"
+    },
+    {
+      "start_ms": 1554799,
+      "duration_ms": 4401,
+      "text": "perceive it as your own software. So"
+    },
+    {
+      "start_ms": 1557520,
+      "duration_ms": 4080,
+      "text": "let's start and let's see how your"
+    },
+    {
+      "start_ms": 1559200,
+      "duration_ms": 4640,
+      "text": "clients can set up the platform. So they"
+    },
+    {
+      "start_ms": 1561600,
+      "duration_ms": 4559,
+      "text": "enable the automation and they start"
+    },
+    {
+      "start_ms": 1563840,
+      "duration_ms": 4640,
+      "text": "collecting reviews on autopilot and they"
+    },
+    {
+      "start_ms": 1566159,
+      "duration_ms": 5520,
+      "text": "start managing the reputation on"
+    },
+    {
+      "start_ms": 1568480,
+      "duration_ms": 5679,
+      "text": "autopilot. The first step of their setup"
+    },
+    {
+      "start_ms": 1571679,
+      "duration_ms": 5360,
+      "text": "as we saw in the slide is the connection"
+    },
+    {
+      "start_ms": 1574159,
+      "duration_ms": 4561,
+      "text": "of Google and social media accounts. So"
+    },
+    {
+      "start_ms": 1577039,
+      "duration_ms": 3441,
+      "text": "they just have to go to settings"
+    },
+    {
+      "start_ms": 1578720,
+      "duration_ms": 3439,
+      "text": "integration and here they can connect"
+    },
+    {
+      "start_ms": 1580480,
+      "duration_ms": 3600,
+      "text": "their Google account. There are"
+    },
+    {
+      "start_ms": 1582159,
+      "duration_ms": 3681,
+      "text": "integrations also with other review"
+    },
+    {
+      "start_ms": 1584080,
+      "duration_ms": 3599,
+      "text": "sites, but of course we know that Google"
+    },
+    {
+      "start_ms": 1585840,
+      "duration_ms": 3600,
+      "text": "is the most important one. So they"
+    },
+    {
+      "start_ms": 1587679,
+      "duration_ms": 4401,
+      "text": "simply login with a Google account and"
+    },
+    {
+      "start_ms": 1589440,
+      "duration_ms": 4960,
+      "text": "the integration is completed. They can"
+    },
+    {
+      "start_ms": 1592080,
+      "duration_ms": 5040,
+      "text": "connect also text channels. Emails and"
+    },
+    {
+      "start_ms": 1594400,
+      "duration_ms": 5440,
+      "text": "SMS are connected by default. They don't"
+    },
+    {
+      "start_ms": 1597120,
+      "duration_ms": 4880,
+      "text": "need to connect Twilio or other external"
+    },
+    {
+      "start_ms": 1599840,
+      "duration_ms": 4480,
+      "text": "services. We are directly integrated"
+    },
+    {
+      "start_ms": 1602000,
+      "duration_ms": 4320,
+      "text": "with email and SMS providers. So they"
+    },
+    {
+      "start_ms": 1604320,
+      "duration_ms": 3920,
+      "text": "don't need to set up anything. they just"
+    },
+    {
+      "start_ms": 1606320,
+      "duration_ms": 3920,
+      "text": "can connect their WhatsApp business"
+    },
+    {
+      "start_ms": 1608240,
+      "duration_ms": 3679,
+      "text": "phone number if they want to send"
+    },
+    {
+      "start_ms": 1610240,
+      "duration_ms": 3679,
+      "text": "requests via WhatsApp. So we have a"
+    },
+    {
+      "start_ms": 1611919,
+      "duration_ms": 3360,
+      "text": "direct integration with WhatsApp"
+    },
+    {
+      "start_ms": 1613919,
+      "duration_ms": 3041,
+      "text": "business and then there is the"
+    },
+    {
+      "start_ms": 1615279,
+      "duration_ms": 3681,
+      "text": "connection with social media. So they"
+    },
+    {
+      "start_ms": 1616960,
+      "duration_ms": 4079,
+      "text": "simply login with their Facebook or"
+    },
+    {
+      "start_ms": 1618960,
+      "duration_ms": 4319,
+      "text": "Instagram page and they connect the"
+    },
+    {
+      "start_ms": 1621039,
+      "duration_ms": 4801,
+      "text": "pages to their account. So this is the"
+    },
+    {
+      "start_ms": 1623279,
+      "duration_ms": 5280,
+      "text": "first step for them the connection of"
+    },
+    {
+      "start_ms": 1625840,
+      "duration_ms": 5680,
+      "text": "integrations and it literally takes one"
+    },
+    {
+      "start_ms": 1628559,
+      "duration_ms": 5360,
+      "text": "minute to connect any platform. Then"
+    },
+    {
+      "start_ms": 1631520,
+      "duration_ms": 4880,
+      "text": "before setting up the review collection"
+    },
+    {
+      "start_ms": 1633919,
+      "duration_ms": 4801,
+      "text": "process, they have to customize their"
+    },
+    {
+      "start_ms": 1636400,
+      "duration_ms": 4560,
+      "text": "review link. So the review link is the"
+    },
+    {
+      "start_ms": 1638720,
+      "duration_ms": 5520,
+      "text": "unique link that that they will send to"
+    },
+    {
+      "start_ms": 1640960,
+      "duration_ms": 5760,
+      "text": "their end customers to ask for reviews."
+    },
+    {
+      "start_ms": 1644240,
+      "duration_ms": 4000,
+      "text": "It works in a very easy uh way. When you"
+    },
+    {
+      "start_ms": 1646720,
+      "duration_ms": 3439,
+      "text": "try the platform, of course, you can"
+    },
+    {
+      "start_ms": 1648240,
+      "duration_ms": 3840,
+      "text": "explore all the features of the review"
+    },
+    {
+      "start_ms": 1650159,
+      "duration_ms": 4081,
+      "text": "link. But now I want to show you just"
+    },
+    {
+      "start_ms": 1652080,
+      "duration_ms": 4479,
+      "text": "the basic features. Uh here there will"
+    },
+    {
+      "start_ms": 1654240,
+      "duration_ms": 4319,
+      "text": "be the logo of your clients and a simple"
+    },
+    {
+      "start_ms": 1656559,
+      "duration_ms": 3921,
+      "text": "feedback request. So your clients will"
+    },
+    {
+      "start_ms": 1658559,
+      "duration_ms": 4161,
+      "text": "send this link to their end customers"
+    },
+    {
+      "start_ms": 1660480,
+      "duration_ms": 4799,
+      "text": "and who rate the experience from one to"
+    },
+    {
+      "start_ms": 1662720,
+      "duration_ms": 4640,
+      "text": "three is redirected to this page here"
+    },
+    {
+      "start_ms": 1665279,
+      "duration_ms": 4081,
+      "text": "where they can firstly leave a private"
+    },
+    {
+      "start_ms": 1667360,
+      "duration_ms": 4080,
+      "text": "feedback to the business that stays"
+    },
+    {
+      "start_ms": 1669360,
+      "duration_ms": 4319,
+      "text": "private and will be then managed"
+    },
+    {
+      "start_ms": 1671440,
+      "duration_ms": 4479,
+      "text": "privately inside the platform or of"
+    },
+    {
+      "start_ms": 1673679,
+      "duration_ms": 4801,
+      "text": "course there is also the opportunity to"
+    },
+    {
+      "start_ms": 1675919,
+      "duration_ms": 5120,
+      "text": "leave a public review on the integrated"
+    },
+    {
+      "start_ms": 1678480,
+      "duration_ms": 4160,
+      "text": "uh platforms. This is compliant review"
+    },
+    {
+      "start_ms": 1681039,
+      "duration_ms": 3921,
+      "text": "gating. So we are not redirecting"
+    },
+    {
+      "start_ms": 1682640,
+      "duration_ms": 4000,
+      "text": "unhappy customers just to leave uh"
+    },
+    {
+      "start_ms": 1684960,
+      "duration_ms": 4319,
+      "text": "private feedbacks but there is always"
+    },
+    {
+      "start_ms": 1686640,
+      "duration_ms": 5360,
+      "text": "the opportunity to uh review the"
+    },
+    {
+      "start_ms": 1689279,
+      "duration_ms": 6161,
+      "text": "business on public review sites and this"
+    },
+    {
+      "start_ms": 1692000,
+      "duration_ms": 6399,
+      "text": "is 100% compliant with uh review uh"
+    },
+    {
+      "start_ms": 1695440,
+      "duration_ms": 4400,
+      "text": "policies. H of course who had a positive"
+    },
+    {
+      "start_ms": 1698399,
+      "duration_ms": 4160,
+      "text": "experience and rate the business for"
+    },
+    {
+      "start_ms": 1699840,
+      "duration_ms": 5120,
+      "text": "example four or five star is redirected"
+    },
+    {
+      "start_ms": 1702559,
+      "duration_ms": 5360,
+      "text": "here to leave a public review on Google"
+    },
+    {
+      "start_ms": 1704960,
+      "duration_ms": 4719,
+      "text": "or on the other integrated platforms."
+    },
+    {
+      "start_ms": 1707919,
+      "duration_ms": 3521,
+      "text": "From the review site settings, your"
+    },
+    {
+      "start_ms": 1709679,
+      "duration_ms": 4081,
+      "text": "clients can enable also video"
+    },
+    {
+      "start_ms": 1711440,
+      "duration_ms": 4400,
+      "text": "testimonials. So they can collect video"
+    },
+    {
+      "start_ms": 1713760,
+      "duration_ms": 4000,
+      "text": "testimonials directly through their"
+    },
+    {
+      "start_ms": 1715840,
+      "duration_ms": 4319,
+      "text": "review link. So the end customers click"
+    },
+    {
+      "start_ms": 1717760,
+      "duration_ms": 4399,
+      "text": "here and it's going to record or upload"
+    },
+    {
+      "start_ms": 1720159,
+      "duration_ms": 4400,
+      "text": "a video testimonial. Once the review"
+    },
+    {
+      "start_ms": 1722159,
+      "duration_ms": 5681,
+      "text": "link is ready, so is customized with"
+    },
+    {
+      "start_ms": 1724559,
+      "duration_ms": 5120,
+      "text": "your client's brand and text. Uh your"
+    },
+    {
+      "start_ms": 1727840,
+      "duration_ms": 3920,
+      "text": "clients have to set up a review"
+    },
+    {
+      "start_ms": 1729679,
+      "duration_ms": 4081,
+      "text": "collection process. As we saw in the"
+    },
+    {
+      "start_ms": 1731760,
+      "duration_ms": 4480,
+      "text": "slides, there are three types of review"
+    },
+    {
+      "start_ms": 1733760,
+      "duration_ms": 5200,
+      "text": "collection process. The first one is QR"
+    },
+    {
+      "start_ms": 1736240,
+      "duration_ms": 5200,
+      "text": "code in loco which is uh super simple."
+    },
+    {
+      "start_ms": 1738960,
+      "duration_ms": 5199,
+      "text": "So you're not going to send review"
+    },
+    {
+      "start_ms": 1741440,
+      "duration_ms": 5280,
+      "text": "requests via email, SMS or WhatsApp but"
+    },
+    {
+      "start_ms": 1744159,
+      "duration_ms": 4721,
+      "text": "we're going simply to expose a QR code"
+    },
+    {
+      "start_ms": 1746720,
+      "duration_ms": 4400,
+      "text": "inside your client's local business"
+    },
+    {
+      "start_ms": 1748880,
+      "duration_ms": 5360,
+      "text": "maybe next to the uh reception if for"
+    },
+    {
+      "start_ms": 1751120,
+      "duration_ms": 5200,
+      "text": "example your client is a gym owner or a"
+    },
+    {
+      "start_ms": 1754240,
+      "duration_ms": 4159,
+      "text": "dentist and we're going to expose this"
+    },
+    {
+      "start_ms": 1756320,
+      "duration_ms": 4719,
+      "text": "QR code that is going to be linked to"
+    },
+    {
+      "start_ms": 1758399,
+      "duration_ms": 5121,
+      "text": "the uh review link. So we have here what"
+    },
+    {
+      "start_ms": 1761039,
+      "duration_ms": 4561,
+      "text": "we call the kiosk modeold page which is"
+    },
+    {
+      "start_ms": 1763520,
+      "duration_ms": 5039,
+      "text": "this page here that can be of course uh"
+    },
+    {
+      "start_ms": 1765600,
+      "duration_ms": 4959,
+      "text": "customized and this page show this uh QR"
+    },
+    {
+      "start_ms": 1768559,
+      "duration_ms": 4480,
+      "text": "code. Uh your clients can simply print"
+    },
+    {
+      "start_ms": 1770559,
+      "duration_ms": 5761,
+      "text": "this page by clicking on this uh button"
+    },
+    {
+      "start_ms": 1773039,
+      "duration_ms": 5120,
+      "text": "here and expose it inside their uh local"
+    },
+    {
+      "start_ms": 1776320,
+      "duration_ms": 4479,
+      "text": "business. Of course you have to train"
+    },
+    {
+      "start_ms": 1778159,
+      "duration_ms": 5281,
+      "text": "your clients to ask to each customer to"
+    },
+    {
+      "start_ms": 1780799,
+      "duration_ms": 4880,
+      "text": "scan the QR code to leave a a feedback."
+    },
+    {
+      "start_ms": 1783440,
+      "duration_ms": 4239,
+      "text": "So every uh customer of your clients"
+    },
+    {
+      "start_ms": 1785679,
+      "duration_ms": 4321,
+      "text": "will scan the cure code, land on the"
+    },
+    {
+      "start_ms": 1787679,
+      "duration_ms": 5360,
+      "text": "review link and leave a private feed a"
+    },
+    {
+      "start_ms": 1790000,
+      "duration_ms": 5039,
+      "text": "private feedback or a positive review on"
+    },
+    {
+      "start_ms": 1793039,
+      "duration_ms": 4161,
+      "text": "Google. So this is the first type of"
+    },
+    {
+      "start_ms": 1795039,
+      "duration_ms": 4961,
+      "text": "review collection process. Super super"
+    },
+    {
+      "start_ms": 1797200,
+      "duration_ms": 5120,
+      "text": "simple. Then second type of review"
+    },
+    {
+      "start_ms": 1800000,
+      "duration_ms": 5279,
+      "text": "collection process is the manual quick"
+    },
+    {
+      "start_ms": 1802320,
+      "duration_ms": 6400,
+      "text": "request to uh each uh contact. So we're"
+    },
+    {
+      "start_ms": 1805279,
+      "duration_ms": 6161,
+      "text": "going to go to request, send, send now,"
+    },
+    {
+      "start_ms": 1808720,
+      "duration_ms": 5120,
+      "text": "and we click on quick request. All"
+    },
+    {
+      "start_ms": 1811440,
+      "duration_ms": 4160,
+      "text": "right. So your clients just select how"
+    },
+    {
+      "start_ms": 1813840,
+      "duration_ms": 3360,
+      "text": "they want to send the quick request. For"
+    },
+    {
+      "start_ms": 1815600,
+      "duration_ms": 3600,
+      "text": "example, they want to send it via"
+    },
+    {
+      "start_ms": 1817200,
+      "duration_ms": 4240,
+      "text": "WhatsApp. They click on next. They"
+    },
+    {
+      "start_ms": 1819200,
+      "duration_ms": 4000,
+      "text": "insert the contact detail of the uh"
+    },
+    {
+      "start_ms": 1821440,
+      "duration_ms": 4959,
+      "text": "customers to to which they want to send"
+    },
+    {
+      "start_ms": 1823200,
+      "duration_ms": 7400,
+      "text": "the quick request. Let's add"
+    },
+    {
+      "start_ms": 1826399,
+      "duration_ms": 4201,
+      "text": "the name and the phone number"
+    },
+    {
+      "start_ms": 1830640,
+      "duration_ms": 4800,
+      "text": "and finally they uh select the template"
+    },
+    {
+      "start_ms": 1833200,
+      "duration_ms": 4000,
+      "text": "of the uh quick request and they click"
+    },
+    {
+      "start_ms": 1835440,
+      "duration_ms": 3920,
+      "text": "on send. So of course before sending"
+    },
+    {
+      "start_ms": 1837200,
+      "duration_ms": 4160,
+      "text": "quick request they have to create uh"
+    },
+    {
+      "start_ms": 1839360,
+      "duration_ms": 4000,
+      "text": "templates. We're using WhatsApp. So, we"
+    },
+    {
+      "start_ms": 1841360,
+      "duration_ms": 4640,
+      "text": "have to create a WhatsApp uh template."
+    },
+    {
+      "start_ms": 1843360,
+      "duration_ms": 4720,
+      "text": "The template is going to uh be saved."
+    },
+    {
+      "start_ms": 1846000,
+      "duration_ms": 5120,
+      "text": "And we just click on uh send and we send"
+    },
+    {
+      "start_ms": 1848080,
+      "duration_ms": 5360,
+      "text": "the WhatsApp message to the uh end uh"
+    },
+    {
+      "start_ms": 1851120,
+      "duration_ms": 4400,
+      "text": "customer. Let's show you how they can"
+    },
+    {
+      "start_ms": 1853440,
+      "duration_ms": 4400,
+      "text": "easily create uh templates. They simply"
+    },
+    {
+      "start_ms": 1855520,
+      "duration_ms": 4720,
+      "text": "go to the templates uh section here."
+    },
+    {
+      "start_ms": 1857840,
+      "duration_ms": 4640,
+      "text": "Here there is the list of the previously"
+    },
+    {
+      "start_ms": 1860240,
+      "duration_ms": 4640,
+      "text": "created uh template. Uh let's create a"
+    },
+    {
+      "start_ms": 1862480,
+      "duration_ms": 6079,
+      "text": "new one. I just click on new template. I"
+    },
+    {
+      "start_ms": 1864880,
+      "duration_ms": 6000,
+      "text": "choose the uh template name. I click on"
+    },
+    {
+      "start_ms": 1868559,
+      "duration_ms": 5201,
+      "text": "next. I choose the channel for example"
+    },
+    {
+      "start_ms": 1870880,
+      "duration_ms": 5279,
+      "text": "WhatsApp. I click on next and then I"
+    },
+    {
+      "start_ms": 1873760,
+      "duration_ms": 4880,
+      "text": "just customize the text of the uh"
+    },
+    {
+      "start_ms": 1876159,
+      "duration_ms": 5120,
+      "text": "template and the text of the button. And"
+    },
+    {
+      "start_ms": 1878640,
+      "duration_ms": 4639,
+      "text": "of course under the uh button there is"
+    },
+    {
+      "start_ms": 1881279,
+      "duration_ms": 4880,
+      "text": "the uh review link. So super super"
+    },
+    {
+      "start_ms": 1883279,
+      "duration_ms": 4481,
+      "text": "simple to uh create uh templates. Of"
+    },
+    {
+      "start_ms": 1886159,
+      "duration_ms": 4161,
+      "text": "course, when your clients send quick"
+    },
+    {
+      "start_ms": 1887760,
+      "duration_ms": 4560,
+      "text": "requests, they can then u see the"
+    },
+    {
+      "start_ms": 1890320,
+      "duration_ms": 3680,
+      "text": "histories of their previous quick"
+    },
+    {
+      "start_ms": 1892320,
+      "duration_ms": 3839,
+      "text": "request here. And clicking on view"
+    },
+    {
+      "start_ms": 1894000,
+      "duration_ms": 5039,
+      "text": "details, they can see if the uh"
+    },
+    {
+      "start_ms": 1896159,
+      "duration_ms": 5120,
+      "text": "customers uh open the quick request or"
+    },
+    {
+      "start_ms": 1899039,
+      "duration_ms": 4640,
+      "text": "clicked on the uh link. There will be"
+    },
+    {
+      "start_ms": 1901279,
+      "duration_ms": 4721,
+      "text": "soon also the possibility to enable uh"
+    },
+    {
+      "start_ms": 1903679,
+      "duration_ms": 4561,
+      "text": "reminders for every uh template. So"
+    },
+    {
+      "start_ms": 1906000,
+      "duration_ms": 4799,
+      "text": "customers who do not click on the link"
+    },
+    {
+      "start_ms": 1908240,
+      "duration_ms": 4240,
+      "text": "will receive after a few days a"
+    },
+    {
+      "start_ms": 1910799,
+      "duration_ms": 4081,
+      "text": "reminder. So we can improve the"
+    },
+    {
+      "start_ms": 1912480,
+      "duration_ms": 4559,
+      "text": "possibility that they leave positive"
+    },
+    {
+      "start_ms": 1914880,
+      "duration_ms": 4639,
+      "text": "reviews on Google. So this is the second"
+    },
+    {
+      "start_ms": 1917039,
+      "duration_ms": 5360,
+      "text": "type of review collection process. So"
+    },
+    {
+      "start_ms": 1919519,
+      "duration_ms": 4721,
+      "text": "manual quick uh request to our uh"
+    },
+    {
+      "start_ms": 1922399,
+      "duration_ms": 4640,
+      "text": "customers. And then finally there is the"
+    },
+    {
+      "start_ms": 1924240,
+      "duration_ms": 6159,
+      "text": "third type of review collection process"
+    },
+    {
+      "start_ms": 1927039,
+      "duration_ms": 6161,
+      "text": "which is the auto send request to our uh"
+    },
+    {
+      "start_ms": 1930399,
+      "duration_ms": 5601,
+      "text": "contacts. So this is uh very very useful"
+    },
+    {
+      "start_ms": 1933200,
+      "duration_ms": 5680,
+      "text": "if your clients already have a CRM. They"
+    },
+    {
+      "start_ms": 1936000,
+      "duration_ms": 4960,
+      "text": "are already uh adding their um contacts."
+    },
+    {
+      "start_ms": 1938880,
+      "duration_ms": 3840,
+      "text": "So they are already adding the contact"
+    },
+    {
+      "start_ms": 1940960,
+      "duration_ms": 4400,
+      "text": "details of the end customers like the"
+    },
+    {
+      "start_ms": 1942720,
+      "duration_ms": 4400,
+      "text": "name, the phone number, the email, uh"
+    },
+    {
+      "start_ms": 1945360,
+      "duration_ms": 4400,
+      "text": "the service date and they want to"
+    },
+    {
+      "start_ms": 1947120,
+      "duration_ms": 5039,
+      "text": "automate the process that whenever there"
+    },
+    {
+      "start_ms": 1949760,
+      "duration_ms": 4880,
+      "text": "is a new contact, we send the review"
+    },
+    {
+      "start_ms": 1952159,
+      "duration_ms": 4961,
+      "text": "request for example two hours after that"
+    },
+    {
+      "start_ms": 1954640,
+      "duration_ms": 4960,
+      "text": "date. For example, if your client is a"
+    },
+    {
+      "start_ms": 1957120,
+      "duration_ms": 5600,
+      "text": "dentist, they have a CRM where they they"
+    },
+    {
+      "start_ms": 1959600,
+      "duration_ms": 5280,
+      "text": "are adding the uh patients and they add"
+    },
+    {
+      "start_ms": 1962720,
+      "duration_ms": 4559,
+      "text": "the phone number and also the uh"
+    },
+    {
+      "start_ms": 1964880,
+      "duration_ms": 3919,
+      "text": "appointment date of the patient. We want"
+    },
+    {
+      "start_ms": 1967279,
+      "duration_ms": 4880,
+      "text": "to automate this process. So whenever"
+    },
+    {
+      "start_ms": 1968799,
+      "duration_ms": 5760,
+      "text": "the contact is added in the uh CRM, we"
+    },
+    {
+      "start_ms": 1972159,
+      "duration_ms": 4961,
+      "text": "send the review request after a few"
+    },
+    {
+      "start_ms": 1974559,
+      "duration_ms": 4161,
+      "text": "hours after the appointment. So"
+    },
+    {
+      "start_ms": 1977120,
+      "duration_ms": 3840,
+      "text": "basically, as you can see, there is here"
+    },
+    {
+      "start_ms": 1978720,
+      "duration_ms": 4959,
+      "text": "the uh contact section. This is where"
+    },
+    {
+      "start_ms": 1980960,
+      "duration_ms": 5439,
+      "text": "we're going to uh add our contacts. And"
+    },
+    {
+      "start_ms": 1983679,
+      "duration_ms": 4561,
+      "text": "then we have the auto send uh section uh"
+    },
+    {
+      "start_ms": 1986399,
+      "duration_ms": 4640,
+      "text": "where basically we enable this uh"
+    },
+    {
+      "start_ms": 1988240,
+      "duration_ms": 5600,
+      "text": "automation that for example 15 minutes"
+    },
+    {
+      "start_ms": 1991039,
+      "duration_ms": 5041,
+      "text": "after the update date or the uh service"
+    },
+    {
+      "start_ms": 1993840,
+      "duration_ms": 4559,
+      "text": "date we're going to send to the contact"
+    },
+    {
+      "start_ms": 1996080,
+      "duration_ms": 4560,
+      "text": "the email review request or the for"
+    },
+    {
+      "start_ms": 1998399,
+      "duration_ms": 5041,
+      "text": "example uh WhatsApp uh review uh"
+    },
+    {
+      "start_ms": 2000640,
+      "duration_ms": 5120,
+      "text": "request. So of course in order to uh"
+    },
+    {
+      "start_ms": 2003440,
+      "duration_ms": 4560,
+      "text": "launch this automations we need to add"
+    },
+    {
+      "start_ms": 2005760,
+      "duration_ms": 4480,
+      "text": "the contacts to the uh platform. And as"
+    },
+    {
+      "start_ms": 2008000,
+      "duration_ms": 5120,
+      "text": "I said, we can automate this process if"
+    },
+    {
+      "start_ms": 2010240,
+      "duration_ms": 5039,
+      "text": "your clients already have a uh CRM. If"
+    },
+    {
+      "start_ms": 2013120,
+      "duration_ms": 4320,
+      "text": "they don't have it, they can start using"
+    },
+    {
+      "start_ms": 2015279,
+      "duration_ms": 4400,
+      "text": "uh the platform as a CRM. So they can"
+    },
+    {
+      "start_ms": 2017440,
+      "duration_ms": 4400,
+      "text": "just click on add contacts. And as you"
+    },
+    {
+      "start_ms": 2019679,
+      "duration_ms": 4081,
+      "text": "can see, they add the contact name, last"
+    },
+    {
+      "start_ms": 2021840,
+      "duration_ms": 4400,
+      "text": "name, email, phone number, and"
+    },
+    {
+      "start_ms": 2023760,
+      "duration_ms": 4240,
+      "text": "optionally the uh service date and the"
+    },
+    {
+      "start_ms": 2026240,
+      "duration_ms": 4080,
+      "text": "service time. So we're sending the"
+    },
+    {
+      "start_ms": 2028000,
+      "duration_ms": 4880,
+      "text": "review request, for example, uh 15"
+    },
+    {
+      "start_ms": 2030320,
+      "duration_ms": 4640,
+      "text": "minutes after the uh appointment uh"
+    },
+    {
+      "start_ms": 2032880,
+      "duration_ms": 4159,
+      "text": "date. All right. So they can add contact"
+    },
+    {
+      "start_ms": 2034960,
+      "duration_ms": 5680,
+      "text": "manually via this form. they can upload"
+    },
+    {
+      "start_ms": 2037039,
+      "duration_ms": 5841,
+      "text": "a CSV with also uh multiple contacts or"
+    },
+    {
+      "start_ms": 2040640,
+      "duration_ms": 4960,
+      "text": "as I said if they already have a CRM"
+    },
+    {
+      "start_ms": 2042880,
+      "duration_ms": 5120,
+      "text": "where they are already adding contacts"
+    },
+    {
+      "start_ms": 2045600,
+      "duration_ms": 5039,
+      "text": "they can connect that CRM to the uh"
+    },
+    {
+      "start_ms": 2048000,
+      "duration_ms": 6079,
+      "text": "platform and that can be done very very"
+    },
+    {
+      "start_ms": 2050639,
+      "duration_ms": 6401,
+      "text": "uh easily via our uh Zapier integration"
+    },
+    {
+      "start_ms": 2054079,
+      "duration_ms": 4560,
+      "text": "because uh on settings uh automate you"
+    },
+    {
+      "start_ms": 2057040,
+      "duration_ms": 4559,
+      "text": "can see that we have a Zapier"
+    },
+    {
+      "start_ms": 2058639,
+      "duration_ms": 6081,
+      "text": "integration and your clients can connect"
+    },
+    {
+      "start_ms": 2061599,
+      "duration_ms": 5040,
+      "text": "their CRM to the uh platform to your"
+    },
+    {
+      "start_ms": 2064720,
+      "duration_ms": 4399,
+      "text": "white level platform so they automate"
+    },
+    {
+      "start_ms": 2066639,
+      "duration_ms": 4881,
+      "text": "the process of adding uh contacts. Uh"
+    },
+    {
+      "start_ms": 2069119,
+      "duration_ms": 4321,
+      "text": "for example, you can see here they can"
+    },
+    {
+      "start_ms": 2071520,
+      "duration_ms": 3760,
+      "text": "automate the process with Google sheet."
+    },
+    {
+      "start_ms": 2073440,
+      "duration_ms": 4239,
+      "text": "So if they're using Google sheet as a"
+    },
+    {
+      "start_ms": 2075280,
+      "duration_ms": 4399,
+      "text": "CRM and they are are reading adding"
+    },
+    {
+      "start_ms": 2077679,
+      "duration_ms": 5361,
+      "text": "contacts on a Google sheet file with for"
+    },
+    {
+      "start_ms": 2079679,
+      "duration_ms": 5841,
+      "text": "example uh three columns uh name uh"
+    },
+    {
+      "start_ms": 2083040,
+      "duration_ms": 3839,
+      "text": "phone number and uh service date. Uh"
+    },
+    {
+      "start_ms": 2085520,
+      "duration_ms": 2960,
+      "text": "they can automate this process. So"
+    },
+    {
+      "start_ms": 2086879,
+      "duration_ms": 4480,
+      "text": "whenever there is a new row on Google"
+    },
+    {
+      "start_ms": 2088480,
+      "duration_ms": 4800,
+      "text": "sheet uh we uh automatically add the"
+    },
+    {
+      "start_ms": 2091359,
+      "duration_ms": 4480,
+      "text": "contact to our uh platform. Whenever"
+    },
+    {
+      "start_ms": 2093280,
+      "duration_ms": 5360,
+      "text": "there is a new row, the contact is added"
+    },
+    {
+      "start_ms": 2095839,
+      "duration_ms": 5760,
+      "text": "to the platform and automatically will"
+    },
+    {
+      "start_ms": 2098640,
+      "duration_ms": 4959,
+      "text": "appear here in the contact section and"
+    },
+    {
+      "start_ms": 2101599,
+      "duration_ms": 4240,
+      "text": "the uh auto send feature will"
+    },
+    {
+      "start_ms": 2103599,
+      "duration_ms": 5041,
+      "text": "automatically send the review request to"
+    },
+    {
+      "start_ms": 2105839,
+      "duration_ms": 6000,
+      "text": "the uh contact. So super super simple to"
+    },
+    {
+      "start_ms": 2108640,
+      "duration_ms": 6320,
+      "text": "uh set up. So let's do a quick uh recap."
+    },
+    {
+      "start_ms": 2111839,
+      "duration_ms": 6081,
+      "text": "After uh connecting the integration and"
+    },
+    {
+      "start_ms": 2114960,
+      "duration_ms": 6080,
+      "text": "customizing the uh review link, the most"
+    },
+    {
+      "start_ms": 2117920,
+      "duration_ms": 5520,
+      "text": "important part of the setup is the uh"
+    },
+    {
+      "start_ms": 2121040,
+      "duration_ms": 4319,
+      "text": "review collection process. three type of"
+    },
+    {
+      "start_ms": 2123440,
+      "duration_ms": 4639,
+      "text": "review collection process QR code in"
+    },
+    {
+      "start_ms": 2125359,
+      "duration_ms": 5601,
+      "text": "loco. So we simply open the kiosk mode"
+    },
+    {
+      "start_ms": 2128079,
+      "duration_ms": 5040,
+      "text": "and we can print this uh page here. Of"
+    },
+    {
+      "start_ms": 2130960,
+      "duration_ms": 5200,
+      "text": "course everything can be edited here. So"
+    },
+    {
+      "start_ms": 2133119,
+      "duration_ms": 5761,
+      "text": "if we go to the uh text section as you"
+    },
+    {
+      "start_ms": 2136160,
+      "duration_ms": 4959,
+      "text": "can see we can change the text of this"
+    },
+    {
+      "start_ms": 2138880,
+      "duration_ms": 4560,
+      "text": "title and this uh description here. We"
+    },
+    {
+      "start_ms": 2141119,
+      "duration_ms": 6321,
+      "text": "just go to the kiosk mode and as you can"
+    },
+    {
+      "start_ms": 2143440,
+      "duration_ms": 7600,
+      "text": "see typing here we can edit any uh text."
+    },
+    {
+      "start_ms": 2147440,
+      "duration_ms": 6399,
+      "text": "So once our text are um correct we can"
+    },
+    {
+      "start_ms": 2151040,
+      "duration_ms": 5680,
+      "text": "just print this page and expose expose"
+    },
+    {
+      "start_ms": 2153839,
+      "duration_ms": 4641,
+      "text": "the the kiosk mode inside the uh local"
+    },
+    {
+      "start_ms": 2156720,
+      "duration_ms": 4000,
+      "text": "business and we train our customer to"
+    },
+    {
+      "start_ms": 2158480,
+      "duration_ms": 3840,
+      "text": "ask for a feedback to every customer."
+    },
+    {
+      "start_ms": 2160720,
+      "duration_ms": 4000,
+      "text": "This is the first type of review"
+    },
+    {
+      "start_ms": 2162320,
+      "duration_ms": 5039,
+      "text": "collection process. Then we have quick"
+    },
+    {
+      "start_ms": 2164720,
+      "duration_ms": 5760,
+      "text": "uh request to uh contacts. So we just go"
+    },
+    {
+      "start_ms": 2167359,
+      "duration_ms": 5841,
+      "text": "to request send send now quick request"
+    },
+    {
+      "start_ms": 2170480,
+      "duration_ms": 5440,
+      "text": "and we send a quick request to uh our uh"
+    },
+    {
+      "start_ms": 2173200,
+      "duration_ms": 4720,
+      "text": "contacts that just had the experience"
+    },
+    {
+      "start_ms": 2175920,
+      "duration_ms": 3679,
+      "text": "with us. Of course, in order to send uh"
+    },
+    {
+      "start_ms": 2177920,
+      "duration_ms": 4240,
+      "text": "quick requests, we need to have uh"
+    },
+    {
+      "start_ms": 2179599,
+      "duration_ms": 5601,
+      "text": "templates first and then we have the uh"
+    },
+    {
+      "start_ms": 2182160,
+      "duration_ms": 5199,
+      "text": "auto send uh feature. So, we uh manually"
+    },
+    {
+      "start_ms": 2185200,
+      "duration_ms": 4000,
+      "text": "or automatically add contacts to the"
+    },
+    {
+      "start_ms": 2187359,
+      "duration_ms": 3760,
+      "text": "platform and whenever there is a new"
+    },
+    {
+      "start_ms": 2189200,
+      "duration_ms": 3760,
+      "text": "contact via the auto send feature, we"
+    },
+    {
+      "start_ms": 2191119,
+      "duration_ms": 4480,
+      "text": "are going to automatically send a review"
+    },
+    {
+      "start_ms": 2192960,
+      "duration_ms": 5119,
+      "text": "request to this uh contact. So if the"
+    },
+    {
+      "start_ms": 2195599,
+      "duration_ms": 5201,
+      "text": "review collection process is set up"
+    },
+    {
+      "start_ms": 2198079,
+      "duration_ms": 5520,
+      "text": "correctly, your clients will start uh"
+    },
+    {
+      "start_ms": 2200800,
+      "duration_ms": 5039,
+      "text": "collecting an uh a great flow of"
+    },
+    {
+      "start_ms": 2203599,
+      "duration_ms": 4561,
+      "text": "feedbacks and reviews and they can"
+    },
+    {
+      "start_ms": 2205839,
+      "duration_ms": 4240,
+      "text": "manage everything from uh here. So from"
+    },
+    {
+      "start_ms": 2208160,
+      "duration_ms": 3760,
+      "text": "the review section, they'll be able to"
+    },
+    {
+      "start_ms": 2210079,
+      "duration_ms": 3760,
+      "text": "see their private feedback, their"
+    },
+    {
+      "start_ms": 2211920,
+      "duration_ms": 4320,
+      "text": "reviews on Google, their reviews on Yelp"
+    },
+    {
+      "start_ms": 2213839,
+      "duration_ms": 4481,
+      "text": "if they connect other review sites. So"
+    },
+    {
+      "start_ms": 2216240,
+      "duration_ms": 5040,
+      "text": "from this section here they can easily"
+    },
+    {
+      "start_ms": 2218320,
+      "duration_ms": 5519,
+      "text": "centralize and read all the reviews that"
+    },
+    {
+      "start_ms": 2221280,
+      "duration_ms": 6480,
+      "text": "they receive on the uh integrated uh"
+    },
+    {
+      "start_ms": 2223839,
+      "duration_ms": 6721,
+      "text": "platform. The third part of the setup is"
+    },
+    {
+      "start_ms": 2227760,
+      "duration_ms": 5680,
+      "text": "uh the uh AI agents uh part because"
+    },
+    {
+      "start_ms": 2230560,
+      "duration_ms": 5120,
+      "text": "we're not going to manually reply to"
+    },
+    {
+      "start_ms": 2233440,
+      "duration_ms": 4320,
+      "text": "reviews and share reviews on our website"
+    },
+    {
+      "start_ms": 2235680,
+      "duration_ms": 5520,
+      "text": "and social media but we're going to do"
+    },
+    {
+      "start_ms": 2237760,
+      "duration_ms": 6640,
+      "text": "everything with AI. So the third part of"
+    },
+    {
+      "start_ms": 2241200,
+      "duration_ms": 5520,
+      "text": "this setup is a part where you enable AI"
+    },
+    {
+      "start_ms": 2244400,
+      "duration_ms": 4400,
+      "text": "agents. So we have two AI agents. One"
+    },
+    {
+      "start_ms": 2246720,
+      "duration_ms": 5280,
+      "text": "agent called SEO agent that is going to"
+    },
+    {
+      "start_ms": 2248800,
+      "duration_ms": 5680,
+      "text": "automatically reply to uh reviews using"
+    },
+    {
+      "start_ms": 2252000,
+      "duration_ms": 4640,
+      "text": "a particular tone. Uh you can set up the"
+    },
+    {
+      "start_ms": 2254480,
+      "duration_ms": 4160,
+      "text": "reply length, reply language. You can"
+    },
+    {
+      "start_ms": 2256640,
+      "duration_ms": 3840,
+      "text": "add additional instruction to the agent."
+    },
+    {
+      "start_ms": 2258640,
+      "duration_ms": 4000,
+      "text": "You can also train the agent to use"
+    },
+    {
+      "start_ms": 2260480,
+      "duration_ms": 4960,
+      "text": "specific keywords on the uh review"
+    },
+    {
+      "start_ms": 2262640,
+      "duration_ms": 4880,
+      "text": "replies. You can also launch the uh"
+    },
+    {
+      "start_ms": 2265440,
+      "duration_ms": 4800,
+      "text": "automation to reply to all the past"
+    },
+    {
+      "start_ms": 2267520,
+      "duration_ms": 5040,
+      "text": "reviews. If your clients has hundreds of"
+    },
+    {
+      "start_ms": 2270240,
+      "duration_ms": 3920,
+      "text": "reviews of years ago without a reply,"
+    },
+    {
+      "start_ms": 2272560,
+      "duration_ms": 3760,
+      "text": "with a simple click, you can start"
+    },
+    {
+      "start_ms": 2274160,
+      "duration_ms": 4720,
+      "text": "replying to all the uh reviews. So when"
+    },
+    {
+      "start_ms": 2276320,
+      "duration_ms": 4799,
+      "text": "you enable this AI agents automatically"
+    },
+    {
+      "start_ms": 2278880,
+      "duration_ms": 4080,
+      "text": "whenever you receive a review, for"
+    },
+    {
+      "start_ms": 2281119,
+      "duration_ms": 4240,
+      "text": "example, this uh review here, you can"
+    },
+    {
+      "start_ms": 2282960,
+      "duration_ms": 4879,
+      "text": "see that the agent reply automatically"
+    },
+    {
+      "start_ms": 2285359,
+      "duration_ms": 4641,
+      "text": "without the need to lift a finger. You"
+    },
+    {
+      "start_ms": 2287839,
+      "duration_ms": 4481,
+      "text": "just have to set it up at the beginning."
+    },
+    {
+      "start_ms": 2290000,
+      "duration_ms": 4560,
+      "text": "And then we have the uh social agent. An"
+    },
+    {
+      "start_ms": 2292320,
+      "duration_ms": 4400,
+      "text": "agent that is going to automatically"
+    },
+    {
+      "start_ms": 2294560,
+      "duration_ms": 4720,
+      "text": "take uh the best reviews that your"
+    },
+    {
+      "start_ms": 2296720,
+      "duration_ms": 4720,
+      "text": "clients are receiving and share them on"
+    },
+    {
+      "start_ms": 2299280,
+      "duration_ms": 5120,
+      "text": "social media, Facebook, Instagram and"
+    },
+    {
+      "start_ms": 2301440,
+      "duration_ms": 5440,
+      "text": "also uh Google post without the need to"
+    },
+    {
+      "start_ms": 2304400,
+      "duration_ms": 4959,
+      "text": "uh lift a finger. For example, you can"
+    },
+    {
+      "start_ms": 2306880,
+      "duration_ms": 4160,
+      "text": "see here uh your clients received this"
+    },
+    {
+      "start_ms": 2309359,
+      "duration_ms": 4401,
+      "text": "uh fivestar Google review and"
+    },
+    {
+      "start_ms": 2311040,
+      "duration_ms": 5120,
+      "text": "automatically the AI agent share this uh"
+    },
+    {
+      "start_ms": 2313760,
+      "duration_ms": 5120,
+      "text": "review as a post on Facebook and"
+    },
+    {
+      "start_ms": 2316160,
+      "duration_ms": 4800,
+      "text": "Instagram with this caption here. So of"
+    },
+    {
+      "start_ms": 2318880,
+      "duration_ms": 3840,
+      "text": "course everything can be customized. You"
+    },
+    {
+      "start_ms": 2320960,
+      "duration_ms": 4240,
+      "text": "can customize some settings of the"
+    },
+    {
+      "start_ms": 2322720,
+      "duration_ms": 4960,
+      "text": "agents and also add custom prompt if you"
+    },
+    {
+      "start_ms": 2325200,
+      "duration_ms": 5200,
+      "text": "want to customize how for example the"
+    },
+    {
+      "start_ms": 2327680,
+      "duration_ms": 4640,
+      "text": "captions are generated or how replies"
+    },
+    {
+      "start_ms": 2330400,
+      "duration_ms": 3280,
+      "text": "are generated. But of course this is"
+    },
+    {
+      "start_ms": 2332320,
+      "duration_ms": 3120,
+      "text": "something that you do just at the"
+    },
+    {
+      "start_ms": 2333680,
+      "duration_ms": 3840,
+      "text": "beginning. So you connect the"
+    },
+    {
+      "start_ms": 2335440,
+      "duration_ms": 4480,
+      "text": "integrations install the review"
+    },
+    {
+      "start_ms": 2337520,
+      "duration_ms": 4480,
+      "text": "collection process and you enable the AI"
+    },
+    {
+      "start_ms": 2339920,
+      "duration_ms": 4240,
+      "text": "agents. This is something that you do on"
+    },
+    {
+      "start_ms": 2342000,
+      "duration_ms": 5119,
+      "text": "the setup part. So at the beginning of"
+    },
+    {
+      "start_ms": 2344160,
+      "duration_ms": 5360,
+      "text": "the free trial once you do it everything"
+    },
+    {
+      "start_ms": 2347119,
+      "duration_ms": 4321,
+      "text": "is automated. Your clients start"
+    },
+    {
+      "start_ms": 2349520,
+      "duration_ms": 4240,
+      "text": "collecting reviews during the uh free"
+    },
+    {
+      "start_ms": 2351440,
+      "duration_ms": 4399,
+      "text": "trial and of course they will have their"
+    },
+    {
+      "start_ms": 2353760,
+      "duration_ms": 4160,
+      "text": "aha moment. They will see the value of"
+    },
+    {
+      "start_ms": 2355839,
+      "duration_ms": 4561,
+      "text": "the uh platform and of course they want"
+    },
+    {
+      "start_ms": 2357920,
+      "duration_ms": 4480,
+      "text": "to keep this uh results uh forever and"
+    },
+    {
+      "start_ms": 2360400,
+      "duration_ms": 4320,
+      "text": "for this reason they will subscribe to"
+    },
+    {
+      "start_ms": 2362400,
+      "duration_ms": 5360,
+      "text": "your uh paid plan. But of course there"
+    },
+    {
+      "start_ms": 2364720,
+      "duration_ms": 5440,
+      "text": "are other uh features that increase the"
+    },
+    {
+      "start_ms": 2367760,
+      "duration_ms": 4880,
+      "text": "value of the platform. So we're not just"
+    },
+    {
+      "start_ms": 2370160,
+      "duration_ms": 4480,
+      "text": "talking about uh collecting reviews and"
+    },
+    {
+      "start_ms": 2372640,
+      "duration_ms": 4959,
+      "text": "private feedback and automatically"
+    },
+    {
+      "start_ms": 2374640,
+      "duration_ms": 4880,
+      "text": "replying and uh sharing uh reviews on"
+    },
+    {
+      "start_ms": 2377599,
+      "duration_ms": 3520,
+      "text": "our social media because as we have seen"
+    },
+    {
+      "start_ms": 2379520,
+      "duration_ms": 4319,
+      "text": "from the presentation reputation"
+    },
+    {
+      "start_ms": 2381119,
+      "duration_ms": 4240,
+      "text": "management is much uh more one of the"
+    },
+    {
+      "start_ms": 2383839,
+      "duration_ms": 4240,
+      "text": "most important feature of the platform"
+    },
+    {
+      "start_ms": 2385359,
+      "duration_ms": 4401,
+      "text": "is the uh profile feature. So we are"
+    },
+    {
+      "start_ms": 2388079,
+      "duration_ms": 3520,
+      "text": "directly connected to the Google"
+    },
+    {
+      "start_ms": 2389760,
+      "duration_ms": 4000,
+      "text": "business profile of your clients and"
+    },
+    {
+      "start_ms": 2391599,
+      "duration_ms": 5201,
+      "text": "from this section here uh your clients"
+    },
+    {
+      "start_ms": 2393760,
+      "duration_ms": 5359,
+      "text": "can easily update any information about"
+    },
+    {
+      "start_ms": 2396800,
+      "duration_ms": 5840,
+      "text": "the Google uh business profile. So any"
+    },
+    {
+      "start_ms": 2399119,
+      "duration_ms": 5441,
+      "text": "edits that is done here is automatically"
+    },
+    {
+      "start_ms": 2402640,
+      "duration_ms": 4080,
+      "text": "sent to uh Google. So there is no need"
+    },
+    {
+      "start_ms": 2404560,
+      "duration_ms": 3840,
+      "text": "to go to Google and manually update the"
+    },
+    {
+      "start_ms": 2406720,
+      "duration_ms": 4000,
+      "text": "Google business profile. Your clients"
+    },
+    {
+      "start_ms": 2408400,
+      "duration_ms": 4480,
+      "text": "can done can do everything from here. If"
+    },
+    {
+      "start_ms": 2410720,
+      "duration_ms": 4160,
+      "text": "they change the website URL, if they"
+    },
+    {
+      "start_ms": 2412880,
+      "duration_ms": 4640,
+      "text": "change the phone number, if they change"
+    },
+    {
+      "start_ms": 2414880,
+      "duration_ms": 4400,
+      "text": "the Instagram URL, if they want to add"
+    },
+    {
+      "start_ms": 2417520,
+      "duration_ms": 3680,
+      "text": "photos, this is super important to rank"
+    },
+    {
+      "start_ms": 2419280,
+      "duration_ms": 4480,
+      "text": "the business on Google. uh if they want"
+    },
+    {
+      "start_ms": 2421200,
+      "duration_ms": 4879,
+      "text": "to customize their attributes that are"
+    },
+    {
+      "start_ms": 2423760,
+      "duration_ms": 4640,
+      "text": "shown in the Google business profile, if"
+    },
+    {
+      "start_ms": 2426079,
+      "duration_ms": 4481,
+      "text": "they want to uh add services or"
+    },
+    {
+      "start_ms": 2428400,
+      "duration_ms": 3679,
+      "text": "customize that the current services that"
+    },
+    {
+      "start_ms": 2430560,
+      "duration_ms": 4080,
+      "text": "are visible in the Google business"
+    },
+    {
+      "start_ms": 2432079,
+      "duration_ms": 5441,
+      "text": "profile, everything can be done uh here"
+    },
+    {
+      "start_ms": 2434640,
+      "duration_ms": 5600,
+      "text": "and any edits that is done uh here also"
+    },
+    {
+      "start_ms": 2437520,
+      "duration_ms": 5280,
+      "text": "for example regular hours and special"
+    },
+    {
+      "start_ms": 2440240,
+      "duration_ms": 5200,
+      "text": "hour is sent directly to Google without"
+    },
+    {
+      "start_ms": 2442800,
+      "duration_ms": 5279,
+      "text": "the need to go to Google and manually do"
+    },
+    {
+      "start_ms": 2445440,
+      "duration_ms": 4240,
+      "text": "these things that sometimes are very uh"
+    },
+    {
+      "start_ms": 2448079,
+      "duration_ms": 3841,
+      "text": "hard to find. There's also the"
+    },
+    {
+      "start_ms": 2449680,
+      "duration_ms": 4880,
+      "text": "possibility to post Google updates"
+    },
+    {
+      "start_ms": 2451920,
+      "duration_ms": 4800,
+      "text": "directly from the uh platform. So, one"
+    },
+    {
+      "start_ms": 2454560,
+      "duration_ms": 5840,
+      "text": "of the uh coolest feature of the"
+    },
+    {
+      "start_ms": 2456720,
+      "duration_ms": 5840,
+      "text": "platform is also that you can uh have a"
+    },
+    {
+      "start_ms": 2460400,
+      "duration_ms": 4880,
+      "text": "website for uh your clients that is"
+    },
+    {
+      "start_ms": 2462560,
+      "duration_ms": 4720,
+      "text": "automatically generated started starting"
+    },
+    {
+      "start_ms": 2465280,
+      "duration_ms": 4480,
+      "text": "from the info of the uh Google business"
+    },
+    {
+      "start_ms": 2467280,
+      "duration_ms": 4880,
+      "text": "profile. And this is super important for"
+    },
+    {
+      "start_ms": 2469760,
+      "duration_ms": 5200,
+      "text": "uh reputation because uh this website"
+    },
+    {
+      "start_ms": 2472160,
+      "duration_ms": 4720,
+      "text": "here is going to be automatically"
+    },
+    {
+      "start_ms": 2474960,
+      "duration_ms": 3359,
+      "text": "generated starting from the name of the"
+    },
+    {
+      "start_ms": 2476880,
+      "duration_ms": 4560,
+      "text": "business in Google, the description that"
+    },
+    {
+      "start_ms": 2478319,
+      "duration_ms": 4961,
+      "text": "we have in Google, the uh map link, the"
+    },
+    {
+      "start_ms": 2481440,
+      "duration_ms": 3120,
+      "text": "phone number, the WhatsApp phone number,"
+    },
+    {
+      "start_ms": 2483280,
+      "duration_ms": 3760,
+      "text": "the call to action to book an"
+    },
+    {
+      "start_ms": 2484560,
+      "duration_ms": 4480,
+      "text": "appointment, the photos uploaded by the"
+    },
+    {
+      "start_ms": 2487040,
+      "duration_ms": 5200,
+      "text": "business owner in the Google business"
+    },
+    {
+      "start_ms": 2489040,
+      "duration_ms": 5680,
+      "text": "profile, services attributes, of course,"
+    },
+    {
+      "start_ms": 2492240,
+      "duration_ms": 4320,
+      "text": "the reviews, the business hours and the"
+    },
+    {
+      "start_ms": 2494720,
+      "duration_ms": 4000,
+      "text": "special hour, the photos published by"
+    },
+    {
+      "start_ms": 2496560,
+      "duration_ms": 4240,
+      "text": "the customer, the location info like the"
+    },
+    {
+      "start_ms": 2498720,
+      "duration_ms": 3599,
+      "text": "address and of course the map and the"
+    },
+    {
+      "start_ms": 2500800,
+      "duration_ms": 4319,
+      "text": "social link. So everything is"
+    },
+    {
+      "start_ms": 2502319,
+      "duration_ms": 4881,
+      "text": "automatically generated starting from"
+    },
+    {
+      "start_ms": 2505119,
+      "duration_ms": 3761,
+      "text": "the data already present in the Google"
+    },
+    {
+      "start_ms": 2507200,
+      "duration_ms": 3919,
+      "text": "business profile of your clients and"
+    },
+    {
+      "start_ms": 2508880,
+      "duration_ms": 4959,
+      "text": "your clients from here can simply enable"
+    },
+    {
+      "start_ms": 2511119,
+      "duration_ms": 5281,
+      "text": "or disable specific sections of the uh"
+    },
+    {
+      "start_ms": 2513839,
+      "duration_ms": 4961,
+      "text": "website without the need to edit uh"
+    },
+    {
+      "start_ms": 2516400,
+      "duration_ms": 5600,
+      "text": "anything. This ensure there that there"
+    },
+    {
+      "start_ms": 2518800,
+      "duration_ms": 4880,
+      "text": "is a 100% match between what is present"
+    },
+    {
+      "start_ms": 2522000,
+      "duration_ms": 4000,
+      "text": "in the Google business profile and what"
+    },
+    {
+      "start_ms": 2523680,
+      "duration_ms": 4720,
+      "text": "is present in the website which is one"
+    },
+    {
+      "start_ms": 2526000,
+      "duration_ms": 4720,
+      "text": "of the most important ranking factors."
+    },
+    {
+      "start_ms": 2528400,
+      "duration_ms": 4880,
+      "text": "This is why we add this feature part of"
+    },
+    {
+      "start_ms": 2530720,
+      "duration_ms": 5280,
+      "text": "your reputation management uh service"
+    },
+    {
+      "start_ms": 2533280,
+      "duration_ms": 4799,
+      "text": "because a lot of agencies do not know"
+    },
+    {
+      "start_ms": 2536000,
+      "duration_ms": 4800,
+      "text": "this very very important thing that if"
+    },
+    {
+      "start_ms": 2538079,
+      "duration_ms": 4561,
+      "text": "you have some information uh present in"
+    },
+    {
+      "start_ms": 2540800,
+      "duration_ms": 3600,
+      "text": "Google business profile that are"
+    },
+    {
+      "start_ms": 2542640,
+      "duration_ms": 4640,
+      "text": "different from the information present"
+    },
+    {
+      "start_ms": 2544400,
+      "duration_ms": 5199,
+      "text": "on the uh website Google penalize you a"
+    },
+    {
+      "start_ms": 2547280,
+      "duration_ms": 5280,
+      "text": "lot and it's not going to rank you uh"
+    },
+    {
+      "start_ms": 2549599,
+      "duration_ms": 5041,
+      "text": "high because you don't seems like a"
+    },
+    {
+      "start_ms": 2552560,
+      "duration_ms": 4640,
+      "text": "trusted business if you have uh"
+    },
+    {
+      "start_ms": 2554640,
+      "duration_ms": 5280,
+      "text": "dismatches between Google and your uh"
+    },
+    {
+      "start_ms": 2557200,
+      "duration_ms": 5360,
+      "text": "website. So in this way we uh"
+    },
+    {
+      "start_ms": 2559920,
+      "duration_ms": 4960,
+      "text": "automatically make sure that if there"
+    },
+    {
+      "start_ms": 2562560,
+      "duration_ms": 4960,
+      "text": "are some edits in Google for example if"
+    },
+    {
+      "start_ms": 2564880,
+      "duration_ms": 5360,
+      "text": "we change the business hours uh here"
+    },
+    {
+      "start_ms": 2567520,
+      "duration_ms": 5599,
+      "text": "automatically also the uh business hours"
+    },
+    {
+      "start_ms": 2570240,
+      "duration_ms": 5040,
+      "text": "in our uh website. So the business hour"
+    },
+    {
+      "start_ms": 2573119,
+      "duration_ms": 4801,
+      "text": "uh shown in this particular section are"
+    },
+    {
+      "start_ms": 2575280,
+      "duration_ms": 4960,
+      "text": "going to change automatically and we're"
+    },
+    {
+      "start_ms": 2577920,
+      "duration_ms": 5520,
+      "text": "not changing just the information on the"
+    },
+    {
+      "start_ms": 2580240,
+      "duration_ms": 5599,
+      "text": "website. We are also changing the uh"
+    },
+    {
+      "start_ms": 2583440,
+      "duration_ms": 5360,
+      "text": "information in the uh schema code"
+    },
+    {
+      "start_ms": 2585839,
+      "duration_ms": 5041,
+      "text": "because automatically uh we have added"
+    },
+    {
+      "start_ms": 2588800,
+      "duration_ms": 5279,
+      "text": "in the website generated via the"
+    },
+    {
+      "start_ms": 2590880,
+      "duration_ms": 6400,
+      "text": "platform all the necessary rich snippets"
+    },
+    {
+      "start_ms": 2594079,
+      "duration_ms": 6481,
+      "text": "that Google and also uh AI platforms"
+    },
+    {
+      "start_ms": 2597280,
+      "duration_ms": 6079,
+      "text": "wants in order to easily understand what"
+    },
+    {
+      "start_ms": 2600560,
+      "duration_ms": 5680,
+      "text": "uh your uh client's business is about."
+    },
+    {
+      "start_ms": 2603359,
+      "duration_ms": 4641,
+      "text": "For example, uh this uh website uh here"
+    },
+    {
+      "start_ms": 2606240,
+      "duration_ms": 4240,
+      "text": "that is generated through the platform"
+    },
+    {
+      "start_ms": 2608000,
+      "duration_ms": 5440,
+      "text": "and here you can have a review of how"
+    },
+    {
+      "start_ms": 2610480,
+      "duration_ms": 6080,
+      "text": "cool is the uh website. Uh if you"
+    },
+    {
+      "start_ms": 2613440,
+      "duration_ms": 5919,
+      "text": "validate the uh schema markup through"
+    },
+    {
+      "start_ms": 2616560,
+      "duration_ms": 6880,
+      "text": "this uh tool here, you can easily see"
+    },
+    {
+      "start_ms": 2619359,
+      "duration_ms": 6321,
+      "text": "that uh there is any um rich snippet uh"
+    },
+    {
+      "start_ms": 2623440,
+      "duration_ms": 4399,
+      "text": "necessary in order to tell to Google"
+    },
+    {
+      "start_ms": 2625680,
+      "duration_ms": 3439,
+      "text": "what the business is about. Uh we have"
+    },
+    {
+      "start_ms": 2627839,
+      "duration_ms": 4240,
+      "text": "of course the business name, the"
+    },
+    {
+      "start_ms": 2629119,
+      "duration_ms": 5681,
+      "text": "business description, all the uh images,"
+    },
+    {
+      "start_ms": 2632079,
+      "duration_ms": 5760,
+      "text": "we have the uh contact info, the social"
+    },
+    {
+      "start_ms": 2634800,
+      "duration_ms": 5920,
+      "text": "link and of course also the uh business"
+    },
+    {
+      "start_ms": 2637839,
+      "duration_ms": 4641,
+      "text": "hours are present in the uh schema code"
+    },
+    {
+      "start_ms": 2640720,
+      "duration_ms": 4800,
+      "text": "the services. So the service name, the"
+    },
+    {
+      "start_ms": 2642480,
+      "duration_ms": 6720,
+      "text": "service uh description and of course if"
+    },
+    {
+      "start_ms": 2645520,
+      "duration_ms": 6240,
+      "text": "we do any edit in uh the information"
+    },
+    {
+      "start_ms": 2649200,
+      "duration_ms": 5600,
+      "text": "present in Google for example whenever"
+    },
+    {
+      "start_ms": 2651760,
+      "duration_ms": 6800,
+      "text": "we uh edit the uh business hour from"
+    },
+    {
+      "start_ms": 2654800,
+      "duration_ms": 6640,
+      "text": "here automatically the uh business hours"
+    },
+    {
+      "start_ms": 2658560,
+      "duration_ms": 5120,
+      "text": "uh shown in the website are uh updated"
+    },
+    {
+      "start_ms": 2661440,
+      "duration_ms": 5120,
+      "text": "but also the schema code is"
+    },
+    {
+      "start_ms": 2663680,
+      "duration_ms": 5040,
+      "text": "automatically updated. So there is 100%"
+    },
+    {
+      "start_ms": 2666560,
+      "duration_ms": 4640,
+      "text": "correspondence between Google the"
+    },
+    {
+      "start_ms": 2668720,
+      "duration_ms": 4879,
+      "text": "website and the schema code and this is"
+    },
+    {
+      "start_ms": 2671200,
+      "duration_ms": 4960,
+      "text": "all automated and there are agency that"
+    },
+    {
+      "start_ms": 2673599,
+      "duration_ms": 5121,
+      "text": "are charging thousand of dollar for this"
+    },
+    {
+      "start_ms": 2676160,
+      "duration_ms": 4400,
+      "text": "process uh here because it's not easy to"
+    },
+    {
+      "start_ms": 2678720,
+      "duration_ms": 3520,
+      "text": "do uh manually you have to change the"
+    },
+    {
+      "start_ms": 2680560,
+      "duration_ms": 3920,
+      "text": "code of the website but through the"
+    },
+    {
+      "start_ms": 2682240,
+      "duration_ms": 3760,
+      "text": "platform you do this thing automatically"
+    },
+    {
+      "start_ms": 2684480,
+      "duration_ms": 3440,
+      "text": "and you can provide the service to your"
+    },
+    {
+      "start_ms": 2686000,
+      "duration_ms": 3920,
+      "text": "clients automatically and this is part"
+    },
+    {
+      "start_ms": 2687920,
+      "duration_ms": 4640,
+      "text": "of reputation management because as we"
+    },
+    {
+      "start_ms": 2689920,
+      "duration_ms": 4960,
+      "text": "saw reputation management is not only"
+    },
+    {
+      "start_ms": 2692560,
+      "duration_ms": 4640,
+      "text": "getting reviews protecting reputation"
+    },
+    {
+      "start_ms": 2694880,
+      "duration_ms": 5120,
+      "text": "from private feedbacks, responding to"
+    },
+    {
+      "start_ms": 2697200,
+      "duration_ms": 5280,
+      "text": "reviews, sharing reviews, but is also uh"
+    },
+    {
+      "start_ms": 2700000,
+      "duration_ms": 4960,
+      "text": "making sure that the uh Google business"
+    },
+    {
+      "start_ms": 2702480,
+      "duration_ms": 4720,
+      "text": "profile is uh accurate with all the"
+    },
+    {
+      "start_ms": 2704960,
+      "duration_ms": 5280,
+      "text": "information needed and of course there"
+    },
+    {
+      "start_ms": 2707200,
+      "duration_ms": 6080,
+      "text": "is 100% correspondence between what we"
+    },
+    {
+      "start_ms": 2710240,
+      "duration_ms": 4800,
+      "text": "see in Google and what we have in the"
+    },
+    {
+      "start_ms": 2713280,
+      "duration_ms": 3520,
+      "text": "website. So your clients can move this"
+    },
+    {
+      "start_ms": 2715040,
+      "duration_ms": 4559,
+      "text": "website directly under their custom"
+    },
+    {
+      "start_ms": 2716800,
+      "duration_ms": 5600,
+      "text": "domain from uh here and we are seeing"
+    },
+    {
+      "start_ms": 2719599,
+      "duration_ms": 6081,
+      "text": "amazing results in terms of uh ranking"
+    },
+    {
+      "start_ms": 2722400,
+      "duration_ms": 5120,
+      "text": "thanks to this uh website uh here and of"
+    },
+    {
+      "start_ms": 2725680,
+      "duration_ms": 4800,
+      "text": "course something that you provide to"
+    },
+    {
+      "start_ms": 2727520,
+      "duration_ms": 5280,
+      "text": "your clients thanks to the platform is"
+    },
+    {
+      "start_ms": 2730480,
+      "duration_ms": 4800,
+      "text": "uh easy uh reporting. So from the home"
+    },
+    {
+      "start_ms": 2732800,
+      "duration_ms": 4720,
+      "text": "section your clients can easily see the"
+    },
+    {
+      "start_ms": 2735280,
+      "duration_ms": 4000,
+      "text": "progress of their online reputation."
+    },
+    {
+      "start_ms": 2737520,
+      "duration_ms": 3680,
+      "text": "They have four section uh review"
+    },
+    {
+      "start_ms": 2739280,
+      "duration_ms": 3920,
+      "text": "statistic ranking and competitors Google"
+    },
+    {
+      "start_ms": 2741200,
+      "duration_ms": 4560,
+      "text": "performance and sentiment analysis. And"
+    },
+    {
+      "start_ms": 2743200,
+      "duration_ms": 4639,
+      "text": "here every month we update the uh data"
+    },
+    {
+      "start_ms": 2745760,
+      "duration_ms": 4240,
+      "text": "so your clients can see uh the uh"
+    },
+    {
+      "start_ms": 2747839,
+      "duration_ms": 4961,
+      "text": "progress. For example, they can see that"
+    },
+    {
+      "start_ms": 2750000,
+      "duration_ms": 6000,
+      "text": "uh in March they generated 302 uh"
+    },
+    {
+      "start_ms": 2752800,
+      "duration_ms": 6799,
+      "text": "reviews and particularly on Google they"
+    },
+    {
+      "start_ms": 2756000,
+      "duration_ms": 7119,
+      "text": "increased their rating of 0.3 uh point"
+    },
+    {
+      "start_ms": 2759599,
+      "duration_ms": 6081,
+      "text": "they are at 4.7 rating and they need 12"
+    },
+    {
+      "start_ms": 2763119,
+      "duration_ms": 5361,
+      "text": "reviews uh sorry 12 fivestar reviews to"
+    },
+    {
+      "start_ms": 2765680,
+      "duration_ms": 6399,
+      "text": "reach 4.8. So this is a very cool"
+    },
+    {
+      "start_ms": 2768480,
+      "duration_ms": 5440,
+      "text": "section uh gamified with goals. So they"
+    },
+    {
+      "start_ms": 2772079,
+      "duration_ms": 4161,
+      "text": "uh keep using the platform because they"
+    },
+    {
+      "start_ms": 2773920,
+      "duration_ms": 4560,
+      "text": "want to reach the next uh goals. We have"
+    },
+    {
+      "start_ms": 2776240,
+      "duration_ms": 4879,
+      "text": "ranking a competitor because here they"
+    },
+    {
+      "start_ms": 2778480,
+      "duration_ms": 5200,
+      "text": "can see their uh ranking position and if"
+    },
+    {
+      "start_ms": 2781119,
+      "duration_ms": 4641,
+      "text": "the ranking position is improving uh"
+    },
+    {
+      "start_ms": 2783680,
+      "duration_ms": 5360,
+      "text": "over time. Uh they have the local rank"
+    },
+    {
+      "start_ms": 2785760,
+      "duration_ms": 6240,
+      "text": "tracker competitor analysis review score"
+    },
+    {
+      "start_ms": 2789040,
+      "duration_ms": 5680,
+      "text": "ranking to see in which position they"
+    },
+    {
+      "start_ms": 2792000,
+      "duration_ms": 4240,
+      "text": "are comparing to their uh competitor."
+    },
+    {
+      "start_ms": 2794720,
+      "duration_ms": 3040,
+      "text": "They have information about the Google"
+    },
+    {
+      "start_ms": 2796240,
+      "duration_ms": 5119,
+      "text": "performance. So they can see for example"
+    },
+    {
+      "start_ms": 2797760,
+      "duration_ms": 6319,
+      "text": "that uh in the uh last month they have a"
+    },
+    {
+      "start_ms": 2801359,
+      "duration_ms": 4401,
+      "text": "huge increasement in terms of direction"
+    },
+    {
+      "start_ms": 2804079,
+      "duration_ms": 3520,
+      "text": "requests, maps impression, search"
+    },
+    {
+      "start_ms": 2805760,
+      "duration_ms": 4319,
+      "text": "impressions, call clicks, website"
+    },
+    {
+      "start_ms": 2807599,
+      "duration_ms": 4401,
+      "text": "clicks. They can see that the their"
+    },
+    {
+      "start_ms": 2810079,
+      "duration_ms": 3681,
+      "text": "clients are finding them through new"
+    },
+    {
+      "start_ms": 2812000,
+      "duration_ms": 3440,
+      "text": "keywords. So they see the value of the"
+    },
+    {
+      "start_ms": 2813760,
+      "duration_ms": 3520,
+      "text": "platform from here. They see a lot of"
+    },
+    {
+      "start_ms": 2815440,
+      "duration_ms": 4320,
+      "text": "green things. So they want to keep using"
+    },
+    {
+      "start_ms": 2817280,
+      "duration_ms": 4240,
+      "text": "the uh the platform because they see new"
+    },
+    {
+      "start_ms": 2819760,
+      "duration_ms": 4079,
+      "text": "calls, new website clicks. So they see"
+    },
+    {
+      "start_ms": 2821520,
+      "duration_ms": 3440,
+      "text": "the return on investment and also every"
+    },
+    {
+      "start_ms": 2823839,
+      "duration_ms": 3121,
+      "text": "month they have a new sentiment"
+    },
+    {
+      "start_ms": 2824960,
+      "duration_ms": 4159,
+      "text": "analysis. So reading the text of the"
+    },
+    {
+      "start_ms": 2826960,
+      "duration_ms": 3920,
+      "text": "review, we analyze all the reviews and"
+    },
+    {
+      "start_ms": 2829119,
+      "duration_ms": 3601,
+      "text": "we tell to your clients what is going"
+    },
+    {
+      "start_ms": 2830880,
+      "duration_ms": 3760,
+      "text": "well, the average to improve and the"
+    },
+    {
+      "start_ms": 2832720,
+      "duration_ms": 5280,
+      "text": "action plan. So what they need to change"
+    },
+    {
+      "start_ms": 2834640,
+      "duration_ms": 6400,
+      "text": "in their products or service in order to"
+    },
+    {
+      "start_ms": 2838000,
+      "duration_ms": 4800,
+      "text": "uh satisfy their customer. So this is"
+    },
+    {
+      "start_ms": 2841040,
+      "duration_ms": 3279,
+      "text": "reputation management. All right. So"
+    },
+    {
+      "start_ms": 2842800,
+      "duration_ms": 4240,
+      "text": "there are a lot of reputation management"
+    },
+    {
+      "start_ms": 2844319,
+      "duration_ms": 4241,
+      "text": "platform uh around but with this"
+    },
+    {
+      "start_ms": 2847040,
+      "duration_ms": 4160,
+      "text": "platform here you make sure that you"
+    },
+    {
+      "start_ms": 2848560,
+      "duration_ms": 5279,
+      "text": "cover everything you need to offer an"
+    },
+    {
+      "start_ms": 2851200,
+      "duration_ms": 5040,
+      "text": "excellent uh reputation management uh"
+    },
+    {
+      "start_ms": 2853839,
+      "duration_ms": 2401,
+      "text": "service."
+    }
+  ],
+  "text": "Hello and welcome to this training. My name is Jakamo and today I'm going to teach you how to launch your $3,000 per month AI reputation management SAS agency in less than 30 days. And no, we're not talking about go high level. I know that you're probably have seen a lot of videos in YouTube about starting your SAS agency, your reputation management agency with high level. But we are not talking about this tool. I know that go level can feel uh complicated. Maybe you have a little bit of doubt about starting the reputation management agency with high level because it seems very complex to use both for you as an agency and for your clients. The good news is that we're not talking about this tool, but we're going to see how to start a reputation management SAS agency easily with a very very simple uh plug-and-play system that your clients can set up autonomously. So you can run your agency fully on autopilot without providing manual services to your clients. All right, let's start. This is what we're going to cover today. Firstly, we're going to see what is reputation management. There is a lot of confusion online about what reputation management really is. A lot of people think that is just getting Google reviews and reply to Google reviews. It's not like this. It's much uh more. So we're going to see in details what reputation management is. Then we're going to see why it's the easiest entry point for uh local businesses and why it's so easy to sell to some kind of uh local businesses that will immediately understand uh what you're offering. They will immediately get the problem that they currently have. So they will immediately see the return on investment. All right, we're going to see how you will be able to get your first client within 30 days. So, we're going to see a proven strategy that will allow you to identify your perfect uh client. We're going to see how you pitch the platform. So, the exact words that you need to use when you meet face tof face your prospects, and we're going to see how to convert them. Of course, there is not going to be a 100% conversion, but we're going to see the best converting strategies already proven by thousand of agencies that are already working with us. And then we're going to see how to automate the fulfillment easily. So clients pay you forever. Clients are going to pay you a monthly subscription or an annual subscription. And we're going to see how you can automate everything. So you don't have to manually build complex automations for your clients that they do not understand. So they have to contact you if they want to change something. No, this is a completely different world. We're going to see how you can 100% automate every process. So clients pay you forever and most importantly they do not contact you to change something if they want to change something. They will do everything autonomously. And finally, we're going to see how you can turn your agency into a scalable $3,000 per month AI software as a service. So we're going to see numbers, we're going to do some math and we're going to see how you can reach to this goal and of course uh beyond if you keep doing this business model for years and years. All right, so let's start. Firstly, reputation management isn't just getting Google reviews. There are a lot of videos online on YouTube about this about the fact that uh reputation management is just helping small local businesses like restaurants, gyms, saloons, barber shops, etc. to get Google reviews. This is just a just a part of uh reputation management. Reputation management is much more. This is what reputation management is about. Firstly, we're going to improve uh your client's reputation by generating more positive reviews and replying to every review. So, this is just the first step of reputation management, but there is much more. We're going to protect ratings by collecting private feedbacks from unhappy customers first without gating. So, we're not going to use illegal system. We're not going to gate our customers and redirect unhappy customers to just leave private feedbacks. We're going to use a compliant system that allow us to collect private feedbacks from customers who didn't have a good experience with us. So we can fix issues before they go public. So before they go to Google to leave a negative reviews. This is also part of reputation management. Then we're going to track and analyze what customers are saying about your client's business online. So, we're going to centralize everything to understand what customers are saying about us, to spot trends, to understand what they really like or dislike. We're going to showcase your clients best feedbacks like fivestar reviews and video testimonials to build trust and attract more customers. This is also part of reputation management. We're not just collecting reviews and feedback. We are also exploiting the power of reviews to get more clients. We're going also to keep your clients public listings accurate and upto-date with uh photos uh up-to-date services, contact info, social links, hours, etc. This is also part of reputation management. And a lot of uh agencies uh forget this. They think that reputation management is just getting reviews. But if you have a public listing with uncorrect uh information, this is leading to confusion and also negative reviews. This is why uh keeping public listing accurate is part of reputation management. And finally also keeping the website consistent with your listing and adding the uh necessary schema markup is part of uh reputation management because this allow us to exploit 100% the power of reviews and this is reputation management. So all these six points are what reputation management is. You can easily see that it's not just getting Google reviews is much more. All right. So why are we doing reputation management? Why are we offering reputation management to our client to local businesses? Firstly, to win more business because more and better reviews increase trust and improve local rankings. And this is a fact. And later we're going to see data that prove this. We're going to do reputation management to improve our offer because engaging privately with unhappy customers helps uh your clients to identify and fix issues. So we keep improving we are going to understand uh the areas that we need to uh improve. So we keep improving our products and services and this is also very important because we have to talk with unhappy customers. We have to understand what is not going good in our business to stay in control because monitoring what people say helps you measure overall sentiment and uncover your real strengths. So we are not going just to talk with unhealthy customers but we're going also to understand what our best customers like about us so we can focus on these areas to have the best offer in the market and we can keep improving this offer. All right, we're going to do also reputation management for marketing because we are turning happy customers into marketing. Sharing five star reviews and testimonials brings in new customers. So when we get five star reviews, we have to exploit the power of fivestar reviews. Of course, a Google business profile with a lot of fivestar reviews is going to attract a lot of customers, but we have also to exploit these reviews on social media and on websites in order to exploit the power of online reviews. Online reviews can bring new customers to our business, but we have to use them. We have to use them correctly. Uh we do reputation management to avoid losing leads because accurate listings with photos, correct services, hours, uh contact info, etc. prevent missed calls and uh confusion. There's nothing worse than having a Google business profile with uh uncorrect hours. uh our clients visit the business because they see it open on Google and they find it closed and this is leading to a lot of confusion. They're going to talk bad about the business with their friends and probably they're going to leave a bad review. So this is why we do uh reputation management and why we keep the um listing profiles accurate and also we do reputation management to enforce SEO because a consistent website and schema markup help Google understand your business and rank you higher locally. And this is super super uh important. We're going to exploit the power of reviews to have a website that Google and also AI system can understand because we have added the correct schema markup in our website. If you don't know what schema markup is later, of course, we're going to uh show how it works. But basically this is going to help your clients to rank higher uh locally because they built the website exploiting the power of reviews uh thanks to uh the review snippet schema markup that later we're going to see how you can set this up automatically for your clients without lifting a finger. So this is why we do reputation management. I hope you understood what reputation management is and why we do reputation management because there is a lot of confusion online about this topic. This is not just getting Google reviews. This is much more. And this is why we do it. Basically, we're going to help your clients to earn more business thanks to the power of reputation management. And these are data that proves that reviews are going to bring more revenues to your customers. This is not just words, but there are a lot of researchers online about this fact. For example, uh Bright Local proved that almost every single customer uh read reviews before calling a local business. 98% of customer. And think about yourself. If you are, for example, in a new uh town and you need a vet, the first thing that you do, you go to Google and you start comparing the vets by reading the uh reviews. And of course, the first businesses that you want to see are the ones with more reviews and higher rating. So this is a fact. We have also a research by Harvard Business Review that states that just by increasing a rating by 0.5 star lead to uh more revenue plus 59% more revenue. So you're going to help your clients to earn more money. We have also another research from uh Bright Local that say that getting to the uh Google map pack so to the first three results of uh Google leads to 126% more traffic. We're going to bring a very big amount of traffic to our clients, new traffic that will lead to new calls, new click on the website, new messages, new leads, new visits to their local business. And then we have also another uh research from search engine and giant land that proved that fivestar profiles get significantly more clicks than fourstar profiles leading to plus 35% more calls. So if you have a prospect with a fourst star profiles it's proven mathematically that increasing the rating from four to uh 4.7 4.8 8 4.9 uh by increasing the number of positive reviews will lead to more calls and more calls equals to more revenues. So this is proven by numbers that managing the reputation of your clients will help them to get more revenue. So this is why you're doing it to help your clients to win more business and to keep growing and your clients will immediately get the ROI, the return on investment of reputation management because you can bring them a case study for example this one where you had a vet in Seattle Lake Union Veterinary Clinic to go from this situation where they had just 13 reviews on Google 4.2 rating and they were not visible in the Google free pack. So in the first three results when searching on Google vet near Seattle and thanks to your service, thanks to your reputation management service, they got to this situation here where they have a completely new different Google business profile, much more accurate with infos, photos, services, social links, uh, etc. And most importantly, they got in a few months 270 Google reviews leading to 4.8 ratings. And most importantly, they got to the Google free park. They are now in the second position in Google when searching a vet near Seattle. So, everyone can understand it. If you're able to create these case studies with your first uh clients, you can just bring this case study to maybe another vet in a new uh town and everyone will be able to understand that reputation management is leading to more traffic, more leads, more calls and more visits to the uh business. So your goal is just to get started with the first local businesses in your area. Create your first case study. Maybe you can work with a vet, you can work with a restaurant, you can work with a barber shop, you work closely with your first clients. You build a case study like for example this case study here where you help a vet to go from this situation to this situation here. And then you just take these case studies and you bring them to uh new prospects. And everyone, every small local business owner will understand the benefit of reputation management thanks to these case studies. And this is why local business owners can't say no to these results. Firstly, clarity. They instantly get the problem and the ROI. So, every small local business is already getting reviews uh on Google. So, they understand what reviews are. So, you're not talking with them about tech stuff, about features, about automation. You're going to talk with them about a real thing, a real concrete results that you're helping them to achieve. Secondly, fear. They are terrified of one-star reviews. A lot of business owners don't want to start working on their reviews because they are terrified of getting onestar reviews. So, they prefer to collect uh less uh reviews to avoid uh this thing. But you're helping them to protect their reputation from one-star reviews. Third, ego. They want to rank higher than the guy across the street. All these small local business owners, they want to be better than their competitors. They know they are better they than their competitors in the same area but Google is not proving this. So you're helping them to have also Google prove that they are better than their competitor. So finally they can say to everyone hey I'm the best rated business in the area and finally peace of mind because when they know they collect lots of positive reviews the occasional negative one gets buried and feels less scary. So by pitching the platform in the uh correct way and of course in our uh community we have hours and hours of courses about how to pitch the platform the correct way. So business owners can't say no. They're going to just see the benefits of your reputation management service. They're going to imagine themselves in a future situation with a lot of reviews, a lot of people that comes to their business saying, \"Hey, I read your positive uh reviews in your uh social media profile and I decided to visit you instead of their uh competitor.\" This is the situation that they have to uh imagine and this is your uh job to create this situation in their mind so they can't say no and they start purchasing your reputation management service. Now, in 10 minutes, let's talk about the cool part. how to get your first $100 per month client. Of course, you're not going to learn in 10 minutes how to create a $3,000 per month reputation management software business. In our community, we have hours of videos about marketing and sales. We have also monthly live sessions where we teach to our agencies how to create a real reputation management software business. And we do this with the practical lessons with the people already doing this already collecting thousand of dollars per month just with reputation management. But in small words this is the strategy. Basically we're going to find the perfect target. So not every small local business in your area is the perfect target. We're going to look for a specific type of business. So businesses with low Google rating. So with poor star ratings, maybe they do not have a five rating, but maybe they have a 4.2, 4.3. Businesses with low review velocity, so they're not getting reviews consistently. Maybe the last reviews is uh 3 month ago, six month ago. And this is very very bad for uh Google uh businesses with competitors winning. So for example, a dentist with 24 reviews while their competitor two blocks away has 350 reviews. So we're going to find this kind of businesses so we can show them during the pitch that they have a problem. They are not ranking high on Google. Their competitors are doing better. So they want to uh overcome their uh competitor. And businesses uh very very important are already marketing minded. So they have a website, they post on Instagram and Facebook. So they already value digital marketing. We don't want to go to local businesses that do not care about uh their uh online presence. So we want businesses with low rating, low review velocity that they are doing worse than their competitors and businesses are already marketing minded. So you have to create a list of these businesses in your area. And this is the foot in the door strategy. the strategy that all our agencies are already applying with amazing results. So the outreach is very simple. You have to ask a question like this. Did you know that when we search for dentist in the city, Google is hiding you because of your review count? And you show them the Google uh ranking and you show them also a report that we're going to automatically uh generate uh with a click. So this is how you visit face to face the business and this is the uh outreach. uh then of course they understand the problem during the outreach. The goal is that they feel the pain and they want to resolve this problem but you do not want to offer immediately the platform. You do not want to offer immediately the reputation management paid service. You want to have a guarantee. So you can say something like I will set up the system for you this week and get your next five reviews for free. So they don't have to pay nothing. They don't have to uh commit. you just have to prove them that you're able to get the first five reviews for free. So, this is your goal during the um closing part. So, you don't have to sell immediately, but firstly, you have to prove that the system that you're going to install for them work. And once they see the fivestar reviews notification hitting their phone, the sale is already closed. So, this is a kind of free trial that you offer to uh them. You want to prove that the system is working and you have to propose the paid service just when they've already collected results. And imagine going to a business with uh 12 reviews. For example, a business that has been in the market since uh years and years and just in a matter of two weeks you help them to collect five positive reviews. Of course, they see concrete uh results and they want to keep these results forever. That's why once they see the fivestar uh reviews notification, the sale is already closed. So this is the foot in the door strategy and this is how you can get your first client within 30 days. All right. Daily mission. Visit one local business per day and ask for 60 seconds to show their Google ranking versus their uh competitor. So you have to start you have to start with this daily mission. It takes like 10 minutes per day. You can dedicate for example five days per month to visit at least 30 local businesses and you have to propose to all of them the free trial. So five reviews for free. No risk. You set it up, they approve, you deliver the first five reviews fast. So you reach out to local businesses that are in your list of perfect targets. You show them the uh comparison with their competitors in the same area and you show them they are not ranking in the first position. So they are losing customers. They want to reach to the top to the Google ranking. And you're going to help them to reach this uh result. The first reviews are free. They don't have to pay nothing. They don't have to add a credit card. You just prove them that your system work. And you do it for free. And then once they've collected the first reviews, you come back to them and you talk about your paid service, the fact that they can get these results forever, not just for the first two weeks. and you propose them the $100 per month reputation management service. Not only for collecting reviews forever, but also for automated review replies, for review marketing, for simple reporting, listing updates, and up-to-date website. So, you present also all the backend features of the platform. They understand that the $100 per month investment is worthy because the return on investment is much more. And this is what happen if you do it consistently for one year. So every month you do at least 30 face-to-face outreach. We're not talking about cold emails or cold calling. This can work, but the face-to-face strategy, especially with small local business owners, is the best strategy ever. So every year you do at least 360 outreach. Let's suppose a 30% conversion on free trial. So out of 30 facetoface outreach, 10 of them decide to start the free trial with you. 10 of them wants you to set up the system for them for free without paying nothing. So you collect 10 free trial per month which is 120 free trial per year and let's suppose another 30% conversion from free trial to paying customers. Every month you have free paying customer. It means every year you have 36 new paying client. Supposing a $100 per month cost of the service. Every month you collect 3,600 monthly recurring revenues, which is $43,200 annual recurring revenues. These are super achievable results. In our community, we have agencies doing much more. But of course, it's not easy. It's not a quick rich scheme. It's a real real business. You're selling reputation management to small local business owners. And this requires time, effort, energy, uh investment. Uh, of course, the only job for you, the most important job for you is the sales part. So, the pitching part, the free trial, and the closing part. Then the rest is automated. So, you're not going to manually uh do something for your clients. You're not going to offer a done for you uh service. But the secret source is the automation because you are offering a service that every month is going to be done by a software. So, not by you. You just have to set up the platform for them and then the rest is automated and clients are going to pay you a recurring revenue. So, it's not a one-time fee, but they're going to pay you month by month. And this is the beauty of the software as a service business model comparing to the done for you business model where you have to manually work on stuff and most of the time clients pay you for a fixed amount of time and not forever. With software, you just have to do the sales part and the setup and then the rest is automated and clients pay you every month recurring because the software is going to do the work for you. So the best part of this business model is the automation and now we're going to see how to set up this automation for your clients. So firstly we are going to uh connect Google and the social media pages to the system. Then we're going to set up a review collection process and this is the crucial part. This is the 90% of the sales. So if you set up a review collection process correctly, they will get results during the uh free trial. So they convert into paying customer and they will pay you forever because there is an automated system that collect positive reviews for them every week. And then we're going to enable AI agents to automatically reply to reviews and share reviews on uh social media and on website. So this is the setup part. But the 90% of the sales is the review collection process. And specifically, we're going to see three type of review collection process. Because depending on the uh business that you have in front of you, you can set up type different types of review collection process. There is a first type of review collection process which is QR code in local where basically you help your clients to have QR codes inside their local businesses and you train them to ask for reviews to their end customers. So they scan the QR code and they leave the reviews. There is a second type of review collection process where your clients manually send to each client a review request via email, SMS or WhatsApp after the uh service. And this is perfect for businesses like for example lawyers who do not have a lot of customers every month but maybe they have three five uh customers. So it's important that after the experience they just send a quick request to their uh end customers and also we're going to see a third type of review collection process where your clients uh simply connect their uh CRM and when there is a new contact in the CRM automatically the contact is going to be added in the system and a review request is going to automatically sent to the uh end customer. So, we're going to see these three type of review collection process and we're going to decide which type of review collection process is uh perfect for your clients, best fit uh your client's need. So, let's start and let's see how you can set up the automation for your clients. This is the platform that you're going to use. It's called Climbo and it's fully white label with your colors, your logo, your domain, your font. So, your clients will perceive it as your own software. So let's start and let's see how your clients can set up the platform. So they enable the automation and they start collecting reviews on autopilot and they start managing the reputation on autopilot. The first step of their setup as we saw in the slide is the connection of Google and social media accounts. So they just have to go to settings integration and here they can connect their Google account. There are integrations also with other review sites, but of course we know that Google is the most important one. So they simply login with a Google account and the integration is completed. They can connect also text channels. Emails and SMS are connected by default. They don't need to connect Twilio or other external services. We are directly integrated with email and SMS providers. So they don't need to set up anything. they just can connect their WhatsApp business phone number if they want to send requests via WhatsApp. So we have a direct integration with WhatsApp business and then there is the connection with social media. So they simply login with their Facebook or Instagram page and they connect the pages to their account. So this is the first step for them the connection of integrations and it literally takes one minute to connect any platform. Then before setting up the review collection process, they have to customize their review link. So the review link is the unique link that that they will send to their end customers to ask for reviews. It works in a very easy uh way. When you try the platform, of course, you can explore all the features of the review link. But now I want to show you just the basic features. Uh here there will be the logo of your clients and a simple feedback request. So your clients will send this link to their end customers and who rate the experience from one to three is redirected to this page here where they can firstly leave a private feedback to the business that stays private and will be then managed privately inside the platform or of course there is also the opportunity to leave a public review on the integrated uh platforms. This is compliant review gating. So we are not redirecting unhappy customers just to leave uh private feedbacks but there is always the opportunity to uh review the business on public review sites and this is 100% compliant with uh review uh policies. H of course who had a positive experience and rate the business for example four or five star is redirected here to leave a public review on Google or on the other integrated platforms. From the review site settings, your clients can enable also video testimonials. So they can collect video testimonials directly through their review link. So the end customers click here and it's going to record or upload a video testimonial. Once the review link is ready, so is customized with your client's brand and text. Uh your clients have to set up a review collection process. As we saw in the slides, there are three types of review collection process. The first one is QR code in loco which is uh super simple. So you're not going to send review requests via email, SMS or WhatsApp but we're going simply to expose a QR code inside your client's local business maybe next to the uh reception if for example your client is a gym owner or a dentist and we're going to expose this QR code that is going to be linked to the uh review link. So we have here what we call the kiosk modeold page which is this page here that can be of course uh customized and this page show this uh QR code. Uh your clients can simply print this page by clicking on this uh button here and expose it inside their uh local business. Of course you have to train your clients to ask to each customer to scan the QR code to leave a a feedback. So every uh customer of your clients will scan the cure code, land on the review link and leave a private feed a private feedback or a positive review on Google. So this is the first type of review collection process. Super super simple. Then second type of review collection process is the manual quick request to uh each uh contact. So we're going to go to request, send, send now, and we click on quick request. All right. So your clients just select how they want to send the quick request. For example, they want to send it via WhatsApp. They click on next. They insert the contact detail of the uh customers to to which they want to send the quick request. Let's add the name and the phone number and finally they uh select the template of the uh quick request and they click on send. So of course before sending quick request they have to create uh templates. We're using WhatsApp. So, we have to create a WhatsApp uh template. The template is going to uh be saved. And we just click on uh send and we send the WhatsApp message to the uh end uh customer. Let's show you how they can easily create uh templates. They simply go to the templates uh section here. Here there is the list of the previously created uh template. Uh let's create a new one. I just click on new template. I choose the uh template name. I click on next. I choose the channel for example WhatsApp. I click on next and then I just customize the text of the uh template and the text of the button. And of course under the uh button there is the uh review link. So super super simple to uh create uh templates. Of course, when your clients send quick requests, they can then u see the histories of their previous quick request here. And clicking on view details, they can see if the uh customers uh open the quick request or clicked on the uh link. There will be soon also the possibility to enable uh reminders for every uh template. So customers who do not click on the link will receive after a few days a reminder. So we can improve the possibility that they leave positive reviews on Google. So this is the second type of review collection process. So manual quick uh request to our uh customers. And then finally there is the third type of review collection process which is the auto send request to our uh contacts. So this is uh very very useful if your clients already have a CRM. They are already uh adding their um contacts. So they are already adding the contact details of the end customers like the name, the phone number, the email, uh the service date and they want to automate the process that whenever there is a new contact, we send the review request for example two hours after that date. For example, if your client is a dentist, they have a CRM where they they are adding the uh patients and they add the phone number and also the uh appointment date of the patient. We want to automate this process. So whenever the contact is added in the uh CRM, we send the review request after a few hours after the appointment. So basically, as you can see, there is here the uh contact section. This is where we're going to uh add our contacts. And then we have the auto send uh section uh where basically we enable this uh automation that for example 15 minutes after the update date or the uh service date we're going to send to the contact the email review request or the for example uh WhatsApp uh review uh request. So of course in order to uh launch this automations we need to add the contacts to the uh platform. And as I said, we can automate this process if your clients already have a uh CRM. If they don't have it, they can start using uh the platform as a CRM. So they can just click on add contacts. And as you can see, they add the contact name, last name, email, phone number, and optionally the uh service date and the service time. So we're sending the review request, for example, uh 15 minutes after the uh appointment uh date. All right. So they can add contact manually via this form. they can upload a CSV with also uh multiple contacts or as I said if they already have a CRM where they are already adding contacts they can connect that CRM to the uh platform and that can be done very very uh easily via our uh Zapier integration because uh on settings uh automate you can see that we have a Zapier integration and your clients can connect their CRM to the uh platform to your white level platform so they automate the process of adding uh contacts. Uh for example, you can see here they can automate the process with Google sheet. So if they're using Google sheet as a CRM and they are are reading adding contacts on a Google sheet file with for example uh three columns uh name uh phone number and uh service date. Uh they can automate this process. So whenever there is a new row on Google sheet uh we uh automatically add the contact to our uh platform. Whenever there is a new row, the contact is added to the platform and automatically will appear here in the contact section and the uh auto send feature will automatically send the review request to the uh contact. So super super simple to uh set up. So let's do a quick uh recap. After uh connecting the integration and customizing the uh review link, the most important part of the setup is the uh review collection process. three type of review collection process QR code in loco. So we simply open the kiosk mode and we can print this uh page here. Of course everything can be edited here. So if we go to the uh text section as you can see we can change the text of this title and this uh description here. We just go to the kiosk mode and as you can see typing here we can edit any uh text. So once our text are um correct we can just print this page and expose expose the the kiosk mode inside the uh local business and we train our customer to ask for a feedback to every customer. This is the first type of review collection process. Then we have quick uh request to uh contacts. So we just go to request send send now quick request and we send a quick request to uh our uh contacts that just had the experience with us. Of course, in order to send uh quick requests, we need to have uh templates first and then we have the uh auto send uh feature. So, we uh manually or automatically add contacts to the platform and whenever there is a new contact via the auto send feature, we are going to automatically send a review request to this uh contact. So if the review collection process is set up correctly, your clients will start uh collecting an uh a great flow of feedbacks and reviews and they can manage everything from uh here. So from the review section, they'll be able to see their private feedback, their reviews on Google, their reviews on Yelp if they connect other review sites. So from this section here they can easily centralize and read all the reviews that they receive on the uh integrated uh platform. The third part of the setup is uh the uh AI agents uh part because we're not going to manually reply to reviews and share reviews on our website and social media but we're going to do everything with AI. So the third part of this setup is a part where you enable AI agents. So we have two AI agents. One agent called SEO agent that is going to automatically reply to uh reviews using a particular tone. Uh you can set up the reply length, reply language. You can add additional instruction to the agent. You can also train the agent to use specific keywords on the uh review replies. You can also launch the uh automation to reply to all the past reviews. If your clients has hundreds of reviews of years ago without a reply, with a simple click, you can start replying to all the uh reviews. So when you enable this AI agents automatically whenever you receive a review, for example, this uh review here, you can see that the agent reply automatically without the need to lift a finger. You just have to set it up at the beginning. And then we have the uh social agent. An agent that is going to automatically take uh the best reviews that your clients are receiving and share them on social media, Facebook, Instagram and also uh Google post without the need to uh lift a finger. For example, you can see here uh your clients received this uh fivestar Google review and automatically the AI agent share this uh review as a post on Facebook and Instagram with this caption here. So of course everything can be customized. You can customize some settings of the agents and also add custom prompt if you want to customize how for example the captions are generated or how replies are generated. But of course this is something that you do just at the beginning. So you connect the integrations install the review collection process and you enable the AI agents. This is something that you do on the setup part. So at the beginning of the free trial once you do it everything is automated. Your clients start collecting reviews during the uh free trial and of course they will have their aha moment. They will see the value of the uh platform and of course they want to keep this uh results uh forever and for this reason they will subscribe to your uh paid plan. But of course there are other uh features that increase the value of the platform. So we're not just talking about uh collecting reviews and private feedback and automatically replying and uh sharing uh reviews on our social media because as we have seen from the presentation reputation management is much uh more one of the most important feature of the platform is the uh profile feature. So we are directly connected to the Google business profile of your clients and from this section here uh your clients can easily update any information about the Google uh business profile. So any edits that is done here is automatically sent to uh Google. So there is no need to go to Google and manually update the Google business profile. Your clients can done can do everything from here. If they change the website URL, if they change the phone number, if they change the Instagram URL, if they want to add photos, this is super important to rank the business on Google. uh if they want to customize their attributes that are shown in the Google business profile, if they want to uh add services or customize that the current services that are visible in the Google business profile, everything can be done uh here and any edits that is done uh here also for example regular hours and special hour is sent directly to Google without the need to go to Google and manually do these things that sometimes are very uh hard to find. There's also the possibility to post Google updates directly from the uh platform. So, one of the uh coolest feature of the platform is also that you can uh have a website for uh your clients that is automatically generated started starting from the info of the uh Google business profile. And this is super important for uh reputation because uh this website here is going to be automatically generated starting from the name of the business in Google, the description that we have in Google, the uh map link, the phone number, the WhatsApp phone number, the call to action to book an appointment, the photos uploaded by the business owner in the Google business profile, services attributes, of course, the reviews, the business hours and the special hour, the photos published by the customer, the location info like the address and of course the map and the social link. So everything is automatically generated starting from the data already present in the Google business profile of your clients and your clients from here can simply enable or disable specific sections of the uh website without the need to edit uh anything. This ensure there that there is a 100% match between what is present in the Google business profile and what is present in the website which is one of the most important ranking factors. This is why we add this feature part of your reputation management uh service because a lot of agencies do not know this very very important thing that if you have some information uh present in Google business profile that are different from the information present on the uh website Google penalize you a lot and it's not going to rank you uh high because you don't seems like a trusted business if you have uh dismatches between Google and your uh website. So in this way we uh automatically make sure that if there are some edits in Google for example if we change the business hours uh here automatically also the uh business hours in our uh website. So the business hour uh shown in this particular section are going to change automatically and we're not changing just the information on the website. We are also changing the uh information in the uh schema code because automatically uh we have added in the website generated via the platform all the necessary rich snippets that Google and also uh AI platforms wants in order to easily understand what uh your uh client's business is about. For example, uh this uh website uh here that is generated through the platform and here you can have a review of how cool is the uh website. Uh if you validate the uh schema markup through this uh tool here, you can easily see that uh there is any um rich snippet uh necessary in order to tell to Google what the business is about. Uh we have of course the business name, the business description, all the uh images, we have the uh contact info, the social link and of course also the uh business hours are present in the uh schema code the services. So the service name, the service uh description and of course if we do any edit in uh the information present in Google for example whenever we uh edit the uh business hour from here automatically the uh business hours uh shown in the website are uh updated but also the schema code is automatically updated. So there is 100% correspondence between Google the website and the schema code and this is all automated and there are agency that are charging thousand of dollar for this process uh here because it's not easy to do uh manually you have to change the code of the website but through the platform you do this thing automatically and you can provide the service to your clients automatically and this is part of reputation management because as we saw reputation management is not only getting reviews protecting reputation from private feedbacks, responding to reviews, sharing reviews, but is also uh making sure that the uh Google business profile is uh accurate with all the information needed and of course there is 100% correspondence between what we see in Google and what we have in the website. So your clients can move this website directly under their custom domain from uh here and we are seeing amazing results in terms of uh ranking thanks to this uh website uh here and of course something that you provide to your clients thanks to the platform is uh easy uh reporting. So from the home section your clients can easily see the progress of their online reputation. They have four section uh review statistic ranking and competitors Google performance and sentiment analysis. And here every month we update the uh data so your clients can see uh the uh progress. For example, they can see that uh in March they generated 302 uh reviews and particularly on Google they increased their rating of 0.3 uh point they are at 4.7 rating and they need 12 reviews uh sorry 12 fivestar reviews to reach 4.8. So this is a very cool section uh gamified with goals. So they uh keep using the platform because they want to reach the next uh goals. We have ranking a competitor because here they can see their uh ranking position and if the ranking position is improving uh over time. Uh they have the local rank tracker competitor analysis review score ranking to see in which position they are comparing to their uh competitor. They have information about the Google performance. So they can see for example that uh in the uh last month they have a huge increasement in terms of direction requests, maps impression, search impressions, call clicks, website clicks. They can see that the their clients are finding them through new keywords. So they see the value of the platform from here. They see a lot of green things. So they want to keep using the uh the platform because they see new calls, new website clicks. So they see the return on investment and also every month they have a new sentiment analysis. So reading the text of the review, we analyze all the reviews and we tell to your clients what is going well, the average to improve and the action plan. So what they need to change in their products or service in order to uh satisfy their customer. So this is reputation management. All right. So there are a lot of reputation management platform uh around but with this platform here you make sure that you cover everything you need to offer an excellent uh reputation management uh service."
+}

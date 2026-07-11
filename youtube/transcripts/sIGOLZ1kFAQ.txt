@@ -1,0 +1,228 @@
+{
+  "videoId": "sIGOLZ1kFAQ",
+  "language": "en",
+  "kind": "asr",
+  "segments": [
+    {
+      "start_ms": 0,
+      "duration_ms": 3560,
+      "text": "Local businesses don't need another"
+    },
+    {
+      "start_ms": 1520,
+      "duration_ms": 3880,
+      "text": "software. They already have too much to"
+    },
+    {
+      "start_ms": 3560,
+      "duration_ms": 4200,
+      "text": "do. They don't want to log in daily,"
+    },
+    {
+      "start_ms": 5400,
+      "duration_ms": 4880,
+      "text": "learn prompts, or use a dashboard. They"
+    },
+    {
+      "start_ms": 7760,
+      "duration_ms": 4320,
+      "text": "want more customers. And your agency"
+    },
+    {
+      "start_ms": 10280,
+      "duration_ms": 4200,
+      "text": "doesn't need more manual work, more"
+    },
+    {
+      "start_ms": 12080,
+      "duration_ms": 5400,
+      "text": "posting, more reporting, more follow-up."
+    },
+    {
+      "start_ms": 14480,
+      "duration_ms": 5520,
+      "text": "That does not scale. It's a job, not an"
+    },
+    {
+      "start_ms": 17480,
+      "duration_ms": 4480,
+      "text": "agency. Imagine selling an AI system"
+    },
+    {
+      "start_ms": 20000,
+      "duration_ms": 4400,
+      "text": "that works for your clients while your"
+    },
+    {
+      "start_ms": 21960,
+      "duration_ms": 4520,
+      "text": "agency focuses on sales, onboarding, and"
+    },
+    {
+      "start_ms": 24400,
+      "duration_ms": 4280,
+      "text": "growth. Agency owners, here's the future"
+    },
+    {
+      "start_ms": 26480,
+      "duration_ms": 3640,
+      "text": "of local marketing. Meet Climbax, the"
+    },
+    {
+      "start_ms": 28680,
+      "duration_ms": 3680,
+      "text": "all-in-one system that turns local"
+    },
+    {
+      "start_ms": 30120,
+      "duration_ms": 5200,
+      "text": "businesses into recurring revenue"
+    },
+    {
+      "start_ms": 32360,
+      "duration_ms": 5400,
+      "text": "automatically. Better reputation, more"
+    },
+    {
+      "start_ms": 35320,
+      "duration_ms": 4320,
+      "text": "visibility, constant engagement. Your"
+    },
+    {
+      "start_ms": 37760,
+      "duration_ms": 4440,
+      "text": "clients' marketing is no longer manual."
+    },
+    {
+      "start_ms": 39640,
+      "duration_ms": 4160,
+      "text": "It's powered by real online reviews. You"
+    },
+    {
+      "start_ms": 42200,
+      "duration_ms": 4560,
+      "text": "just install the review collection"
+    },
+    {
+      "start_ms": 43800,
+      "duration_ms": 5640,
+      "text": "process once. Review links, QR codes,"
+    },
+    {
+      "start_ms": 46760,
+      "duration_ms": 5200,
+      "text": "employee codes, text invites, or CRM"
+    },
+    {
+      "start_ms": 49440,
+      "duration_ms": 5440,
+      "text": "automations. Climbax's AI handles the"
+    },
+    {
+      "start_ms": 51960,
+      "duration_ms": 5240,
+      "text": "rest. Replies, social posts, SEO,"
+    },
+    {
+      "start_ms": 54880,
+      "duration_ms": 4240,
+      "text": "website, blog articles, and more. One"
+    },
+    {
+      "start_ms": 57200,
+      "duration_ms": 4440,
+      "text": "setup, endless online visibility for"
+    },
+    {
+      "start_ms": 59120,
+      "duration_ms": 4640,
+      "text": "your clients. Three ready-to-run AI"
+    },
+    {
+      "start_ms": 61640,
+      "duration_ms": 4720,
+      "text": "agents work in the background. The SEO"
+    },
+    {
+      "start_ms": 63760,
+      "duration_ms": 3800,
+      "text": "agent reply to reviews and boost Google"
+    },
+    {
+      "start_ms": 66360,
+      "duration_ms": 3080,
+      "text": "rankings."
+    },
+    {
+      "start_ms": 67560,
+      "duration_ms": 4280,
+      "text": "The social agent turns feedback into"
+    },
+    {
+      "start_ms": 69440,
+      "duration_ms": 4680,
+      "text": "social posts and stories. The geo agent"
+    },
+    {
+      "start_ms": 71840,
+      "duration_ms": 3960,
+      "text": "generate fresh website and blog content"
+    },
+    {
+      "start_ms": 74120,
+      "duration_ms": 2960,
+      "text": "that attracts new customers on AI"
+    },
+    {
+      "start_ms": 75800,
+      "duration_ms": 3680,
+      "text": "searches."
+    },
+    {
+      "start_ms": 77080,
+      "duration_ms": 4800,
+      "text": "Set it up once, the system runs itself."
+    },
+    {
+      "start_ms": 79480,
+      "duration_ms": 4040,
+      "text": "No daily effort. And the best part? You"
+    },
+    {
+      "start_ms": 81880,
+      "duration_ms": 3760,
+      "text": "sell it under your own brand, with your"
+    },
+    {
+      "start_ms": 83520,
+      "duration_ms": 4240,
+      "text": "own design, at the price you choose."
+    },
+    {
+      "start_ms": 85640,
+      "duration_ms": 4360,
+      "text": "Full white-label control, full recurring"
+    },
+    {
+      "start_ms": 87760,
+      "duration_ms": 5280,
+      "text": "revenue. Your clients grow, your agency"
+    },
+    {
+      "start_ms": 90000,
+      "duration_ms": 5400,
+      "text": "profits. Everybody wins. Join over 2,000"
+    },
+    {
+      "start_ms": 93040,
+      "duration_ms": 6680,
+      "text": "agency owners. Ready to transform your"
+    },
+    {
+      "start_ms": 95400,
+      "duration_ms": 4320,
+      "text": "agency? Apply at climbax.com."
+    }
+  ],
+  "text": "Local businesses don't need another software. They already have too much to do. They don't want to log in daily, learn prompts, or use a dashboard. They want more customers. And your agency doesn't need more manual work, more posting, more reporting, more follow-up. That does not scale. It's a job, not an agency. Imagine selling an AI system that works for your clients while your agency focuses on sales, onboarding, and growth. Agency owners, here's the future of local marketing. Meet Climbax, the all-in-one system that turns local businesses into recurring revenue automatically. Better reputation, more visibility, constant engagement. Your clients' marketing is no longer manual. It's powered by real online reviews. You just install the review collection process once. Review links, QR codes, employee codes, text invites, or CRM automations. Climbax's AI handles the rest. Replies, social posts, SEO, website, blog articles, and more. One setup, endless online visibility for your clients. Three ready-to-run AI agents work in the background. The SEO agent reply to reviews and boost Google rankings. The social agent turns feedback into social posts and stories. The geo agent generate fresh website and blog content that attracts new customers on AI searches. Set it up once, the system runs itself. No daily effort. And the best part? You sell it under your own brand, with your own design, at the price you choose. Full white-label control, full recurring revenue. Your clients grow, your agency profits. Everybody wins. Join over 2,000 agency owners. Ready to transform your agency? Apply at climbax.com."
+}

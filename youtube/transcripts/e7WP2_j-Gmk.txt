@@ -1,0 +1,78 @@
+{
+  "videoId": "e7WP2_j-Gmk",
+  "language": "en",
+  "kind": "asr",
+  "segments": [
+    {
+      "start_ms": 0,
+      "duration_ms": 4200,
+      "text": "Your AI should feel like your brand. Now"
+    },
+    {
+      "start_ms": 2160,
+      "duration_ms": 4160,
+      "text": "you can fully customize it. Give your AI"
+    },
+    {
+      "start_ms": 4200,
+      "duration_ms": 4400,
+      "text": "its own name, logo, and identity. You"
+    },
+    {
+      "start_ms": 6320,
+      "duration_ms": 4820,
+      "text": "can even personalize every single agent,"
+    },
+    {
+      "start_ms": 8600,
+      "duration_ms": 3120,
+      "text": "SEO, social, and GEO. More branded,"
+    },
+    {
+      "start_ms": 11140,
+      "duration_ms": 3140,
+      "text": "[music]"
+    },
+    {
+      "start_ms": 11720,
+      "duration_ms": 5080,
+      "text": "more unique, more yours. And now, meet"
+    },
+    {
+      "start_ms": 14280,
+      "duration_ms": 4000,
+      "text": "AI chat, the first white-label AI for"
+    },
+    {
+      "start_ms": 16800,
+      "duration_ms": 3280,
+      "text": "local businesses. Your clients can"
+    },
+    {
+      "start_ms": 18280,
+      "duration_ms": 3520,
+      "text": "simply chat with their AI to get things"
+    },
+    {
+      "start_ms": 20080,
+      "duration_ms": 3840,
+      "text": "done. [music] Send review requests,"
+    },
+    {
+      "start_ms": 21800,
+      "duration_ms": 4760,
+      "text": "generate reports, update Google Business"
+    },
+    {
+      "start_ms": 23920,
+      "duration_ms": 5610,
+      "text": "Profile hours, and much more. No clicks,"
+    },
+    {
+      "start_ms": 26560,
+      "duration_ms": 2970,
+      "text": "no complexity. [music]"
+    }
+  ],
+  "text": "Your AI should feel like your brand. Now you can fully customize it. Give your AI its own name, logo, and identity. You can even personalize every single agent, SEO, social, and GEO. More branded, [music] more unique, more yours. And now, meet AI chat, the first white-label AI for local businesses. Your clients can simply chat with their AI to get things done. [music] Send review requests, generate reports, update Google Business Profile hours, and much more. No clicks, no complexity. [music]"
+}
