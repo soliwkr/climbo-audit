@@ -5,372 +5,95 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Climbo Knowledge Map</title>
 <style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0d1117;--surface:#161b22;--surface2:#1c2128;--border:#21262d;
+  --text:#e6edf3;--muted:#7d8590;--muted2:#484f58;
+  --purple:#A78BFA;--blue:#60A5FA;--green:#34D399;--red:#F87171;
+}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;height:100vh;display:flex;flex-direction:column;overflow:hidden}
 
-  :root {
-    --bg: #0d1117;
-    --surface: #161b22;
-    --border: #21262d;
-    --text: #e6edf3;
-    --muted: #7d8590;
-    --purple: #A78BFA;
-    --blue: #60A5FA;
-    --green: #34D399;
-    --red: #F87171;
-  }
+/* HEADER */
+header{display:flex;align-items:center;padding:10px 20px;border-bottom:1px solid var(--border);background:var(--bg);gap:12px;flex-shrink:0;z-index:100}
+.logo{font-size:14px;font-weight:700;white-space:nowrap;letter-spacing:.01em}
+.logo span{color:var(--purple)}
+.logo small{font-size:11px;font-weight:400;color:var(--muted);margin-left:8px}
+.search-wrap{flex:1;max-width:280px;margin:0 auto}
+.search-wrap input{width:100%;background:var(--surface);border:1px solid var(--border);border-radius:6px;padding:5px 10px;color:var(--text);font-size:12px;outline:none;transition:border-color .15s}
+.search-wrap input:focus{border-color:var(--purple)}
+.search-wrap input::placeholder{color:var(--muted)}
+.tours{display:flex;gap:6px}
+.tour-btn{background:var(--surface);border:1px solid var(--border);border-radius:6px;color:var(--muted);font-size:11px;padding:4px 10px;cursor:pointer;transition:all .15s;white-space:nowrap}
+.tour-btn:hover{border-color:var(--muted);color:var(--text)}
+.tour-btn.active{border-color:var(--purple);color:var(--purple);background:rgba(167,139,250,.08)}
 
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-  }
+/* LAYOUT */
+.layout{display:flex;flex:1;overflow:hidden;position:relative}
 
-  /* HEADER */
-  header {
-    display: flex;
-    align-items: center;
-    padding: 12px 24px;
-    border-bottom: 1px solid var(--border);
-    background: var(--bg);
-    gap: 16px;
-    flex-shrink: 0;
-    z-index: 100;
-  }
+/* CANVAS */
+.canvas{flex:1;overflow-y:auto;overflow-x:hidden;position:relative;padding:24px 28px 80px}
+.canvas-inner{position:relative;min-height:100%}
+.svg-overlay{position:absolute;top:0;left:0;width:100%;pointer-events:none;overflow:visible}
 
-  .header-title {
-    font-size: 15px;
-    font-weight: 600;
-    white-space: nowrap;
-    color: var(--text);
-    letter-spacing: 0.01em;
-  }
+/* ROWS */
+.row{display:flex;align-items:flex-start;gap:16px;margin-bottom:24px}
+.row-meta{display:flex;flex-direction:column;gap:2px;width:160px;flex-shrink:0;padding-top:5px}
+.row-label-wrap{display:flex;align-items:center;gap:6px}
+.row-dot{width:7px;height:7px;border-radius:50%;flex-shrink:0}
+.row-label{font-size:10px;font-weight:800;letter-spacing:.1em;text-transform:uppercase}
+.row-desc{font-size:10px;color:var(--muted);margin-left:13px}
+.row-nodes{flex:1;display:flex;flex-wrap:wrap;gap:7px;align-content:flex-start}
 
-  .header-title span {
-    color: var(--purple);
-  }
+/* PILLS */
+.pill{position:relative;display:inline-flex;align-items:center;gap:5px;padding:5px 12px;border-radius:20px;background:var(--surface);border:1px solid var(--border);color:var(--text);font-size:11px;font-weight:500;cursor:pointer;transition:opacity .2s,border-color .2s,box-shadow .2s,background .2s;user-select:none;white-space:nowrap}
+.pill:hover{border-color:var(--muted)}
+.pill.active{border-color:var(--row-color);box-shadow:0 0 0 1px var(--row-color),0 0 10px color-mix(in srgb,var(--row-color) 30%,transparent);background:color-mix(in srgb,var(--row-color) 8%,var(--surface))}
+.pill.dimmed{opacity:.1;pointer-events:none}
+.pill.highlighted{opacity:1;border-color:var(--row-color)}
+.pill .badge{display:inline-flex;align-items:center;justify-content:center;width:15px;height:15px;border-radius:50%;color:#000;font-size:8px;font-weight:900;flex-shrink:0}
 
-  .header-search {
-    flex: 1;
-    max-width: 320px;
-    margin: 0 auto;
-  }
+/* PANEL */
+.panel{width:400px;flex-shrink:0;background:var(--surface);border-left:1px solid var(--border);display:flex;flex-direction:column;transform:translateX(100%);transition:transform .25s cubic-bezier(.16,1,.3,1)}
+.panel.open{transform:translateX(0)}
+.panel-inner{flex:1;overflow-y:auto;padding:22px}
+.panel-inner::-webkit-scrollbar{width:4px}
+.panel-inner::-webkit-scrollbar-track{background:transparent}
+.panel-inner::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
 
-  .header-search input {
-    width: 100%;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    padding: 6px 12px;
-    color: var(--text);
-    font-size: 13px;
-    outline: none;
-    transition: border-color 0.15s;
-  }
+.p-badge{display:inline-flex;align-items:center;gap:5px;font-size:9px;font-weight:800;letter-spacing:.09em;text-transform:uppercase;padding:3px 9px;border-radius:4px;margin-bottom:12px}
+.p-badge-dot{width:5px;height:5px;border-radius:50%;flex-shrink:0}
+.p-title{font-size:18px;font-weight:700;line-height:1.3;margin-bottom:10px}
+.p-summary{font-size:12px;font-weight:600;color:#8b949e;margin-bottom:10px;line-height:1.5;font-style:italic}
+.p-desc{font-size:12px;color:#8b949e;line-height:1.65;margin-bottom:14px}
+.p-bullets{margin-bottom:16px;padding-left:0;list-style:none;display:flex;flex-direction:column;gap:5px}
+.p-bullets li{font-size:11px;color:#8b949e;line-height:1.5;padding-left:14px;position:relative}
+.p-bullets li::before{content:'→';position:absolute;left:0;color:var(--muted2)}
+.p-link{display:inline-flex;align-items:center;gap:5px;font-size:11px;color:var(--muted);border:1px solid var(--border);border-radius:5px;padding:4px 10px;text-decoration:none;transition:all .15s;margin-bottom:18px}
+.p-link:hover{border-color:var(--muted);color:var(--text)}
+.p-divider{border:none;border-top:1px solid var(--border);margin-bottom:16px}
+.p-conn-title{font-size:9px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
+.p-group{margin-bottom:12px}
+.p-group-label{display:flex;align-items:center;gap:5px;font-size:9px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;margin-bottom:6px}
+.p-group-label .dot{width:5px;height:5px;border-radius:50%;flex-shrink:0}
+.chips{display:flex;flex-wrap:wrap;gap:5px}
+.chip{padding:3px 9px;border-radius:10px;background:var(--bg);border:1px solid var(--border);font-size:10px;color:var(--text);cursor:pointer;transition:border-color .15s}
+.chip:hover{border-color:var(--muted)}
 
-  .header-search input:focus {
-    border-color: var(--purple);
-  }
+/* STATS */
+.stats{position:fixed;bottom:12px;left:20px;font-size:10px;color:var(--muted2);z-index:200;pointer-events:none;letter-spacing:.02em}
 
-  .header-search input::placeholder { color: var(--muted); }
-
-  .tour-buttons {
-    display: flex;
-    gap: 8px;
-    white-space: nowrap;
-  }
-
-  .tour-btn {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    color: var(--muted);
-    font-size: 12px;
-    padding: 5px 12px;
-    cursor: pointer;
-    transition: all 0.15s;
-  }
-
-  .tour-btn:hover { border-color: var(--purple); color: var(--text); }
-  .tour-btn.active { border-color: var(--purple); color: var(--purple); background: rgba(167,139,250,0.08); }
-
-  /* LAYOUT */
-  .layout {
-    display: flex;
-    flex: 1;
-    overflow: hidden;
-    position: relative;
-  }
-
-  /* CANVAS */
-  .canvas {
-    flex: 1;
-    overflow-y: auto;
-    overflow-x: hidden;
-    position: relative;
-    padding: 28px 32px 80px;
-  }
-
-  .canvas-inner {
-    position: relative;
-    min-height: 100%;
-  }
-
-  /* SVG OVERLAY */
-  .svg-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    pointer-events: none;
-    overflow: visible;
-  }
-
-  /* ROWS */
-  .row {
-    display: flex;
-    align-items: flex-start;
-    gap: 20px;
-    margin-bottom: 28px;
-    position: relative;
-  }
-
-  .row-meta {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 3px;
-    width: 180px;
-    flex-shrink: 0;
-    padding-top: 6px;
-  }
-
-  .row-label-wrap {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-
-  .row-dot {
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    flex-shrink: 0;
-  }
-
-  .row-label {
-    font-size: 11px;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-  }
-
-  .row-desc {
-    font-size: 11px;
-    color: var(--muted);
-    margin-left: 16px;
-  }
-
-  .row-nodes {
-    flex: 1;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    align-content: flex-start;
-  }
-
-  /* PILLS */
-  .pill {
-    position: relative;
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    padding: 6px 14px;
-    border-radius: 20px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    color: var(--text);
-    font-size: 12px;
-    font-weight: 500;
-    cursor: pointer;
-    transition: opacity 0.2s, border-color 0.2s, box-shadow 0.2s, background 0.2s;
-    user-select: none;
-    white-space: nowrap;
-  }
-
-  .pill:hover {
-    border-color: var(--muted);
-  }
-
-  .pill.active {
-    border-color: var(--row-color);
-    box-shadow: 0 0 0 1px var(--row-color), 0 0 12px rgba(var(--row-color-rgb), 0.3);
-    background: rgba(var(--row-color-rgb), 0.08);
-  }
-
-  .pill.dimmed {
-    opacity: 0.12;
-  }
-
-  .pill.highlighted {
-    opacity: 1;
-    border-color: var(--row-color);
-  }
-
-  .pill .tour-badge {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 16px;
-    height: 16px;
-    border-radius: 50%;
-    background: var(--row-color);
-    color: #000;
-    font-size: 9px;
-    font-weight: 800;
-    flex-shrink: 0;
-  }
-
-  /* PANEL */
-  .panel {
-    width: 380px;
-    flex-shrink: 0;
-    background: var(--surface);
-    border-left: 1px solid var(--border);
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    transform: translateX(100%);
-    transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
-  }
-
-  .panel.open {
-    transform: translateX(0);
-  }
-
-  .panel-inner {
-    flex: 1;
-    overflow-y: auto;
-    padding: 24px;
-  }
-
-  .panel-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    font-size: 10px;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    padding: 3px 10px;
-    border-radius: 4px;
-    margin-bottom: 14px;
-  }
-
-  .panel-title {
-    font-size: 20px;
-    font-weight: 700;
-    line-height: 1.3;
-    margin-bottom: 12px;
-    color: var(--text);
-  }
-
-  .panel-summary {
-    font-size: 13px;
-    line-height: 1.6;
-    color: #8b949e;
-    margin-bottom: 24px;
-  }
-
-  .panel-divider {
-    border: none;
-    border-top: 1px solid var(--border);
-    margin-bottom: 20px;
-  }
-
-  .connected-title {
-    font-size: 10px;
-    font-weight: 700;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--muted);
-    margin-bottom: 16px;
-  }
-
-  .connected-group {
-    margin-bottom: 16px;
-  }
-
-  .connected-group-label {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    margin-bottom: 8px;
-  }
-
-  .connected-group-label .dot {
-    width: 6px;
-    height: 6px;
-    border-radius: 50%;
-    flex-shrink: 0;
-  }
-
-  .connected-chips {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-  }
-
-  .chip {
-    padding: 4px 10px;
-    border-radius: 12px;
-    background: var(--bg);
-    border: 1px solid var(--border);
-    font-size: 11px;
-    color: var(--text);
-    cursor: pointer;
-    transition: border-color 0.15s;
-  }
-
-  .chip:hover {
-    border-color: var(--muted);
-  }
-
-  /* STATS BAR */
-  .stats-bar {
-    position: fixed;
-    bottom: 16px;
-    left: 24px;
-    font-size: 11px;
-    color: var(--muted);
-    z-index: 200;
-    pointer-events: none;
-  }
-
-  /* SCROLLBAR */
-  .canvas::-webkit-scrollbar { width: 6px; }
-  .canvas::-webkit-scrollbar-track { background: transparent; }
-  .canvas::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
-  .panel-inner::-webkit-scrollbar { width: 4px; }
-  .panel-inner::-webkit-scrollbar-track { background: transparent; }
-  .panel-inner::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+/* SCROLLBAR */
+.canvas::-webkit-scrollbar{width:5px}
+.canvas::-webkit-scrollbar-track{background:transparent}
+.canvas::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
 </style>
 </head>
 <body>
 
 <header>
-  <div class="header-title"><span>Climbo</span> Knowledge Map</div>
-  <div class="header-search">
-    <input type="text" id="search" placeholder="Search nodes…" autocomplete="off">
-  </div>
-  <div class="tour-buttons">
+  <div class="logo"><span>Climbo</span>, Connected <small>Everything in one map. Click anything.</small></div>
+  <div class="search-wrap"><input type="text" id="search" placeholder="Search concepts…" autocomplete="off"></div>
+  <div class="tours">
     <button class="tour-btn" data-tour="new">I'm new here</button>
     <button class="tour-btn" data-tour="clients">I want clients</button>
     <button class="tour-btn" data-tour="operational">I'm operational</button>
@@ -379,93 +102,60 @@
 
 <div class="layout">
   <div class="canvas" id="canvas">
-    <div class="canvas-inner" id="canvasInner">
-      <svg class="svg-overlay" id="svgOverlay"></svg>
-      <!-- rows injected by JS -->
+    <div class="canvas-inner" id="ci">
+      <svg class="svg-overlay" id="svg"></svg>
     </div>
   </div>
   <div class="panel" id="panel">
-    <div class="panel-inner" id="panelInner"></div>
+    <div class="panel-inner" id="pi"></div>
   </div>
 </div>
 
-<div class="stats-bar">28 nodes · 77 connections · built from 30 video transcripts + 933 Skool posts · Esc to reset</div>
+<div class="stats">28 nodes · 77 connections · built from 30 video transcripts + 933 Skool posts · Esc to reset</div>
 
 <script>
-const ROW_CONFIG = {
-  foundations: { label: 'FOUNDATIONS', desc: 'understand this first', color: '#A78BFA', rgb: '167,139,250' },
-  platform:    { label: 'THE PLATFORM',  desc: 'what the software does', color: '#60A5FA', rgb: '96,165,250' },
-  playbook:    { label: 'YOUR PLAYBOOK', desc: 'how to sell and operate', color: '#34D399', rgb: '52,211,153' },
-  reference:   { label: 'REFERENCE',     desc: 'look up when needed',    color: '#F87171', rgb: '248,113,113' },
+const RC = {
+  foundations:{label:'FOUNDATIONS',desc:'understand this first',color:'#A78BFA'},
+  platform:   {label:'THE PLATFORM', desc:'what the software does',color:'#60A5FA'},
+  playbook:   {label:'YOUR PLAYBOOK',desc:'how to sell and operate',color:'#34D399'},
+  reference:  {label:'REFERENCE',    desc:'look up when needed',   color:'#F87171'},
 };
-
-const ROW_ORDER = ['foundations', 'platform', 'playbook', 'reference'];
+const ROWS = ['foundations','platform','playbook','reference'];
 
 const TOURS = {
-  new: ['overview','getting-started/what-is-climbo','getting-started/account-setup','features/review-requests','features/nfc-cards','ai-agents/overview','getting-started/first-client-checklist'],
-  clients: ['sales/finding-clients','sales/demo-script','sales/objections','getting-started/first-client-checklist','operations/onboarding-clients'],
-  operational: ['operations/onboarding-clients','operations/retention','operations/smtp-setup','compliance/google-review-policy-2026','ai-agents/geo-agent'],
+  new:['overview','getting-started/what-is-climbo','getting-started/account-setup','features/review-requests','features/nfc-cards','ai-agents/overview','getting-started/first-client-checklist'],
+  clients:['sales/finding-clients','sales/demo-script','sales/objections','getting-started/first-client-checklist','operations/onboarding-clients'],
+  operational:['operations/onboarding-clients','operations/retention','operations/smtp-setup','compliance/google-review-policy-2026','ai-agents/geo-agent'],
 };
 
-const NODES = [
-  {"id":"overview","label":"Climbo Overview","row":"foundations","summary":"Climbo is a white-label AI reputation management platform. Agency owners resell it to local businesses to generate reviews, rank higher on Google, and appear in AI search.","connected":["getting-started/what-is-climbo","getting-started/pricing-and-plans","ai-agents/overview","features/review-requests","features/white-label"]},
-  {"id":"getting-started/what-is-climbo","label":"What Is Climbo?","row":"foundations","summary":"Understand the business model before touching anything. Agency owner pays €99/month, resells to local businesses. Three AI agents run automatically.","connected":["overview","getting-started/pricing-and-plans","getting-started/account-setup","ai-agents/overview","features/review-requests","features/white-label"]},
-  {"id":"getting-started/pricing-and-plans","label":"Pricing & Plans","row":"foundations","summary":"€99/month for agency. You set your own prices for clients. Create unlimited client plans. Stripe handles billing automatically.","connected":["getting-started/what-is-climbo","features/stripe-billing","getting-started/account-setup","features/white-label","operations/onboarding-clients"]},
-  {"id":"getting-started/account-setup","label":"Account Setup","row":"foundations","summary":"30-minute setup: white-label brand, custom domain, connect Stripe, top up balance. Do this before your first client.","connected":["getting-started/pricing-and-plans","features/white-label","features/balance-explained","features/stripe-billing","operations/smtp-setup"]},
-  {"id":"ai-agents/overview","label":"AI Agents Overview","row":"foundations","summary":"Three agents run automatically: SEO Agent replies to reviews, Social Agent posts them to GBP, GEO Agent publishes content for AI search.","connected":["ai-agents/seo-agent","ai-agents/social-agent","ai-agents/geo-agent","features/review-requests","overview"]},
-  {"id":"features/review-requests","label":"Review Requests","row":"platform","summary":"Send SMS/email to past customers → they tap a link → leave a Google review. The core engine of the whole system.","connected":["features/nfc-cards","features/gbp-integration","ai-agents/seo-agent","features/google-sheets","getting-started/first-client-checklist","compliance/google-review-policy-2026"]},
-  {"id":"features/nfc-cards","label":"NFC Cards","row":"platform","summary":"Physical card: customer taps with phone → review page opens in 2 seconds. The wow moment in your demo.","connected":["features/review-requests","sales/demo-script","getting-started/first-client-checklist"]},
-  {"id":"features/gbp-integration","label":"Google Business Profile","row":"platform","summary":"Connect client's GBP (Google Business Profile) to unlock review monitoring, social posts, and ranking data.","connected":["features/review-requests","ai-agents/social-agent","ai-agents/seo-agent","ai-agents/geo-agent","compliance/google-review-policy-2026"]},
-  {"id":"features/white-label","label":"White-Label","row":"platform","summary":"Full rebrand of Climbo under your brand. Custom domain (os.yourdomain.com), your logo, your AI name. Clients never see Climbo.","connected":["getting-started/account-setup","features/mobile-app","features/client-portal","getting-started/pricing-and-plans"]},
-  {"id":"features/client-portal","label":"Client Portal","row":"platform","summary":"What clients see: their reviews, stats, campaign history. Branded with your logo. Read-only for clients.","connected":["features/white-label","operations/onboarding-clients","operations/retention"]},
-  {"id":"ai-agents/seo-agent","label":"SEO Agent","row":"platform","summary":"Automatically writes keyword-rich replies to every Google review. 'Best dentist in [city]' phrasing helps Maps ranking.","connected":["ai-agents/overview","features/gbp-integration","features/review-requests","ai-agents/social-agent","compliance/google-review-policy-2026"]},
-  {"id":"ai-agents/social-agent","label":"Social Agent","row":"platform","summary":"Turns every review into a Google Business Profile post automatically. More GBP activity = higher Google Maps ranking.","connected":["ai-agents/overview","ai-agents/seo-agent","features/gbp-integration","ai-agents/geo-agent"]},
-  {"id":"ai-agents/geo-agent","label":"GEO Agent","row":"platform","summary":"Publishes review content as a website/blog. When someone asks ChatGPT or Perplexity 'best plumber in X', your client's name appears. Released April 17, 2026.","connected":["ai-agents/overview","ai-agents/social-agent","features/gbp-integration","ama/README"]},
-  {"id":"features/stripe-billing","label":"Stripe Billing","row":"platform","summary":"Connect Stripe to charge clients automatically. Set up recurring subscriptions per client. Coupon codes for founders/free trials.","connected":["getting-started/pricing-and-plans","getting-started/account-setup","operations/onboarding-clients","getting-started/first-client-checklist"]},
-  {"id":"features/mobile-app","label":"Mobile App","row":"platform","summary":"Branded iOS + Android app for your clients under your brand. They see their reviews and stats on mobile.","connected":["features/white-label","features/client-portal"]},
-  {"id":"features/balance-explained","label":"Balance","row":"platform","summary":"Pre-paid credits used for SMS, WhatsApp, and AI token costs. Recharge from dashboard. Minimum $20. Shared across all clients.","connected":["getting-started/account-setup","features/review-requests","operations/onboarding-clients"]},
-  {"id":"features/google-sheets","label":"Google Sheets","row":"platform","summary":"Import customer lists from Google Sheets directly. Connect sheet → map columns → send bulk review requests. No CSV needed.","connected":["features/review-requests","operations/onboarding-clients"]},
-  {"id":"sales/finding-clients","label":"Finding Clients","row":"playbook","summary":"Target local businesses with <50 Google reviews and a competitor beating them. Google Maps search + cold visits + Facebook local groups.","connected":["sales/demo-script","sales/objections","getting-started/first-client-checklist","case-studies/community-wins"]},
-  {"id":"sales/demo-script","label":"Demo Script","row":"playbook","summary":"10-minute pitch to a local business. Show the competitor gap, demo the NFC card, offer 5 free reviews. You pitch results, not software.","connected":["sales/finding-clients","sales/objections","features/nfc-cards","operations/onboarding-clients","getting-started/first-client-checklist"]},
-  {"id":"sales/objections","label":"Objections","row":"playbook","summary":"'I'll think about it' / 'I already have reviews' / 'Too expensive'. Scripts for each. Free trial overcomes most objections.","connected":["sales/demo-script","sales/finding-clients","compliance/google-review-policy-2026"]},
-  {"id":"getting-started/first-client-checklist","label":"First Client Checklist","row":"playbook","summary":"Step-by-step from prospect says yes to first reviews live. Includes what access to ask for, what to set up, and how to deliver the first wow.","connected":["sales/demo-script","features/nfc-cards","features/stripe-billing","operations/onboarding-clients","features/review-requests"]},
-  {"id":"operations/onboarding-clients","label":"Onboarding Clients","row":"playbook","summary":"8-step setup: create client → connect GBP → customize template → configure agents → import list → first batch → show dashboard → 10+ reviews goal. 30 minutes.","connected":["getting-started/first-client-checklist","features/review-requests","features/google-sheets","operations/retention","features/client-portal","features/balance-explained"]},
-  {"id":"operations/retention","label":"Client Retention","row":"playbook","summary":"Monthly report + wow moment screenshot delivery. Upsell path: review requests → Social Agent → GEO Agent → Mobile App → NFC cards.","connected":["operations/onboarding-clients","features/client-portal","ai-agents/geo-agent","features/mobile-app","case-studies/community-wins"]},
-  {"id":"operations/smtp-setup","label":"SMTP Setup","row":"playbook","summary":"Send review request emails from @yourdomain.com instead of Climbo's server. More trustworthy. Use Google Workspace or Brevo (free tier).","connected":["getting-started/account-setup","features/review-requests"]},
-  {"id":"compliance/google-review-policy-2026","label":"Google Policy 2026","row":"reference","summary":"Google banned review gating in April 2026. Climbo is compliant by design — sends ALL customers to Google. Use this as a sales differentiator.","connected":["features/review-requests","ai-agents/seo-agent","compliance/gdpr-eu","sales/objections"]},
-  {"id":"compliance/gdpr-eu","label":"GDPR (EU)","row":"reference","summary":"Practical guide for EU operators. Use existing customer relationships as lawful basis. Only send requests to past customers, not cold contacts.","connected":["compliance/google-review-policy-2026","features/review-requests","operations/onboarding-clients"]},
-  {"id":"case-studies/community-wins","label":"Community Wins","row":"reference","summary":"8 real stories from the Skool community: 4 clients from 1 Facebook post, €3,000 in one week, #1 on ChatGPT day one. Read when you need motivation.","connected":["sales/finding-clients","operations/retention","ai-agents/geo-agent","ama/README"]},
-  {"id":"ama/README","label":"AMA Archive","row":"reference","summary":"Table of all 31 YouTube AMAs with dates and key announcements. Check here when you heard about a feature and want to find the source video.","connected":["ai-agents/geo-agent","case-studies/community-wins","overview"]}
-];
+const NODES = [{"id": "ai-agents/overview", "label": "AI Agents Overview", "row": "foundations", "summary": "Three AI agents run automatically in the background, turning each new review into SEO value, social content, and AI search visibility.", "description": "Climbo has three AI agents. You enable them during client onboarding and they run on autopilot forever after. Your client does not need to understand them — they just see the results. The agents work together as a loop: every incoming review feeds all three agents, which together improve the client's visibility across Google, social media, and AI search engines. ```` This is the Review Marketing Flywheel. It compounds over time. A client with 10 reviews benefits less than one with 100, which ben", "bullets": ["You can run \"reply to all past reviews\" with one click — useful for clients who have 50+ unanswered reviews from years p", "The AI name that appears to clients is your branded AI name (configured in Brand), not \"Climbo AI\"", "If a client asks ChatGPT about their business type in their city and the business doesn't appear, the GEO Agent is the f", "Agents use tokens from your Balance. At $6.60 per 1M tokens, the cost is minimal for most clients"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/ai-agents/overview.md", "connected": ["ai-agents/geo-agent", "overview", "ai-agents/seo-agent", "features/gbp-integration", "features/balance-explained", "ai-agents/social-agent", "features/client-portal"]}, {"id": "getting-started/account-setup", "label": "Account Setup", "row": "foundations", "summary": "Everything you need to configure before signing your first client — brand, billing, email, and balance.", "description": "When you first log into , you land on a mostly-blank agency dashboard. Before you touch the client section, complete your agency setup. This takes 1–2 hours and you only do it once. The dashboard has six main sections: Clients, Plans, Brand, Sales, Settings, Support.", "bullets": ["Brand Name — your agency name (what clients see everywhere)", "Custom Domain — a subdomain like  (point it to Climbo's DNS)", "Logo — your agency logo, shown on the login page and inside the platform", "Colors and Font — match your existing brand", "AI Brand Name — the name your AI assistant shows to clients (e.g., \"Aria\" or \"MaxAI\")"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/getting-started/account-setup.md", "connected": ["features/stripe-billing", "features/white-label", "getting-started/what-is-climbo", "operations/smtp-setup", "getting-started/pricing-and-plans", "features/balance-explained", "getting-started/first-client-checklist"]}, {"id": "overview", "label": "Climbo Overview", "row": "foundations", "summary": "Climbo is the white-label AI platform you use to run a reputation management agency — your clients see your brand, you keep the margin.", "description": "Climbo is a SaaS platform built for agency owners, not for local businesses directly. You pay €99/month flat. You rebrand the entire platform with your name, logo, and domain. You resell it to local businesses (restaurants, dentists, gyms, law firms, contractors) at whatever price you choose — typically $99–$500/month per client. Every client you add increases your profit; your cost stays fixed at €99. The core promise to your clients: more Google reviews, higher ranking, more customers — all au", "bullets": ["SEO Agent — automatically replies to Google reviews using the client's business name, city, and service keywords", "Social Agent — turns the best reviews into image + caption posts on Google Business Profile (GBP), Facebook, and Instagr", "GEO Agent — builds and updates a website/blog so the client gets cited by AI search engines like ChatGPT and Perplexity "], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/overview.md", "connected": ["ai-agents/overview", "features/white-label", "getting-started/what-is-climbo", "ama/README", "sales/finding-clients"]}, {"id": "getting-started/pricing-and-plans", "label": "Pricing and Plans", "row": "foundations", "summary": "You pay €99/month to Climbo; you charge clients whatever you want — typical range is $99–$500/month.", "description": "Climbo's pricing to you is simple: €99/month flat. Unlimited clients. All features. No per-seat fees, no percentage of revenue. Your pricing to clients is entirely up to you. You set the plans, the names, the prices, and what features each plan includes. Climbo's Plans section is where you create these.", "bullets": ["€99/month agency fee (billed to your card)", "Plus Balance top-ups for SMS/WhatsApp/AI token usage (see features/balance-explained)", "No setup fees. No per-client fees."], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/getting-started/pricing-and-plans.md", "connected": ["getting-started/account-setup", "features/balance-explained", "features/stripe-billing"]}, {"id": "getting-started/what-is-climbo", "label": "What Is Climbo?", "row": "foundations", "summary": "Climbo is a white-label AI reputation management platform you resell to local businesses under your own brand.", "description": "Reputation management is not just getting Google reviews. Here is what it actually covers: 1. Collect reviews — get more positive reviews flowing consistently 2. Protect the rating — give unhappy customers a private feedback channel so they can be heard before posting publicly 3. Reply to every review — with AI-generated, keyword-rich responses 4. Market with reviews — share five-star reviews on social media and your website 5. Keep listings accurate — correct hours, photos, contact info on Goog", "bullets": ["Start by targeting businesses with low review counts, stale ratings, and active competitors beating them on Google — the", "The free trial strategy (\"let me get you 5 reviews for free, no credit card\") consistently converts — once a business ow", "Clients stay because the system keeps working. Churn comes from bad onboarding, not from the product failing."], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/getting-started/what-is-climbo.md", "connected": ["overview", "getting-started/first-client-checklist", "getting-started/account-setup", "sales/finding-clients"]}, {"id": "features/balance-explained", "label": "Balance Explained", "row": "platform", "summary": "Balance is your pre-paid credit pool that covers the cost of SMS messages, WhatsApp messages, and AI tokens used across all your clients.", "description": "Your Climbo Balance is separate from your €99/month subscription. It is a pre-paid credit system — similar to a phone top-up. You add money to your balance, and Climbo deducts from it as you use SMS, WhatsApp, and AI agents. Email is free and does not touch your balance.", "bullets": ["A client getting 50 review requests per month via SMS = approximately $2.50–5.00/month in balance", "A client with 30 incoming reviews/month (SEO Agent replies each) = roughly $0.10–0.20 in AI tokens", "AI token costs are minimal for most use cases"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/balance-explained.md", "connected": ["features/stripe-billing", "ai-agents/overview", "features/review-requests", "getting-started/account-setup", "getting-started/pricing-and-plans"]}, {"id": "features/client-portal", "label": "Client Portal", "row": "platform", "summary": "The client portal is what your clients log into — a fully branded dashboard showing their review stats, rankings, agent activity, and GBP performance.", "description": "When your client logs into (your branded domain), they land on the client portal. This is their view — not your agency view. The portal shows your client: - How many reviews they have and how the count is growing - Their Google rating trend - What the AI agents have been doing - How their GBP is performing (impressions, clicks, calls) - Where they rank versus competitors Clients do not see billing settings, other clients' data, or any reference to Climbo.", "bullets": ["Live log of what each agent has done", "\"SEO Agent replied to 3 reviews today\"", "\"Social Agent published 2 posts to GBP and Instagram\"", "\"GEO Agent updated the website with 1 new article\""], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/client-portal.md", "connected": ["operations/retention", "ai-agents/overview", "features/white-label", "features/google-sheets", "features/mobile-app", "features/gbp-integration", "ai-agents/social-agent"]}, {"id": "features/gbp-integration", "label": "GBP Integration", "row": "platform", "summary": "Connecting Google Business Profile (GBP) is the foundation of everything — reviews, replies, social posts, ranking, and the GEO Agent all depend on it.", "description": "GBP (Google Business Profile) is the free Google listing that appears when someone searches for a local business. It shows the name, address, hours, photos, reviews, and contact info. It is the most important digital asset a local business has. Climbo connects directly to GBP via the Google API. Once connected: - New reviews appear in Climbo automatically - The SEO Agent can publish replies directly to Google - The Social Agent can create GBP posts - Business info edited in Climbo syncs to Googl", "bullets": ["Go to Google Business Profile manager → add a new Manager using your Google account", "Once accepted, you can connect the GBP from your Climbo without needing the client's login credentials", "This also protects you: if the client churns, remove your access. If you own the Manager role, you maintain control."], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/gbp-integration.md", "connected": ["ai-agents/geo-agent", "ai-agents/overview", "features/review-requests", "operations/onboarding-clients", "ai-agents/seo-agent", "getting-started/first-client-checklist", "features/client-portal", "ai-agents/social-agent"]}, {"id": "ai-agents/geo-agent", "label": "GEO Agent", "row": "platform", "summary": "The GEO Agent builds and updates a structured website for your client so they appear when someone asks ChatGPT, Perplexity, or Google AI \"best [service] in [city].\"", "description": "GEO stands for Generative Engine Optimization — the practice of making a business visible in AI search answers, not just traditional Google results. When someone types \"best Italian restaurant in Austin\" into ChatGPT, the AI doesn't check Google's search index. It draws from structured content it can understand: websites with clear schema markup, accurate business data, and consistent information. The GEO Agent makes your clients' websites exactly that. Released: April 17, 2026. This is Climbo's", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/ai-agents/geo-agent.md", "connected": ["ai-agents/overview", "case-studies/community-wins", "ama/README", "features/gbp-integration", "compliance/google-review-policy-2026", "sales/demo-script"]}, {"id": "features/google-sheets", "label": "Google Sheets Integration", "row": "platform", "summary": "Connect a Google Sheet to Climbo so new rows automatically add contacts and trigger review requests — no CRM required.", "description": "Google Sheets integration lets you use a simple spreadsheet as a CRM that feeds Climbo automatically. When a business owner adds a customer to their Google Sheet (name, phone, service date), Climbo picks it up via Zapier and automatically sends that customer a review request at the right time. Released: May 2026. 24 comments in the Skool community on release.", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/google-sheets.md", "connected": ["features/client-portal", "features/review-requests", "operations/retention", "operations/onboarding-clients"]}, {"id": "features/mobile-app", "label": "Mobile App", "row": "platform", "summary": "Climbo has iOS and Android apps for both agency owners and clients to manage reviews and check stats on the go.", "description": "Climbo released its iOS and Android apps in April 2026. Both the agency view and the client view are available on mobile. For clients, this is especially important: they can see their review count growing in real time on their phone. A notification arriving that says \"You got a new 5-star review\" — without them doing anything — is one of the strongest retention signals in the product.", "bullets": ["Review notifications — push notification every time a new review arrives", "Stats at a glance — current rating, total reviews, recent activity", "Quick requests — send a review request to a customer directly from the phone", "AI agent activity — see that the SEO Agent has replied and the Social Agent has posted"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/mobile-app.md", "connected": ["features/client-portal", "getting-started/first-client-checklist", "operations/retention", "features/white-label"]}, {"id": "features/nfc-cards", "label": "NFC Cards", "row": "platform", "summary": "NFC cards let customers tap their phone to a physical card or stand and instantly open the review page — no QR scan, no typing.", "description": "NFC (Near Field Communication) is the same technology that powers contactless payments. When a customer holds their phone near an NFC card or sticker, their phone automatically opens a webpage — in this case, your client's review link. No app download needed. No QR code scan. No typing. Just tap and review. For businesses where staff interacts closely with customers (restaurants, beauty salons, personal trainers, clinics), NFC is often the highest-converting review collection method.", "bullets": ["An NFC card, tag, sticker, or countertop stand (purchased separately — not included in Climbo)", "A device to write (encode) the review URL to the NFC tag", "The client's unique review link from Climbo"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/nfc-cards.md", "connected": ["features/review-requests", "operations/retention", "getting-started/first-client-checklist", "sales/demo-script"]}, {"id": "features/review-requests", "label": "Review Requests", "row": "platform", "summary": "Review requests are the messages you send to customers asking them to leave a review — the fuel that starts the entire flywheel.", "description": "Getting more reviews starts with asking for them. Most businesses don't ask, so they don't get them. Climbo gives your clients three ways to ask — choose the one that fits the business type. This is the most important part of the setup. Giacomo's training states: \"The review collection process is 90% of the sales. If you set it up correctly, they will get results during the free trial. If not, nothing else matters.\"", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/review-requests.md", "connected": ["features/nfc-cards", "features/google-sheets", "operations/onboarding-clients", "ama/README", "ai-agents/seo-agent", "features/gbp-integration", "operations/smtp-setup", "compliance/gdpr-eu", "getting-started/first-client-checklist", "compliance/google-review-policy-2026", "features/balance-explained"]}, {"id": "ai-agents/seo-agent", "label": "SEO Agent", "row": "platform", "summary": "The SEO Agent automatically replies to every Google review using local keywords, improving the client's Maps ranking without any manual effort.", "description": "When a customer leaves a review on Google, the SEO Agent writes and publishes an AI reply within minutes. The reply includes: - The client's business name - The city or neighborhood - The specific service mentioned in the review - A natural, human-sounding tone This matters for ranking because Google's algorithm scores how actively a business responds to reviews. A business with 100 reviews and 100 replies ranks better than one with 100 reviews and 0 replies — all else equal. A typical AI reply ", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/ai-agents/seo-agent.md", "connected": ["ai-agents/overview", "features/review-requests", "features/gbp-integration", "compliance/google-review-policy-2026", "ai-agents/social-agent"]}, {"id": "ai-agents/social-agent", "label": "Social Agent", "row": "platform", "summary": "The Social Agent turns your client's best reviews into social media posts and publishes them automatically to Google Business Profile, Facebook, and Instagram.", "description": "The Social Agent does three things automatically when a new five-star review arrives: 1. Generates a branded image featuring the review text 2. Writes a caption for the post 3. Publishes to Google Business Profile (GBP), Facebook, and/or Instagram No scheduling. No manual posting. No copywriter needed. This matters for two reasons: - GBP ranking: Google favors active profiles. A business that posts weekly ranks above one that posted once in 2022. The Social Agent keeps the profile alive continuo", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/ai-agents/social-agent.md", "connected": ["ai-agents/seo-agent", "ai-agents/overview", "features/gbp-integration", "features/client-portal"]}, {"id": "features/stripe-billing", "label": "Stripe Billing", "row": "platform", "summary": "Climbo connects to your Stripe account so client subscriptions are billed automatically — no invoices to chase, no manual renewals.", "description": "Climbo integrates with Stripe for client billing. Once connected, your clients enter their payment details once during signup and are billed automatically on a recurring schedule. You receive the money in your Stripe account. You do not handle any payment manually. This is what makes the agency model truly passive: clients pay forever without you lifting a finger.", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/stripe-billing.md", "connected": ["features/balance-explained", "getting-started/account-setup", "features/white-label", "getting-started/pricing-and-plans"]}, {"id": "features/white-label", "label": "White-Label", "row": "platform", "summary": "White-label means your clients see your brand entirely — your name, your domain, your AI assistant's name, your colors. Climbo is invisible.", "description": "White-label is the business model that makes Climbo worth €99/month. You are not reselling \"Climbo.\" You are selling your own AI reputation management platform. Your clients see your brand everywhere: the login page, the dashboard, the email notifications, the AI assistant name, the review link they share with customers. From Climbo's 2026 video \"Your AI, Fully Branded\":", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/white-label.md", "connected": ["features/stripe-billing", "overview", "features/mobile-app", "operations/smtp-setup", "getting-started/account-setup", "features/client-portal"]}, {"id": "operations/retention", "label": "Client Retention", "row": "playbook", "summary": "How to keep clients paying month after month — reports, wow moments, upsells, and warning signs.", "description": "A client who signed up and got onboarded is not a retained client yet. Retention happens when the client sees ongoing value, month after month. Most churn in reputation management happens in months 2-3, when the excitement of the first reviews fades. Your job is to keep the value visible.", "bullets": ["The Skool community post \"Onboarding is not optional\" (26 comments) is essentially about retention — clients who get a p", "Month 1 target is 10 reviews; month 3 target is 30 total; by month 6 most clients won't consider cancelling", "Referrals from retained clients are your best source of new clients — one Skool member shared that a long-term client br"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/operations/retention.md", "connected": ["case-studies/community-wins", "features/nfc-cards", "features/google-sheets", "operations/onboarding-clients", "features/mobile-app", "features/client-portal", "getting-started/first-client-checklist"]}, {"id": "sales/demo-script", "label": "Demo Script — Pitching to a Local Business", "row": "playbook", "summary": "You are selling to a local business owner (restaurant, dentist, salon, etc.), not to another agency. Your pitch is about *their* growth on Google, not about yours.", "description": "--- tags: [sales, demo, pitch, local-business] sources: [BRocA7husPU, skool-posts, PLAYBOOK] last_updated: 2026-07-11 ---", "bullets": ["Never lead with \"software.\" Business owners don't care about software. They care about customers.", "The competitor angle is the most powerful hook. Show the gap, not the product.", "NFC card = physical wow moment. Hand it to them, let them tap their own phone. The review page opens in 2 seconds. That'", "Free trial = lowest resistance entry. You pay the balance costs (few cents per SMS) for the trial. It's the cost of acqu", "Keep the AI framing simple: \"It automatically writes replies to your reviews and posts them on your Google page.\" Don't "], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/sales/demo-script.md", "connected": ["ai-agents/geo-agent", "case-studies/community-wins", "features/nfc-cards", "operations/onboarding-clients", "sales/finding-clients", "getting-started/first-client-checklist", "sales/objections"]}, {"id": "sales/finding-clients", "label": "Finding Clients", "row": "playbook", "summary": "Your ideal client is a local business with few reviews, a competitor beating them on Google, and an owner who already values online marketing.", "description": "The best clients for reputation management share four characteristics. Finding them is straightforward once you know where to look. Giacomo's training uses the phrase \"foot in the door\" — your goal is not to sell immediately but to prove the system works first.", "bullets": ["Niche focus works. One community member focused on restaurants for 2.5 months with no results, then closed 5 restaurants", "Industries that respond best: restaurants, dentists, beauty salons, gyms, law firms, plumbers, contractors — any busines", "The free trial converts. Once the owner's phone buzzes with \"New 5-star review,\" the paid sale is effectively closed.", "Tuesday–Thursday are best for cold visits. Mondays owners are swamped; Fridays they leave early."], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/sales/finding-clients.md", "connected": ["case-studies/community-wins", "overview", "getting-started/what-is-climbo", "getting-started/first-client-checklist", "sales/demo-script", "sales/objections"]}, {"id": "getting-started/first-client-checklist", "label": "First Client Checklist", "row": "playbook", "summary": "The exact sequence to take a new client from signed to flywheel-active in 24 hours.", "description": "Onboarding is not optional. The Skool community says it plainly: A client you sign but don't properly onboard is a churn risk within 30 days. A client who sees results in week one stays for years.", "bullets": ["[ ] Create the client in your Climbo dashboard ()", "[ ] Assign the correct plan", "[ ] Apply any coupon code if they're on a trial", "[ ] Send the Welcome Email (customize the template first — see operations/onboarding-clients)", "[ ] Book the onboarding call with a specific time. No vague \"we'll connect soon.\" An actual calendar invite."], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/getting-started/first-client-checklist.md", "connected": ["operations/retention", "features/nfc-cards", "features/review-requests", "features/mobile-app", "operations/onboarding-clients", "getting-started/what-is-climbo", "features/gbp-integration", "getting-started/account-setup", "sales/finding-clients", "sales/demo-script"]}, {"id": "operations/onboarding-clients", "label": "Onboarding Clients", "row": "playbook", "summary": "Step-by-step setup after a client says yes — takes about 30 minutes and sets the tone for the whole relationship.", "description": "Onboarding is not optional. A community post with 26 comments said it best: \"The better you get your clients set up, the longer they stay.\" Every minute you invest in a proper first session pays back in lower churn and fewer support questions later. Plan for one 30-minute screen share or in-person session with the client. You do most of the setup; they watch and confirm details.", "bullets": ["Total setup time: ~30 minutes with a cooperative client", "Do the setup yourself rather than sending instructions — clients who set it up alone are slower to get results and more ", "The first batch of reviews is your best sales material: screenshot them and send to the client with a message like \"Look"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/operations/onboarding-clients.md", "connected": ["operations/retention", "case-studies/community-wins", "features/review-requests", "features/google-sheets", "features/gbp-integration", "operations/smtp-setup", "compliance/gdpr-eu", "getting-started/first-client-checklist", "sales/demo-script"]}, {"id": "operations/smtp-setup", "label": "SMTP Setup", "row": "playbook", "summary": "Connect your own email domain to Climbo so review request emails come from @yourdomain.com instead of a generic address.", "description": "By default, Climbo sends review request emails using its own mail server. This works, but the \"from\" address will not be your brand — it will be a Climbo address. SMTP (Simple Mail Transfer Protocol) lets you connect your own email account so that emails sent by Climbo appear to come from you. Example: instead of , your clients' customers receive a message from or . This feature was announced in the AMA of June 25 2026.", "bullets": ["If you use Gmail (personal), you need to generate an App Password in your Google account security settings — the regular", "Make sure your domain has SPF and DKIM records set correctly, or your emails may still end up in spam even with SMTP con", "The SMTP setting applies to all review request emails across your Climbo account", "This is also where the Email History feature lives — you can review what was sent and when"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/operations/smtp-setup.md", "connected": ["features/white-label", "getting-started/account-setup", "operations/onboarding-clients", "features/review-requests"]}, {"id": "sales/objections", "label": "objections", "row": "playbook", "summary": "", "description": "", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/sales/objections.md", "connected": ["sales/finding-clients", "sales/demo-script"]}, {"id": "ama/README", "label": "AMA Index — @climboapp YouTube", "row": "reference", "summary": "Complete table of all 31 Climbo YouTube videos (Jan 2026–Jul 2026), with key announcements and video IDs.", "description": "Climbo runs a weekly live AMA (Ask Me Anything) on YouTube hosted by Giacomo Chinellato (co-founder). Each AMA serves as a live product changelog — new features are demoed live, and community questions are answered. 25 of the 31 videos are AMA sessions; the rest are standalone training or promo content. Note: (Dec 2024, \"Live streaming di Climbo\") has no transcript available.", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/ama/README.md", "connected": ["overview", "features/review-requests", "ai-agents/geo-agent"]}, {"id": "case-studies/community-wins", "label": "Community Wins", "row": "reference", "summary": "Real stories from Climbo agency owners — what they did, what they got, and what you can learn from each.", "description": "These are real posts from the Climbo Accelerator Skool community (933 members, Nov 2025–Jul 2026). Names and situations are as posted. Use these as models, not scripts. ---", "bullets": ["Free trials are the most common conversion path — show value before asking for payment", "Multi-location clients are the best-value deals (one relationship, multiple fees)", "The first client is the hardest; the pattern repeats much faster afterward", "Sharing wins in the Skool community generates feedback and accountability"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/case-studies/community-wins.md", "connected": ["operations/retention", "ai-agents/geo-agent", "operations/onboarding-clients", "sales/finding-clients", "sales/demo-script"]}, {"id": "compliance/gdpr-eu", "label": "GDPR — EU Compliance for Review Requests", "row": "reference", "summary": "Practical guidance for EU agency owners sending review requests — what you need to know, not legal advice.", "description": "If you're operating in the EU, GDPR applies when you collect and use customer data (names, phone numbers, email addresses) to send review requests. This page covers the basics you need to stay safe in practice. This is not legal advice. If you have specific concerns, consult a lawyer in your country.", "bullets": ["GDPR came up as one of the highest-engagement threads in the Skool community (28 comments, Jan 2026) — it is a real conc", "Climbo's data is stored in their infrastructure; ask Climbo support directly for their DPA if you need one for your clie", "The \"legitimate interest\" basis is generally sufficient for post-transaction review requests to existing customers — you"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/compliance/gdpr-eu.md", "connected": ["compliance/google-review-policy-2026", "features/review-requests", "operations/onboarding-clients"]}, {"id": "compliance/google-review-policy-2026", "label": "Google Review Policy 2026", "row": "reference", "summary": "Google banned review gating in April 2026. Climbo is compliant by design — here's what this means for you and your clients.", "description": "In April 2026, Google updated its Google Business Profile (GBP) Terms of Service to explicitly ban review gating — the practice of pre-filtering customers before sending them to leave a Google review. Review gating means: showing unhappy customers a private feedback form, and only directing happy customers to Google. Many agencies and competitor tools have been doing this for years. As of April 2026, it is a TOS violation and can result in GBP suspension. Climbo does not gate. This is a competit", "bullets": ["This policy update was heavily discussed in the Skool community (46 comments in May 2026 — one of the highest-engagement", "Use \"zero-gating compliance\" as a sales talking point when comparing against other tools", "If a client pressures you to filter reviews, explain the suspension risk — it protects them and you"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/compliance/google-review-policy-2026.md", "connected": ["ai-agents/seo-agent", "compliance/gdpr-eu", "ai-agents/geo-agent", "features/review-requests"]}];
 
-// Build lookup
-const nodeMap = {};
-NODES.forEach(n => nodeMap[n.id] = n);
+const NM = {};
+NODES.forEach(n => NM[n.id] = n);
 
-// State
-let activeNodeId = null;
-let activeTour = null;
-let searchQuery = '';
+let active = null, tour = null, q = '';
 
-// DOM refs
 const canvas = document.getElementById('canvas');
-const canvasInner = document.getElementById('canvasInner');
-const svgOverlay = document.getElementById('svgOverlay');
+const ci = document.getElementById('ci');
+const svg = document.getElementById('svg');
 const panel = document.getElementById('panel');
-const panelInner = document.getElementById('panelInner');
-const searchInput = document.getElementById('search');
+const pi = document.getElementById('pi');
+const search = document.getElementById('search');
 
-// Build rows
-function buildRows() {
-  ROW_ORDER.forEach(rowKey => {
-    const rc = ROW_CONFIG[rowKey];
-    const nodes = NODES.filter(n => n.row === rowKey);
+function pill(id){ return document.getElementById('p-'+id.replace(/\//g,'-')) }
 
-    const rowEl = document.createElement('div');
-    rowEl.className = 'row';
-    rowEl.dataset.row = rowKey;
+function center(el){
+  const cr = ci.getBoundingClientRect(), er = el.getBoundingClientRect();
+  return {x: er.left-cr.left+er.width/2, y: er.top-cr.top+er.height/2};
+}
 
-    rowEl.innerHTML = `
+function buildRows(){
+  ROWS.forEach(rk=>{
+    const rc = RC[rk];
+    const ns = NODES.filter(n=>n.row===rk);
+    const row = document.createElement('div');
+    row.className='row';
+    row.innerHTML=`
       <div class="row-meta">
         <div class="row-label-wrap">
           <div class="row-dot" style="background:${rc.color}"></div>
@@ -473,255 +163,140 @@ function buildRows() {
         </div>
         <span class="row-desc">${rc.desc}</span>
       </div>
-      <div class="row-nodes" id="row-nodes-${rowKey}"></div>
-    `;
-
-    canvasInner.appendChild(rowEl);
-
-    const nodesContainer = rowEl.querySelector('.row-nodes');
-    nodes.forEach(node => {
-      const pill = document.createElement('div');
-      pill.className = 'pill';
-      pill.id = 'pill-' + CSS.escape(node.id);
-      pill.dataset.id = node.id;
-      pill.dataset.row = node.row;
-      pill.style.setProperty('--row-color', rc.color);
-      pill.style.setProperty('--row-color-rgb', rc.rgb);
-      pill.textContent = node.label;
-      pill.addEventListener('click', e => {
-        e.stopPropagation();
-        selectNode(node.id);
-      });
-      nodesContainer.appendChild(pill);
+      <div class="row-nodes" id="rn-${rk}"></div>`;
+    ci.appendChild(row);
+    const cont = row.querySelector('.row-nodes');
+    ns.forEach(n=>{
+      const p = document.createElement('div');
+      p.className='pill'; p.id='p-'+n.id.replace(/\//g,'-');
+      p.dataset.id=n.id; p.dataset.row=n.row;
+      p.style.setProperty('--row-color', rc.color);
+      p.textContent=n.label;
+      p.addEventListener('click',e=>{e.stopPropagation();select(n.id)});
+      cont.appendChild(p);
     });
   });
 }
 
-function getPillEl(id) {
-  return document.getElementById('pill-' + CSS.escape(id));
-}
-
-function getCenter(el) {
-  const canvasRect = canvasInner.getBoundingClientRect();
-  const elRect = el.getBoundingClientRect();
-  return {
-    x: elRect.left - canvasRect.left + elRect.width / 2,
-    y: elRect.top - canvasRect.top + elRect.height / 2,
-  };
-}
-
-function drawLines(nodeId) {
-  // Clear svg
-  svgOverlay.innerHTML = '';
-  svgOverlay.style.height = canvasInner.scrollHeight + 'px';
-
-  const node = nodeMap[nodeId];
-  if (!node) return;
-  const rc = ROW_CONFIG[node.row];
-  const sourceEl = getPillEl(nodeId);
-  if (!sourceEl) return;
-
-  const src = getCenter(sourceEl);
-
-  node.connected.forEach(connId => {
-    const targetEl = getPillEl(connId);
-    if (!targetEl) return;
-    const tgt = getCenter(targetEl);
-
-    // Quadratic bezier control point
-    const mx = (src.x + tgt.x) / 2;
-    const my = (src.y + tgt.y) / 2 - Math.abs(tgt.x - src.x) * 0.2;
-
-    const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-    path.setAttribute('d', `M ${src.x} ${src.y} Q ${mx} ${my} ${tgt.x} ${tgt.y}`);
-    path.setAttribute('fill', 'none');
-    path.setAttribute('stroke', rc.color);
-    path.setAttribute('stroke-width', '1.5');
-    path.setAttribute('stroke-opacity', '0.6');
-    svgOverlay.appendChild(path);
+function lines(id){
+  svg.innerHTML='';
+  svg.style.height=ci.scrollHeight+'px';
+  const n=NM[id]; if(!n) return;
+  const rc=RC[n.row];
+  const se=pill(id); if(!se) return;
+  const s=center(se);
+  n.connected.forEach(cid=>{
+    const te=pill(cid); if(!te) return;
+    const t=center(te);
+    const mx=(s.x+t.x)/2, my=(s.y+t.y)/2 - Math.abs(t.x-s.x)*0.18;
+    const path=document.createElementNS('http://www.w3.org/2000/svg','path');
+    path.setAttribute('d',`M${s.x} ${s.y} Q${mx} ${my} ${t.x} ${t.y}`);
+    path.setAttribute('fill','none');
+    path.setAttribute('stroke',rc.color);
+    path.setAttribute('stroke-width','1.5');
+    path.setAttribute('stroke-opacity','0.55');
+    svg.appendChild(path);
   });
 }
 
-function selectNode(id) {
-  if (activeTour) {
-    // In tour mode, clicking a tour node is fine; exit tour selection
-    activeTour = null;
-    document.querySelectorAll('.tour-btn').forEach(b => b.classList.remove('active'));
-  }
-
-  activeNodeId = id;
-  updatePillStates();
-  drawLines(id);
-  showPanel(id);
-}
-
-function updatePillStates() {
-  const connected = activeNodeId ? new Set(nodeMap[activeNodeId]?.connected || []) : new Set();
-  const tourSet = activeTour ? new Set(TOURS[activeTour]) : null;
-  const tourOrder = activeTour ? TOURS[activeTour] : null;
-
-  NODES.forEach(node => {
-    const el = getPillEl(node.id);
-    if (!el) return;
-
-    // Apply search filter first
-    const matchesSearch = !searchQuery || node.label.toLowerCase().includes(searchQuery) || node.summary.toLowerCase().includes(searchQuery);
-
-    el.classList.remove('active', 'dimmed', 'highlighted');
-
-    // Remove existing badge
-    const existingBadge = el.querySelector('.tour-badge');
-    if (existingBadge) existingBadge.remove();
-    // Reset text
-    el.textContent = node.label;
-
-    if (searchQuery) {
-      if (!matchesSearch) {
-        el.classList.add('dimmed');
+function states(){
+  const conn = active ? new Set(NM[active]?.connected||[]) : new Set();
+  const tset = tour ? new Set(TOURS[tour]) : null;
+  const tord = tour ? TOURS[tour] : null;
+  NODES.forEach(n=>{
+    const el=pill(n.id); if(!el) return;
+    el.classList.remove('active','dimmed','highlighted');
+    const existing=el.querySelector('.badge');
+    if(existing) existing.remove();
+    el.textContent=n.label;
+    const match=!q||n.label.toLowerCase().includes(q)||n.summary.toLowerCase().includes(q);
+    if(q){ if(!match) el.classList.add('dimmed'); return; }
+    if(tset){
+      if(!tset.has(n.id)){ el.classList.add('dimmed'); }
+      else{
+        const idx=tord.indexOf(n.id)+1;
+        const b=document.createElement('span');
+        b.className='badge'; b.style.background=RC[n.row].color; b.textContent=idx;
+        el.prepend(b);
       }
       return;
     }
-
-    if (tourSet) {
-      if (!tourSet.has(node.id)) {
-        el.classList.add('dimmed');
-      } else {
-        const idx = tourOrder.indexOf(node.id) + 1;
-        const badge = document.createElement('span');
-        badge.className = 'tour-badge';
-        badge.textContent = idx;
-        const rc = ROW_CONFIG[node.row];
-        badge.style.background = rc.color;
-        el.prepend(badge);
-      }
-      return;
-    }
-
-    if (activeNodeId) {
-      if (node.id === activeNodeId) {
-        el.classList.add('active');
-      } else if (connected.has(node.id)) {
-        el.classList.add('highlighted');
-      } else {
-        el.classList.add('dimmed');
-      }
+    if(active){
+      if(n.id===active) el.classList.add('active');
+      else if(conn.has(n.id)) el.classList.add('highlighted');
+      else el.classList.add('dimmed');
     }
   });
 }
 
-function showPanel(id) {
-  const node = nodeMap[id];
-  if (!node) return;
-  const rc = ROW_CONFIG[node.row];
-
-  // Group connected by row
-  const groups = {};
-  ROW_ORDER.forEach(r => groups[r] = []);
-  node.connected.forEach(cid => {
-    const cn = nodeMap[cid];
-    if (cn) groups[cn.row].push(cn);
+function showPanel(id){
+  const n=NM[id]; if(!n) return;
+  const rc=RC[n.row];
+  const groups={};
+  ROWS.forEach(r=>groups[r]=[]);
+  n.connected.forEach(cid=>{ const cn=NM[cid]; if(cn) groups[cn.row].push(cn); });
+  let chips='';
+  ROWS.forEach(rk=>{
+    if(!groups[rk].length) return;
+    const crc=RC[rk];
+    chips+=`<div class="p-group">
+      <div class="p-group-label"><span class="dot" style="background:${crc.color}"></span><span style="color:${crc.color}">${crc.label}</span></div>
+      <div class="chips">${groups[rk].map(cn=>`<span class="chip" data-id="${cn.id}">${cn.label}</span>`).join('')}</div>
+    </div>`;
   });
-
-  let chipsHtml = '';
-  ROW_ORDER.forEach(rowKey => {
-    if (!groups[rowKey].length) return;
-    const crc = ROW_CONFIG[rowKey];
-    const chips = groups[rowKey].map(cn =>
-      `<span class="chip" data-id="${cn.id}">${cn.label}</span>`
-    ).join('');
-    chipsHtml += `
-      <div class="connected-group">
-        <div class="connected-group-label">
-          <span class="dot" style="background:${crc.color}"></span>
-          <span style="color:${crc.color}">${crc.label}</span>
-        </div>
-        <div class="connected-chips">${chips}</div>
-      </div>
-    `;
-  });
-
-  panelInner.innerHTML = `
-    <div class="panel-badge" style="background:rgba(${rc.rgb},0.12);color:${rc.color}">
-      <span style="width:6px;height:6px;border-radius:50%;background:${rc.color};display:inline-block"></span>
-      ${rc.label}
+  const bullets = n.bullets && n.bullets.length
+    ? '<ul class="p-bullets">'+n.bullets.map(b=>`<li>${b}</li>`).join('')+'</ul>'
+    : '';
+  pi.innerHTML=`
+    <div class="p-badge" style="background:color-mix(in srgb,${rc.color} 12%,transparent);color:${rc.color}">
+      <span class="p-badge-dot" style="background:${rc.color}"></span>${rc.label}
     </div>
-    <div class="panel-title">${node.label}</div>
-    <div class="panel-summary">${node.summary}</div>
-    <hr class="panel-divider">
-    <div class="connected-title">Connected to</div>
-    ${chipsHtml}
-  `;
-
-  // Chip click handlers
-  panelInner.querySelectorAll('.chip').forEach(chip => {
-    chip.addEventListener('click', () => selectNode(chip.dataset.id));
-  });
-
+    <div class="p-title">${n.label}</div>
+    <div class="p-summary">${n.summary}</div>
+    <div class="p-desc">${n.description}</div>
+    ${bullets}
+    <a class="p-link" href="${n.github_url}" target="_blank">↗ Full article on GitHub</a>
+    <hr class="p-divider">
+    <div class="p-conn-title">Connected to</div>
+    ${chips}`;
+  pi.querySelectorAll('.chip').forEach(c=>c.addEventListener('click',()=>select(c.dataset.id)));
   panel.classList.add('open');
 }
 
-function reset() {
-  activeNodeId = null;
-  activeTour = null;
-  searchQuery = '';
-  searchInput.value = '';
-  document.querySelectorAll('.tour-btn').forEach(b => b.classList.remove('active'));
-  updatePillStates();
-  svgOverlay.innerHTML = '';
-  panel.classList.remove('open');
+function select(id){
+  if(tour){ tour=null; document.querySelectorAll('.tour-btn').forEach(b=>b.classList.remove('active')); }
+  active=id; states(); lines(id); showPanel(id);
 }
 
-// Canvas click → reset
-canvas.addEventListener('click', e => {
-  if (e.target === canvas || e.target === canvasInner || e.target === svgOverlay) {
-    reset();
-  }
-});
+function reset(){
+  active=null; tour=null; q=''; search.value='';
+  document.querySelectorAll('.tour-btn').forEach(b=>b.classList.remove('active'));
+  states(); svg.innerHTML=''; panel.classList.remove('open');
+}
 
-// ESC
-document.addEventListener('keydown', e => {
-  if (e.key === 'Escape') reset();
+canvas.addEventListener('click',e=>{
+  if(e.target===canvas||e.target===ci||e.target===svg) reset();
 });
-
-// Search
-searchInput.addEventListener('input', () => {
-  searchQuery = searchInput.value.trim().toLowerCase();
-  activeNodeId = null;
-  activeTour = null;
-  document.querySelectorAll('.tour-btn').forEach(b => b.classList.remove('active'));
-  svgOverlay.innerHTML = '';
-  panel.classList.remove('open');
-  updatePillStates();
+document.addEventListener('keydown',e=>{ if(e.key==='Escape') reset(); });
+search.addEventListener('input',()=>{
+  q=search.value.trim().toLowerCase();
+  active=null; tour=null;
+  document.querySelectorAll('.tour-btn').forEach(b=>b.classList.remove('active'));
+  svg.innerHTML=''; panel.classList.remove('open'); states();
 });
-
-// Tour buttons
-document.querySelectorAll('.tour-btn').forEach(btn => {
-  btn.addEventListener('click', () => {
-    const tourKey = btn.dataset.tour;
-    if (activeTour === tourKey) {
-      reset();
-      return;
-    }
-    activeTour = tourKey;
-    activeNodeId = null;
-    searchQuery = '';
-    searchInput.value = '';
-    document.querySelectorAll('.tour-btn').forEach(b => b.classList.remove('active'));
+document.querySelectorAll('.tour-btn').forEach(btn=>{
+  btn.addEventListener('click',()=>{
+    const tk=btn.dataset.tour;
+    if(tour===tk){ reset(); return; }
+    tour=tk; active=null; q=''; search.value='';
+    document.querySelectorAll('.tour-btn').forEach(b=>b.classList.remove('active'));
     btn.classList.add('active');
-    svgOverlay.innerHTML = '';
-    panel.classList.remove('open');
-    updatePillStates();
+    svg.innerHTML=''; panel.classList.remove('open'); states();
   });
 });
+canvas.addEventListener('scroll',()=>{ if(active) lines(active); });
 
-// Redraw lines on scroll (positions change)
-canvas.addEventListener('scroll', () => {
-  if (activeNodeId) drawLines(activeNodeId);
-});
-
-// Init
-buildRows();
-updatePillStates();
+buildRows(); states();
 </script>
 </body>
 </html>
