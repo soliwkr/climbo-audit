@@ -1,0 +1,101 @@
+site_name: Climbo Wiki
+site_description: The community knowledge base for Climbo agency owners — beginner to advanced.
+site_url: https://soliwkr.github.io/climbo-audit/
+repo_url: https://github.com/soliwkr/climbo-audit
+repo_name: soliwkr/climbo-audit
+docs_dir: wiki
+site_dir: site
+
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - content.tooltips
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search:
+      lang: en
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/soliwkr/climbo-audit
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@climboapp
+
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Getting Started:
+    - What is Climbo: getting-started/what-is-climbo.md
+    - Account Setup: getting-started/account-setup.md
+    - Pricing & Plans: getting-started/pricing-and-plans.md
+    - First Client Checklist: getting-started/first-client-checklist.md
+  - Features:
+    - Review Requests: features/review-requests.md
+    - NFC Cards: features/nfc-cards.md
+    - Google Business Profile: features/gbp-integration.md
+    - White-Label: features/white-label.md
+    - Client Portal: features/client-portal.md
+    - Stripe Billing: features/stripe-billing.md
+    - Google Sheets: features/google-sheets.md
+    - Mobile App: features/mobile-app.md
+    - Balance Explained: features/balance-explained.md
+  - AI Agents:
+    - Overview: ai-agents/overview.md
+    - SEO Agent: ai-agents/seo-agent.md
+    - Social Agent: ai-agents/social-agent.md
+    - GEO Agent: ai-agents/geo-agent.md
+  - Sales:
+    - Finding Clients: sales/finding-clients.md
+    - Demo Script: sales/demo-script.md
+    - Handling Objections: sales/objections.md
+  - Operations:
+    - Onboarding Clients: operations/onboarding-clients.md
+    - Retention: operations/retention.md
+    - SMTP Setup: operations/smtp-setup.md
+  - Compliance:
+    - Google Review Policy 2026: compliance/google-review-policy-2026.md
+    - GDPR (EU): compliance/gdpr-eu.md
+  - Case Studies: case-studies/community-wins.md
+  - AMA Archive: ama/README.md
