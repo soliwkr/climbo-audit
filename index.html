@@ -12,8 +12,6 @@
   --purple:#A78BFA;--blue:#60A5FA;--green:#34D399;--red:#F87171;
 }
 body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;height:100vh;height:100dvh;display:flex;flex-direction:column;overflow:hidden}
-
-/* HEADER */
 header{display:flex;align-items:center;padding:10px 20px;border-bottom:1px solid var(--border);background:var(--bg);gap:12px;flex-shrink:0;z-index:100}
 .logo{font-size:14px;font-weight:700;white-space:nowrap;letter-spacing:.01em}
 .logo span{color:var(--purple)}
@@ -26,20 +24,12 @@ header{display:flex;align-items:center;padding:10px 20px;border-bottom:1px solid
 .tour-btn{background:var(--surface);border:1px solid var(--border);border-radius:6px;color:var(--muted);font-size:12px;padding:6px 13px;cursor:pointer;transition:all .15s;white-space:nowrap}
 .tour-btn:hover{border-color:var(--muted);color:var(--text)}
 .tour-btn.active{border-color:var(--purple);color:var(--purple);background:rgba(167,139,250,.08)}
-
-/* LAYOUT */
 .layout{display:flex;flex:1;overflow:hidden;position:relative}
-
-/* BACKDROP */
 .backdrop{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:490;opacity:0;transition:opacity .25s;pointer-events:none}
 .backdrop.visible{opacity:1;pointer-events:auto}
-
-/* CANVAS */
 .canvas{flex:1;overflow-y:auto;overflow-x:hidden;position:relative;padding:24px 28px 80px}
 .canvas-inner{position:relative;min-height:100%}
 .svg-overlay{position:absolute;top:0;left:0;width:100%;pointer-events:none;overflow:visible}
-
-/* ROWS */
 .row{display:flex;align-items:flex-start;gap:16px;margin-bottom:24px}
 .row-meta{display:flex;flex-direction:column;gap:2px;width:160px;flex-shrink:0;padding-top:5px}
 .row-label-wrap{display:flex;align-items:center;gap:6px}
@@ -47,104 +37,94 @@ header{display:flex;align-items:center;padding:10px 20px;border-bottom:1px solid
 .row-label{font-size:10px;font-weight:800;letter-spacing:.1em;text-transform:uppercase}
 .row-desc{font-size:10px;color:var(--muted);margin-left:13px}
 .row-nodes{flex:1;display:flex;flex-wrap:wrap;gap:7px;align-content:flex-start}
-
-/* PILLS */
 .pill{position:relative;display:inline-flex;align-items:center;gap:5px;padding:6px 13px;border-radius:20px;background:var(--surface);border:1px solid var(--border);color:var(--text);font-size:12px;font-weight:500;cursor:pointer;transition:opacity .2s,border-color .2s,box-shadow .2s,background .2s;user-select:none;white-space:nowrap;-webkit-tap-highlight-color:transparent}
 .pill:hover{border-color:var(--muted)}
 .pill.active{border-color:var(--row-color);box-shadow:0 0 0 1px var(--row-color),0 0 10px color-mix(in srgb,var(--row-color) 30%,transparent);background:color-mix(in srgb,var(--row-color) 8%,var(--surface))}
 .pill.dimmed{opacity:.1;pointer-events:none}
 .pill.highlighted{opacity:1;border-color:var(--row-color)}
 .pill .badge{display:inline-flex;align-items:center;justify-content:center;width:15px;height:15px;border-radius:50%;color:#000;font-size:8px;font-weight:900;flex-shrink:0}
-
-/* PANEL */
-.panel{width:400px;flex-shrink:0;background:var(--surface);border-left:1px solid var(--border);display:flex;flex-direction:column;transform:translateX(100%);transition:transform .25s cubic-bezier(.16,1,.3,1)}
+.panel{width:420px;flex-shrink:0;background:var(--surface);border-left:1px solid var(--border);display:flex;flex-direction:column;transform:translateX(100%);transition:transform .25s cubic-bezier(.16,1,.3,1)}
 .panel.open{transform:translateX(0)}
-
-/* PANEL HANDLE (mobile only) */
 .panel-handle{display:none;height:28px;align-items:center;justify-content:center;flex-shrink:0;position:relative}
 .panel-handle::after{content:'';width:36px;height:4px;background:var(--muted2);border-radius:2px}
 .panel-close{display:none;position:absolute;right:14px;top:50%;transform:translateY(-50%);width:28px;height:28px;border-radius:50%;background:var(--surface2);border:1px solid var(--border);color:var(--muted);font-size:14px;cursor:pointer;align-items:center;justify-content:center;-webkit-tap-highlight-color:transparent}
 .panel-close:hover{color:var(--text);border-color:var(--muted)}
-
 .panel-inner{flex:1;overflow-y:auto;padding:22px}
 .panel-inner::-webkit-scrollbar{width:4px}
 .panel-inner::-webkit-scrollbar-track{background:transparent}
 .panel-inner::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
-
 .p-badge{display:inline-flex;align-items:center;gap:5px;font-size:9px;font-weight:800;letter-spacing:.09em;text-transform:uppercase;padding:3px 9px;border-radius:4px;margin-bottom:12px}
 .p-badge-dot{width:5px;height:5px;border-radius:50%;flex-shrink:0}
-.p-title{font-size:20px;font-weight:700;line-height:1.3;margin-bottom:10px}
-.p-summary{font-size:13px;font-weight:600;color:#8b949e;margin-bottom:10px;line-height:1.5;font-style:italic}
-.p-desc{font-size:13px;color:#8b949e;line-height:1.65;margin-bottom:14px}
-.p-bullets{margin-bottom:16px;padding-left:0;list-style:none;display:flex;flex-direction:column;gap:5px}
-.p-bullets li{font-size:12px;color:#8b949e;line-height:1.5;padding-left:14px;position:relative}
-.p-bullets li::before{content:'→';position:absolute;left:0;color:var(--muted2)}
-.p-link{display:inline-flex;align-items:center;gap:5px;font-size:12px;color:var(--muted);border:1px solid var(--border);border-radius:5px;padding:4px 10px;text-decoration:none;transition:all .15s;margin-bottom:18px}
-.p-link:hover{border-color:var(--muted);color:var(--text)}
-.p-divider{border:none;border-top:1px solid var(--border);margin-bottom:16px}
+.p-divider{border:none;border-top:1px solid var(--border);margin:16px 0}
 .p-conn-title{font-size:9px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
 .p-group{margin-bottom:12px}
 .p-group-label{display:flex;align-items:center;gap:5px;font-size:9px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;margin-bottom:6px}
 .p-group-label .dot{width:5px;height:5px;border-radius:50%;flex-shrink:0}
 .chips{display:flex;flex-wrap:wrap;gap:5px}
-.ilink{color:var(--blue);cursor:pointer;text-decoration:underline;text-decoration-style:dotted;text-underline-offset:2px;font-weight:500}
-.ilink:hover{color:var(--text)}
 .chip{padding:5px 11px;border-radius:10px;background:var(--bg);border:1px solid var(--border);font-size:10px;color:var(--text);cursor:pointer;transition:border-color .15s;-webkit-tap-highlight-color:transparent}
 .chip:hover{border-color:var(--muted)}
-
-/* STATS */
 .stats{position:fixed;bottom:12px;left:20px;font-size:10px;color:var(--muted2);z-index:200;pointer-events:none;letter-spacing:.02em}
-
-/* SCROLLBAR */
 .canvas::-webkit-scrollbar{width:5px}
 .canvas::-webkit-scrollbar-track{background:transparent}
 .canvas::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
 
-/* ===================== MOBILE ===================== */
+/* ARTICLE BODY */
+.article-body h1{font-size:22px;font-weight:700;margin:0 0 16px;color:var(--text)}
+.article-body h2{font-size:16px;font-weight:700;margin:20px 0 8px;color:var(--text);padding-top:4px;border-top:1px solid var(--border)}
+.article-body h3{font-size:14px;font-weight:600;margin:16px 0 6px;color:var(--text)}
+.article-body p{font-size:13px;color:#8b949e;line-height:1.7;margin:0 0 10px}
+.article-body ul,.article-body ol{padding-left:18px;margin:0 0 10px}
+.article-body li{font-size:13px;color:#8b949e;line-height:1.6;margin-bottom:4px}
+.article-body code{background:var(--surface2);border:1px solid var(--border);border-radius:3px;padding:1px 5px;font-size:11px;font-family:'JetBrains Mono',monospace}
+.article-body pre{background:var(--surface2);border:1px solid var(--border);border-radius:6px;padding:12px;margin:0 0 12px;overflow-x:auto}
+.article-body pre code{background:none;border:none;padding:0;font-size:11px}
+.article-body blockquote{border-left:3px solid var(--purple);padding:8px 12px;margin:0 0 10px;background:color-mix(in srgb,var(--purple) 6%,transparent);border-radius:0 4px 4px 0}
+.article-body blockquote p{margin:0;color:var(--text);font-style:italic;font-size:13px}
+.article-body hr{border:none;border-top:1px solid var(--border);margin:16px 0}
+.article-body strong{color:var(--text);font-weight:600}
+.article-body table{width:100%;border-collapse:collapse;margin:0 0 12px;font-size:12px}
+.article-body th{text-align:left;padding:6px 8px;border-bottom:1px solid var(--border);color:var(--muted);font-weight:600;font-size:10px;text-transform:uppercase;letter-spacing:.05em}
+.article-body td{padding:6px 8px;border-bottom:1px solid var(--border);color:#8b949e}
+.article-body a.wikilink{color:var(--blue);text-decoration:underline;text-decoration-style:dotted;text-underline-offset:2px;cursor:pointer;font-weight:500}
+.article-body a.wikilink:hover{color:var(--text)}
+.article-body a:not(.wikilink){color:var(--muted);font-size:12px}
+
+/* NEXT NAV */
+.next-nav{margin-top:20px;padding-top:16px;border-top:1px solid var(--border)}
+.next-nav-label{font-size:9px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.next-chip{display:inline-flex;align-items:center;gap:6px;padding:8px 14px;border-radius:8px;background:var(--surface2);border:1px solid var(--border);color:var(--text);cursor:pointer;font-size:12px;font-weight:500;transition:all .15s;text-decoration:none}
+.next-chip:hover{border-color:var(--muted);background:var(--surface)}
+.next-chip .arrow{font-size:14px}
+
+/* TOUR PROGRESS */
+.tour-progress{display:flex;align-items:center;gap:8px;padding:10px 14px;background:color-mix(in srgb,var(--purple) 6%,transparent);border-radius:8px;margin-bottom:16px;flex-wrap:wrap}
+.tp-label{font-size:10px;font-weight:700;color:var(--purple);flex:1;white-space:nowrap}
+.tp-dots{display:flex;gap:4px;align-items:center}
+.tp-dot{width:7px;height:7px;border-radius:50%;background:var(--muted2);transition:background .2s}
+.tp-dot.done{background:var(--purple)}
+.tp-dot.current{background:var(--purple);box-shadow:0 0 0 2px color-mix(in srgb,var(--purple) 30%,transparent)}
+.tp-btn{background:var(--surface);border:1px solid var(--border);border-radius:5px;color:var(--muted);font-size:11px;padding:3px 9px;cursor:pointer;transition:all .15s;white-space:nowrap;-webkit-tap-highlight-color:transparent}
+.tp-btn:hover{color:var(--text);border-color:var(--muted)}
+.tp-btn:disabled{opacity:.3;pointer-events:none}
+
+/* MOBILE */
 @media (max-width: 767px) {
   body{height:100dvh}
-
-  /* Header */
   header{flex-wrap:wrap;height:auto;padding:10px 14px;gap:8px}
   .logo{flex:0 0 100%;font-size:14px}
   .logo small{display:none}
   .search-wrap{flex:1;max-width:none;min-width:100px;margin:0}
   .tours{flex:0 0 auto;max-width:calc(100% - 130px);overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none}
   .tours::-webkit-scrollbar{display:none}
-
-  /* Pills */
   .pill{font-size:13px;padding:8px 14px}
-
-  /* Row layout */
   .row{flex-direction:column;gap:8px}
   .row-meta{width:100%;flex-direction:row;align-items:center;padding-top:0}
-
-  /* Canvas */
   .canvas{padding:16px 14px 140px}
-
-  /* Backdrop */
   .backdrop{display:block}
-
-  /* Panel — bottom sheet */
-  .panel{
-    position:fixed;
-    bottom:0;left:0;right:0;
-    width:100%;
-    height:70vh;max-height:80vh;
-    border-left:none;
-    border-top:1px solid var(--border);
-    border-radius:16px 16px 0 0;
-    transform:translateY(100%);
-    z-index:500;
-    box-shadow:0 -8px 40px rgba(0,0,0,.5);
-  }
+  .panel{position:fixed;bottom:0;left:0;right:0;width:100%;height:70vh;max-height:80vh;border-left:none;border-top:1px solid var(--border);border-radius:16px 16px 0 0;transform:translateY(100%);z-index:500;box-shadow:0 -8px 40px rgba(0,0,0,.5)}
   .panel.open{transform:translateY(0)}
-
-  /* Panel handle & close */
   .panel-handle{display:flex}
   .panel-close{display:flex}
-
-  /* Stats bar */
   .stats{display:none}
 }
 </style>
@@ -194,11 +174,2014 @@ const TOURS = {
   operational:['operations/onboarding-clients','operations/retention','operations/smtp-setup','compliance/google-review-policy-2026','ai-agents/geo-agent'],
 };
 
-const NODES = [{"id": "ai-agents/overview", "label": "AI Agents Overview", "row": "foundations", "summary": "Three AI agents run automatically in the background, turning each new review into SEO value, social content, and AI search visibility.", "description": "Climbo has three AI agents. You enable them during client onboarding and they run on autopilot forever after. Your client does not need to understand them — they just see the results. The agents work together as a loop: every incoming review feeds all three agents, which together improve the client's visibility across Google, social media, and AI search engines. ```` This is the Review Marketing Flywheel. It compounds over time. A client with 10 reviews benefits less than one with 100, which ben", "bullets": ["You can run \"reply to all past reviews\" with one click — useful for clients who have 50+ unanswered reviews from years p", "The AI name that appears to clients is your branded AI name (configured in Brand), not \"Climbo AI\"", "If a client asks ChatGPT about their business type in their city and the business doesn't appear, the GEO Agent is the f", "Agents use tokens from your Balance. At $6.60 per 1M tokens, the cost is minimal for most clients"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/ai-agents/overview.md", "connected": ["ai-agents/geo-agent", "overview", "ai-agents/seo-agent", "features/gbp-integration", "features/balance-explained", "ai-agents/social-agent", "features/client-portal"]}, {"id": "getting-started/account-setup", "label": "Account Setup", "row": "foundations", "summary": "Everything you need to configure before signing your first client — brand, billing, email, and balance.", "description": "When you first log into , you land on a mostly-blank agency dashboard. Before you touch the client section, complete your agency setup. This takes 1–2 hours and you only do it once. The dashboard has six main sections: Clients, Plans, Brand, Sales, Settings, Support.", "bullets": ["Brand Name — your agency name (what clients see everywhere)", "Custom Domain — a subdomain like  (point it to Climbo's DNS)", "Logo — your agency logo, shown on the login page and inside the platform", "Colors and Font — match your existing brand", "AI Brand Name — the name your AI assistant shows to clients (e.g., \"Aria\" or \"MaxAI\")"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/getting-started/account-setup.md", "connected": ["features/stripe-billing", "features/white-label", "getting-started/what-is-climbo", "operations/smtp-setup", "getting-started/pricing-and-plans", "features/balance-explained", "getting-started/first-client-checklist"]}, {"id": "overview", "label": "Climbo Overview", "row": "foundations", "summary": "Climbo is the white-label AI platform you use to run a reputation management agency — your clients see your brand, you keep the margin.", "description": "Climbo is a SaaS platform built for agency owners, not for local businesses directly. You pay €99/month flat. You rebrand the entire platform with your name, logo, and domain. You resell it to local businesses (restaurants, dentists, gyms, law firms, contractors) at whatever price you choose — typically $99–$500/month per client. Every client you add increases your profit; your cost stays fixed at €99. The core promise to your clients: more Google reviews, higher ranking, more customers — all au", "bullets": ["SEO Agent — automatically replies to Google reviews using the client's business name, city, and service keywords", "Social Agent — turns the best reviews into image + caption posts on Google Business Profile (GBP), Facebook, and Instagr", "GEO Agent — builds and updates a website/blog so the client gets cited by AI search engines like ChatGPT and Perplexity "], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/overview.md", "connected": ["ai-agents/overview", "features/white-label", "getting-started/what-is-climbo", "ama/README", "sales/finding-clients"]}, {"id": "getting-started/pricing-and-plans", "label": "Pricing and Plans", "row": "foundations", "summary": "You pay €99/month to Climbo; you charge clients whatever you want — typical range is $99–$500/month.", "description": "Climbo's pricing to you is simple: €99/month flat. Unlimited clients. All features. No per-seat fees, no percentage of revenue. Your pricing to clients is entirely up to you. You set the plans, the names, the prices, and what features each plan includes. Climbo's Plans section is where you create these.", "bullets": ["€99/month agency fee (billed to your card)", "Plus Balance top-ups for SMS/WhatsApp/AI token usage (see features/balance-explained)", "No setup fees. No per-client fees."], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/getting-started/pricing-and-plans.md", "connected": ["getting-started/account-setup", "features/balance-explained", "features/stripe-billing"]}, {"id": "getting-started/what-is-climbo", "label": "What Is Climbo?", "row": "foundations", "summary": "Climbo is a white-label AI reputation management platform you resell to local businesses under your own brand.", "description": "Reputation management is not just getting Google reviews. Here is what it actually covers: 1. Collect reviews — get more positive reviews flowing consistently 2. Protect the rating — give unhappy customers a private feedback channel so they can be heard before posting publicly 3. Reply to every review — with AI-generated, keyword-rich responses 4. Market with reviews — share five-star reviews on social media and your website 5. Keep listings accurate — correct hours, photos, contact info on Goog", "bullets": ["Start by targeting businesses with low review counts, stale ratings, and active competitors beating them on Google — the", "The free trial strategy (\"let me get you 5 reviews for free, no credit card\") consistently converts — once a business ow", "Clients stay because the system keeps working. Churn comes from bad onboarding, not from the product failing."], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/getting-started/what-is-climbo.md", "connected": ["overview", "getting-started/first-client-checklist", "getting-started/account-setup", "sales/finding-clients"]}, {"id": "features/balance-explained", "label": "Balance Explained", "row": "platform", "summary": "Balance is your pre-paid credit pool that covers the cost of SMS messages, WhatsApp messages, and AI tokens used across all your clients.", "description": "Your Climbo Balance is separate from your €99/month subscription. It is a pre-paid credit system — similar to a phone top-up. You add money to your balance, and Climbo deducts from it as you use SMS, WhatsApp, and AI agents. Email is free and does not touch your balance.", "bullets": ["A client getting 50 review requests per month via SMS = approximately $2.50–5.00/month in balance", "A client with 30 incoming reviews/month (SEO Agent replies each) = roughly $0.10–0.20 in AI tokens", "AI token costs are minimal for most use cases"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/balance-explained.md", "connected": ["features/stripe-billing", "ai-agents/overview", "features/review-requests", "getting-started/account-setup", "getting-started/pricing-and-plans"]}, {"id": "features/client-portal", "label": "Client Portal", "row": "platform", "summary": "The client portal is what your clients log into — a fully branded dashboard showing their review stats, rankings, agent activity, and GBP performance.", "description": "When your client logs into (your branded domain), they land on the client portal. This is their view — not your agency view. The portal shows your client: - How many reviews they have and how the count is growing - Their Google rating trend - What the AI agents have been doing - How their GBP is performing (impressions, clicks, calls) - Where they rank versus competitors Clients do not see billing settings, other clients' data, or any reference to Climbo.", "bullets": ["Live log of what each agent has done", "\"SEO Agent replied to 3 reviews today\"", "\"Social Agent published 2 posts to GBP and Instagram\"", "\"GEO Agent updated the website with 1 new article\""], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/client-portal.md", "connected": ["operations/retention", "ai-agents/overview", "features/white-label", "features/google-sheets", "features/mobile-app", "features/gbp-integration", "ai-agents/social-agent"]}, {"id": "features/gbp-integration", "label": "GBP Integration", "row": "platform", "summary": "Connecting Google Business Profile (GBP) is the foundation of everything — reviews, replies, social posts, ranking, and the GEO Agent all depend on it.", "description": "GBP (Google Business Profile) is the free Google listing that appears when someone searches for a local business. It shows the name, address, hours, photos, reviews, and contact info. It is the most important digital asset a local business has. Climbo connects directly to GBP via the Google API. Once connected: - New reviews appear in Climbo automatically - The SEO Agent can publish replies directly to Google - The Social Agent can create GBP posts - Business info edited in Climbo syncs to Googl", "bullets": ["Go to Google Business Profile manager → add a new Manager using your Google account", "Once accepted, you can connect the GBP from your Climbo without needing the client's login credentials", "This also protects you: if the client churns, remove your access. If you own the Manager role, you maintain control."], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/gbp-integration.md", "connected": ["ai-agents/geo-agent", "ai-agents/overview", "features/review-requests", "operations/onboarding-clients", "ai-agents/seo-agent", "getting-started/first-client-checklist", "features/client-portal", "ai-agents/social-agent"]}, {"id": "ai-agents/geo-agent", "label": "GEO Agent", "row": "platform", "summary": "The GEO Agent builds and updates a structured website for your client so they appear when someone asks ChatGPT, Perplexity, or Google AI \"best [service] in [city].\"", "description": "GEO stands for Generative Engine Optimization — the practice of making a business visible in AI search answers, not just traditional Google results. When someone types \"best Italian restaurant in Austin\" into ChatGPT, the AI doesn't check Google's search index. It draws from structured content it can understand: websites with clear schema markup, accurate business data, and consistent information. The GEO Agent makes your clients' websites exactly that. Released: April 17, 2026. This is Climbo's", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/ai-agents/geo-agent.md", "connected": ["ai-agents/overview", "case-studies/community-wins", "ama/README", "features/gbp-integration", "compliance/google-review-policy-2026", "sales/demo-script"]}, {"id": "features/google-sheets", "label": "Google Sheets Integration", "row": "platform", "summary": "Connect a Google Sheet to Climbo so new rows automatically add contacts and trigger review requests — no CRM required.", "description": "Google Sheets integration lets you use a simple spreadsheet as a CRM that feeds Climbo automatically. When a business owner adds a customer to their Google Sheet (name, phone, service date), Climbo picks it up via Zapier and automatically sends that customer a review request at the right time. Released: May 2026. 24 comments in the Skool community on release.", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/google-sheets.md", "connected": ["features/client-portal", "features/review-requests", "operations/retention", "operations/onboarding-clients"]}, {"id": "features/mobile-app", "label": "Mobile App", "row": "platform", "summary": "Climbo has iOS and Android apps for both agency owners and clients to manage reviews and check stats on the go.", "description": "Climbo released its iOS and Android apps in April 2026. Both the agency view and the client view are available on mobile. For clients, this is especially important: they can see their review count growing in real time on their phone. A notification arriving that says \"You got a new 5-star review\" — without them doing anything — is one of the strongest retention signals in the product.", "bullets": ["Review notifications — push notification every time a new review arrives", "Stats at a glance — current rating, total reviews, recent activity", "Quick requests — send a review request to a customer directly from the phone", "AI agent activity — see that the SEO Agent has replied and the Social Agent has posted"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/mobile-app.md", "connected": ["features/client-portal", "getting-started/first-client-checklist", "operations/retention", "features/white-label"]}, {"id": "features/nfc-cards", "label": "NFC Cards", "row": "platform", "summary": "NFC cards let customers tap their phone to a physical card or stand and instantly open the review page — no QR scan, no typing.", "description": "NFC (Near Field Communication) is the same technology that powers contactless payments. When a customer holds their phone near an NFC card or sticker, their phone automatically opens a webpage — in this case, your client's review link. No app download needed. No QR code scan. No typing. Just tap and review. For businesses where staff interacts closely with customers (restaurants, beauty salons, personal trainers, clinics), NFC is often the highest-converting review collection method.", "bullets": ["An NFC card, tag, sticker, or countertop stand (purchased separately — not included in Climbo)", "A device to write (encode) the review URL to the NFC tag", "The client's unique review link from Climbo"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/nfc-cards.md", "connected": ["features/review-requests", "operations/retention", "getting-started/first-client-checklist", "sales/demo-script"]}, {"id": "features/review-requests", "label": "Review Requests", "row": "platform", "summary": "Review requests are the messages you send to customers asking them to leave a review — the fuel that starts the entire flywheel.", "description": "Getting more reviews starts with asking for them. Most businesses don't ask, so they don't get them. Climbo gives your clients three ways to ask — choose the one that fits the business type. This is the most important part of the setup. Giacomo's training states: \"The review collection process is 90% of the sales. If you set it up correctly, they will get results during the free trial. If not, nothing else matters.\"", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/review-requests.md", "connected": ["features/nfc-cards", "features/google-sheets", "operations/onboarding-clients", "ama/README", "ai-agents/seo-agent", "features/gbp-integration", "operations/smtp-setup", "compliance/gdpr-eu", "getting-started/first-client-checklist", "compliance/google-review-policy-2026", "features/balance-explained"]}, {"id": "ai-agents/seo-agent", "label": "SEO Agent", "row": "platform", "summary": "The SEO Agent automatically replies to every Google review using local keywords, improving the client's Maps ranking without any manual effort.", "description": "When a customer leaves a review on Google, the SEO Agent writes and publishes an AI reply within minutes. The reply includes: - The client's business name - The city or neighborhood - The specific service mentioned in the review - A natural, human-sounding tone This matters for ranking because Google's algorithm scores how actively a business responds to reviews. A business with 100 reviews and 100 replies ranks better than one with 100 reviews and 0 replies — all else equal. A typical AI reply ", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/ai-agents/seo-agent.md", "connected": ["ai-agents/overview", "features/review-requests", "features/gbp-integration", "compliance/google-review-policy-2026", "ai-agents/social-agent"]}, {"id": "ai-agents/social-agent", "label": "Social Agent", "row": "platform", "summary": "The Social Agent turns your client's best reviews into social media posts and publishes them automatically to Google Business Profile, Facebook, and Instagram.", "description": "The Social Agent does three things automatically when a new five-star review arrives: 1. Generates a branded image featuring the review text 2. Writes a caption for the post 3. Publishes to Google Business Profile (GBP), Facebook, and/or Instagram No scheduling. No manual posting. No copywriter needed. This matters for two reasons: - GBP ranking: Google favors active profiles. A business that posts weekly ranks above one that posted once in 2022. The Social Agent keeps the profile alive continuo", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/ai-agents/social-agent.md", "connected": ["ai-agents/seo-agent", "ai-agents/overview", "features/gbp-integration", "features/client-portal"]}, {"id": "features/stripe-billing", "label": "Stripe Billing", "row": "platform", "summary": "Climbo connects to your Stripe account so client subscriptions are billed automatically — no invoices to chase, no manual renewals.", "description": "Climbo integrates with Stripe for client billing. Once connected, your clients enter their payment details once during signup and are billed automatically on a recurring schedule. You receive the money in your Stripe account. You do not handle any payment manually. This is what makes the agency model truly passive: clients pay forever without you lifting a finger.", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/stripe-billing.md", "connected": ["features/balance-explained", "getting-started/account-setup", "features/white-label", "getting-started/pricing-and-plans"]}, {"id": "features/white-label", "label": "White-Label", "row": "platform", "summary": "White-label means your clients see your brand entirely — your name, your domain, your AI assistant's name, your colors. Climbo is invisible.", "description": "White-label is the business model that makes Climbo worth €99/month. You are not reselling \"Climbo.\" You are selling your own AI reputation management platform. Your clients see your brand everywhere: the login page, the dashboard, the email notifications, the AI assistant name, the review link they share with customers. From Climbo's 2026 video \"Your AI, Fully Branded\":", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/features/white-label.md", "connected": ["features/stripe-billing", "overview", "features/mobile-app", "operations/smtp-setup", "getting-started/account-setup", "features/client-portal"]}, {"id": "operations/retention", "label": "Client Retention", "row": "playbook", "summary": "How to keep clients paying month after month — reports, wow moments, upsells, and warning signs.", "description": "A client who signed up and got onboarded is not a retained client yet. Retention happens when the client sees ongoing value, month after month. Most churn in reputation management happens in months 2-3, when the excitement of the first reviews fades. Your job is to keep the value visible.", "bullets": ["The Skool community post \"Onboarding is not optional\" (26 comments) is essentially about retention — clients who get a p", "Month 1 target is 10 reviews; month 3 target is 30 total; by month 6 most clients won't consider cancelling", "Referrals from retained clients are your best source of new clients — one Skool member shared that a long-term client br"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/operations/retention.md", "connected": ["case-studies/community-wins", "features/nfc-cards", "features/google-sheets", "operations/onboarding-clients", "features/mobile-app", "features/client-portal", "getting-started/first-client-checklist"]}, {"id": "sales/demo-script", "label": "Demo Script — Pitching to a Local Business", "row": "playbook", "summary": "You are selling to a local business owner (restaurant, dentist, salon, etc.), not to another agency. Your pitch is about *their* growth on Google, not about yours.", "description": "Non stai vendendo software. Stai vendendo un risultato: più visibilità, più clienti, più fatturato. Inizia con il competitor gap — mostra su Google Maps che il concorrente ha 5× più recensioni. La NFC card è il tuo wow moment: consegnala al titolare, lascia che tocchi il suo telefono, e la pagina delle recensioni si apre in 2 secondi. Offri un free trial ('Ti prendo 5 recensioni questa settimana gratis, zero impegno') — questo elimina ogni resistenza. Quando vedono i risultati, l'offerta a pagamento si chiude da sola.", "bullets": ["Never lead with \"software.\" Business owners don't care about software. They care about customers.", "The competitor angle is the most powerful hook. Show the gap, not the product.", "NFC card = physical wow moment. Hand it to them, let them tap their own phone. The review page opens in 2 seconds. That'", "Free trial = lowest resistance entry. You pay the balance costs (few cents per SMS) for the trial. It's the cost of acqu", "Keep the AI framing simple: \"It automatically writes replies to your reviews and posts them on your Google page.\" Don't "], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/sales/demo-script.md", "connected": ["ai-agents/geo-agent", "case-studies/community-wins", "features/nfc-cards", "operations/onboarding-clients", "sales/finding-clients", "getting-started/first-client-checklist", "sales/objections"]}, {"id": "sales/finding-clients", "label": "Finding Clients", "row": "playbook", "summary": "Your ideal client is a local business with few reviews, a competitor beating them on Google, and an owner who already values online marketing.", "description": "The best clients for reputation management share four characteristics. Finding them is straightforward once you know where to look. Giacomo's training uses the phrase \"foot in the door\" — your goal is not to sell immediately but to prove the system works first.", "bullets": ["Niche focus works. One community member focused on restaurants for 2.5 months with no results, then closed 5 restaurants", "Industries that respond best: restaurants, dentists, beauty salons, gyms, law firms, plumbers, contractors — any busines", "The free trial converts. Once the owner's phone buzzes with \"New 5-star review,\" the paid sale is effectively closed.", "Tuesday–Thursday are best for cold visits. Mondays owners are swamped; Fridays they leave early."], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/sales/finding-clients.md", "connected": ["case-studies/community-wins", "overview", "getting-started/what-is-climbo", "getting-started/first-client-checklist", "sales/demo-script", "sales/objections"]}, {"id": "getting-started/first-client-checklist", "label": "First Client Checklist", "row": "playbook", "summary": "The exact sequence to take a new client from signed to flywheel-active in 24 hours.", "description": "Onboarding is not optional. The Skool community says it plainly: A client you sign but don't properly onboard is a churn risk within 30 days. A client who sees results in week one stays for years.", "bullets": ["[ ] Create the client in your Climbo dashboard ()", "[ ] Assign the correct plan", "[ ] Apply any coupon code if they're on a trial", "[ ] Send the Welcome Email (customize the template first — see operations/onboarding-clients)", "[ ] Book the onboarding call with a specific time. No vague \"we'll connect soon.\" An actual calendar invite."], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/getting-started/first-client-checklist.md", "connected": ["operations/retention", "features/nfc-cards", "features/review-requests", "features/mobile-app", "operations/onboarding-clients", "getting-started/what-is-climbo", "features/gbp-integration", "getting-started/account-setup", "sales/finding-clients", "sales/demo-script"]}, {"id": "operations/onboarding-clients", "label": "Onboarding Clients", "row": "playbook", "summary": "Step-by-step setup after a client says yes — takes about 30 minutes and sets the tone for the whole relationship.", "description": "Onboarding is not optional. A community post with 26 comments said it best: \"The better you get your clients set up, the longer they stay.\" Every minute you invest in a proper first session pays back in lower churn and fewer support questions later. Plan for one 30-minute screen share or in-person session with the client. You do most of the setup; they watch and confirm details.", "bullets": ["Total setup time: ~30 minutes with a cooperative client", "Do the setup yourself rather than sending instructions — clients who set it up alone are slower to get results and more ", "The first batch of reviews is your best sales material: screenshot them and send to the client with a message like \"Look"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/operations/onboarding-clients.md", "connected": ["operations/retention", "case-studies/community-wins", "features/review-requests", "features/google-sheets", "features/gbp-integration", "operations/smtp-setup", "compliance/gdpr-eu", "getting-started/first-client-checklist", "sales/demo-script"]}, {"id": "operations/smtp-setup", "label": "SMTP Setup", "row": "playbook", "summary": "Connect your own email domain to Climbo so review request emails come from @yourdomain.com instead of a generic address.", "description": "By default, Climbo sends review request emails using its own mail server. This works, but the \"from\" address will not be your brand — it will be a Climbo address. SMTP (Simple Mail Transfer Protocol) lets you connect your own email account so that emails sent by Climbo appear to come from you. Example: instead of , your clients' customers receive a message from or . This feature was announced in the AMA of June 25 2026.", "bullets": ["If you use Gmail (personal), you need to generate an App Password in your Google account security settings — the regular", "Make sure your domain has SPF and DKIM records set correctly, or your emails may still end up in spam even with SMTP con", "The SMTP setting applies to all review request emails across your Climbo account", "This is also where the Email History feature lives — you can review what was sent and when"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/operations/smtp-setup.md", "connected": ["features/white-label", "getting-started/account-setup", "operations/onboarding-clients", "features/review-requests"]}, {"id": "sales/objections", "label": "Handling Sales Objections", "row": "playbook", "summary": "Scripts for 'I'll think about it', 'I don't have time', and other common blockers from local business owners.", "description": "When a prospect doesn't say yes immediately, the sale isn't lost — it's stalled. The most common objections from local business owners follow predictable patterns. This page covers how to respond to each one without pressure and without losing the deal.", "bullets": ["'I'll think about it' → Respond: 'Of course. To help you decide, let me just show you one thing — what your competitor did in the last 30 days.' Then pull up Maps.", "'I'm already working with someone' → 'Great — are they getting you reviews consistently? Because most tools don't. Want to see how many your competitor got this month?'", "'I don't have time' → 'That's exactly why this works — you don't touch anything. I handle everything. You just get notified when a new review comes in.'", "'It's too expensive' → Anchor against the value: 'One new customer from Google Maps pays for 6 months of this service.'"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/sales/objections.md", "connected": ["sales/finding-clients", "sales/demo-script"]}, {"id": "ama/README", "label": "AMA Index — @climboapp YouTube", "row": "reference", "summary": "Complete table of all 31 Climbo YouTube videos (Jan 2026–Jul 2026), with key announcements and video IDs.", "description": "Climbo runs a weekly live AMA (Ask Me Anything) on YouTube hosted by Giacomo Chinellato (co-founder). Each AMA serves as a live product changelog — new features are demoed live, and community questions are answered. 25 of the 31 videos are AMA sessions; the rest are standalone training or promo content. Note: (Dec 2024, \"Live streaming di Climbo\") has no transcript available.", "bullets": [], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/ama/README.md", "connected": ["overview", "features/review-requests", "ai-agents/geo-agent"]}, {"id": "case-studies/community-wins", "label": "Community Wins", "row": "reference", "summary": "Real stories from Climbo agency owners — what they did, what they got, and what you can learn from each.", "description": "These are real posts from the Climbo Accelerator Skool community (933 members, Nov 2025–Jul 2026). Names and situations are as posted. Use these as models, not scripts. ---", "bullets": ["Free trials are the most common conversion path — show value before asking for payment", "Multi-location clients are the best-value deals (one relationship, multiple fees)", "The first client is the hardest; the pattern repeats much faster afterward", "Sharing wins in the Skool community generates feedback and accountability"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/case-studies/community-wins.md", "connected": ["operations/retention", "ai-agents/geo-agent", "operations/onboarding-clients", "sales/finding-clients", "sales/demo-script"]}, {"id": "compliance/gdpr-eu", "label": "GDPR — EU Compliance for Review Requests", "row": "reference", "summary": "Practical guidance for EU agency owners sending review requests — what you need to know, not legal advice.", "description": "If you're operating in the EU, GDPR applies when you collect and use customer data (names, phone numbers, email addresses) to send review requests. This page covers the basics you need to stay safe in practice. This is not legal advice. If you have specific concerns, consult a lawyer in your country.", "bullets": ["GDPR came up as one of the highest-engagement threads in the Skool community (28 comments, Jan 2026) — it is a real conc", "Climbo's data is stored in their infrastructure; ask Climbo support directly for their DPA if you need one for your clie", "The \"legitimate interest\" basis is generally sufficient for post-transaction review requests to existing customers — you"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/compliance/gdpr-eu.md", "connected": ["compliance/google-review-policy-2026", "features/review-requests", "operations/onboarding-clients"]}, {"id": "compliance/google-review-policy-2026", "label": "Google Review Policy 2026", "row": "reference", "summary": "Google banned review gating in April 2026. Climbo is compliant by design — here's what this means for you and your clients.", "description": "In April 2026, Google updated its Google Business Profile (GBP) Terms of Service to explicitly ban review gating — the practice of pre-filtering customers before sending them to leave a Google review. Review gating means: showing unhappy customers a private feedback form, and only directing happy customers to Google. Many agencies and competitor tools have been doing this for years. As of April 2026, it is a TOS violation and can result in GBP suspension. Climbo does not gate. This is a competit", "bullets": ["This policy update was heavily discussed in the Skool community (46 comments in May 2026 — one of the highest-engagement", "Use \"zero-gating compliance\" as a sales talking point when comparing against other tools", "If a client pressures you to filter reviews, explain the suspension risk — it protects them and you"], "github_url": "https://github.com/soliwkr/climbo-audit/blob/master/wiki/compliance/google-review-policy-2026.md", "connected": ["ai-agents/seo-agent", "compliance/gdpr-eu", "ai-agents/geo-agent", "features/review-requests"]}];
+const DEFAULT_PATH = [
+  'overview',
+  'getting-started/what-is-climbo',
+  'getting-started/account-setup',
+  'getting-started/pricing-and-plans',
+  'features/review-requests',
+  'features/nfc-cards',
+  'features/gbp-integration',
+  'features/white-label',
+  'features/client-portal',
+  'features/stripe-billing',
+  'features/balance-explained',
+  'features/mobile-app',
+  'features/google-sheets',
+  'ai-agents/overview',
+  'ai-agents/seo-agent',
+  'ai-agents/social-agent',
+  'ai-agents/geo-agent',
+  'sales/finding-clients',
+  'sales/demo-script',
+  'sales/objections',
+  'getting-started/first-client-checklist',
+  'operations/onboarding-clients',
+  'operations/retention',
+  'operations/smtp-setup',
+  'compliance/google-review-policy-2026',
+  'compliance/gdpr-eu',
+  'case-studies/community-wins',
+  'ama/README',
+];
+
+const NODES = [{"id": "ai-agents/overview", "label": "AI Agents Overview", "row": "foundations", "connected": ["ai-agents/geo-agent", "overview", "ai-agents/seo-agent", "features/gbp-integration", "features/balance-explained", "ai-agents/social-agent", "features/client-portal"]}, {"id": "getting-started/account-setup", "label": "Account Setup", "row": "foundations", "connected": ["features/stripe-billing", "features/white-label", "getting-started/what-is-climbo", "operations/smtp-setup", "getting-started/pricing-and-plans", "features/balance-explained", "getting-started/first-client-checklist"]}, {"id": "overview", "label": "Climbo Overview", "row": "foundations", "connected": ["ai-agents/overview", "features/white-label", "getting-started/what-is-climbo", "ama/README", "sales/finding-clients"]}, {"id": "getting-started/pricing-and-plans", "label": "Pricing and Plans", "row": "foundations", "connected": ["getting-started/account-setup", "features/balance-explained", "features/stripe-billing"]}, {"id": "getting-started/what-is-climbo", "label": "What Is Climbo?", "row": "foundations", "connected": ["overview", "getting-started/first-client-checklist", "getting-started/account-setup", "sales/finding-clients"]}, {"id": "features/balance-explained", "label": "Balance Explained", "row": "platform", "connected": ["features/stripe-billing", "ai-agents/overview", "features/review-requests", "getting-started/account-setup", "getting-started/pricing-and-plans"]}, {"id": "features/client-portal", "label": "Client Portal", "row": "platform", "connected": ["operations/retention", "ai-agents/overview", "features/white-label", "features/google-sheets", "features/mobile-app", "features/gbp-integration", "ai-agents/social-agent"]}, {"id": "features/gbp-integration", "label": "GBP Integration", "row": "platform", "connected": ["ai-agents/geo-agent", "ai-agents/overview", "features/review-requests", "operations/onboarding-clients", "ai-agents/seo-agent", "getting-started/first-client-checklist", "features/client-portal", "ai-agents/social-agent"]}, {"id": "ai-agents/geo-agent", "label": "GEO Agent", "row": "platform", "connected": ["ai-agents/overview", "case-studies/community-wins", "ama/README", "features/gbp-integration", "compliance/google-review-policy-2026", "sales/demo-script"]}, {"id": "features/google-sheets", "label": "Google Sheets Integration", "row": "platform", "connected": ["features/client-portal", "features/review-requests", "operations/retention", "operations/onboarding-clients"]}, {"id": "features/mobile-app", "label": "Mobile App", "row": "platform", "connected": ["features/client-portal", "getting-started/first-client-checklist", "operations/retention", "features/white-label"]}, {"id": "features/nfc-cards", "label": "NFC Cards", "row": "platform", "connected": ["features/review-requests", "operations/retention", "getting-started/first-client-checklist", "sales/demo-script"]}, {"id": "features/review-requests", "label": "Review Requests", "row": "platform", "connected": ["features/nfc-cards", "features/google-sheets", "operations/onboarding-clients", "ama/README", "ai-agents/seo-agent", "features/gbp-integration", "operations/smtp-setup", "compliance/gdpr-eu", "getting-started/first-client-checklist", "compliance/google-review-policy-2026", "features/balance-explained"]}, {"id": "ai-agents/seo-agent", "label": "SEO Agent", "row": "platform", "connected": ["ai-agents/overview", "features/review-requests", "features/gbp-integration", "compliance/google-review-policy-2026", "ai-agents/social-agent"]}, {"id": "ai-agents/social-agent", "label": "Social Agent", "row": "platform", "connected": ["ai-agents/seo-agent", "ai-agents/overview", "features/gbp-integration", "features/client-portal"]}, {"id": "features/stripe-billing", "label": "Stripe Billing", "row": "platform", "connected": ["features/balance-explained", "getting-started/account-setup", "features/white-label", "getting-started/pricing-and-plans"]}, {"id": "features/white-label", "label": "White-Label", "row": "platform", "connected": ["features/stripe-billing", "overview", "features/mobile-app", "operations/smtp-setup", "getting-started/account-setup", "features/client-portal"]}, {"id": "operations/retention", "label": "Client Retention", "row": "playbook", "connected": ["case-studies/community-wins", "features/nfc-cards", "features/google-sheets", "operations/onboarding-clients", "features/mobile-app", "features/client-portal", "getting-started/first-client-checklist"]}, {"id": "sales/demo-script", "label": "Demo Script", "row": "playbook", "connected": ["ai-agents/geo-agent", "case-studies/community-wins", "features/nfc-cards", "operations/onboarding-clients", "sales/finding-clients", "getting-started/first-client-checklist", "sales/objections"]}, {"id": "sales/finding-clients", "label": "Finding Clients", "row": "playbook", "connected": ["case-studies/community-wins", "overview", "getting-started/what-is-climbo", "getting-started/first-client-checklist", "sales/demo-script", "sales/objections"]}, {"id": "getting-started/first-client-checklist", "label": "First Client Checklist", "row": "playbook", "connected": ["operations/retention", "features/nfc-cards", "features/review-requests", "features/mobile-app", "operations/onboarding-clients", "getting-started/what-is-climbo", "features/gbp-integration", "getting-started/account-setup", "sales/finding-clients", "sales/demo-script"]}, {"id": "operations/onboarding-clients", "label": "Onboarding Clients", "row": "playbook", "connected": ["operations/retention", "case-studies/community-wins", "features/review-requests", "features/google-sheets", "features/gbp-integration", "operations/smtp-setup", "compliance/gdpr-eu", "getting-started/first-client-checklist", "sales/demo-script"]}, {"id": "operations/smtp-setup", "label": "SMTP Setup", "row": "playbook", "connected": ["features/white-label", "getting-started/account-setup", "operations/onboarding-clients", "features/review-requests"]}, {"id": "sales/objections", "label": "Handling Sales Objections", "row": "playbook", "connected": ["sales/finding-clients", "sales/demo-script"]}, {"id": "ama/README", "label": "AMA Index", "row": "reference", "connected": ["overview", "features/review-requests", "ai-agents/geo-agent"]}, {"id": "case-studies/community-wins", "label": "Community Wins", "row": "reference", "connected": ["operations/retention", "ai-agents/geo-agent", "operations/onboarding-clients", "sales/finding-clients", "sales/demo-script"]}, {"id": "compliance/gdpr-eu", "label": "GDPR — EU Compliance", "row": "reference", "connected": ["compliance/google-review-policy-2026", "features/review-requests", "operations/onboarding-clients"]}, {"id": "compliance/google-review-policy-2026", "label": "Google Review Policy 2026", "row": "reference", "connected": ["ai-agents/seo-agent", "compliance/gdpr-eu", "ai-agents/geo-agent", "features/review-requests"]}];
 
 const NM = {};
 NODES.forEach(n => NM[n.id] = n);
 
+
+// ── CONTENT (raw markdown per node) ──────────────────────────────────────
+const CONTENT = {};
+
+CONTENT['overview'] = `# Climbo Overview
+
+> **One-line summary:** Climbo is the white-label AI platform you use to run a reputation management agency — your clients see your brand, you keep the margin.
+
+## Overview
+
+Climbo is a SaaS platform built for agency owners, not for local businesses directly. You pay €99/month flat. You rebrand the entire platform with your name, logo, and domain. You resell it to local businesses (restaurants, dentists, gyms, law firms, contractors) at whatever price you choose — typically $99–$500/month per client. Every client you add increases your profit; your cost stays fixed at €99.
+
+The core promise to your clients: more Google reviews, higher ranking, more customers — all automated. They do not log in daily. They do not manage anything. The system runs in the background.
+
+## How it works
+
+Climbo runs what the founder Giacomo calls the **Review Marketing Flywheel**:
+
+\`\`\`
+Customer leaves a review
+  → SEO Agent replies with keyword-rich text (Google Maps ranking improves)
+  → Social Agent turns the review into a social post (GBP stays active)
+  → GEO Agent publishes blog/web content (client appears on ChatGPT, Perplexity)
+  → More visibility → more customers → more reviews
+\`\`\`
+
+This cycle runs automatically once you complete the initial setup. Setup takes roughly 1–2 hours per new client. After that, your time commitment per client per month is close to zero.
+
+**Three AI agents power the flywheel:**
+- **SEO Agent** — automatically replies to Google reviews using the client's business name, city, and service keywords
+- **Social Agent** — turns the best reviews into image + caption posts on Google Business Profile (GBP), Facebook, and Instagram
+- **GEO Agent** — builds and updates a website/blog so the client gets cited by AI search engines like ChatGPT and Perplexity (released April 17, 2026)
+
+## Key details / Tips
+
+- **GBP** = Google Business Profile. It's the listing that appears when someone searches "dentist near me" on Google. This is the single most important asset for local businesses and the main thing Climbo manages.
+- **Zero-gating:** Climbo does NOT secretly redirect unhappy customers away from Google. Every reviewer can always leave a public review. This is compliant with Google's April 2026 policy update.
+- **21 review platforms supported:** Google is the priority, but Climbo also connects to Tripadvisor, Yelp, Booking.com, and 17 others.
+- **White-label means invisible:** Your client sees your brand name, your domain, your AI assistant's name. Climbo is the engine; you are the face.
+- **Break-even is one client.** If you charge €100/month, you profit from client 2 onward.
+
+## The math
+
+| Clients | Your revenue | Climbo cost | Your profit |
+|---------|-------------|-------------|-------------|
+| 1 | €100/mo | €99/mo | €1/mo |
+| 5 | €500/mo | €99/mo | €401/mo |
+| 10 | €1,000/mo | €99/mo | €901/mo |
+| 30 | €3,000/mo | €99/mo | €2,901/mo |
+
+Giacomo's training shows agencies reaching $3,000/month (≈30 clients at $100) within a year using consistent outreach.
+
+## Related
+
+- [[getting-started/what-is-climbo]] — deeper explanation of reputation management
+- [[ai-agents/overview]] — how the three AI agents work together
+- [[features/white-label]] — how to set up your brand
+- [[sales/finding-clients]] — how to get your first paying client`;
+
+CONTENT['getting-started/what-is-climbo'] = `# What Is Climbo?
+
+> **One-line summary:** Climbo is a white-label AI reputation management platform you resell to local businesses under your own brand.
+
+## Overview
+
+Reputation management is not just getting Google reviews. Here is what it actually covers:
+
+1. **Collect reviews** — get more positive reviews flowing consistently
+2. **Protect the rating** — give unhappy customers a private feedback channel so they can be heard before posting publicly
+3. **Reply to every review** — with AI-generated, keyword-rich responses
+4. **Market with reviews** — share five-star reviews on social media and your website
+5. **Keep listings accurate** — correct hours, photos, contact info on Google
+6. **Get found on AI search** — make sure ChatGPT, Perplexity, and Google AI answers mention the business
+
+Climbo automates all six of these. You set it up once. The system runs from there.
+
+## Why local businesses need this
+
+The data is clear:
+
+- 98% of customers read reviews before calling a local business (BrightLocal)
+- Increasing a rating by just 0.5 stars leads to 59% more revenue (Harvard Business Review)
+- Getting into the Google Maps top-3 results generates 126% more traffic (BrightLocal)
+- Five-star profiles get 35% more calls than four-star profiles (Search Engine Land)
+
+A dentist with 24 reviews while the competitor two blocks away has 350 reviews is losing patients every day. That dentist is your target client. They understand the problem immediately when you show them the comparison.
+
+## What Climbo is not
+
+- It is not a service you deliver manually. You set up automation; the software does the work.
+- It is not visible to your clients as "Climbo." They see your brand name and logo.
+- It is not a lead generation tool. It keeps businesses found once they have customers.
+- It is not a quick-rich scheme. Giacomo says this explicitly: it is a real business that requires consistent sales effort.
+
+## The agency model in plain terms
+
+You pay Climbo: **€99/month** (unlimited clients, all features).
+
+You charge your clients: anywhere from $100 to $500+ per month depending on the package.
+
+Your clients never know Climbo exists. They log into your branded platform at your custom domain. They see your AI assistant name. Every email they receive comes from your domain.
+
+You are the agency. Climbo is your back-end.
+
+## Key details / Tips
+
+- Start by targeting businesses with **low review counts, stale ratings, and active competitors beating them on Google** — they feel the pain immediately
+- The free trial strategy ("let me get you 5 reviews for free, no credit card") consistently converts — once a business owner sees reviews coming in, the sale is done
+- Clients stay because the system keeps working. Churn comes from bad onboarding, not from the product failing.
+
+## Related
+
+- [[overview]] — how all the pieces fit together
+- [[getting-started/account-setup]] — your first steps after signing up
+- [[getting-started/first-client-checklist]] — checklist to onboard your first client
+- [[sales/finding-clients]] — who to target and how to reach them`;
+
+
+CONTENT['getting-started/account-setup'] = `# Account Setup
+
+> **One-line summary:** Everything you need to configure before signing your first client — brand, billing, email, and balance.
+
+## Overview
+
+When you first log into \`my.climbo.com\`, you land on a mostly-blank agency dashboard. Before you touch the client section, complete your agency setup. This takes 1–2 hours and you only do it once.
+
+The dashboard has six main sections: **Clients, Plans, Brand, Sales, Settings, Support.**
+
+## Step 1 — Configure your Brand
+
+Go to **Brand** in the left sidebar. This is where Climbo becomes invisible and your brand takes over.
+
+Set:
+- **Brand Name** — your agency name (what clients see everywhere)
+- **Custom Domain** — a subdomain like \`app.youragency.com\` (point it to Climbo's DNS)
+- **Logo** — your agency logo, shown on the login page and inside the platform
+- **Colors and Font** — match your existing brand
+- **AI Brand Name** — the name your AI assistant shows to clients (e.g., "Aria" or "MaxAI")
+- **Powered By** — set to your domain so emails and footers link back to you
+
+## Step 2 — Set up Stripe billing
+
+Go to **Settings → Finance** to connect Stripe. Stripe handles all subscription billing between you and your clients.
+
+> **Note for EU operators:** Stripe does not emit Italian-format electronic invoices (SDI). If you operate in Italy or another EU country with specific invoicing requirements, integrate a tool like Fatture in Cloud before your first paying client.
+
+## Step 3 — Create your Plans
+
+Go to **Plans** and create at least one subscription plan. Example:
+- Name: "Starter Reputation"
+- Price: $149/month
+- Features: review collection, SEO Agent, GBP management
+
+## Step 4 — Configure SMTP
+
+Go to **Brand → SMTP** to configure a custom email sender. Without this, review request emails go out from a default Climbo domain. With SMTP configured, they come from \`hello@youragency.com\` — fully branded.
+
+## Step 5 — Set up Balance
+
+Go to **Settings → Balance** and add credit. Balance is the pre-paid pool that covers SMS, WhatsApp, and AI token costs.
+
+| Channel | Approx. cost |
+|---------|-------------|
+| SMS (EU) | ~€0.05–0.10 per message |
+| WhatsApp | ~$0.03 per message |
+| Email | Free |
+| AI Tokens | $6.60 per 1M tokens |
+
+Add at least $20–50 before activating your first client on SMS or WhatsApp.
+
+## Step 6 — Customize Email Templates
+
+Go to **Settings → Emails / Templates** to edit the Welcome Email your clients receive when they join. Make the tone match your agency — warm, direct, and free of any technical jargon.
+
+## Step 7 — Test with the Demo Client
+
+Climbo provides a demo client account. Walk through the full client experience before you bring in real clients:
+- Connect a Google account
+- Set up a review link
+- Enable the SEO Agent
+- Send a test review request
+
+## Key details / Tips
+
+- Your custom domain needs a DNS CNAME record pointing to Climbo's server. It typically takes 5–10 minutes once the record propagates.
+- The agency dashboard and the client dashboard are different. You see everything; clients see only their own data.
+- Coupons (Settings → Finance → Coupons) let you give clients a discounted or free trial period.
+
+## Related
+
+- [[features/white-label]] — deeper guide to brand customization
+- [[features/stripe-billing]] — how Stripe billing works
+- [[features/balance-explained]] — understanding the pre-paid credit system
+- [[operations/smtp-setup]] — SMTP configuration step by step
+- [[getting-started/first-client-checklist]] — what to do after setup`;
+
+CONTENT['getting-started/pricing-and-plans'] = `# Pricing and Plans
+
+> **One-line summary:** You pay €99/month to Climbo; you charge clients whatever you want — typical range is $99–$500/month.
+
+## Overview
+
+Climbo's pricing to you is simple: **€99/month flat.** Unlimited clients. All features. No per-seat fees, no percentage of revenue.
+
+Your pricing to clients is entirely up to you. You set the plans, the names, the prices, and what features each plan includes. Climbo's Plans section is where you create these.
+
+## What you pay Climbo
+
+- €99/month agency fee (billed to your card)
+- Plus Balance top-ups for SMS/WhatsApp/AI token usage (see [[features/balance-explained]])
+- No setup fees. No per-client fees.
+
+## What you charge clients
+
+**Single-tier (simple start):**
+- One plan at $99–$149/month
+- Includes: review collection, SEO Agent, GBP management
+- Easiest to sell, easiest to deliver
+
+**Three-tier (scales revenue per client):**
+
+| Tier | Price | What's included |
+|------|-------|----------------|
+| Starter | $99/mo | Review collection + SEO Agent |
+| Growth | $249/mo | + Social Agent + GBP posts |
+| Authority | $499/mo | + GEO Agent + AI search optimization |
+
+Community member wins at various price points:
+- "Picked up a new flooring contractor — $299/month" (Skool, 19 comments)
+- "1 x Beauty salon $1,800 annual" (Skool)
+- "5 restaurants on annual plan — 3,000€ in one week" (Skool, 28 comments)
+
+## The math to $3k/month
+
+From Giacomo's training:
+- 30 face-to-face outreach per month
+- ~30% say yes to free trial (10 free trials/month)
+- ~30% of trials convert to paid ($100/month)
+- = 3 new paying clients per month
+- After 12 months: 36 paying clients × $100 = **$3,600 MRR**
+
+These are conservative numbers. Multiple community members have surpassed this.
+
+## Free trials
+
+Climbo has a built-in free trial mechanism. You can give a client free access for 7–14 days (configurable). During the trial, they collect real reviews and see the system work. Once they see reviews coming in, conversion is almost guaranteed.
+
+Use coupons (\`Settings → Finance → Coupons\`) to:
+- Offer 100% discount for a defined period (free trial)
+- Give a fixed discount for early adopters
+- Create time-limited promotions
+
+## Annual plans
+
+Offer annual pricing at a discount (e.g., 2 months free = 10× monthly price). Benefits:
+- You get cash upfront
+- Client is committed for 12 months
+- Zero churn risk for a year
+
+## Key details / Tips
+
+- **Start simple.** One plan at $100–$149/month is easier to close than explaining three tiers to a first prospect.
+- **Annual upfront is your best retention tool.** A client who paid for a year never churns in month 3.
+- **Balance is separate from your plan fee.** If you run SMS campaigns, make sure you have enough balance. Email is free.
+- **Don't undercharge.** Community feedback is clear: charging $99/month gets the same resistance as $149/month.
+
+## Related
+
+- [[features/stripe-billing]] — connecting Stripe and managing subscriptions
+- [[features/balance-explained]] — SMS/WhatsApp/AI token costs
+- [[getting-started/account-setup]] — how to create plans in the dashboard`;
+
+
+CONTENT['features/review-requests'] = `# Review Requests
+
+> **One-line summary:** Review requests are the messages you send to customers asking them to leave a review — the fuel that starts the entire flywheel.
+
+## Overview
+
+Getting more reviews starts with asking for them. Most businesses don't ask, so they don't get them. Climbo gives your clients three ways to ask — choose the one that fits the business type.
+
+Giacomo's training states: "The review collection process is 90% of the sales. If you set it up correctly, they will get results during the free trial. If not, nothing else matters."
+
+## Method 1 — QR Code / Kiosk Mode
+
+Best for: high-traffic physical locations (restaurants, salons, gyms, retail)
+
+Print the Climbo-generated kiosk page and place it at your client's reception, counter, or checkout area. Customers scan the QR code and land on the review link.
+
+Setup:
+1. Go to client account → **Review Link** → customize with client's logo and message
+2. Go to **Kiosk Mode** → print the page (or download as PDF)
+3. Laminate it. Place it where customers will see it after their experience.
+4. Train the staff to say: "If you enjoyed your visit, scan the code — takes 30 seconds."
+
+## Method 2 — Manual Quick Request
+
+Best for: low-volume professional services (lawyers, dentists, accountants, consultants)
+
+After each appointment, the client sends a one-tap review request directly to that customer.
+
+Setup:
+1. Create a WhatsApp or SMS template in \`Request → Templates\`
+2. Example template: "Hi [Name], thank you for visiting us today. If you have a moment, we'd love your feedback: [Review Link]"
+3. After each appointment: \`Request → Send → Quick Request\` → select contact → send
+
+## Method 3 — Auto-Send (CRM Integration)
+
+Best for: businesses with a CRM or contact list.
+
+When a new contact is added (manually or via automation), the platform automatically sends a review request after a configurable delay.
+
+Setup:
+1. Go to **Auto Send** and enable the automation
+2. Set the trigger: "Send request X hours after service date"
+3. Select the template to use
+4. Connect a CRM via Zapier, or have the client add contacts manually
+
+Google Sheets integration: If the client tracks customers in a Google Sheet, Zapier can push new rows to Climbo automatically. Every new row = new review request sent.
+
+## The review link
+
+All three methods point to the same place: the **review link**. This is the unique URL Climbo generates for each client.
+
+When a customer opens the link, they see:
+- The client's logo and name
+- A simple rating prompt (1–5 stars)
+- 1–3 stars → option to leave private feedback to the business (not public)
+- 4–5 stars → directed to leave a public review on Google (or other connected platforms)
+
+This is compliant. Both paths are available to every customer. See [[compliance/google-review-policy-2026]].
+
+## Key details / Tips
+
+- **Train the staff, not just the system.** The QR code sitting on the counter does nothing if the employee never mentions it.
+- **Send within 24 hours of the experience.** Review request open rates drop sharply after 48 hours.
+- **Multiple platforms.** The review link can offer choices beyond Google — Yelp, Tripadvisor, Booking.com, etc.
+- **Reminders.** If a customer doesn't click the link, a follow-up reminder can be scheduled automatically.
+- **Complaint Link.** Climbo also offers a dedicated complaint link — a separate URL for customers who had a bad experience, giving them a private channel.
+
+## Related
+
+- [[features/nfc-cards]] — physical NFC alternative to QR codes
+- [[features/google-sheets]] — auto-sync contacts from a spreadsheet
+- [[ai-agents/seo-agent]] — what happens after a review arrives
+- [[compliance/google-review-policy-2026]] — what's allowed and what's not`;
+
+CONTENT['features/nfc-cards'] = `# NFC Cards
+
+> **One-line summary:** NFC cards let customers tap their phone to a physical card or stand and instantly open the review page — no QR scan, no typing.
+
+## Overview
+
+NFC (Near Field Communication) is the same technology that powers contactless payments. When a customer holds their phone near an NFC card or sticker, their phone automatically opens a webpage — in this case, your client's review link.
+
+No app download needed. No QR code scan. No typing. Just tap and review.
+
+For businesses where staff interacts closely with customers (restaurants, beauty salons, personal trainers, clinics), NFC is often the highest-converting review collection method.
+
+## What you need
+
+- An NFC card, tag, sticker, or countertop stand (purchased separately — not included in Climbo)
+- A device to write (encode) the review URL to the NFC tag
+- The client's unique review link from Climbo
+
+## Encoding the NFC tag
+
+You write the client's Climbo review link onto the NFC tag using a free app like **NFC Tools** (iOS/Android):
+
+1. Get the client's review link from Climbo (\`Settings → Review Link\`)
+2. Open NFC Tools on your phone
+3. Select "Write" → "Add a Record" → "URL/URI"
+4. Paste the client's review link
+5. Hold the phone over the NFC card/sticker — encoding takes 1 second
+6. Test it: hold a customer's phone to the card and confirm the review page opens
+
+## Placement
+
+Physical options:
+- **Countertop stand** — best for reception areas
+- **Tabletop sticker** — good for restaurant tables
+- **Business card** — can be handed directly to customers
+- **Framed card near the exit** — catches customers as they leave
+
+The community has successfully laminated NFC cards without losing functionality.
+
+## Bulk encoding
+
+One community post with 31 comments asked about bulk NFC encoding. Yes, you can pre-encode multiple cards in batches before a client visit, making setup faster. If you serve many clients, buying NFC tags in bulk (e.g., 100 at a time) significantly reduces the per-card cost.
+
+## The "Fortune Favours the Brave" story
+
+> "I set up this NFC & QR Code stand before going in. The boss just happened to [be there]. I showed him how it worked by tapping my own phone. His eyes lit up." (Skool, 28 comments)
+
+The NFC demo is often the WOW moment in a sales pitch. You tap your phone. The review page opens instantly. That moment — not the feature list, not the pricing — is often what closes the deal.
+
+## Key details / Tips
+
+- **Both NFC and QR code simultaneously.** If you place an NFC stand, also laminate the QR code nearby — some phones or cases block NFC.
+- **Lamination is fine.** Multiple community members have confirmed that laminating the card does not affect NFC functionality.
+- **iOS:** iPhones from iPhone 7 onward support NFC without any app. Android phones have had NFC for years.
+- **NFC tags are cheap.** A 10-pack of plain NFC stickers (NTAG213 or NTAG215) costs under $5.
+
+## Related
+
+- [[features/review-requests]] — all review collection methods including QR and auto-send
+- [[sales/demo-script]] — how to use NFC in a sales demonstration
+- [[getting-started/first-client-checklist]] — NFC setup as part of onboarding`;
+
+
+CONTENT['features/gbp-integration'] = `# GBP Integration
+
+> **One-line summary:** Connecting Google Business Profile (GBP) is the foundation of everything — reviews, replies, social posts, ranking, and the GEO Agent all depend on it.
+
+## Overview
+
+**GBP (Google Business Profile)** is the free Google listing that appears when someone searches for a local business. It shows the name, address, hours, photos, reviews, and contact info. It is the most important digital asset a local business has.
+
+Climbo connects directly to GBP via the Google API. Once connected:
+- New reviews appear in Climbo automatically
+- The SEO Agent can publish replies directly to Google
+- The Social Agent can create GBP posts
+- Business info edited in Climbo syncs to Google instantly
+- The GEO Agent can generate a website that matches GBP data exactly
+
+## Connecting GBP
+
+During client onboarding:
+1. Go to client account → **Settings → Integrations → Google**
+2. Click "Connect Google Account"
+3. The client logs in with the Google account that manages their GBP
+4. Select the correct GBP location if they have multiple
+5. Done — connection takes about 60 seconds
+
+If the client cannot be present, you can request **Manager access** on their GBP instead:
+- Go to Google Business Profile manager → add a new Manager using your Google account
+- Once accepted, you can connect the GBP from your Climbo without needing the client's login credentials
+- This also protects you: if the client churns, remove your access.
+
+## What Climbo manages via GBP
+
+Once connected, from inside the client's Climbo dashboard:
+- **Business info** — name, address, phone, website, hours, social links, services — any edit here syncs to Google automatically
+- **Photos** — add or update photos; they appear on GBP
+- **Special hours** — holiday hours, temporary closures
+- **Google Posts** — publish updates, offers, events directly to GBP
+- **Reviews** — see and reply to all Google reviews in one place
+
+## Why accurate GBP info matters
+
+If the hours on GBP say "open until 8pm" but the business closes at 6pm, customers arrive at a locked door and leave a 1-star review. Climbo's GBP integration ensures the info stays accurate. Any change made in Climbo flows to Google and also updates the auto-generated website (if the GEO Agent is active), keeping everything consistent.
+
+This consistency is a direct ranking factor: Google trusts businesses whose information matches across their listing and their website.
+
+## Multiple locations
+
+If a client has more than one location (e.g., a chain of gyms, a franchise), each location is a separate client profile in Climbo. Some community members manage clients with 15+ locations this way.
+
+## Key details / Tips
+
+- **GBP must be claimed.** If the client's Google listing is unclaimed, help them claim it first at \`business.google.com\`. This is free and takes a few days for Google to verify.
+- **Suspended or flagged GBPs.** If a client's GBP has been suspended, Climbo cannot fix that. You'll need to work with Google's reinstatement process separately.
+- **Instant sync.** The connection is live. Reviews appear in Climbo within minutes of being posted on Google.
+- **Other review platforms.** Climbo supports 21 review platforms total. Connect Tripadvisor, Yelp, Booking.com, etc. from the same Integrations section.
+
+## Related
+
+- [[ai-agents/seo-agent]] — needs GBP to publish replies
+- [[ai-agents/social-agent]] — needs GBP to publish posts
+- [[ai-agents/geo-agent]] — pulls GBP data to build the website
+- [[features/review-requests]] — where reviews come from
+- [[getting-started/first-client-checklist]] — GBP connection as onboarding step`;
+
+CONTENT['features/white-label'] = `# White-Label
+
+> **One-line summary:** White-label means your clients see your brand entirely — your name, your domain, your AI assistant's name, your colors. Climbo is invisible.
+
+## Overview
+
+White-label is the business model that makes Climbo worth €99/month. You are not reselling "Climbo." You are selling your own AI reputation management platform. Your clients see your brand everywhere: the login page, the dashboard, the email notifications, the AI assistant name, the review link they share with customers.
+
+> "Give your AI its own name, logo, and identity. You can even personalize every single agent — SEO, Social, and GEO." — Climbo 2026
+
+## What you can customize
+
+| Element | What to set | Where clients see it |
+|---------|------------|---------------------|
+| Brand Name | Your agency name | Login page, emails, dashboard header |
+| Custom Domain | e.g., \`app.youragency.com\` | Browser URL bar, every link |
+| Logo | Your logo file | Login page, dashboard, emails |
+| Colors | Primary/secondary colors | Buttons, highlights, accents |
+| Font | Custom web font | All text in the platform |
+| AI Name | e.g., "Aria", "MaxAI" | Chatbot, agent activity, email subject lines |
+| AI Logo | Custom avatar for your AI | Chatbot interface |
+| "Powered By" URL | Your domain | Footer of the platform |
+| Free Trial Banner | Custom upgrade message | Clients on trial plan |
+| Custom Code | JS/CSS injections | Platform-wide customization |
+
+## Custom Domain Setup
+
+1. Purchase a subdomain for your agency (e.g., \`app.youragency.com\`)
+2. In Climbo Brand settings, enter this domain
+3. Add a CNAME DNS record pointing to Climbo's servers (Climbo provides the target address)
+4. Wait 5–30 minutes for DNS propagation
+5. Your clients now access the platform at your domain — no reference to Climbo in the URL
+
+## AI Agent Personalization
+
+Each of the three AI agents can be individually branded. In Brand settings:
+- Set a prompt sentence that defines the AI's personality and approach
+- Customize the agent names (what clients see when they look at agent activity)
+- Add a custom AI logo that appears in the chat interface
+
+## AI Chatbot
+
+Enable the AI Chatbot in Brand settings. When active, your clients interact with your named AI assistant via chat instead of navigating the dashboard manually. The chatbot can:
+- Send review request campaigns
+- Update GBP info
+- Add contacts
+- Manage templates
+
+This is especially useful for tech-averse clients.
+
+## Key details / Tips
+
+- **Test your branded platform before the first client call.** Open a private/incognito browser window and visit your custom domain. See exactly what your client will see.
+- **The login page is a sales asset.** It is the first thing a prospect sees when you show them "the platform."
+- **White-label extends to the review link.** The link you share with your client's customers shows your client's branding — their logo, their business name. Climbo's name never appears.
+
+## Related
+
+- [[getting-started/account-setup]] — where to configure Brand settings
+- [[operations/smtp-setup]] — branded email setup
+- [[features/client-portal]] — what the branded dashboard looks like for clients
+- [[features/stripe-billing]] — Stripe can also be branded with your colors`;
+
+
+CONTENT['features/client-portal'] = `# Client Portal
+
+> **One-line summary:** The client portal is what your clients log into — a fully branded dashboard showing their review stats, rankings, agent activity, and GBP performance.
+
+## Overview
+
+When your client logs into \`app.youragency.com\` (your branded domain), they land on the client portal. This is their view — not your agency view.
+
+The portal shows your client:
+- How many reviews they have and how the count is growing
+- Their Google rating trend
+- What the AI agents have been doing
+- How their GBP is performing (impressions, clicks, calls)
+- Where they rank versus competitors
+
+Clients do not see billing settings, other clients' data, or any reference to Climbo.
+
+## Home screen (updated July 9, 2026 — Home Charts)
+
+**Agent Activity (right side):**
+- Live log of what each agent has done
+- "SEO Agent replied to 3 reviews today"
+- "Social Agent published 2 posts to GBP and Instagram"
+- "GEO Agent updated the website with 1 new article"
+
+**Growth Charts (left side):**
+Three charts that update monthly, tracked from the day the client joined:
+
+1. **Reviews chart** — total review count over time (blue line) + average rating (orange line)
+2. **Rankings chart** — Google Maps position for key search terms, compared to competitors
+3. **GBP Performance chart** — impressions, clicks, direction requests, call clicks
+
+Giacomo designed these charts specifically for retention: "Your clients buy results, not features. These charts show them that since they joined your platform, the most important KPIs are improving month over month."
+
+## Other portal sections
+
+**Reviews:** Inbox of all reviews across connected platforms, private feedback submissions, ability to reply manually.
+
+**Contacts:** Add customer contacts manually, upload CSV for bulk import, view auto-send status.
+
+**Requests:** Send quick review request, view request history and open/click rates.
+
+**Google Business Profile:** Edit business info (syncs to Google), upload photos, publish posts and offers.
+
+**AI Agents:** View or adjust agent settings, see agent activity log.
+
+## AI Chatbot alternative
+
+If you enable the AI Chatbot in your Brand settings, clients see a chat window instead of the full dashboard. They can ask their AI assistant to:
+- "Send a review request to my last customer"
+- "Update my business hours to 9am–7pm"
+- "Add a new contact: John Smith, phone 555-1234"
+
+This is particularly useful for clients who find dashboards overwhelming.
+
+## Key details / Tips
+
+- **Set the baseline on day 1.** Screenshot the starting stats before anything runs. You need a before picture to show the after.
+- **Teach the client where to look.** During onboarding, walk them through the dashboard. Show them the home charts. Tell them "this number will go up every week."
+- **The gamification element.** Climbo's review stats show "you need X more five-star reviews to reach 4.8 stars" — clients compete against themselves to hit the next milestone.
+
+## Related
+
+- [[features/white-label]] — how the client portal gets your branding
+- [[ai-agents/overview]] — the agents whose activity appears in the portal
+- [[features/gbp-integration]] — the GBP data that powers the performance charts
+- [[operations/retention]] — using the portal data to retain clients`;
+
+CONTENT['features/stripe-billing'] = `# Stripe Billing
+
+> **One-line summary:** Climbo connects to your Stripe account so client subscriptions are billed automatically — no invoices to chase, no manual renewals.
+
+## Overview
+
+Climbo integrates with Stripe for client billing. Once connected, your clients enter their payment details once during signup and are billed automatically on a recurring schedule. You receive the money in your Stripe account. You do not handle any payment manually.
+
+This is what makes the agency model truly passive: clients pay forever without you lifting a finger.
+
+## Connecting Stripe
+
+1. Go to **Settings → Finance → Account** in your Climbo agency dashboard
+2. Click "Connect Stripe" — you'll be redirected to Stripe's OAuth flow
+3. Log in to your Stripe account (or create one at stripe.com if you don't have one)
+4. Authorize Climbo to create subscriptions on your behalf
+5. Done — Stripe is now connected
+
+## Creating plans with Stripe
+
+When you create a Plan in Climbo (\`Plans → New Plan\`), you set:
+- Plan name
+- Monthly or annual price
+- Features included
+- Trial period (optional — e.g., 14 days free before first charge)
+
+Climbo automatically creates the corresponding Stripe product and price object.
+
+## The client checkout experience
+
+When a new client signs up or upgrades, they see a Stripe-hosted checkout page with:
+- Your agency's branding (colors, logo — configured in your Stripe account under Branding)
+- The plan details and price
+- Credit card or SEPA debit input fields
+- Optional: coupon code field (if you've created coupons in Climbo)
+
+## Coupons and free trials
+
+Create coupons in \`Settings → Finance → Coupons\`:
+- **100% discount forever** — for founding clients or special offers
+- **% off for X months** — for introductory promotions
+- **Fixed amount off** — for one-time discounts
+
+## The Sales dashboard
+
+In your agency dashboard under **Sales**, you see:
+- MRR (Monthly Recurring Revenue) for the last 7, 30, 90, and 365 days
+- Individual subscription activity
+- Revenue trends
+
+After the July 9, 2026 update (Home Charts), this view became significantly more detailed.
+
+## Key details / Tips
+
+- **Stripe is not available everywhere.** If you operate in a country where Stripe is not supported, you'll need to handle billing manually or use a Stripe alternative connected via Zapier/Pabbly.
+- **VAT for EU operators.** Stripe may require a VAT number during integration for businesses in the EU.
+- **Stripe branding.** The Stripe checkout page can show your brand colors and logo. Configure this in your Stripe account under Settings → Branding.
+- **The "First client with Stripe" moment** is a community milestone. When the first automatic payment hits your Stripe dashboard, the business model becomes real. (This post got 39 comments in the Skool community.)
+
+## Related
+
+- [[getting-started/pricing-and-plans]] — how to structure your pricing
+- [[features/balance-explained]] — separate from Stripe (covers SMS/WhatsApp/AI costs)
+- [[getting-started/account-setup]] — where Stripe setup fits in initial configuration`;
+
+
+CONTENT['features/balance-explained'] = `# Balance Explained
+
+> **One-line summary:** Balance is your pre-paid credit pool that covers the cost of SMS messages, WhatsApp messages, and AI tokens used across all your clients.
+
+## Overview
+
+Your Climbo Balance is separate from your €99/month subscription. It is a pre-paid credit system — similar to a phone top-up. You add money to your balance, and Climbo deducts from it as you use SMS, WhatsApp, and AI agents.
+
+Email is free and does not touch your balance.
+
+## What uses balance
+
+| Channel / Feature | Approximate cost |
+|-------------------|-----------------|
+| SMS (EU/US) | €0.05–0.10 per message |
+| WhatsApp | ~$0.03 per message |
+| Email | Free |
+| AI Tokens (SEO/Social/GEO agents) | $6.60 per 1 million tokens |
+
+**Real-world context:**
+- A client getting 50 review requests per month via SMS = approximately $2.50–5.00/month in balance
+- A client with 30 incoming reviews/month (SEO Agent replies each) = roughly $0.10–0.20 in AI tokens
+- AI token costs are minimal for most use cases
+
+## Adding balance
+
+Go to **Settings → Balance** in your agency dashboard and add credit via card. You can set a minimum threshold and enable auto-recharge if you want to avoid running out unexpectedly.
+
+## How balance is shared
+
+Your single balance pool covers all your clients. If you have 20 clients all sending SMS review requests, they all draw from the same pool.
+
+> June 2026 update: **AI Token Allocation per client** was released, allowing you to assign a specific token budget to individual clients. This prevents one high-volume client from consuming disproportionate resources.
+
+## Choosing the right channel per client
+
+- **Email** → free, good for B2B clients or when phone numbers aren't collected
+- **SMS** → high open rates (90%+), ideal for restaurants and high-traffic local businesses
+- **WhatsApp** → highest engagement in many markets, requires WhatsApp Business number setup by client
+- **QR/NFC** → no balance cost at all (review request is built into the physical display)
+
+For clients on free trials or in early stages, QR/NFC + email-only setup has zero variable costs. Upgrade to SMS/WhatsApp once you're billing them.
+
+## Key details / Tips
+
+- **Top up before activating your first SMS-heavy client.** With a starting balance of $5, you have maybe 50–100 SMS messages.
+- **For early-stage agencies (1–5 clients):** $20 balance is sufficient for months. Revisit as you scale.
+- **Balance costs are your cost of goods sold.** Factor them into your per-client profitability: if you charge $100/month and spend $5/month on SMS for that client, your margin is $95 — still excellent.
+
+## Related
+
+- [[features/review-requests]] — which channels use balance
+- [[getting-started/account-setup]] — where to set up balance in initial configuration
+- [[features/stripe-billing]] — separate from balance (handles client subscriptions)`;
+
+CONTENT['features/mobile-app'] = `# Mobile App
+
+> **One-line summary:** Climbo has iOS and Android apps for both agency owners and clients to manage reviews and check stats on the go.
+
+## Overview
+
+Climbo released its iOS and Android apps in April 2026. Both the agency view and the client view are available on mobile.
+
+For clients, this is especially important: they can see their review count growing in real time on their phone. A notification arriving that says "You got a new 5-star review" — without them doing anything — is one of the strongest retention signals in the product.
+
+## For clients (local business owners)
+
+The mobile app gives clients:
+- **Review notifications** — push notification every time a new review arrives
+- **Stats at a glance** — current rating, total reviews, recent activity
+- **Quick requests** — send a review request to a customer directly from the phone
+- **AI agent activity** — see that the SEO Agent has replied and the Social Agent has posted
+
+Most clients will use the app only for the notification and the occasional stats check. They are not managing anything; they are watching the number go up.
+
+## For agency owners
+
+From the app you can:
+- Monitor all clients' activity
+- See incoming reviews across your client base
+- Check MRR trends
+- Respond to client questions
+
+## Installation
+
+- iOS: available on the App Store (search "Climbo")
+- Android: available on Google Play Store
+- Clients access the app using their credentials for your branded platform
+
+> Note: The app may show the Climbo name during installation (App Store listing) even though the platform inside is white-labeled. This is a current limitation — some agencies address this by directing clients to the mobile web version of their custom domain instead.
+
+## Key details / Tips
+
+- **Push notifications are a retention tool.** A restaurant owner who gets a notification at 9pm saying "3 new reviews today!" on their phone is a client who stays. Make sure clients install the app during onboarding.
+- **Mobile web works too.** If a client doesn't want to install an app, your custom domain at \`app.youragency.com\` works well on mobile browsers.
+- Announced and released: April 2026 (iOS and Android simultaneously).
+
+## Related
+
+- [[features/client-portal]] — the desktop version of what clients see
+- [[getting-started/first-client-checklist]] — when to ask clients to install the app (during onboarding)
+- [[features/white-label]] — current white-label limitation for App Store listing`;
+
+CONTENT['features/google-sheets'] = `# Google Sheets Integration
+
+> **One-line summary:** Connect a Google Sheet to Climbo so new rows automatically add contacts and trigger review requests — no CRM required.
+
+## Overview
+
+Google Sheets integration lets you use a simple spreadsheet as a CRM that feeds Climbo automatically. When a business owner adds a customer to their Google Sheet (name, phone, service date), Climbo picks it up via Zapier and automatically sends that customer a review request at the right time.
+
+Released: May 2026. 24 comments in the Skool community on release.
+
+## The flow
+
+\`\`\`
+Business owner adds new row to Google Sheet
+  → Zapier detects new row
+  → Zapier adds contact to Climbo
+  → Climbo auto-send triggers: sends review request X hours after service date
+\`\`\`
+
+## Setup
+
+**What you need:**
+- A Google Sheet with columns: Name, Phone Number (or Email), Service Date
+- A Zapier account (free tier is sufficient)
+- Climbo's Zapier integration enabled (Settings → Zapier)
+
+**Step-by-step:**
+
+1. In Climbo: go to **Settings → Zapier** → generate your Zapier API key
+2. In Zapier: create a new Zap
+   - Trigger: Google Sheets → New Row
+   - Action: Climbo → Add Contact
+3. Map columns: Sheet Name → Contact Name, Sheet Phone → Contact Phone, Sheet Date → Service Date
+4. Enable auto-send in Climbo (set trigger: "send X hours after service date")
+5. Test: add a row to the sheet, confirm the contact appears in Climbo within a few minutes
+
+## The direct Google Sheets integration (May 2026)
+
+Climbo also released a native Google Sheets integration in May 2026. This allows client data — review counts, ratings, rankings — to sync out to a Google Sheet automatically. Use cases:
+
+- **Client reporting:** Share a Google Sheet with your client instead of asking them to log into the portal
+- **Agency tracking:** One master sheet showing all clients' review counts, updated automatically
+- **Custom dashboards:** Build Google Looker Studio dashboards from the Sheets data
+
+## Key details / Tips
+
+- **Perfect for technophobe clients.** If a client refuses to learn a dashboard but already uses Google Sheets daily, this integration gives them everything they need.
+- **The sheet is their CRM.** Train the client: "After every appointment, add the customer to row X. Everything else is automatic."
+- **Column order matters in Zapier.** Map your columns carefully during Zap setup.
+- **Date format matters.** Make sure the service date column uses a format Zapier recognizes (YYYY-MM-DD is safest).
+
+## Related
+
+- [[features/review-requests]] — what happens after the contact is added
+- [[operations/onboarding-clients]] — where Sheets integration fits in the onboarding flow
+- [[features/client-portal]] — alternative to Sheets for clients comfortable with dashboards`;
+
+
+CONTENT['ai-agents/overview'] = `# AI Agents Overview
+
+> **One-line summary:** Three AI agents run automatically in the background, turning each new review into SEO value, social content, and AI search visibility.
+
+## Overview
+
+Climbo has three AI agents. You enable them during client onboarding and they run on autopilot forever after. Your client does not need to understand them — they just see the results.
+
+The agents work together as a loop: every incoming review feeds all three agents, which together improve the client's visibility across Google, social media, and AI search engines.
+
+\`\`\`
+New review arrives
+  ↓
+SEO Agent → AI reply with local keywords → Google Maps ranking improves
+  ↓
+Social Agent → review becomes a post on GBP, Facebook, Instagram
+  ↓
+GEO Agent → review content feeds blog article → ChatGPT/Perplexity citation
+  ↓
+More visibility → more customers → more reviews
+\`\`\`
+
+This is the **Review Marketing Flywheel**. It compounds over time. A client with 10 reviews benefits less than one with 100, which benefits less than one with 500.
+
+## The three agents
+
+### SEO Agent
+Automatically replies to every Google review using the client's business name, city, and main services as keywords. This is the most direct signal Google uses to rank local businesses.
+
+Configurable settings:
+- Reply tone (professional, friendly, formal)
+- Reply length
+- Language (supports multiple languages)
+- Custom keywords to include
+- Additional instructions
+
+→ Full details: [[ai-agents/seo-agent]]
+
+### Social Agent
+Takes the best incoming reviews and turns them into social media posts. Generates an image and a caption, then publishes to Google Business Profile posts, Facebook, and Instagram — automatically.
+
+The GBP post is especially important: Google favors active profiles. Regular posts signal to Google that the business is engaged, which helps Maps ranking.
+
+→ Full details: [[ai-agents/social-agent]]
+
+### GEO Agent
+Builds and updates a website/blog for the client using their review content and business data. This content is structured with schema markup so AI systems like ChatGPT, Perplexity, and Google's AI Overviews can cite the business.
+
+Released April 17, 2026. This is the newest and most differentiated of the three agents.
+
+→ Full details: [[ai-agents/geo-agent]]
+
+## Where to configure agents
+
+Agents are configured in two places:
+1. **Brand settings** (agency-level defaults) — set the baseline behavior for all clients
+2. **Per-client settings** — override defaults for individual clients
+
+## What the client sees
+
+From the July 9, 2026 AMA (Home Charts feature), the client's home screen shows:
+- **Agent Activity panel** — a live log of what each agent has done (replies written, posts published, blog articles created)
+- **Growth charts** — review count over time, rating trend, GBP impressions and clicks
+
+## Key details / Tips
+
+- You can run "reply to all past reviews" with one click — useful for clients who have 50+ unanswered reviews from years past
+- The AI name that appears to clients is your branded AI name (configured in Brand), not "Climbo AI"
+- If a client asks ChatGPT about their business type in their city and the business doesn't appear, the GEO Agent is the fix
+- Agents use tokens from your Balance. At $6.60 per 1M tokens, the cost is minimal for most clients
+
+## Related
+
+- [[ai-agents/seo-agent]] — SEO Agent in detail
+- [[ai-agents/social-agent]] — Social Agent in detail
+- [[ai-agents/geo-agent]] — GEO Agent in detail
+- [[features/gbp-integration]] — why GBP connection is required for agents
+- [[features/balance-explained]] — token costs and balance management`;
+
+CONTENT['ai-agents/seo-agent'] = `# SEO Agent
+
+> **One-line summary:** The SEO Agent automatically replies to every Google review using local keywords, improving the client's Maps ranking without any manual effort.
+
+## Overview
+
+When a customer leaves a review on Google, the SEO Agent writes and publishes an AI reply within minutes. The reply includes:
+- The client's business name
+- The city or neighborhood
+- The specific service mentioned in the review
+- A natural, human-sounding tone
+
+This matters for ranking because Google's algorithm scores how actively a business responds to reviews. A business with 100 reviews and 100 replies ranks better than one with 100 reviews and 0 replies — all else equal.
+
+A typical AI reply might look like:
+
+> "Thank you so much for your kind words, Maria! At [Business Name] in [City], we're passionate about [Service]. We're thrilled you had such a great experience and look forward to seeing you again!"
+
+Simple. Relevant. Keyword-rich. Published instantly.
+
+## Setup (one time per client)
+
+1. Go to the client's account in Climbo
+2. Navigate to **AI Agents → SEO Agent**
+3. Enable the agent
+4. Configure:
+   - **Keywords** — list the most important ones (business name, city, services)
+   - **Reply language** — set to match the client's customers
+   - **Reply length** — short (1–2 sentences), medium (3–4 sentences), or long
+   - **Tone** — professional, friendly, formal, or custom prompt
+   - **Additional instructions** — any specific phrases to include or avoid
+5. Optionally: click "Reply to all past reviews" to retroactively reply to existing unanswered reviews.
+
+## Ongoing operation
+
+Once enabled, the agent fires automatically every time a new review arrives. No action needed from you or the client.
+
+The client can see all agent-generated replies in the Reviews section of their dashboard, and can edit or override any reply manually if they prefer a different tone for a specific review.
+
+## Key details / Tips
+
+- **Replying to negative reviews is just as important as positive ones.** A graceful, professional reply to a 1-star review shows potential customers that the business cares.
+- **Language matters.** If your client serves a French-speaking market, set the language to French.
+- **Custom prompt = full control.** You can write a custom prompt to match the exact voice of the business. Example: "Reply as a warm, family-run business. Always mention that we've been serving [City] since 2010."
+- **Keywords are not spam.** The SEO Agent weaves keywords naturally. It does not keyword-stuff. Google can detect unnatural keyword insertion.
+
+## Is this compliant?
+
+Yes. Replying to reviews is explicitly encouraged by Google. There is no policy against AI-assisted replies as long as the replies are genuine and relevant — which the SEO Agent is designed to produce.
+
+The agent does NOT offer incentives in exchange for reviews, does NOT post reviews, and does NOT manipulate review content. It only responds.
+
+## Related
+
+- [[ai-agents/overview]] — how the three agents work together
+- [[features/review-requests]] — how reviews get collected in the first place
+- [[compliance/google-review-policy-2026]] — what Google does and does not allow
+- [[features/gbp-integration]] — GBP must be connected for replies to publish`;
+
+
+CONTENT['ai-agents/social-agent'] = `# Social Agent
+
+> **One-line summary:** The Social Agent turns your client's best reviews into social media posts and publishes them automatically to Google Business Profile, Facebook, and Instagram.
+
+## Overview
+
+The Social Agent does three things automatically when a new five-star review arrives:
+1. Generates a branded image featuring the review text
+2. Writes a caption for the post
+3. Publishes to Google Business Profile (GBP), Facebook, and/or Instagram
+
+No scheduling. No manual posting. No copywriter needed.
+
+This matters for two reasons:
+- **GBP ranking:** Google favors active profiles. A business that posts weekly ranks above one that posted once in 2022. The Social Agent keeps the profile alive continuously.
+- **Social proof:** Potential customers browsing Instagram or Facebook see real five-star reviews from real customers.
+
+## Setup (one time per client)
+
+1. In the client's account, go to **AI Agents → Social Agent**
+2. Enable the agent
+3. Connect social platforms:
+   - **Google Business Profile** — already connected from GBP setup
+   - **Facebook** — client logs in via Facebook OAuth
+   - **Instagram** — connected via Facebook Business Manager
+4. Configure:
+   - Which platforms to publish to
+   - Post frequency (publish every review? or cap at X posts per week?)
+   - Caption style (promotional, friendly, question-based, etc.)
+   - Custom prompt for captions if you want a specific voice
+
+## Ongoing operation
+
+When a four or five-star review arrives, the agent:
+1. Selects it as eligible for a post (lower-rated reviews are skipped)
+2. Creates an image with the review text, star rating, and business branding
+3. Writes a caption using the configured style
+4. Publishes to all connected platforms simultaneously
+
+## Key details / Tips
+
+- **GBP posts are the most important output.** Even if the client doesn't care about Facebook, GBP posts directly influence local Maps ranking. Always enable GBP at minimum.
+- **Image quality is automatic.** Climbo generates images that look like branded marketing materials. Clients who see the first auto-generated post are usually surprised how good it looks.
+- **You can customize the visual style.** The image template follows your brand settings, so if you've set brand colors in Climbo, those colors appear in the generated images.
+- **Frequency cap.** If a client gets 20 reviews in a week, you probably don't want 20 posts published in that same week. Configure a reasonable cap (e.g., 3 posts/week maximum).
+- **Caption approval mode.** If a client is particular about messaging, enable an approval step so they (or you) can review captions before they publish.
+
+## What clients see
+
+From their dashboard, clients can see:
+- A gallery of all auto-published social posts
+- Which platform each post was sent to
+- Engagement stats if connected via Facebook/Instagram API
+- The SEO Agent activity alongside social activity in the Home Charts view
+
+When a client sees that their Instagram profile now has 30 posts they never wrote, using real five-star reviews from real customers, the value of the platform is obvious.
+
+## Related
+
+- [[ai-agents/overview]] — how all three agents work together
+- [[ai-agents/seo-agent]] — the reply agent that works in parallel
+- [[features/gbp-integration]] — GBP must be connected for GBP posts
+- [[features/client-portal]] — what clients see in their dashboard`;
+
+CONTENT['ai-agents/geo-agent'] = `# GEO Agent
+
+> **One-line summary:** The GEO Agent builds and updates a structured website for your client so they appear when someone asks ChatGPT, Perplexity, or Google AI "best [service] in [city]."
+
+## Overview
+
+**GEO** stands for Generative Engine Optimization — the practice of making a business visible in AI search answers, not just traditional Google results.
+
+When someone types "best Italian restaurant in Austin" into ChatGPT, the AI doesn't check Google's search index. It draws from structured content it can understand: websites with clear schema markup, accurate business data, and consistent information. The GEO Agent makes your clients' websites exactly that.
+
+Released: **April 17, 2026.** This is Climbo's most recently launched major feature.
+
+## How it works
+
+The GEO Agent pulls data from the client's Google Business Profile and their accumulated reviews to automatically:
+
+1. Build a website for the client (if they don't have one) or update an existing one
+2. Generate blog articles using review content and local keywords
+3. Add correct schema markup (structured data that tells AI systems what the business is, where it is, what it does, its hours, rating, and services)
+4. Keep the website in sync with the GBP — if hours change on Google, the website updates automatically
+
+**Key technical detail:** The website auto-includes \`LocalBusiness\`, \`Review\`, and service schema markup. This is what Giacomo's training calls "exploiting the power of reviews" — the review content is not just on Google; it becomes structured web content that feeds into AI answers.
+
+Once the GEO Agent is active, it works on two timescales:
+- **Immediately:** the website is generated with all existing GBP data and past reviews
+- **Ongoing:** every new review feeds a new blog post or website update, keeping content fresh
+
+## What results look like
+
+From a pinned Skool community post (July 2, 2026):
+
+> "This client came on board, paid the year in full about a month ago... Officially got it all connected this morning and these are the results already:
+>
+> Brand new business: No reviews as yet — **#1 on ChatGPT** — **#1 on Gemini** — **#6 on Google Maps (out of 20+)**"
+
+This is a brand-new business with zero reviews. Just connecting the GBP and enabling the GEO Agent put them top of ChatGPT and Gemini within hours.
+
+## How to enable it
+
+1. Ensure the client's GBP is connected (this is required)
+2. Go to client account → **AI Agents → GEO Agent**
+3. Enable the agent
+4. Optionally: set the client's domain for the website if they want it hosted there
+5. The agent generates the initial website automatically
+
+The client can preview their website from inside the platform and enable/disable specific sections (reviews, services, photos, hours, map, etc.) without touching any code.
+
+## Key details / Tips
+
+- **GEO Agent is the most differentiated feature in 2026.** Competitors like BirdEye and traditional reputation management tools do not have this. It is a strong closer for premium plan tiers.
+- **Zero reviews still works.** The business data from GBP alone is enough to generate a structured website that AI can cite. Reviews supercharge it, but are not required to start.
+- **Domain hosting:** Climbo can host the generated website, or you can point a client's custom domain to it. Custom domain = more credibility.
+- **AI Citation is verifiable.** After enabling the GEO Agent, have the client ask ChatGPT "best [service] in [city]" in a private chat window. They will often see their business appear within days.
+
+## Related
+
+- [[ai-agents/overview]] — how all three agents work together
+- [[features/gbp-integration]] — required before GEO Agent can run
+- [[compliance/google-review-policy-2026]] — how GEO Agent stays compliant
+- [[sales/demo-script]] — how to demonstrate GEO Agent results to prospects`;
+
+
+CONTENT['sales/finding-clients'] = `# Finding Clients
+
+> **One-line summary:** Your ideal client is a local business with few reviews, a competitor beating them on Google, and an owner who already values online marketing.
+
+## Overview
+
+The best clients for reputation management share four characteristics. Finding them is straightforward once you know where to look. Giacomo's training uses the phrase "foot in the door" — your goal is not to sell immediately but to prove the system works first.
+
+## The perfect target profile
+
+Look for local businesses that have:
+1. **Low review count** — fewer than 50 Google reviews is ideal; under 20 is excellent
+2. **Low or stagnant rating** — 3.5–4.3 stars (not 4.8+ where the sale is harder)
+3. **A competitor beating them** — the competitor in the next street has 5× more reviews
+4. **Marketing mindset already** — they have a website, post on Instagram, have claimed their GBP
+
+Avoid businesses that:
+- Have never heard of Google reviews and show zero interest in digital marketing
+- Already have 500+ reviews and a 4.9 rating (they don't feel the pain)
+- Are too small to pay $100/month (micro-businesses with one employee)
+
+## Method 1 — Google Maps research
+
+Search \`[service] in [your city]\` on Google Maps. Look at the results on pages 2–3. These businesses are already trying to be found but are losing to competitors.
+
+For each one, note:
+- Review count
+- Rating
+- Last review date (if it was 6 months ago, their velocity is dead)
+- Competitor's review count for comparison
+
+Build a list of 30 targets per month.
+
+## Method 2 — Local Facebook groups
+
+One community member got 4 clients this way (38-comment Skool post):
+
+> "1) Find a local business Facebook group for your area. 2) Post saying you've created a solution for local businesses that will help them grow on Google through the power of reviews, on autopilot with AI. 3) Offer all businesses that commented 14 days for free including a review reactivation where you cover the costs to send a campaign to their past customer list. 4) Around 10 businesses commented."
+
+## Method 3 — Face-to-face visits
+
+The highest-conversion method, especially for first clients. Giacomo recommends visiting one local business per day:
+
+> "Visit one local business per day. Ask for 60 seconds to show their Google ranking versus their competitor."
+
+You walk in, show them on your phone that their competitor has 300 reviews and they have 20, and ask: "Would you like me to get you 5 free reviews this week?" If yes, you have a free trial. No commitment for them.
+
+## Method 4 — Climbo Prospecting Tool
+
+Climbo has a built-in prospecting tool that identifies local businesses by category with low review counts. Check your agency dashboard for this feature.
+
+## Method 5 — Competitor's clients
+
+From the community (May 2026): a member landed a client from BirdEye. "Every business currently on BirdEye can level up and join Climbo." If you know a business is on a competitor tool, they already understand the value. You just need to show why yours is better.
+
+## The outreach script
+
+Face-to-face cold visit:
+
+> "Hi, I'm [Name]. Quick question — did you know that when someone searches '[service] in [city]', Google is showing [Competitor] above you because of their review count? I can show you in 60 seconds. I'd like to offer to get you your next 5 reviews completely free this week. No commitment."
+
+You are not selling yet. You are offering proof.
+
+## Key details / Tips
+
+- **Niche focus works.** One community member focused on restaurants for 2.5 months with no results, then closed 5 restaurants on annual plans in one week — €3,000. Persistence in a niche pays off.
+- **Industries that respond best:** restaurants, dentists, beauty salons, gyms, law firms, plumbers, contractors — any business with direct customer contact and reputation at stake.
+- **The free trial converts.** Once the owner's phone buzzes with "New 5-star review," the paid sale is effectively closed.
+- **Tuesday–Thursday are best** for cold visits. Mondays owners are swamped; Fridays they leave early.
+
+## Related
+
+- [[sales/demo-script]] — what to say during the pitch and demo
+- [[sales/objections]] — how to handle common pushbacks
+- [[getting-started/first-client-checklist]] — what happens after they say yes`;
+
+CONTENT['sales/demo-script'] = `# Demo Script — Pitching to a Local Business
+
+> **One-line summary:** You are selling to a local business owner (restaurant, dentist, salon, etc.), not to another agency. Your pitch is about *their* growth on Google, not about yours.
+
+## The frame
+
+You are a marketing agency that helps local businesses get more Google reviews, rank higher on Maps, and be found by AI assistants like ChatGPT and Google AI Overviews.
+
+You are **not** selling software. You are selling a result: *more visibility, more clients, more revenue*.
+
+The tool you use under the hood (Climbo, white-labeled as your brand) is invisible to the business owner. They see your brand, not Climbo's.
+
+## The 60-second cold open (face-to-face)
+
+Walk in, introduce yourself, then:
+
+> "Hi, I work with local businesses in [city] to help them rank higher on Google. Quick question — when someone searches '[their service] in [city]', do you know where you show up?
+>
+> [Pull out phone, show Google Maps results]
+>
+> Your competitor [Name] has 280 reviews. You have 34. Google's algorithm treats that as a signal of trust. That's why they're above you.
+>
+> I can get you your next 5 reviews this week, at zero cost to you. No contract, no commitment. If you see results, we can talk about continuing. Sound fair?"
+
+You are offering **proof before payment**. The free trial is your close.
+
+## The 10-minute demo (if they want to see more)
+
+### Step 1 — Show the problem (2 min)
+- Open Google Maps, show their profile vs. the top competitor
+- Show their last review date — if it was 6 months ago, their velocity is dead
+- "Google sees no activity. That tells the algorithm you're less relevant."
+
+### Step 2 — Show the solution (5 min)
+- "I use a system that sends a simple text to your past customers. They tap a link, they leave a review. No app, no account needed."
+- Demo the NFC card if you have one: "Or — this. A customer taps here with their phone and they're on your review page in 2 seconds."
+- Show them the review request interface (use a demo client account)
+
+### Step 3 — Show the bigger picture (3 min)
+- "Every review we generate: our AI writes a reply optimized for Google search. That reply contains the keywords people search for — 'best [service] in [city]'."
+- "The same review gets turned into a social post for your Google Business page automatically. More activity = higher ranking."
+- "And once you have enough content, you start appearing in AI search — ChatGPT, Google AI Overview. When someone asks 'best dentist in Formia', your name comes up."
+
+## The offer
+
+Once the free trial gets them 3–5 reviews:
+
+> "You've seen it works. Here's how we continue: for €[price]/month I manage everything — review requests, AI replies, social posts, and your Google ranking. You don't touch anything. You just get more clients."
+
+Keep pricing simple. One monthly fee. No setup costs visible to them. The value you sell is the **result**, not the features.
+
+## Key details / Tips
+
+- **Never lead with "software."** Business owners don't care about software. They care about customers.
+- **The competitor angle is the most powerful hook.** Show the gap, not the product.
+- **NFC card = physical wow moment.** Hand it to them, let them tap their own phone. The review page opens in 2 seconds. That's the demo.
+- **Free trial = lowest resistance entry.** You pay the balance costs (few cents per SMS) for the trial. It's the cost of acquiring a client.
+- **Keep the AI framing simple:** "It automatically writes replies to your reviews and posts them on your Google page." Don't say "SEO agent" or "GEO agent."
+- **Track the outcome, not the process.** Monthly report: "You got 23 new reviews this month. You moved from position 8 to position 4 on Google Maps."
+
+## What you are NOT selling
+
+- AI software, SaaS, dashboards, or technology
+- A "white-label platform"
+
+You are selling: **more Google reviews → higher ranking → more phone calls → more revenue**. Everything else is behind the curtain.
+
+## Related
+
+- [[sales/finding-clients]] — who to target and how to find them
+- [[sales/objections]] — handling common pushbacks
+- [[features/nfc-cards]] — the physical demo tool
+- [[operations/onboarding-clients]] — what happens after they say yes
+- [[getting-started/first-client-checklist]] — step-by-step from free trial to paid client`;
+
+
+CONTENT['sales/objections'] = `# Handling Sales Objections
+
+> **One-line summary:** Scripts for 'I'll think about it', 'I don't have time', and other common blockers from local business owners.
+
+## Overview
+
+When a prospect doesn't say yes immediately, the sale isn't lost — it's stalled. The most common objections from local business owners follow predictable patterns. This page covers how to respond to each one without pressure and without losing the deal.
+
+## The objections
+
+### "I'll think about it"
+
+Respond: "Of course. To help you decide, let me just show you one thing — what your competitor did in the last 30 days." Then pull up Maps.
+
+Showing the competitor gap reframes the conversation. They are no longer thinking about whether to spend money — they are thinking about what they are losing every day they wait.
+
+### "I'm already working with someone"
+
+Respond: "Great — are they getting you reviews consistently? Because most tools don't. Want to see how many your competitor got this month?"
+
+Position Climbo as the modern replacement, not a competitor. Most "reputation management" they've used before was just a widget or a directory listing.
+
+### "I don't have time"
+
+Respond: "That's exactly why this works — you don't touch anything. I handle everything. You just get notified when a new review comes in."
+
+This objection is really "I'm afraid it will take my time." Solve that directly: reassure them it is zero-effort for them.
+
+### "It's too expensive"
+
+Anchor against the value: "One new customer from Google Maps pays for 6 months of this service."
+
+Then offer the free trial: "Start there. Zero risk. I'll get you 5 reviews this week and you can decide after that."
+
+### "I've tried this before and it didn't work"
+
+Acknowledge it: "I hear that a lot. Most of what people have tried before was just sending a link and hoping. What's different here is the system — it automatically follows up, replies to reviews with AI, and posts on your Google page. Would you be open to seeing it in action for two weeks at no cost?"
+
+### "I'll wait until business picks up"
+
+Respond: "Totally fair. But here's the thing — the reviews you get now are what brings the business in. The clients who started in January are the ones seeing their phones ring more in March. Starting sooner compounds faster."
+
+## The core principle
+
+Every objection is a request for reassurance, not a rejection. Your job is to identify what they are actually afraid of (cost, time, complexity, past failures) and address that specific fear with evidence.
+
+The free trial eliminates almost all objections because it removes financial risk.
+
+## Related
+
+- [[sales/finding-clients]] — who you're pitching in the first place
+- [[sales/demo-script]] — the pitch before objections arise`;
+
+CONTENT['getting-started/first-client-checklist'] = `# First Client Checklist
+
+> **One-line summary:** The exact sequence to take a new client from signed to flywheel-active in 24 hours.
+
+## Overview
+
+Onboarding is not optional. The Skool community says it plainly:
+
+> "Onboarding is not optional — it's a must. The better you get your clients set up, the longer they stay and the better they pay." — Community post, 26 comments
+
+A client you sign but don't properly onboard is a churn risk within 30 days. A client who sees results in week one stays for years.
+
+## Before the client's first call (Day 0)
+
+- [ ] Create the client in your Climbo dashboard (\`Clients → Add Client\`)
+- [ ] Assign the correct plan
+- [ ] Apply any coupon code if they're on a trial
+- [ ] Send the Welcome Email (customize the template first — see [[operations/onboarding-clients]])
+- [ ] Book the onboarding call with a specific time. No vague "we'll connect soon." An actual calendar invite.
+
+## Onboarding call (Day 1–2) — record it
+
+This call does everything. It typically takes 45–60 minutes.
+
+**Google Business Profile connection:**
+- [ ] Client shares GBP access (you request Manager access via Google, or they do it with you on screen)
+- [ ] Connect GBP to Climbo (\`Settings → Integrations → Google\`)
+- [ ] Verify all GBP information is accurate: hours, phone, address, services, photos
+
+**Review collection setup — pick the right method:**
+
+| Business type | Best method |
+|--------------|-------------|
+| Restaurant, salon, gym | QR code kiosk + NFC card at reception |
+| Professional services (lawyer, dentist) | Manual quick request via WhatsApp/SMS after each appointment |
+| Business with a CRM | Auto-send via Zapier/Google Sheets integration |
+
+- [ ] Generate and print the QR code page (Climbo generates it automatically — print and laminate)
+- [ ] Order/configure the NFC card if using one (see [[features/nfc-cards]])
+- [ ] Create at least one review request template (SMS, WhatsApp, or Email)
+- [ ] Test the review link: open it on your phone, confirm it shows the client's branding
+
+**AI Agents:**
+- [ ] Enable SEO Agent — set language, keywords (business name + city + main service)
+- [ ] Enable Social Agent — connect Facebook page and/or Instagram
+- [ ] Enable GEO Agent if on a plan that includes it
+- [ ] Run "reply to all past reviews" if the client has existing unanswered reviews
+
+**Establish the baseline:**
+- [ ] Screenshot current Google review count and rating ("before" number)
+- [ ] Note the date. This is Day 1 of your results tracking.
+
+## Day 7 — proactive touch
+
+- [ ] Take a screenshot of any new reviews that have come in
+- [ ] Send it to the client via WhatsApp without being asked
+- This takes 2 minutes. It is worth its weight in trust.
+
+## Day 14 — check-in call
+
+- [ ] Show the before/after review count
+- [ ] Adjust anything not working (review collection volume too low? Change the trigger timing)
+- [ ] Ask: "Who else do you know in a similar situation?"
+
+## Day 90 — harvest
+
+- [ ] Review count should have grown visibly
+- [ ] Ask for referrals and any testimonials about working with you
+
+## Key details / Tips
+
+- The review collection process is **90% of the results.** If your client is not collecting reviews, nothing else matters. Verify it is working live on the call, not later.
+- Train the client's staff to ask for the scan/review in person. The QR code sitting on the counter does nothing if employees don't mention it.
+- Never promise specific review counts or ratings. Promise a working system.
+- If the client is not tech-savvy, use the Climbo AI Chatbot option — they manage everything through a chat interface instead of a dashboard.
+
+## Related
+
+- [[operations/onboarding-clients]] — deeper operational guide
+- [[features/review-requests]] — all review collection methods explained
+- [[features/nfc-cards]] — NFC card setup
+- [[features/gbp-integration]] — connecting Google Business Profile
+- [[operations/retention]] — how to keep clients long-term`;
+
+
+CONTENT['operations/onboarding-clients'] = `# Onboarding Clients
+
+> **One-line summary:** Step-by-step setup after a client says yes — takes about 30 minutes and sets the tone for the whole relationship.
+
+## Overview
+
+Onboarding is not optional. A community post with 26 comments said it best: "The better you get your clients set up, the longer they stay." Every minute you invest in a proper first session pays back in lower churn and fewer support questions later.
+
+Plan for one 30-minute screen share or in-person session with the client. You do most of the setup; they watch and confirm details.
+
+## What you need from the client before you start
+
+- **Google Business Profile access:** Either they add you as a Manager on their GBP, or they share their Google login with you temporarily. Manager access is preferred.
+- **Business logo** (PNG, transparent background preferred)
+- **Customer list:** A CSV or spreadsheet with past customers (name + phone and/or email). Even 20-30 names is enough to start.
+- **Preferred review request message:** A short message in their voice — you can draft it, they approve.
+
+## Step-by-step setup
+
+**Step 1 — Create the client in Climbo**
+Go to your Climbo dashboard > Clients > New Client. Enter business name, address, and contact email.
+
+**Step 2 — Connect their Google Business Profile (GBP)**
+In the client's Climbo account, go to Integrations > Google. Authorize using their GBP credentials. Verify the correct location is linked (important for multi-location businesses).
+
+**Step 3 — Set up the review request template**
+Go to Settings > Review Requests. Customize the SMS and/or email template with the business name. Keep it short and personal. Example: "Hi [name], thanks for visiting [Business]. We'd love your feedback — it takes 30 seconds: [link]"
+
+**Step 4 — Configure the AI agents**
+- Enable the SEO Agent (always)
+- Enable the Social Agent (always)
+- Enable the GEO Agent (optional at start — include it if the client is on a higher plan)
+
+**Step 5 — Import the past customer list**
+Go to Contacts > Import. Upload the CSV. Climbo accepts name, phone, and/or email. The import limit is 100 per batch — for larger lists, do multiple batches.
+
+**Step 6 — Send the first reactivation batch**
+Start with 10–20 contacts. Send the review request manually so you can see what goes out. Check that links work. This is also your proof-of-concept: reviews coming in within 24 hours is a strong wow moment.
+
+**Step 7 — Show the client the dashboard**
+Walk them through: where reviews appear, what the agents are doing, how to check their rating. Set expectations: "You'll start getting reviews within a few days. Month 1 goal is 10 new reviews."
+
+**Step 8 — Month 1 goal**
+Aim for 10+ new reviews in the first 30 days. Hitting this target early builds client confidence and retention.
+
+## Common mistakes
+
+- Skipping GBP connection — without it, the SEO and GEO agents don't work and review links don't point to the right profile
+- Importing cold contacts — only use real past customers (see [[compliance/gdpr-eu]])
+- Sending the full list at once — start small so you can review quality and timing
+- Not setting expectations — clients who expect 100 reviews in a week will churn at 20
+
+## Key details / Tips
+
+- Total setup time: ~30 minutes with a cooperative client
+- Do the setup yourself rather than sending instructions — clients who set it up alone are slower to get results and more likely to cancel
+- The first batch of reviews is your best sales material: screenshot them and send to the client with a message like "Look what came in this week"
+
+## Related
+
+- [[features/review-requests]] — how review requests work
+- [[features/gbp-integration]] — GBP connection details
+- [[operations/retention]] — how to keep clients after month 1
+- [[compliance/gdpr-eu]] — what customer data you can use`;
+
+CONTENT['operations/retention'] = `# Client Retention
+
+> **One-line summary:** How to keep clients paying month after month — reports, wow moments, upsells, and warning signs.
+
+## Overview
+
+A client who signed up and got onboarded is not a retained client yet. Retention happens when the client sees ongoing value, month after month. Most churn in reputation management happens in months 2-3, when the excitement of the first reviews fades.
+
+Your job is to keep the value visible.
+
+## Monthly report
+
+Send a monthly report to every client. At minimum include:
+
+- **Reviews gained** this month (count and examples)
+- **Average rating change** (before vs. now)
+- **AI activity summary** (what the SEO and Social agents published)
+
+Climbo has a printable report feature (released Mar 2026 — available in the client's dashboard). Use it. A PDF sent by email or WhatsApp on the same day each month signals professionalism.
+
+If you use the [[features/google-sheets]] integration, share a live Google Sheet with the client so they can check their numbers anytime.
+
+## The "wow moment" delivery
+
+Do not wait for the monthly report to share good news. When a 5-star review comes in, screenshot it and send it directly to the client — WhatsApp is fine. The message is simple:
+
+> "This came in this week for you."
+
+One sentence. One screenshot. This is the most retention-effective thing you can do. It makes the invisible work visible in real time and it reminds the client why they are paying you.
+
+## Upsell path
+
+Start clients on the minimum and expand:
+
+1. **Review requests only** — the base product
+2. Add **Social Agent** — automated posts from their reviews
+3. Add **GEO Agent** — AI search optimization (ChatGPT, Gemini citations)
+4. Add **Mobile App** — white-labeled app for the client
+5. Add **NFC cards** — physical review collection at the counter
+6. Upgrade to **annual plan** — offered at a discount, locks in the relationship
+
+Do not try to sell everything at once. Get them to see value from step 1, then introduce step 2 after a month.
+
+## Warning signs a client is about to churn
+
+- They stop opening your monthly reports
+- They ask "how many reviews did I get?" instead of checking the dashboard — means they don't feel connected to the product
+- They complain the pace is "too slow" — usually means you haven't reset expectations, or the reactivation campaign ran out of contacts
+- They ask about pausing — treat this as a churn signal, not an administrative request; book a call immediately
+
+## What to say when churn signs appear
+
+Book a 15-minute call. Show them their progress chart. Reframe pace: "You've gone from 12 reviews to 34 in 90 days. That's a 3x increase. Google's algorithm responds to sustained growth, not spikes." Then propose the next step.
+
+## Key details / Tips
+
+- Month 1 target is 10 reviews; month 3 target is 30 total; by month 6 most clients won't consider cancelling
+- Referrals from retained clients are your best source of new clients — one Skool member shared that a long-term client brought a friend to a lunch meeting, which turned into a new client on the spot
+
+## Related
+
+- [[operations/onboarding-clients]] — getting the relationship started right
+- [[features/google-sheets]] — live data clients can see anytime
+- [[features/mobile-app]] — white-labeled app as an upsell
+- [[features/nfc-cards]] — physical upsell for counter use
+- [[case-studies/community-wins]] — real retention and upsell stories`;
+
+
+CONTENT['operations/smtp-setup'] = `# SMTP Setup
+
+> **One-line summary:** Connect your own email domain to Climbo so review request emails come from @yourdomain.com instead of a generic address.
+
+## Overview
+
+By default, Climbo sends review request emails using its own mail server. This works, but the "from" address will not be your brand — it will be a Climbo address.
+
+SMTP (Simple Mail Transfer Protocol) lets you connect your own email account so that emails sent by Climbo appear to come from you. Example: instead of \`noreply@climbo.com\`, your clients' customers receive a message from \`reviews@youragency.com\` or \`hello@yourbusiness.it\`.
+
+This feature was announced in the AMA of June 25 2026.
+
+## Why it matters
+
+- **Trust:** Emails from a recognized domain get opened more. Emails from an unknown generic address get ignored or marked as spam.
+- **Deliverability:** Properly configured domains with SPF/DKIM records have lower spam rates than shared mail servers.
+- **Professionalism:** If you're white-labeling Climbo under your agency brand, everything — including emails — should look like it comes from you.
+
+## How to set it up
+
+1. Go to your Climbo dashboard
+2. Navigate to **Settings > Email > SMTP**
+3. Enter your SMTP details:
+   - **Host:** e.g. \`smtp.gmail.com\` or \`smtp-relay.brevo.com\`
+   - **Port:** 587 (TLS) or 465 (SSL)
+   - **Username:** your email address
+   - **Password:** your SMTP password or app password
+4. Send a test email to confirm it works
+
+## Recommended SMTP providers
+
+| Provider | Cost | Notes |
+|----------|------|-------|
+| Google Workspace | ~€6/month per user | Reliable, familiar, good deliverability |
+| Brevo (formerly Sendinblue) | Free up to 300 emails/day | Good free tier for starting out |
+| Zoho Mail | Free plan available | Budget option, lower limits |
+
+For most agency owners starting out, **Brevo's free tier** covers review request volumes for the first several months.
+
+## Key details / Tips
+
+- If you use Gmail (personal), you need to generate an **App Password** in your Google account security settings — the regular password will not work
+- Make sure your domain has SPF and DKIM records set correctly, or your emails may still end up in spam even with SMTP connected
+- The SMTP setting applies to all review request emails across your Climbo account
+- This is also where the Email History feature lives — you can review what was sent and when
+
+## Related
+
+- [[features/review-requests]] — what gets sent via SMTP
+- [[features/white-label]] — broader white-label setup
+- [[operations/onboarding-clients]] — when to configure SMTP in your workflow`;
+
+CONTENT['compliance/google-review-policy-2026'] = `# Google Review Policy 2026
+
+> **One-line summary:** Google banned review gating in April 2026. Climbo is compliant by design — here's what this means for you and your clients.
+
+## Overview
+
+In April 2026, Google updated its Google Business Profile (GBP) Terms of Service to explicitly ban **review gating** — the practice of pre-filtering customers before sending them to leave a Google review.
+
+Review gating means: showing unhappy customers a private feedback form, and only directing happy customers to Google. Many agencies and competitor tools have been doing this for years. As of April 2026, it is a TOS violation and can result in **GBP suspension**.
+
+Climbo does not gate. This is a competitive advantage.
+
+## What changed
+
+- **Banned:** Sending customers through a "happy/unhappy" filter before the review link
+- **Banned:** Routing negative respondents to a private form while only positive ones reach Google
+- **Allowed:** Asking all customers for reviews (universally, without pre-screening)
+- **Allowed:** Suggesting wording to customers who choose to leave a review (Climbo's AI Review Suggestion does exactly this — it helps happy customers write better reviews, but it does not filter who receives the link)
+
+## Climbo's position
+
+Climbo sends the review request link to **all customers**. There is no happy/unhappy gate. The AI Review Suggestion feature (launched Feb 2026) helps customers who are already writing a review to craft a better one — it does not filter who gets asked.
+
+This means you will occasionally collect 3-star reviews. That is correct behavior.
+
+## What to tell clients
+
+> "You will get all your reviews, including occasional 3-star ones. That's actually more trustworthy to Google and to potential customers. A business with 150 reviews averaging 4.3 stars looks more credible than one with 12 reviews at 5.0. We keep you safe and compliant."
+
+Many competitors still gate. If a prospect says "another tool only sends happy customers to Google," that tool is now violating Google's TOS and putting the client's GBP at risk.
+
+## Key details / Tips
+
+- This policy update was heavily discussed in the Skool community (46 comments in May 2026 — one of the highest-engagement threads)
+- Use "zero-gating compliance" as a sales talking point when comparing against other tools
+- If a client pressures you to filter reviews, explain the suspension risk — it protects them and you
+
+## Related
+
+- [[features/review-requests]] — how review requests work in Climbo
+- [[ai-agents/seo-agent]] — the SEO Agent uses reviews as ranking signals
+- [[compliance/gdpr-eu]] — EU compliance for sending review requests`;
+
+CONTENT['compliance/gdpr-eu'] = `# GDPR — EU Compliance for Review Requests
+
+> **One-line summary:** Practical guidance for EU agency owners sending review requests — what you need to know, not legal advice.
+
+## Overview
+
+If you're operating in the EU, GDPR applies when you collect and use customer data (names, phone numbers, email addresses) to send review requests. This page covers the basics you need to stay safe in practice.
+
+This is not legal advice. If you have specific concerns, consult a lawyer in your country.
+
+## What GDPR means for your Climbo setup
+
+When your clients give you a list of their past customers to upload into Climbo, those customers' data (name, email, phone) is being processed. As the agency running Climbo:
+
+- **Your client is the data controller** — they collected that data from their customers
+- **You are the data processor** — you're processing it on their behalf
+- You should have a **Data Processing Agreement (DPA)** in place with each client (a short contract addendum)
+
+## Lawful basis for sending review requests
+
+The most practical lawful basis for a review request is **legitimate interest** or an **existing customer relationship** (in some EU countries, this is called the "soft opt-in" rule under ePrivacy).
+
+In practice, this means:
+
+- Only send review requests to people who have **had a real transaction** with the business — not cold contacts, not scraped lists
+- The request must be **related to the transaction** (asking about their experience as a customer)
+- The business name must be **clearly visible** in the message so the recipient knows who is contacting them
+
+## Practical checklist
+
+- [ ] Only import customers who have made a purchase or appointment
+- [ ] Review request templates include the business name (Climbo's default templates do)
+- [ ] You have a DPA with your clients
+- [ ] Clients understand they are responsible for having had a legitimate relationship with their customers
+- [ ] Do not purchase contact lists or send to unrelated contacts
+
+## What about SMS?
+
+SMS (text messages) for marketing is more tightly regulated in some EU countries than email. In some jurisdictions you need explicit opt-in consent for promotional SMS. Review requests generally qualify as transactional, not promotional, but this varies by country. When in doubt, start with email.
+
+## Key details / Tips
+
+- GDPR came up as one of the highest-engagement threads in the Skool community (28 comments, Jan 2026) — it is a real concern for EU agency owners
+- Climbo's data is stored in their infrastructure; ask Climbo support directly for their DPA if you need one for your clients
+- The "legitimate interest" basis is generally sufficient for post-transaction review requests to existing customers — you do not need prior opt-in consent in most EU countries for this specific use case
+
+## Related
+
+- [[features/review-requests]] — how review requests are sent
+- [[compliance/google-review-policy-2026]] — Google's own policy rules
+- [[operations/onboarding-clients]] — where to get customer lists from clients`;
+
+
+CONTENT['case-studies/community-wins'] = `# Community Wins
+
+> **One-line summary:** Real stories from Climbo agency owners — what they did, what they got, and what you can learn from each.
+
+## Overview
+
+These are real posts from the Climbo Accelerator Skool community (933 members, Nov 2025–Jul 2026). Names and situations are as posted. Use these as models, not scripts.
+
+---
+
+## 1. "4 clients in the most simplistic way" — Jan 13 2026
+
+A member in the UK posted in a local business Facebook group saying he had a solution to help businesses grow on Google through AI-powered reviews. He offered 14 days free, including a "review reactivation" where he'd send messages to their past customers. No fancy pitch. No cold calls.
+
+He got 4 clients from a single Facebook post.
+
+**Lesson:** Local Facebook groups are warm. Business owners already know they need reviews. A free trial offer in the right place converts without selling.
+
+---
+
+## 2. "Our first paying client" — Jan 22 2026
+
+A member spent months dragging their feet out of fear. She finally started by approaching a Thai restaurant for a free trial. Then she pitched a French bakery in Fort Lauderdale during her anniversary trip. Then a hibachi and sushi restaurant back home. Her strategy: target businesses where English isn't the first language, because those owners respond especially well to AI replies in their customers' native tongue.
+
+Three trials turned into paying clients.
+
+**Lesson:** Fear is the only thing stopping most people. The first "yes" from a free trial client is the hardest. The next two come faster.
+
+---
+
+## 3. "Fortune favours the brave" — Jan 30 2026
+
+A member who had been going to the same pizza place for seven years. He finally introduced himself to the owner before Christmas. One evening, with help from another Climber's post, he set up an NFC and QR code stand before heading in. He didn't even have an active Climbo account yet. The owner was impressed on the spot.
+
+> "I set up this NFC & QR Code stand before going in. The boss just happened to [be there]. I showed him how it worked by tapping my own phone. His eyes lit up."
+
+**Lesson:** Your best first clients are people you already have a relationship with. The NFC stand is a physical demo — it shows instead of tells.
+
+---
+
+## 4. "2.5 months then BOOM" — Mar 13 2026
+
+A member focused on restaurants and cafés. He spent 2.5 months getting rejected. He kept going. Then in one week, he closed 5 restaurants on annual plans.
+
+> "3.000 € in one week is pretty awesome."
+
+**Lesson:** The pipeline builds slowly, then converts in batches. Staying in one niche means you get better at the pitch over time.
+
+---
+
+## 5. "Landed first client and 3 demos booked" — Mar 2 2026
+
+A member posted a single sentence: landed first client and has three demos booked. 32 comments of celebration followed. Sometimes the win is that simple — you close one, and the momentum is real.
+
+**Lesson:** The first client is a milestone worth sharing. The community celebrates it because they've all been there.
+
+---
+
+## 6. "From BirdEye to Climbo" — May 22 2026
+
+Wayne Connell landed a new client who was previously paying for BirdEye — one of the largest and oldest reputation management platforms.
+
+Giacomo posted: "Every business currently on BirdEye can level up and join Climbo. Go get them."
+
+**Lesson:** You are winning deals away from established incumbents. Position Climbo as the modern replacement.
+
+---
+
+## 7. "Win #4 — Hat Trick" — Jun 19 2026
+
+A member and his colleague landed their first customer with three locations. During the World Cup they called it a hat trick. One client relationship, three GBP connections, three times the monthly value.
+
+**Lesson:** Multi-location clients multiply your revenue without multiplying your onboarding work. Ask every client how many locations they have before quoting.
+
+---
+
+## 8. "#1 on ChatGPT, day one" — Jul 2 2026 (pinned post)
+
+A member's client had paid for a year in full but spent a month on website tweaks without connecting their GBP. When they finally connected everything in one morning, the results came immediately. Brand new business, zero reviews yet:
+
+> "Number 1 on ChatGPT. Number 1 on Gemini. Number 6 on Google Maps (out of 20+)."
+
+Just from connecting the GBP and activating the GEO Agent. No reviews yet.
+
+**Lesson:** The GEO Agent starts working before you have reviews. Connecting GBP on day one is the single most important step.
+
+---
+
+## Key details / Tips
+
+- Free trials are the most common conversion path — show value before asking for payment
+- Multi-location clients are the best-value deals (one relationship, multiple fees)
+- The first client is the hardest; the pattern repeats much faster afterward
+- Sharing wins in the Skool community generates feedback and accountability
+
+## Related
+
+- [[operations/onboarding-clients]] — how to set up a client once they say yes
+- [[sales/finding-clients]] — where to find prospects
+- [[sales/demo-script]] — how to run the pitch
+- [[ai-agents/geo-agent]] — why GBP connection matters on day one`;
+
+CONTENT['ama/README'] = `# AMA Index — @climboapp YouTube
+
+> **One-line summary:** Complete table of all 31 Climbo YouTube videos (Jan 2026–Jul 2026), with key announcements and video IDs.
+
+## Overview
+
+Climbo runs a weekly live AMA (Ask Me Anything) on YouTube hosted by Giacomo Chinellato (co-founder). Each AMA serves as a live product changelog — new features are demoed live, and community questions are answered. 25 of the 31 videos are AMA sessions; the rest are standalone training or promo content.
+
+## Full video table
+
+| Date | Title | Key Announcement |
+|------|-------|-----------------|
+| 2026-07-10 | Live A.M.A. (09/07/2026) - Home Charts Are Live! | New MRR dashboard with three charts for tracking agency growth |
+| 2026-07-03 | Live A.M.A. (01/07/2026) - Trial Limits, Google Event/Offer Posts, Stripe Accounting, & More! | Trial limits for client free trials; Google Event/Offer Posts on GBP; Stripe accounting view |
+| 2026-06-26 | Live A.M.A. (25/06/2026) - SMTP For Review Requests, Coupon Codes, Email History, & More! | SMTP integration for branded review request emails; coupon codes for plans; email send history |
+| 2026-06-19 | Live A.M.A. (04/06/2026) - Launch Your Own Affiliate Program! | Affiliate program for agency owners to refer other agencies |
+| 2026-06-17 | Balance Explained: Messaging & AI Costs | Standalone explainer video covering how the Climbo balance system works |
+| 2026-06-05 | Live A.M.A. (04/06/2026) - AI Token Allocation for Clients | Per-client AI token limits so agency owners can control AI costs per account |
+| 2026-05-21 | Live A.M.A. (21/05/2026) - Your Branded AI Is Here! | Full white-label AI with custom name, logo, and identity per client; AI Chat for clients |
+| 2026-05-18 | Climbo in 1 minute | 80-second pitch video — Climbo's official product summary (509 views) |
+| 2026-05-15 | Live A.M.A. (14/05/2026) - Google Sheets Integration & Complaint Review Link! | Google Sheets sync for client data; dedicated link for routing complaint reviews off Google |
+| 2026-05-08 | Live A.M.A. (07/04/05/2026) - AI Ranking is Here! | AI Ranking integration connecting review performance to Google Maps position tracking |
+| 2026-05-01 | Live A.M.A. (23/04/2026) - Embed GEO Agent + Fixes & Improvements! | GEO Agent embed widget for client websites |
+| 2026-04-24 | Live A.M.A. (23/04/2026) - Employees Tracking & Leaderboard + New UI Clients Mode | Employee tracking feature; redesigned client-facing UI |
+| 2026-04-17 | Live A.M.A. (17/04/2026) - GEO Agent is Live! | GEO Agent launch — AI search optimization for ChatGPT, Gemini, Perplexity citations |
+| 2026-04-10 | Live A.M.A. (09/04/2026) - GEO Agent is Coming! #2 | Second preview of GEO Agent before launch |
+| 2026-04-02 | Live A.M.A. (02/04/2026) - GEO Agent is Coming! | First preview of GEO Agent |
+| 2026-04-01 | Live A.M.A. (31/03/2026) - Your Branded iOS & Android Mobile App! | White-labeled mobile app for clients (iOS and Android) |
+| 2026-03-27 | Live A.M.A. (26/03/2026) - Email Reminders, Review Link Auto Translation, Printable Reports, & More! | Email reminder sequences; review link language auto-detection; PDF printable reports |
+| 2026-03-20 | Start a $3k/mo Reputation Management Business | Full agency training video — the complete Climbo business model tutorial (845 views, most viewed) |
+| 2026-03-13 | Live A.M.A. (12/03/2026) - Review Request Reminders & Custom Links! | Automated review request follow-up reminders; custom short links |
+| 2026-03-06 | Live A.M.A. (05/03/2026) - Turn On/Off Review Link Features on Custom Plans! | Plan-level feature toggles; compliance discussion |
+| 2026-02-26 | Live A.M.A. (26/02/2026) - AI Review Suggestion is Here! | AI Review Suggestion launch — helps customers write better reviews without gating |
+| 2026-02-19 | Live A.M.A. (19/02/2026) - Video Reviews Widgets, AI Chatbot, Webhook Builder & More! | Video review display widgets; AI chatbot for client websites |
+| 2026-02-12 | Live A.M.A. (12/02/2026) - Automated Website For Clients & Instant Google Reviews | Auto-generated website for each client; instant review import from Google |
+| 2026-02-05 | Live A.M.A. (05/02/2026) - Agency Email Templates, Pre-Built Website For Clients, GEO Agent Coming! | Agency outreach email templates; first GEO Agent teaser |
+| 2026-01-30 | Live A.M.A. (29/01/2026) - Custom AI Prompt, Bulk Review Replies, Video on Review Link, & More! | Custom AI prompt per client; bulk reply to Google reviews |
+| 2026-01-23 | Live A.M.A. (22/01/2026) - Monthly Sales Trainings, Coupon Codes & Package Pricing | Monthly sales training program; coupon codes for plans |
+| 2026-01-16 | Climbo Restart: Features Drop, New Community, New Website & Pricing, Mobile Apps | Climbo relaunch — new pricing (€99/mo), Skool community, new site, mobile app roadmap |
+
+## Key videos to watch first
+
+- The full agency model tutorial (845 views, most viewed) — watch this before anything else.
+- The 1-minute pitch — use it to understand how to present Climbo to prospects.
+- GEO Agent launch — critical for understanding the AI search differentiation.
+- Climbo Restart — context on pricing, community, and the current positioning.
+
+## Related
+
+- [[overview]] — what Climbo is and how it fits together
+- [[features/review-requests]] — core feature referenced in most AMAs
+- [[ai-agents/geo-agent]] — the most significant feature launch (Apr 2026)`;
+
+
+// ── MARKDOWN RENDERER ─────────────────────────────────────────────────────
+function md(src) {
+  if (!src) return '';
+  // strip YAML frontmatter (--- ... ---)
+  src = src.replace(/^---[\s\S]*?---\s*/m, '');
+
+  // protect code blocks first
+  const codeBlocks = [];
+  src = src.replace(/```[\s\S]*?```/g, m => {
+    const lang = m.match(/^```(\w*)/)?.[1] || '';
+    const code = m.replace(/^```\w*\n?/, '').replace(/\n?```$/, '');
+    codeBlocks.push(`<pre><code>${esc(code)}</code></pre>`);
+    return `\x02CODE${codeBlocks.length - 1}\x03`;
+  });
+
+  // inline code
+  const inlineCodes = [];
+  src = src.replace(/`([^`]+)`/g, (_, c) => {
+    inlineCodes.push(`<code>${esc(c)}</code>`);
+    return `\x02IC${inlineCodes.length - 1}\x03`;
+  });
+
+  const lines = src.split('\n');
+  const out = [];
+  let i = 0;
+  let inUl = false, inOl = false, inBq = false;
+
+  function closeList() {
+    if (inUl) { out.push('</ul>'); inUl = false; }
+    if (inOl) { out.push('</ol>'); inOl = false; }
+  }
+  function closeBq() {
+    if (inBq) { out.push('</blockquote>'); inBq = false; }
+  }
+
+  while (i < lines.length) {
+    let line = lines[i];
+
+    // horizontal rule
+    if (/^---+$/.test(line.trim())) {
+      closeList(); closeBq();
+      out.push('<hr>');
+      i++; continue;
+    }
+
+    // headings
+    const hm = line.match(/^(#{1,3})\s+(.*)/);
+    if (hm) {
+      closeList(); closeBq();
+      const lvl = hm[1].length;
+      out.push(`<h${lvl}>${inline(hm[2])}</h${lvl}>`);
+      i++; continue;
+    }
+
+    // blockquote
+    if (line.startsWith('> ')) {
+      closeList();
+      if (!inBq) { out.push('<blockquote>'); inBq = true; }
+      out.push(`<p>${inline(line.slice(2))}</p>`);
+      i++; continue;
+    } else if (inBq && line.trim() === '') {
+      closeBq();
+    } else if (inBq) {
+      closeBq();
+    }
+
+    // tables
+    if (line.includes('|') && lines[i+1] && lines[i+1].includes('---')) {
+      closeList();
+      const headers = line.split('|').filter(c => c.trim()).map(c => `<th>${inline(c.trim())}</th>`).join('');
+      out.push(`<table><thead><tr>${headers}</tr></thead><tbody>`);
+      i += 2; // skip separator
+      while (i < lines.length && lines[i].includes('|')) {
+        const cells = lines[i].split('|').filter(c => c.trim()).map(c => `<td>${inline(c.trim())}</td>`).join('');
+        out.push(`<tr>${cells}</tr>`);
+        i++;
+      }
+      out.push('</tbody></table>');
+      continue;
+    }
+
+    // unordered list
+    const ulm = line.match(/^[-*]\s+(.*)/);
+    if (ulm) {
+      closeBq();
+      if (inOl) { out.push('</ol>'); inOl = false; }
+      if (!inUl) { out.push('<ul>'); inUl = true; }
+      out.push(`<li>${inline(ulm[1])}</li>`);
+      i++; continue;
+    }
+
+    // ordered list
+    const olm = line.match(/^\d+\.\s+(.*)/);
+    if (olm) {
+      closeBq();
+      if (inUl) { out.push('</ul>'); inUl = false; }
+      if (!inOl) { out.push('<ol>'); inOl = true; }
+      out.push(`<li>${inline(olm[1])}</li>`);
+      i++; continue;
+    }
+
+    // blank line
+    if (line.trim() === '') {
+      closeList(); closeBq();
+      i++; continue;
+    }
+
+    // paragraph
+    closeList(); closeBq();
+    let para = line;
+    while (i + 1 < lines.length && lines[i+1].trim() !== '' && !lines[i+1].match(/^[#>*\-\d|]/) && !lines[i+1].startsWith('\x02CODE')) {
+      i++;
+      para += ' ' + lines[i];
+    }
+    out.push(`<p>${inline(para)}</p>`);
+    i++;
+  }
+  closeList(); closeBq();
+
+  let html = out.join('\n');
+
+  // restore code blocks
+  codeBlocks.forEach((b, idx) => { html = html.replace(`\x02CODE${idx}\x03`, b); });
+  inlineCodes.forEach((b, idx) => { html = html.replace(`\x02IC${idx}\x03`, b); });
+
+  return html;
+}
+
+function esc(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function inline(s) {
+  // [[wiki-link]]
+  s = s.replace(/\[\[([^\]]+)\]\]/g, (_, id) => {
+    const label = NM[id] ? NM[id].label : id.split('/').pop();
+    return `<a class="wikilink" href="#${id}" data-id="${id}">${label}</a>`;
+  });
+  // [text](url)
+  s = s.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+  // **bold**
+  s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  // *italic*
+  s = s.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+  return s;
+}
+
+// ── APP STATE ─────────────────────────────────────────────────────────────
 let active = null, tour = null, q = '';
 
 const canvas = document.getElementById('canvas');
@@ -212,15 +2195,15 @@ const backdrop = document.getElementById('backdrop');
 function pill(id){ return document.getElementById('p-'+id.replace(/\//g,'-')) }
 
 function center(el){
-  const cr = ci.getBoundingClientRect(), er = el.getBoundingClientRect();
-  return {x: er.left-cr.left+er.width/2, y: er.top-cr.top+er.height/2};
+  const cr=ci.getBoundingClientRect(), er=el.getBoundingClientRect();
+  return {x:er.left-cr.left+er.width/2, y:er.top-cr.top+er.height/2};
 }
 
 function buildRows(){
   ROWS.forEach(rk=>{
-    const rc = RC[rk];
-    const ns = NODES.filter(n=>n.row===rk);
-    const row = document.createElement('div');
+    const rc=RC[rk];
+    const ns=NODES.filter(n=>n.row===rk);
+    const row=document.createElement('div');
     row.className='row';
     row.innerHTML=`
       <div class="row-meta">
@@ -232,9 +2215,9 @@ function buildRows(){
       </div>
       <div class="row-nodes" id="rn-${rk}"></div>`;
     ci.appendChild(row);
-    const cont = row.querySelector('.row-nodes');
+    const cont=row.querySelector('.row-nodes');
     ns.forEach(n=>{
-      const p = document.createElement('div');
+      const p=document.createElement('div');
       p.className='pill'; p.id='p-'+n.id.replace(/\//g,'-');
       p.dataset.id=n.id; p.dataset.row=n.row;
       p.style.setProperty('--row-color', rc.color);
@@ -267,16 +2250,16 @@ function lines(id){
 }
 
 function states(){
-  const conn = active ? new Set(NM[active]?.connected||[]) : new Set();
-  const tset = tour ? new Set(TOURS[tour]) : null;
-  const tord = tour ? TOURS[tour] : null;
+  const conn=active?new Set(NM[active]?.connected||[]):new Set();
+  const tset=tour?new Set(TOURS[tour]):null;
+  const tord=tour?TOURS[tour]:null;
   NODES.forEach(n=>{
     const el=pill(n.id); if(!el) return;
     el.classList.remove('active','dimmed','highlighted');
     const existing=el.querySelector('.badge');
     if(existing) existing.remove();
     el.textContent=n.label;
-    const match=!q||n.label.toLowerCase().includes(q)||n.summary.toLowerCase().includes(q);
+    const match=!q||n.label.toLowerCase().includes(q);
     if(q){ if(!match) el.classList.add('dimmed'); return; }
     if(tset){
       if(!tset.has(n.id)){ el.classList.add('dimmed'); }
@@ -296,36 +2279,51 @@ function states(){
   });
 }
 
-function cleanMd(s){
-  if(!s) return '';
-  // strip frontmatter blocks ---...---
-  s=s.replace(/---[\s\S]*?---\s*/g,'');
-  // strip blockquote one-liners: > **Label:** text
-  s=s.replace(/^>\s*\*{0,2}[^*\n]*\*{0,2}:?\s*/gm,'');
-  // strip markdown headers (## Title)
-  s=s.replace(/^#{1,6}\s+/gm,'');
-  // strip bold/italic markers
-  s=s.replace(/\*{1,3}([^*\n]+)\*{1,3}/g,'$1');
-  // strip [[wiki-links]]
-  s=s.replace(/\[\[([^\]]+)\]\]/g,(_,id)=>NM[id]?NM[id].label:id.split('/').pop());
-  // collapse excess whitespace
-  return s.replace(/\n{3,}/g,'\n\n').trim();
-}
-
-function renderBullet(b){
-  // convert [[id]] to clickable inline links
-  return b.replace(/\[\[([^\]]+)\]\]/g,(_,id)=>{
-    const label=NM[id]?NM[id].label:id.split('/').pop();
-    return `<span class="ilink" data-id="${id}">${label}</span>`;
-  });
-}
-
 function showPanel(id){
   const n=NM[id]; if(!n) return;
   const rc=RC[n.row];
-  const groups={};
-  ROWS.forEach(r=>groups[r]=[]);
-  n.connected.forEach(cid=>{ const cn=NM[cid]; if(cn) groups[cn.row].push(cn); });
+
+  // tour progress bar
+  let tourHtml='';
+  if(tour && TOURS[tour].includes(id)){
+    const tNodes=TOURS[tour];
+    const idx=tNodes.indexOf(id);
+    const dots=tNodes.map((tid,i)=>{
+      const cls=i<idx?'done':i===idx?'current':'';
+      return `<span class="tp-dot ${cls}"></span>`;
+    }).join('');
+    const tourLabels={new:"I'm new here",clients:"I want clients",operational:"I'm operational"};
+    const prevId=idx>0?tNodes[idx-1]:null;
+    const nextId=idx<tNodes.length-1?tNodes[idx+1]:null;
+    tourHtml=`<div class="tour-progress">
+      <span class="tp-label">${tourLabels[tour]} — Step ${idx+1} of ${tNodes.length}</span>
+      <div class="tp-dots">${dots}</div>
+      <button class="tp-btn" ${!prevId?'disabled':''} onclick="select('${prevId||''}')">← Prev</button>
+      <button class="tp-btn" ${!nextId?'disabled':''} onclick="select('${nextId||''}')">Next →</button>
+    </div>`;
+  }
+
+  // full article content
+  const content=CONTENT[id]||'';
+  const bodyHtml=md(content);
+
+  // next in DEFAULT_PATH
+  const dpIdx=DEFAULT_PATH.indexOf(id);
+  const nextDefault=dpIdx>=0&&dpIdx<DEFAULT_PATH.length-1?DEFAULT_PATH[dpIdx+1]:null;
+  let nextNavHtml='';
+  if(nextDefault&&NM[nextDefault]){
+    const nn=NM[nextDefault];
+    nextNavHtml=`<div class="next-nav">
+      <div class="next-nav-label">Continue reading</div>
+      <span class="next-chip" data-id="${nn.id}">
+        <span class="arrow">→</span> ${nn.label}
+      </span>
+    </div>`;
+  }
+
+  // connected chips grouped by category
+  const groups={};ROWS.forEach(r=>groups[r]=[]);
+  n.connected.forEach(cid=>{const cn=NM[cid];if(cn)groups[cn.row].push(cn);});
   let chips='';
   ROWS.forEach(rk=>{
     if(!groups[rk].length) return;
@@ -335,35 +2333,42 @@ function showPanel(id){
       <div class="chips">${groups[rk].map(cn=>`<span class="chip" data-id="${cn.id}">${cn.label}</span>`).join('')}</div>
     </div>`;
   });
-  const bullets = n.bullets && n.bullets.length
-    ? '<ul class="p-bullets">'+n.bullets.map(b=>`<li>${renderBullet(b)}</li>`).join('')+'</ul>'
-    : '';
+
   pi.innerHTML=`
     <div class="p-badge" style="background:color-mix(in srgb,${rc.color} 12%,transparent);color:${rc.color}">
       <span class="p-badge-dot" style="background:${rc.color}"></span>${rc.label}
     </div>
-    <div class="p-title">${n.label}</div>
-    <div class="p-summary">${cleanMd(n.summary)}</div>
-    <div class="p-desc">${cleanMd(n.description)}</div>
-    ${bullets}
-    <a class="p-link" href="${n.github_url}" target="_blank">↗ Full article on GitHub</a>
+    ${tourHtml}
+    <div class="article-body">${bodyHtml}</div>
+    ${nextNavHtml}
     <hr class="p-divider">
     <div class="p-conn-title">Connected to</div>
     ${chips}`;
-  pi.querySelectorAll('.chip').forEach(c=>c.addEventListener('click',()=>select(c.dataset.id)));
-  pi.querySelectorAll('.ilink').forEach(c=>c.addEventListener('click',()=>select(c.dataset.id)));
+
+  // wire up events
+  pi.querySelectorAll('.chip,.next-chip').forEach(c=>c.addEventListener('click',()=>select(c.dataset.id)));
+  pi.querySelectorAll('a.wikilink').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();select(a.dataset.id);}));
+
   panel.classList.add('open');
+  pi.scrollTop=0;
 }
 
 function select(id){
-  if(tour){ tour=null; document.querySelectorAll('.tour-btn').forEach(b=>b.classList.remove('active')); }
-  active=id; states(); lines(id); showPanel(id);
-  // Su mobile, scrolla la pill nel viewport
-  if(window.innerWidth < 768){
-    const el = pill(id);
-    if(el) el.scrollIntoView({behavior:'smooth', block:'center'});
+  if(!id||!NM[id]) return;
+  // keep tour active if node is part of the tour
+  if(tour && !TOURS[tour].includes(id)){
+    tour=null;
+    document.querySelectorAll('.tour-btn').forEach(b=>b.classList.remove('active'));
   }
-  // Mostra backdrop su mobile
+  active=id;
+  states();
+  lines(id);
+  showPanel(id);
+  history.pushState(null,'','#'+id);
+  if(window.innerWidth<768){
+    const el=pill(id);
+    if(el) el.scrollIntoView({behavior:'smooth',block:'center'});
+  }
   backdrop.classList.add('visible');
 }
 
@@ -372,11 +2377,12 @@ function reset(){
   document.querySelectorAll('.tour-btn').forEach(b=>b.classList.remove('active'));
   states(); svg.innerHTML=''; panel.classList.remove('open');
   backdrop.classList.remove('visible');
+  history.pushState(null,'','#');
 }
 
+// ── EVENTS ────────────────────────────────────────────────────────────────
 document.getElementById('panel-close').addEventListener('click', reset);
 backdrop.addEventListener('click', reset);
-
 canvas.addEventListener('click',e=>{
   if(e.target===canvas||e.target===ci||e.target===svg) reset();
 });
@@ -395,11 +2401,24 @@ document.querySelectorAll('.tour-btn').forEach(btn=>{
     document.querySelectorAll('.tour-btn').forEach(b=>b.classList.remove('active'));
     btn.classList.add('active');
     svg.innerHTML=''; panel.classList.remove('open'); states();
+    // open first node of tour
+    select(TOURS[tk][0]);
   });
 });
 canvas.addEventListener('scroll',()=>{ if(active) lines(active); });
+window.addEventListener('popstate',()=>{
+  const id=location.hash.slice(1);
+  if(id && NM[id]) { active=id; states(); lines(id); showPanel(id); backdrop.classList.add('visible'); }
+  else reset();
+});
 
+// ── INIT ──────────────────────────────────────────────────────────────────
 buildRows(); states();
+// hash routing on load
+(()=>{
+  const id=location.hash.slice(1);
+  if(id && NM[id]) select(id);
+})();
 </script>
 </body>
 </html>
