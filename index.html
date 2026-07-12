@@ -87,6 +87,8 @@ header{display:flex;align-items:center;padding:10px 20px;border-bottom:1px solid
 .p-group-label{display:flex;align-items:center;gap:5px;font-size:9px;font-weight:700;letter-spacing:.07em;text-transform:uppercase;margin-bottom:6px}
 .p-group-label .dot{width:5px;height:5px;border-radius:50%;flex-shrink:0}
 .chips{display:flex;flex-wrap:wrap;gap:5px}
+.ilink{color:var(--blue);cursor:pointer;text-decoration:underline;text-decoration-style:dotted;text-underline-offset:2px;font-weight:500}
+.ilink:hover{color:var(--text)}
 .chip{padding:5px 11px;border-radius:10px;background:var(--bg);border:1px solid var(--border);font-size:10px;color:var(--text);cursor:pointer;transition:border-color .15s;-webkit-tap-highlight-color:transparent}
 .chip:hover{border-color:var(--muted)}
 
@@ -294,6 +296,30 @@ function states(){
   });
 }
 
+function cleanMd(s){
+  if(!s) return '';
+  // strip frontmatter blocks ---...---
+  s=s.replace(/---[\s\S]*?---\s*/g,'');
+  // strip blockquote one-liners: > **Label:** text
+  s=s.replace(/^>\s*\*{0,2}[^*\n]*\*{0,2}:?\s*/gm,'');
+  // strip markdown headers (## Title)
+  s=s.replace(/^#{1,6}\s+/gm,'');
+  // strip bold/italic markers
+  s=s.replace(/\*{1,3}([^*\n]+)\*{1,3}/g,'$1');
+  // strip [[wiki-links]]
+  s=s.replace(/\[\[([^\]]+)\]\]/g,(_,id)=>NM[id]?NM[id].label:id.split('/').pop());
+  // collapse excess whitespace
+  return s.replace(/\n{3,}/g,'\n\n').trim();
+}
+
+function renderBullet(b){
+  // convert [[id]] to clickable inline links
+  return b.replace(/\[\[([^\]]+)\]\]/g,(_,id)=>{
+    const label=NM[id]?NM[id].label:id.split('/').pop();
+    return `<span class="ilink" data-id="${id}">${label}</span>`;
+  });
+}
+
 function showPanel(id){
   const n=NM[id]; if(!n) return;
   const rc=RC[n.row];
@@ -310,21 +336,22 @@ function showPanel(id){
     </div>`;
   });
   const bullets = n.bullets && n.bullets.length
-    ? '<ul class="p-bullets">'+n.bullets.map(b=>`<li>${b}</li>`).join('')+'</ul>'
+    ? '<ul class="p-bullets">'+n.bullets.map(b=>`<li>${renderBullet(b)}</li>`).join('')+'</ul>'
     : '';
   pi.innerHTML=`
     <div class="p-badge" style="background:color-mix(in srgb,${rc.color} 12%,transparent);color:${rc.color}">
       <span class="p-badge-dot" style="background:${rc.color}"></span>${rc.label}
     </div>
     <div class="p-title">${n.label}</div>
-    <div class="p-summary">${n.summary}</div>
-    <div class="p-desc">${n.description}</div>
+    <div class="p-summary">${cleanMd(n.summary)}</div>
+    <div class="p-desc">${cleanMd(n.description)}</div>
     ${bullets}
     <a class="p-link" href="${n.github_url}" target="_blank">↗ Full article on GitHub</a>
     <hr class="p-divider">
     <div class="p-conn-title">Connected to</div>
     ${chips}`;
   pi.querySelectorAll('.chip').forEach(c=>c.addEventListener('click',()=>select(c.dataset.id)));
+  pi.querySelectorAll('.ilink').forEach(c=>c.addEventListener('click',()=>select(c.dataset.id)));
   panel.classList.add('open');
 }
 
