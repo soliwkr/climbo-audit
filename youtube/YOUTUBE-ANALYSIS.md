@@ -138,10 +138,10 @@ Questo è il white-label completo: l'AI chatbot che il cliente vede ha il **tuo 
 Guarda questo video intero. È la versione inglese del tuo pitch. Adattalo in italiano con il tuo tono (Chris, schietto, locale). Non copiare — **localizza**: invece di $3k, €1.000 con 10 clienti ★. Invece di "reputation management agency", "**fai trovare i tuoi clienti su Google**".
 
 ### 2. Gli AMA = documentazione feature
-Prima di fare la Call 1 con Ivan, guarda (o scorri il transcript di) gli ultimi 2-3 AMA. Ogni AMA contiene feature nuove che puoi mostrare al cliente come aggiornamenti. Il fatto che Giacomo faccia AMA settimanali = il prodotto si muove veloce. Questo è un vantaggio da comunicare: *"ogni settimana esce qualcosa di nuovo"*.
+Prima di fare la Call 1 con Vittorio, guarda (o scorri il transcript di) gli ultimi 2-3 AMA. Ogni AMA contiene feature nuove che puoi mostrare al cliente come aggiornamenti. Il fatto che Giacomo faccia AMA settimanali = il prodotto si muove veloce. Questo è un vantaggio da comunicare: *"ogni settimana esce qualcosa di nuovo"*.
 
 ### 3. Il "Climbo in 1 minute" = il tuo script NFC
-La struttura del pitch di 1 minuto di Climbo è modellabile per il momento del double-tap NFC con Ivan. Adattalo: 10 secondi di contesto, 20 secondi di problema, 20 secondi di soluzione, 10 secondi di CTA.
+La struttura del pitch di 1 minuto di Climbo è modellabile per il momento del double-tap NFC con Vittorio. Adattalo: 10 secondi di contesto, 20 secondi di problema, 20 secondi di soluzione, 10 secondi di CTA.
 
 ### 4. GEO Agent = differenziatore per livello ★★★
-Il GEO Agent (AI search optimization) è il pezzo che fa la differenza nel pacchetto ★★★ INEVITABILE. Quando qualcuno chiede a ChatGPT "migliore agenzia immobiliare a Formia", il cliente di Ivan deve essere citato. Questo è concreto, verificabile, nessuno lo fa ancora in Italia.
+Il GEO Agent (AI search optimization) è il pezzo che fa la differenza nel pacchetto ★★★ INEVITABILE. Quando qualcuno chiede a ChatGPT "migliore agenzia immobiliare a Formia", il cliente di Vittorio deve essere citato. Questo è concreto, verificabile, nessuno lo fa ancora in Italia.

@@ -87,13 +87,13 @@ Post più discussi della community: tattiche di prospecting, Facebook groups loc
 > *"1) Find a local business Facebook group for your area. 2) Find businesses with no reviews or bad reviews. 3) Send a simple DM..."*
 
 ### 2. GDPR e compliance EU
-28 commenti su un singolo post. Il mercato europeo ha preoccupazioni sulla compliance che il mercato anglofono non ha. **Per trovatemi.it: preparare risposta standard su GDPR prima della call con Ivan.**
+28 commenti su un singolo post. Il mercato europeo ha preoccupazioni sulla compliance che il mercato anglofono non ha. **Per trovatemi.it: preparare risposta standard su GDPR prima della call con Vittorio.**
 
 ### 3. Google review policy (maggio 2026)
 46 commenti — la più discussa dopo quella dell'Employee Tracking. Google ha aggiornato le policy ad aprile 2026: no "employee name solicitation", restrizioni su review gating. **Climbo opera già zero-gating — è un vantaggio competitivo, non un limite.**
 
 ### 4. NFC bulk encoding
-31 commenti su come encodare NFC in bulk + se reggono alla plastificazione. **Per trovatemi.it:** le targhette NFC di Climbo si possono stampare/plastificare — questo risponde alla domanda che Ivan potrebbe fare.
+31 commenti su come encodare NFC in bulk + se reggono alla plastificazione. **Per trovatemi.it:** le targhette NFC di Climbo si possono stampare/plastificare — questo risponde alla domanda che Vittorio potrebbe fare.
 
 ### 5. Onboarding = retention
 > *"Onboarding is not optional — it's a must. The better you get your clients set up, the longer they stay."* (26 commenti)
@@ -118,7 +118,7 @@ Esattamente la logica della tua Call 1: il cliente senza onboarding è un lead, 
 >
 > So now to keep up momentum with the reviews that feeds everything else 😊"
 
-**Implicazione per trovatemi.it:** anche senza recensioni, solo connettendo il GBP a Climbo il GEO Agent già posiziona il cliente su AI search. Questo è il WOW da mostrare a Ivan **prima ancora** che arrivino le recensioni.
+**Implicazione per trovatemi.it:** anche senza recensioni, solo connettendo il GBP a Climbo il GEO Agent già posiziona il cliente su AI search. Questo è il WOW da mostrare a Vittorio **prima ancora** che arrivino le recensioni.
 
 ---
 

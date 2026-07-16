@@ -15,7 +15,7 @@
 5. [Funzionalità avanzate e opportunità non ovvie](#5-funzionalità-avanzate-e-opportunità-non-ovvie)
 6. [Gap, limitazioni e workaround](#6-gap-limitazioni-e-workaround)
 7. [Climbo vs QuickSuite — cosa impariamo dal competitor](#7-climbo-vs-quicksuite)
-8. [Il setup minimo per partire con Ivan](#8-il-setup-minimo-per-partire-con-ivan)
+8. [Il setup minimo per partire con Vittorio](#8-il-setup-minimo-per-partire-con-ivan)
 
 ---
 
@@ -230,13 +230,13 @@ Usa i coupon Climbo per il meccanismo fondatore:
 Il sistema balance copre i costi di SMS, WhatsApp e AI tokens. **Attenzione:** con $5 attuali puoi gestire forse 50-100 messaggi SMS. Ricarica prima di attivare il primo cliente su SMS/WhatsApp. Per i fondatori che vuoi tenere in costo zero, considera di usare solo Email (gratuita) + QR/NFC fisico per la raccolta.
 
 ### 21 piattaforme recensioni
-Climbo supporta Google, Tripadvisor, Yelp, Booking.com e altre 17. Per i clienti locali italiani (Ivan = agenzia immobiliare):
+Climbo supporta Google, Tripadvisor, Yelp, Booking.com e altre 17. Per i clienti locali italiani (Vittorio = agenzia immobiliare):
 - **Google** → priorità assoluta
 - **Immobiliare.it / Casa.it** → verifica se supportati (non nel dato corrente)
 - **Trustpilot** → alternativa per professioni
 
 ### Employee Reward System
-Feature citata nel sito pubblico ma non esplorata nell'app (richiede cliente attivo). Permette di incentivare i dipendenti dell'attività a raccogliere recensioni. Per Ivan (agenzia con agenti): ogni agente può avere il proprio QR → si traccia chi porta più recensioni → gamification interna.
+Feature citata nel sito pubblico ma non esplorata nell'app (richiede cliente attivo). Permette di incentivare i dipendenti dell'attività a raccogliere recensioni. Per Vittorio (agenzia con agenti): ogni agente può avere il proprio QR → si traccia chi porta più recensioni → gamification interna.
 
 ### AI Chatbot per i clienti
 Attivabile nel Brand settings. Il cliente finale accede via chat e può:
@@ -297,11 +297,11 @@ QuickSuite (Australia) ha un modello simile: software white-label per agenzie lo
 
 ---
 
-## 8. Il setup minimo per partire con Ivan
+## 8. Il setup minimo per partire con Vittorio
 
 Questo è l'unico checklist che conta adesso. Tutto il resto è distrazione.
 
-### Climbo — da fare prima della call con Ivan
+### Climbo — da fare prima della call con Vittorio
 - [ ] **Crea piano "★ TROVATO"** in `#/plans` → €100/mese, clienti illimitati
 - [ ] **Crea coupon "FONDATORE"** in `#/settings` → 100% per sempre
 - [ ] **Personalizza Welcome Email** in `#/settings/templates` → tono TROVATEMI.IT
@@ -309,8 +309,8 @@ Questo è l'unico checklist che conta adesso. Tutto il resto è distrazione.
 - [ ] **Configura SMTP** in Brand → email da `@trovatemi.it` invece che default Climbo
 - [ ] **Testa il flusso completo** con il Demo Client già presente → simula l'esperienza del cliente
 
-### Il momento WOW (demo con Ivan)
-Il double-tap NFC apre la pagina recensione Google di Ivan direttamente. Climbo non tocca questo momento — è NFC fisico. Climbo entra dopo: una volta che Ivan vuole procedere, gli mostri il pannello `os.trovatemi.it` e come funziona il flusso automatico.
+### Il momento WOW (demo con Vittorio)
+Il double-tap NFC apre la pagina recensione Google di Vittorio direttamente. Climbo non tocca questo momento — è NFC fisico. Climbo entra dopo: una volta che Vittorio vuole procedere, gli mostri il pannello `os.trovatemi.it` e come funziona il flusso automatico.
 
 ### Cosa NON configurare adesso
 - Webhook custom
@@ -322,7 +322,7 @@ Il double-tap NFC apre la pagina recensione Google di Ivan direttamente. Climbo 
 
 ---
 
-## APPENDICE — La frase che spiega Climbo a Ivan (senza dirgli che esiste Climbo)
+## APPENDICE — La frase che spiega Climbo a Vittorio (senza dirgli che esiste Climbo)
 
 > «Quando qualcuno ti lascia una recensione, il sistema risponde automaticamente con le parole giuste per Google — nome del tuo studio, città, tipo di servizio. Poi quella stessa recensione diventa un post sul tuo profilo Google. Tutto questo gira da solo. Tu non tocchi niente. Io guardo che funzioni. Il contatore lo vedi tu, in tempo reale, dal tuo telefono.»
 
@@ -330,5 +330,5 @@ Niente tecnico. Niente Climbo. Niente flywheel. Il cliente compra il contatore c
 
 ---
 
-*Playbook v1 — si aggiorna dopo la Call 1 con Ivan.*
+*Playbook v1 — si aggiorna dopo la Call 1 con Vittorio.*
 *★ TROVATEMI.IT — Ti facciamo trovare dove conta.*
