@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sales/objections.md",
+                "file": "features/balance-explained.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "objections"
+              "title": "balance-explained"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "0ad1644c1a83fdb5",
   "lastOpenFiles": [
-    "sales/finding-clients.md",
+    "case-studies/community-wins.md",
+    "index.md",
     "sales/objections.md",
+    "sales/finding-clients.md",
     "sales/demo-script.md",
     "getting-started/first-client-checklist.md",
     "BRocA7husPU.md",

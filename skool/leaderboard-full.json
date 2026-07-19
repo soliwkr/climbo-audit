@@ -1,0 +1,62 @@
+{
+  "type": "30d",
+  "updatedAt": "2026-07-19T07:38:29.76625366Z",
+  "limit": 5,
+  "users": [
+    {
+      "userId": "8a1aa0c51130447885bb4da5ff153147",
+      "name": "dan-whiting-4188",
+      "bio": "I provide business solutions that attract more customers, enhance brand visibility, and build a solid reputation through positive reviews.",
+      "location": "Ohio United States",
+      "website": "https://www.sotryus.com",
+      "profilePic": "https://assets.skool.com/f/8a1aa0c51130447885bb4da5ff153147/3a09a47da08b47e786ad11f466b7a0e0cdf7da4265594f0880f1042cea0cf487-md.jpg",
+      "points": 214,
+      "level": 5,
+      "role": 4
+    },
+    {
+      "userId": "4d6ac06813294967872e06cd3427ade3",
+      "name": "donna-marie-6769",
+      "bio": "Hi everyone ",
+      "location": "",
+      "website": "",
+      "profilePic": "https://assets.skool.com/f/4d6ac06813294967872e06cd3427ade3/6b45947205494246b8f48322ecf9a7a8dd84c34a0d4247db8be0b56966e4f301-md.jpg",
+      "points": 427,
+      "level": 5,
+      "role": 4
+    },
+    {
+      "userId": "393446cf3ef9454eba48a25a49d95ae2",
+      "name": "jason-andreasson-8040",
+      "bio": "Entrepreneur and app creator—turning ideas into reality.",
+      "location": "",
+      "website": "",
+      "profilePic": "https://assets.skool.com/f/393446cf3ef9454eba48a25a49d95ae2/ce5bc1bf4a2c465e99ea70250d7265915d35db2686cc42f29a458931770b31a0-md.jpg",
+      "points": 52,
+      "level": 3,
+      "role": 4
+    },
+    {
+      "userId": "436e65d2744641ee863a5583bee87a81",
+      "name": "gaston-l-9696",
+      "bio": "Inspiring revolutionaries to build at the edge of what's possible.",
+      "location": "Buenos Aires, Argentina",
+      "website": "https://www.bagheadlabs.io/",
+      "profilePic": "https://assets.skool.com/f/436e65d2744641ee863a5583bee87a81/b6cd238f550246ffa53ac52caf68d6107160dbeabd6e4c73878577e0885fe244.jpg",
+      "points": 111,
+      "level": 4,
+      "role": 4
+    },
+    {
+      "userId": "81a0828db0bb4101acb71bdb2d98010d",
+      "name": "alok",
+      "bio": "📈 Build smarter businesses with AI\n⚙️ Automation, reviews, fast response\n🔥 Real systems. Real results.\n🇮🇳🇦🇺 Father 👧 👶",
+      "location": "Sydney, Australia",
+      "website": "",
+      "profilePic": "https://assets.skool.com/f/81a0828db0bb4101acb71bdb2d98010d/f3e80ca634dd4cbab4a3b564ac553da288994bcd71c6463888fabd996161fa3f-md.jpg",
+      "points": 100,
+      "level": 4,
+      "role": 4
+    }
+  ]
+}
