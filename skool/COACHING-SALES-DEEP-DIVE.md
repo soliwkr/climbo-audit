@@ -754,5 +754,261 @@ Lug 2026  ← Home Charts (3 grafici), code review sprint
 
 ---
 
-*Documento generato il 22 luglio 2026 da analisi completa di 955 post + 757 commenti della community Skool Climbo.*
-*Tutti i dati sono estratti dai post pubblici nella community e rappresentano intelligence commerciale per uso interno trovatemi.it.*
+## 14. VIDEO: Giacomo 45-Min Training — Transcript Analysis
+
+**Video:** `tg2KXcR_RRg` — "Climbo – 45-Min Training" (YouTube, luglio 2026)
+**Transcript completo:** `skool/transcripts/training-45min.json`
+
+### Il Framework di Vendita di Giacomo (Problem-First Selling)
+
+Giacomo insegna un approccio in 5 step:
+
+1. **Identifica il problema universale** — le attivita locali hanno poche recensioni positive → bassa visibilita su Google e AI → i competitor prendono tutte le chiamate, prenotazioni, visite
+2. **Agita** — "Non dormono la notte per questo problema... i loro competitor stanno ricevendo tutte le chiamate, tutte le prenotazioni"
+3. **Presenta la soluzione** — il Review Marketing Flywheel automatizzato (Climbo white-label)
+4. **Prova con social proof** — case study partner: Wayne $20K/mo, Martin 5 ristoranti in 1 settimana, Anna 3 pitch tutti si, Noa 8 clienti in 7 giorni porta a porta
+5. **Chiudi con la visibilita ROI** — mostra la dashboard: piu impressioni, chiamate, richieste indicazioni, click al sito mese su mese
+
+### Citazioni Chiave (da usare nel pitch trovatemi.it)
+
+> **"I business locali non comprano feature, non comprano software, non comprano piattaforme, non comprano dashboard — comprano risultati."**
+
+> **"Non stai vendendo un progetto una tantum. Non stai vendendo un sito web. Stai vendendo un sistema di cui hanno bisogno ogni mese."**
+
+> **"Una volta che un'attivita locale inizia a usare il software, i competitor sentono l'urgenza di iscriversi anche loro."** (Network effect)
+
+### I 3 Agenti AI — Come Posizionarli nella Vendita
+
+| Agente | Cosa Fa | Come Presentarlo al Prospect |
+|--------|---------|------------------------------|
+| **SEO Agent** | Risponde automaticamente a ogni recensione con keyword SEO locali | "La tua attivita sale su Google Maps perche ogni risposta alle recensioni rinforza le tue parole chiave." |
+| **Social Agent** | Seleziona le migliori recensioni, crea post social proof, pubblica su Facebook/Instagram/TikTok | "Hai contenuti social professionali ogni settimana senza muovere un dito — e sono il contenuto piu potente: prove reali dei tuoi clienti." |
+| **GEO Agent** | Genera e mantiene sito + blog con schema markup, ottimizzato per AI search | "Quando qualcuno chiede all'AI il miglior dentista a Milano, la tua attivita viene raccomandata perche il nostro sistema fornisce all'AI il contenuto giusto." |
+
+### Matematica Revenue Presentata
+
+| Scenario | MRR | Note |
+|----------|-----|------|
+| 10 clienti x $300/mo | **$3,000** | Entro ~6 mesi |
+| Wayne (3 anni) | **$20,000+** | Solopreneur Australia |
+| Gary (full-time) | **$5,000** | Solopreneur |
+| Noa (settimana 1, porta a porta) | **$1,200** | 8 clienti x $150/mo in 7 giorni |
+
+### Costi Climbo per il Partner
+
+- EUR 99/mese fisso, clienti illimitati
+- Attualmente 0% commissione sulle revenue
+- Futuro: 10% commissione, bloccata alla percentuale al momento della registrazione
+- Pagamenti via Stripe del partner, payout automatici settimanali
+
+### Le 4 Leve Psicologiche del Pitch
+
+1. **Chiarezza** — capiscono subito il problema (poche recensioni = basso ranking) e il ROI
+2. **Paura** — terrorizzati che una recensione da 1 stella distrugga la reputazione
+3. **Ego** — vogliono superare il competitor dall'altra parte della strada
+4. **Tranquillita** — sapere che un flusso costante di recensioni positive seppellisce l'occasionale negativa
+
+---
+
+## 15. VIDEO: $3k/mo Reputation Business — Transcript Analysis
+
+**Video:** `BRocA7husPU` — "Start a $3k/mo Reputation Management Business" (~47 min)
+**Transcript completo:** `skool/transcripts/3k-mo-training.json`
+
+### Il Modello di Business Spiegato
+
+Giacomo posiziona Climbo come **l'alternativa semplice a GoHighLevel**:
+- GoHighLevel e complesso sia per l'agenzia che per i clienti
+- Climbo e semplice: il cliente si autogestisce dopo il setup iniziale
+- L'unico lavoro del partner: vendita + setup iniziale. Il software fa tutto il resto.
+
+### Framework di Vendita "Foot in the Door"
+
+#### Step 1: Trova il Target Perfetto (4 segnali)
+- **Rating basso** (es. 4.2 stelle, non 5.0)
+- **Bassa velocita recensioni** (ultima recensione 3-6+ mesi fa)
+- **Competitor che vincono** (dentista con 24 recensioni vs competitor con 350)
+- **Gia marketing-minded** (ha sito web, posta su Instagram — gia valuta il digitale)
+
+#### Step 2: Approccio Fisico (60 secondi)
+> "Lo sapevi che quando cerchiamo [dentista/vet/ecc.] a [citta], Google ti nasconde a causa del numero di recensioni?"
+
+Mostra:
+- Il loro ranking Google vs competitor
+- Un report reputazione auto-generato (1 click da Climbo)
+
+#### Step 3: Chiusura con Garanzia
+> "Questa settimana configuro il sistema per te e ti faccio ottenere le prossime 5 recensioni gratis."
+
+Nessun pagamento, nessuna carta. Prova che il sistema funziona.
+
+#### Step 4: Conversione a Piano Pagato
+Dopo che il trial consegna risultati (~2 settimane), torna e presenta il piano a EUR 100/mese.
+
+#### Step 5: Missione Quotidiana
+**1 visita di persona al giorno. 5 giorni al mese dedicati = 30 visite outreach minimo.**
+
+### Matematica di Conversione
+
+```
+30 visite/mese → 30% accettano trial = 10 trial
+10 trial/mese → 30% convertono = 3 clienti paganti/mese
+3 x EUR 100 = EUR 300 MRR nuovo al mese
+In 12 mesi: ~36 clienti = EUR 3,600 MRR = EUR 43,200 ARR
+```
+
+### I 6 Pilastri del Reputation Management (da usare nel pitch)
+
+1. **Genera Recensioni + Rispondi** — raccolta automatica + AI reply con keyword SEO
+2. **Proteggi Rating** — funnel feedback conforme (no gating vietato da Google)
+3. **Traccia + Analizza Sentiment** — inbox centralizzata + analisi AI mensile
+4. **Review Marketing** — condivisione automatica su social
+5. **Accuratezza Listing** — sync diretto con GBP
+6. **Sito Web + Schema Markup** — auto-generato con Lighthouse score perfetti
+
+### Dati da Usare nel Pitch (citati nel video)
+
+- 98% dei consumatori legge recensioni prima di chiamare un'attivita locale (BrightLocal)
+- +0.5 stelle = +59% revenue (Harvard Business Review)
+- Google Map Pack (top 3) = +126% traffico (BrightLocal)
+- Profili 5 stelle = +35% chiamate in piu vs 4 stelle (Search Engine Land)
+
+### Case Study Citato: Lake Union Veterinary Clinic, Seattle
+
+| Metrica | Prima | Dopo |
+|---------|-------|------|
+| Recensioni Google | 13 | 270 |
+| Rating | 4.2 | 4.8 |
+| Posizione Maps | Non in Map Pack | #2 per "vet near Seattle" |
+
+---
+
+## 16. VIDEO: AMA Key Sessions — Sales Intelligence
+
+**5 AMA analizzate:** Gen 22, Gen 29, Feb 5, Feb 12, Apr 17
+**Transcript completi:** `skool/transcripts/ama-*.json`
+
+### Wayne Connell — Filosofia di Vendita (dalle AMA)
+
+Wayne ha 30+ anni di esperienza B2B/door-to-door (dal 1992, 10,000+ presentazioni a domicilio). I suoi principi chiave:
+
+1. **"Il tuo successo piu grande e sempre nel tuo cortile."**
+   - Wayne e diventato "the review guy" nella Sunshine Coast (AU)
+   - Si e espanso alla Gold Coast, poi clienti in NZ e USA — tutto via referral
+   - I clienti globali sono SEMPRE arrivati da referral partiti localmente
+
+2. **"Il mercato B2B locale non e cambiato fondamentalmente."**
+   - Le tecniche di vendita porta a porta e di persona funzionano ancora
+   - I piccoli imprenditori locali non sono tech-savvy — vogliono un partner locale di fiducia
+
+3. **Giacomo conferma:**
+   > "Tante persone vengono su Climbo pensando di poter vendere ad attivita in altri continenti, ma i piccoli imprenditori locali vogliono una vera partnership locale."
+
+### Pricing Strategy Avanzata (dalle AMA)
+
+**Coupon Codes (sistema attivo):**
+- Sconto percentuale o importo fisso, durata "una volta" o "per sempre"
+- **Tattica scarsita:** "Solo 5 utilizzi" o "scade tra una settimana"
+- **Sales team tracking:** Ogni venditore ha un coupon unico → tracking MRR automatico
+- I coupon sopravvivono agli upgrade piano (da Bronze a Silver il coupon resta)
+
+**Package Pricing (modello alternativo al per-location):**
+- Limita il numero di location per piano → upsell naturale
+- Esempio: Bronze 3 loc $49/mo, Silver 5 loc $99/mo, Gold 10 loc $199/mo
+- Enterprise (100 loc, $999/mo) nascosto dal portale billing — per deal custom
+- **Consiglio di Giacomo: SCEGLI UN SOLO modello. Non mischiare per-location e package.**
+
+**Free Trial esteso:**
+- Da 30 a **90 giorni massimo** per agenzie che servono nicchie con velocita recensioni bassa
+- Banner personalizzabile per clienti in trial con CTA (upgrade o prenota call fine-trial)
+
+**Costi GEO Agent:**
+- 3-5 centesimi per articolo blog (generazione AI + immagine)
+- Nessun markup — l'agenzia paga quello che paga Climbo
+- Inizialmente gratuito le prime settimane
+
+### Feature Positioning Avanzato (dalle AMA)
+
+**Come vendere il SEO Agent (Bulk Reply come hook onboarding):**
+- Clienti con centinaia di recensioni senza risposta vedono valore IMMEDIATO
+- L'agente risponde a 5 recensioni passate/giorno (rate sicuro per evitare penalita Google)
+- La dashboard AI History mostra l'attivita dell'agente a fine trial: "Guarda, senza muovere un dito, la piattaforma ha risposto a X recensioni e condiviso Y post sui social"
+
+**Come vendere il Website:**
+- Risolve un problema reale: la maggior parte delle attivita locali non ha un sito decente
+- Lighthouse score: 100 SEO, 100 accessibilita, 100 best practices, 90+ performance
+- Schema markup automatico — le agenzie che lo fanno manualmente caricano migliaia di euro
+- Ottimizzato sia per Google che per LLM (differenziatore forward-looking)
+
+**Come vendere il GEO Agent:**
+- "Il pezzo mancante del flywheel" — SEO agent gestisce risposte, Social agent condivide social, GEO Agent genera blog
+- Articoli FAQ tipo "Qual e il miglior [tipo attivita] a [citta]?" — rankano estremamente bene nelle risposte AI
+- Cross-posting social: ogni articolo blog genera automaticamente un post social con caption e link
+
+### Onboarding Best Practices (dalle AMA)
+
+1. **Google connect al primo login** — prompt automatico, grande percentuale completa subito
+2. **Email sequence post-signup:**
+   - Giorno 0: Welcome email
+   - Giorno 3: Stimola engagement / invita a prenotare call fine-trial
+   - Giorno 7: Secondo touchpoint
+   - Giorno 11: Trial ending soon (3 giorni prima)
+   - Fine trial: Payment success/failure
+3. **Banner free trial** — CTA sempre visibile: "Upgrade qui" o link Calendly
+4. **Email charge failed** — critica per ridurre churn involontario
+5. **Knowledge base chatbot** — riduci il carico supporto, i clienti si auto-aiutano
+
+### Sales Team / Affiliate System (dalle AMA)
+
+Sistema annunciato e ora live:
+- Ogni venditore riceve un coupon unico
+- Percentuale fissa di commissione sulla MRR dei clienti chiusi
+- PayPal per i payout automatici
+- Tracking automatico — nessun foglio Excel
+
+**Per trovatemi.it:** Puoi reclutare 2-3 agenti commerciali locali. Ognuno ha il suo coupon trovatemi.it. Commissione 20-30% del primo anno. Loro vendono, tu fai onboarding.
+
+---
+
+## Appendice B: Video YouTube Canale Climbo
+
+**Canale:** "Start Your AI Software Business" (UCZm2kvByDm6st8b_x7Dsf7w)
+**Totale video:** 42 (gen 2025 - lug 2026)
+
+| Tipo | Video ID | Titolo | Data |
+|------|----------|--------|------|
+| TRAINING | tg2KXcR_RRg | Climbo – 45-Min Training | 14 Lug |
+| TRAINING | BRocA7husPU | Start a $3k/mo Reputation Management Business | 20 Mar |
+| AMA | W86dEitjLG8 | Live A.M.A. (16/07/2026) - Community Q&A | 16 Lug |
+| AMA | 12NwL4G8vIE | Live A.M.A. (09/07/2026) - Home Charts Are Live! | 10 Lug |
+| AMA | heg4L7e0QNs | Live A.M.A. (01/07/2026) - Trial Limits, Stripe Accounting | 3 Lug |
+| AMA | HZ-9avetOnE | Live A.M.A. (25/06/2026) - SMTP, Coupon Codes, Email History | 26 Giu |
+| AMA | 60nbKPfQ-eA | Live A.M.A. (04/06/2026) - Affiliate Program | 19 Giu |
+| AMA | oPElvf0vT6Y | Live A.M.A. (04/06/2026) - AI Token Allocation | 5 Giu |
+| AMA | rJhFyiE_Yvk | Live A.M.A. (21/05/2026) - Branded AI | 21 Mag |
+| AMA | yFsRXQ4E9Wc | Live A.M.A. (14/05/2026) - Google Sheets Integration | 15 Mag |
+| AMA | esTnEB5CyzA | Live A.M.A. (07/05/2026) - AI Ranking | 8 Mag |
+| AMA | 0Jek3W4-9pk | Live A.M.A. (23/04/2026) - GEO Agent Embed | 1 Mag |
+| AMA | WUPOkx48fGY | Live A.M.A. (23/04/2026) - Employee Tracking + New UI | 24 Apr |
+| AMA | LIn64wsy8wA | Live A.M.A. (17/04/2026) - **GEO Agent LIVE** | 17 Apr |
+| AMA | 6Mj7hZUtfAA | Live A.M.A. (09/04/2026) - GEO Agent Coming #2 | 10 Apr |
+| AMA | ctiVjKi2LrU | Live A.M.A. (02/04/2026) - GEO Agent Coming | 2 Apr |
+| AMA | Q2RkdIdJBoY | Live A.M.A. (31/03/2026) - Mobile App iOS/Android | 1 Apr |
+| AMA | Cbw27lPDN-c | Live A.M.A. (26/03/2026) - Email Reminders, Reports | 27 Mar |
+| AMA | w3upDdv8hlY | Live A.M.A. (19/03/2026) - Clients Filter, Booking Links | 20 Mar |
+| AMA | bw83Z71GQzo | Live A.M.A. (12/03/2026) - Review Reminders | 13 Mar |
+| AMA | yAx4pzDTmsY | Live A.M.A. (05/03/2026) - Custom Plan Features | 6 Mar |
+| AMA | i4D5yXclzEY | Live A.M.A. (26/02/2026) - AI Review Suggestion | 26 Feb |
+| AMA | pbGfIjJEwFE | Live A.M.A. (19/02/2026) - Video Reviews, AI Chatbot | 19 Feb |
+| AMA | FXjbN3T1BU8 | Live A.M.A. (12/02/2026) - Website + Instant Reviews | 12 Feb |
+| AMA | FtEM-FRfOgo | Live A.M.A. (05/02/2026) - Email Templates, GEO Coming | 5 Feb |
+| AMA | VibWfDfMwVA | Live A.M.A. (29/01/2026) - Custom AI, Bulk Reply | 30 Gen |
+| AMA | Y-JnPapla-8 | Live A.M.A. (22/01/2026) - Sales Trainings, Pricing | 23 Gen |
+| AMA | PQiNrTKVLOU | Climbo Restart: Features, Community, Pricing | 16 Gen |
+
+**Nota:** Le 6 sessioni Sales Accelerator con Wayne sono nella Classroom Skool (accesso riservato ai membri), non su YouTube pubblico. I video YouTube sono le AMA settimanali di Giacomo + training pubblici.
+
+---
+
+*Documento generato il 22 luglio 2026 da analisi completa di 955 post + 757 commenti della community Skool Climbo + transcript completi di 7 video YouTube del canale Climbo.*
+*Tutti i dati sono estratti dai post pubblici nella community e dal canale YouTube e rappresentano intelligence commerciale per uso interno trovatemi.it.*
