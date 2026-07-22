@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TROVATEMI.IT — Ti facciamo trovare dove conta</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Georgia&family=Inter:wght@400;700&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #fffef9;
+    color: #1a1a1a;
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 19px;
+    line-height: 1.75;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .envelope {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 40px 24px 80px;
+  }
+
+  /* ---- Header ---- */
+  .header {
+    text-align: center;
+    border-bottom: 2px solid #1a1a1a;
+    padding-bottom: 24px;
+    margin-bottom: 40px;
+  }
+  .header h1 {
+    font-family: Inter, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #1a1a1a;
+  }
+  .header .tagline {
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: #777;
+    margin-top: 4px;
+    font-family: Inter, sans-serif;
+    text-transform: uppercase;
+  }
+
+  /* ---- Date line ---- */
+  .dateline {
+    font-family: Inter, sans-serif;
+    font-size: 13px;
+    color: #999;
+    margin-bottom: 32px;
+  }
+
+  /* ---- Headline ---- */
+  .headline {
+    font-size: 32px;
+    line-height: 1.25;
+    font-weight: normal;
+    margin-bottom: 8px;
+    color: #1a1a1a;
+  }
+  .headline em {
+    font-style: italic;
+  }
+  .subheadline {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 40px;
+    font-style: italic;
+  }
+
+  /* ---- Body ---- */
+  p {
+    margin-bottom: 20px;
+  }
+  p.short {
+    margin-bottom: 14px;
+  }
+
+  strong {
+    font-weight: bold;
+  }
+
+  .indent {
+    margin-left: 32px;
+    border-left: 3px solid #ddd;
+    padding-left: 20px;
+    margin-bottom: 24px;
+    color: #333;
+    font-style: italic;
+  }
+
+  .proof-box {
+    background: #f7f5ee;
+    border: 1px solid #e0ddd0;
+    padding: 24px 28px;
+    margin: 32px 0;
+    border-radius: 2px;
+  }
+  .proof-box .label {
+    font-family: Inter, sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #999;
+    margin-bottom: 12px;
+  }
+  .proof-box p {
+    margin-bottom: 12px;
+    font-size: 17px;
+  }
+  .proof-box p:last-child {
+    margin-bottom: 0;
+  }
+
+  .separator {
+    text-align: center;
+    margin: 40px 0;
+    color: #ccc;
+    font-size: 24px;
+    letter-spacing: 12px;
+  }
+
+  /* ---- Stars / Levels ---- */
+  .level {
+    background: #fff;
+    border: 2px solid #1a1a1a;
+    padding: 28px;
+    margin: 24px 0;
+  }
+  .level-header {
+    font-family: Inter, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+  }
+  .level-price {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 12px;
+  }
+  .level-price span {
+    font-size: 16px;
+    font-weight: normal;
+    color: #777;
+  }
+  .level ul {
+    list-style: none;
+    padding: 0;
+  }
+  .level ul li {
+    padding: 6px 0;
+    padding-left: 24px;
+    position: relative;
+    font-size: 17px;
+  }
+  .level ul li::before {
+    content: "—";
+    position: absolute;
+    left: 0;
+    color: #999;
+  }
+  .level.featured {
+    border-width: 3px;
+    background: #fafaf5;
+  }
+
+  /* ---- CTA ---- */
+  .cta-block {
+    text-align: center;
+    margin: 48px 0;
+    padding: 40px 24px;
+    background: #1a1a1a;
+    color: #fffef9;
+  }
+  .cta-block p {
+    color: #ccc;
+    font-size: 17px;
+  }
+  .cta-block .cta-headline {
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: 16px;
+  }
+  .cta-block a {
+    display: inline-block;
+    margin-top: 20px;
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #1a1a1a;
+    background: #fffef9;
+    padding: 14px 40px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  .cta-block a:hover {
+    background: #eee;
+  }
+
+  /* ---- PS ---- */
+  .ps {
+    margin-top: 40px;
+    padding-top: 24px;
+    border-top: 1px solid #ddd;
+  }
+  .ps p {
+    font-size: 17px;
+  }
+
+  /* ---- Signature ---- */
+  .signature {
+    margin-top: 48px;
+    font-style: italic;
+  }
+  .signature .name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  /* ---- Footer ---- */
+  .footer {
+    margin-top: 80px;
+    padding-top: 24px;
+    border-top: 2px solid #1a1a1a;
+    font-family: Inter, sans-serif;
+    font-size: 12px;
+    color: #999;
+    text-align: center;
+  }
+
+  /* ---- Responsive ---- */
+  @media (max-width: 600px) {
+    .envelope { padding: 24px 16px 60px; }
+    .headline { font-size: 26px; }
+    body { font-size: 17px; }
+    .level { padding: 20px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="envelope">
+
+  <div class="header">
+    <h1>Trovatemi.it</h1>
+    <div class="tagline">Ti facciamo trovare dove conta</div>
+  </div>
+
+  <div class="dateline">
+    Formia, luglio 2026
+  </div>
+
+  <p class="headline">
+    Se il tuo telefono non squilla,<br>
+    <em>il problema non sei tu.</em>
+  </p>
+  <p class="subheadline">
+    Una lettera per chi ha un'attività locale e vuole che i clienti lo trovino
+    — su Google, su Google Maps, su ChatGPT, su Gemini — senza impazzire.
+  </p>
+
+  <div class="separator">* * *</div>
+
+  <p>Caro imprenditore,</p>
+
+  <p>Ti scrivo perché probabilmente siamo nella stessa situazione.</p>
+
+  <p>Tu hai un'attività. Fai bene il tuo lavoro. I clienti che ti conoscono sono contenti. Ma quelli che <strong>non ti conoscono ancora</strong> — quelli che cercano su Google, quelli che chiedono a ChatGPT "miglior agenzia immobiliare a Formia" o "ristorante buono vicino a me" — quelli non ti trovano.</p>
+
+  <p>Trovano il tuo concorrente.</p>
+
+  <p>Non perché è più bravo di te. Ma perché ha più recensioni. O perché il suo profilo Google è più attivo. O perché qualcuno gli ha sistemato le cose giuste nei posti giusti.</p>
+
+  <p>Ecco il punto:</p>
+
+  <p><strong>Le recensioni su Google non sono un "nice to have". Sono il motore che decide chi suona il telefono e chi no.</strong></p>
+
+  <p>Non lo dico io. Lo dicono i numeri.</p>
+
+  <div class="proof-box">
+    <div class="label">Fatto verificabile</div>
+    <p>Un'attività locale senza recensioni ha collegato il suo profilo Google al nostro sistema. Non aveva nemmeno una recensione. Zero.</p>
+    <p><strong>Il giorno dopo:</strong></p>
+    <p><strong>#1 su ChatGPT.</strong> Primo risultato quando qualcuno chiede informazioni sul suo settore nella sua città.</p>
+    <p><strong>#1 su Gemini.</strong> L'intelligenza artificiale di Google lo cita prima di tutti gli altri.</p>
+    <p><strong>#6 su Google Maps.</strong> Su più di 20 concorrenti nella zona.</p>
+    <p>Senza pubblicità. Senza trucchi. Senza nemmeno una recensione. Solo collegando il profilo al sistema.</p>
+    <p>Poi sono arrivate le recensioni. E il contatore ha continuato a salire.</p>
+  </div>
+
+  <p>Adesso ti faccio una domanda semplice:</p>
+
+  <p><strong>Quante recensioni hai su Google?</strong></p>
+
+  <p>Non devi rispondermi. Rispondi a te stesso.</p>
+
+  <p>Se la risposta è "poche" o "non abbastanza" o "non me ne sono mai occupato" — allora questa lettera è per te.</p>
+
+  <div class="separator">* * *</div>
+
+  <p class="headline">Come funziona</p>
+
+  <p>Non ti vendo un software. Non ti vendo un corso. Non ti vendo "visibilità" con paroloni inglesi.</p>
+
+  <p>Ti vendo una cosa sola: <strong>il tuo telefono che squilla di più.</strong></p>
+
+  <p>Funziona così:</p>
+
+  <p><strong>1. Colleghi il tuo profilo Google.</strong> Ci metti 10 minuti. Lo facciamo insieme in videochiamata, ti guido io passo passo.</p>
+
+  <p><strong>2. Il sistema chiede le recensioni al posto tuo.</strong> Via SMS, WhatsApp, o con una targhetta NFC che il cliente tocca col telefono. Basta un tocco — si apre la pagina Google e lascia la recensione. Nessuna app da scaricare, nessun link complicato.</p>
+
+  <p><strong>3. L'intelligenza artificiale risponde a ogni recensione.</strong> Con il nome della tua attività, la tua città, il tuo servizio. Le parole giuste nei posti giusti. Google Maps sale. ChatGPT ti cita. Gemini ti consiglia.</p>
+
+  <p><strong>4. Tu non tocchi niente.</strong> Il sistema gira da solo. Io controllo che funzioni. Tu fai il tuo lavoro.</p>
+
+  <div class="indent">
+    "Quando qualcuno ti lascia una recensione, il sistema risponde automaticamente con le parole giuste per Google — nome del tuo studio, città, tipo di servizio. Poi quella stessa recensione diventa un post sul tuo profilo. Tutto questo gira da solo. Tu non tocchi niente. Io guardo che funzioni. Il contatore lo vedi tu, in tempo reale, dal tuo telefono."
+  </div>
+
+  <p>Questo è tutto.</p>
+
+  <p>Non c'è niente di complicato. Non c'è gergo tecnico. Non c'è un pannello di controllo con 47 pulsanti.</p>
+
+  <p>C'è un contatore di recensioni che sale. E il tuo telefono che inizia a squillare.</p>
+
+  <div class="separator">* * *</div>
+
+  <p class="headline">Perché le recensioni sono <em>tutto</em></p>
+
+  <p>Sai cosa succede quando qualcuno cerca "agenzia immobiliare Formia" su Google?</p>
+
+  <p>Google mostra tre risultati. Tre. Non trenta. Tre.</p>
+
+  <p>Sai come decide quali tre? Recensioni. Quante ne hai, quanto sono recenti, e se qualcuno risponde.</p>
+
+  <p>Sai cosa succede quando qualcuno chiede a ChatGPT "miglior ristorante a Gaeta"?</p>
+
+  <p>ChatGPT guarda le recensioni. Guarda se il profilo Google è attivo. Guarda se ci sono contenuti recenti. E poi consiglia.</p>
+
+  <p>Se il tuo profilo è morto — poche recensioni, nessuna risposta, ultimo aggiornamento nel 2023 — non esisti.</p>
+
+  <p>Non per le persone che già ti conoscono. Per quelle che <strong>ancora non ti conoscono</strong>. Quelle nuove. Quelle che potrebbero diventare i tuoi migliori clienti.</p>
+
+  <p><strong>Le stai perdendo. Ogni giorno. Ogni ricerca. Ogni domanda a un'intelligenza artificiale.</strong></p>
+
+  <div class="separator">* * *</div>
+
+  <p class="headline">Chi sono io</p>
+
+  <p>Mi chiamo Chris Fioravanti. Vivo a Formia.</p>
+
+  <p>Non sono un'agenzia di marketing con uffici a Milano e preventivi da 30 pagine. Non ho un team di 15 persone. Non parlo di "brand awareness" o "funnel di conversione".</p>
+
+  <p>Faccio una cosa sola: <strong>aiuto le attività locali a farsi trovare dove conta.</strong></p>
+
+  <p>Se hai un problema, mi chiami. Rispondo io. Non un assistente, non un chatbot, non un modulo di contatto che nessuno legge.</p>
+
+  <p>Io.</p>
+
+  <p>Lavoro con poche attività alla volta. Di proposito. Perché se lavori con troppe persone, non lavori bene con nessuna.</p>
+
+  <div class="separator">* * *</div>
+
+  <p class="headline">I tre livelli</p>
+
+  <p>Non c'è un preventivo personalizzato. Non c'è il "dipende". Ci sono tre livelli, chiari, con un prezzo fisso al mese. Scegli quello che ha senso per te.</p>
+
+  <div class="level">
+    <div class="level-header">★ Trovato</div>
+    <div class="level-price">€100 <span>/ mese</span></div>
+    <ul>
+      <li>Il contatore delle recensioni che sale</li>
+      <li>Richieste recensione automatiche (SMS, WhatsApp, NFC)</li>
+      <li>L'AI risponde a ogni recensione con le parole giuste per Google</li>
+      <li>Il tuo profilo Google sistemato e attivo</li>
+      <li>Pannello dove vedi tutto dal telefono</li>
+      <li>Chris risponde — sempre</li>
+    </ul>
+  </div>
+
+  <div class="level featured">
+    <div class="level-header">★★ Visibile</div>
+    <div class="level-price">€300 <span>/ mese</span></div>
+    <ul>
+      <li>Tutto quello di ★ Trovato, più:</li>
+      <li>Ogni recensione diventa un post su Google, Instagram, Facebook</li>
+      <li>Calendario di 40 contenuti pronti per il tuo profilo</li>
+      <li>Il tuo profilo Google vivo — post, foto, aggiornamenti ogni settimana</li>
+      <li>Report mensile con i numeri che contano</li>
+    </ul>
+  </div>
+
+  <div class="level">
+    <div class="level-header">★★★ Inevitabile</div>
+    <div class="level-price">€500 <span>/ mese + esclusiva di zona</span></div>
+    <ul>
+      <li>Tutto quello di ★★ Visibile, più:</li>
+      <li>Sito web automatico alimentato dalle tue recensioni e dai dati locali</li>
+      <li>ChatGPT, Gemini e Perplexity ti citano come fonte</li>
+      <li>Tre posizioni presidiate: Maps, organico, AI search</li>
+      <li>Esclusiva: nessun altro concorrente nella tua zona con lo stesso servizio</li>
+    </ul>
+  </div>
+
+  <p>Non c'è vincolo annuale. Non c'è penale. Se dopo un mese non vedi risultati, te ne vai. Semplice.</p>
+
+  <p>Ma non succederà.</p>
+
+  <p>Perché i risultati li vedi nei primi 7 giorni. Il contatore sale. Lo screenshot te lo mando io su WhatsApp, senza che me lo chiedi.</p>
+
+  <div class="separator">* * *</div>
+
+  <p class="headline">La targhetta</p>
+
+  <p>C'è un oggetto fisico che cambia tutto.</p>
+
+  <p>È una targhetta NFC. La metti sul bancone, vicino alla cassa, sul tavolo. Il cliente avvicina il telefono — due tocchi — si apre Google e lascia la recensione.</p>
+
+  <p>Non deve scaricare niente. Non deve cercare niente. Non deve ricordarsi di farlo dopo.</p>
+
+  <p>Due tocchi. Fatto.</p>
+
+  <p>La targhetta te la consegno io di persona. Ti faccio vedere come funziona. La provi davanti a me.</p>
+
+  <p>Quando vedi la faccia del tuo primo cliente che dice "ma è tutto qui?" — capisci perché funziona.</p>
+
+  <div class="separator">* * *</div>
+
+  <p class="headline">Le nuove regole di Google</p>
+
+  <p>Ad aprile 2026, Google ha cambiato le regole sulle recensioni.</p>
+
+  <p>Molti servizi che filtravano le recensioni negative prima di pubblicarle — quelli che mostravano solo le 5 stelle — sono fuori norma adesso. Google li penalizza.</p>
+
+  <p><strong>Noi non l'abbiamo mai fatto.</strong></p>
+
+  <p>Il nostro sistema non filtra niente. Non nasconde le recensioni negative. Non incentiva le positive con sconti o premi. Tutto alla luce del sole.</p>
+
+  <p>Questo non è un limite. È un vantaggio.</p>
+
+  <p>Perché quando il tuo concorrente si sveglia una mattina e scopre che Google gli ha tolto 50 recensioni perché usava un sistema che faceva "gating" — tu sei ancora lì. Pulito. Regolare. Con tutte le tue recensioni al loro posto.</p>
+
+  <div class="proof-box">
+    <div class="label">Dalle nuove policy google — maggio 2026</div>
+    <p>"Siamo già allineati alle nuove regole. Molti competitor no."</p>
+    <p>Nessun review gating. Nessuna manipolazione. Ogni recensione arriva, ogni recensione viene pubblicata, ogni recensione riceve risposta. Google ci vuole bene per questo.</p>
+  </div>
+
+  <div class="separator">* * *</div>
+
+  <p class="headline">I primi 90 giorni</p>
+
+  <p>Ecco cosa succede se lavoriamo insieme:</p>
+
+  <p><strong>Giorno 0.</strong> Ci sentiamo. Ti spiego tutto. Se ha senso per te, firmi e partiamo. Ci metti 10 minuti a collegare il profilo Google.</p>
+
+  <p><strong>Giorno 1.</strong> Videochiamata di setup. Collegamento del profilo, configurazione delle richieste recensione, consegna della targhetta NFC. Stabilisco il "contatore zero" — quante recensioni hai oggi.</p>
+
+  <p><strong>Giorno 7.</strong> Ti mando su WhatsApp lo screenshot del contatore. Senza che me lo chiedi. Vedi già le prime recensioni entrare.</p>
+
+  <p><strong>Giorno 14.</strong> Seconda chiamata. Guardiamo i numeri insieme. Aggiustiamo il tiro se serve.</p>
+
+  <p><strong>Giorno 90.</strong> Il contatore è salito. Il profilo Google è attivo. Maps è migliorato. Le AI ti citano. E io ti chiedo una cosa sola:</p>
+
+  <div class="indent">
+    "Chi conosci che è messo come eri messo tu 90 giorni fa?"
+  </div>
+
+  <p>Un nome. Un contatto. Qualcuno che ha lo stesso problema che avevi tu.</p>
+
+  <p>Funziona così. Non con la pubblicità. Non con le cold call. Con i risultati che parlano da soli.</p>
+
+  <div class="cta-block">
+    <p class="cta-headline">Vuoi vedere come funziona?</p>
+    <p>Nessun impegno. Ti faccio vedere il sistema con la tua attività, dal vivo.<br>Se ha senso, partiamo. Se non ha senso, ci stringiamo la mano e buona fortuna.</p>
+    <a href="https://wa.me/393XXXXXXXXX?text=Ciao%20Chris%2C%20ho%20letto%20la%20lettera%20su%20trovatemi.it%20e%20vorrei%20saperne%20di%20più">Scrivimi su WhatsApp</a>
+  </div>
+
+  <div class="separator">* * *</div>
+
+  <p class="headline">Una cosa che devo dirti</p>
+
+  <p>Non lavoro con tutti.</p>
+
+  <p>Non è snobismo. È matematica. Se lavoro con più di una manciata di attività alla volta, la qualità cala. E se la qualità cala, i risultati calano. E se i risultati calano, non serve a niente.</p>
+
+  <p>Quindi: se mi contatti e non ti rispondo subito, non è perché non mi interessa. È perché sto seguendo qualcun altro. Ti rispondo appena posso, e se sono pieno te lo dico chiaramente.</p>
+
+  <p>Preferisco dire "non ho posto" che dire "sì" e poi non seguirti come si deve.</p>
+
+  <div class="separator">* * *</div>
+
+  <div class="signature">
+    <p>Un saluto,</p>
+    <p class="name">Chris Fioravanti</p>
+    <p>TROVATEMI.IT — Formia</p>
+  </div>
+
+  <div class="ps">
+    <p><strong>P.S.</strong> — Se hai un'agenzia immobiliare con più agenti, chiedimi dell'Employee Tracking. Ogni agente ha il suo QR personale. Si traccia chi porta più recensioni. I tuoi agenti competono per far crescere il profilo. È una cosa che le agenzie ci chiedono sempre.</p>
+
+    <p><strong>P.P.S.</strong> — Il sistema è già conforme al GDPR. Consenso personalizzabile, opt-out in ogni messaggio, nessun dato che va dove non deve andare. Se il tuo avvocato vuole verificare, gli mando la documentazione.</p>
+
+    <p><strong>P.P.P.S.</strong> — Se stai pensando "ma io non ho tempo per occuparmi delle recensioni" — è esattamente il punto. <em>Non devi occupartene tu.</em> Se ne occupa il sistema. Tu fai il tuo lavoro. Io faccio il mio. Il contatore sale da solo.</p>
+  </div>
+
+  <div class="footer">
+    TROVATEMI.IT — Ti facciamo trovare dove conta.<br>
+    Chris Fioravanti · Formia · info@trovatemi.it
+  </div>
+
+</div>
+
+</body>
+</html>
