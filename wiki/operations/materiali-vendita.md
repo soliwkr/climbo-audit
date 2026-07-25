@@ -57,6 +57,7 @@ Lo sticker si scrive in 1 secondo con l'app **NFC Tools** (gratis, iOS/Android):
 > - `flyer-a5-leaflet-drop.html` — flyer A5 **brandizzato trovatemi.it** per il leaflet-drop e i walk-in (destinatario: il titolare). Hook del concorrente + offerta 5 recensioni gratis + QR. Stampabile in casa.
 > - `facebook-groups-copy.md` — post pronti-da-incollare per i gruppi Facebook + script commento/DM (metodo che ha portato 4 clienti nella community).
 > - `staff-instructions-a6-template.html` — cartoncino "recensione in 5 secondi" per lo staff del cliente. Va nel kit di benvenuto, neutro, **conforme alle policy Google aprile 2026** (no gating/incentivi/copioni). Stampabile in casa.
+> - `checklist-acquisti.md` — checklist del **primo ordine** con query di ricerca (Amazon/AliExpress), specifiche da verificare e prezzi indicativi.
 
 ---
 
