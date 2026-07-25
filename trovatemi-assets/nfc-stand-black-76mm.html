@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>Stand NFC 76mm — Black Edition (anteprima) — trovatemi.it</title>
+<style>
+  :root{ --gold:#c9a227; }
+  html,body{ margin:0; padding:0; background:#3a3a3e; color:#eee; font-family:Arial,system-ui,sans-serif; }
+  .wrap{ max-width:640px; margin:0 auto; padding:26px 20px 48px; }
+  .howto{ background:#1d1d22; border:1px solid #333; border-radius:10px; padding:16px 20px; line-height:1.55; font-size:13.5px; margin-bottom:26px; }
+  .howto b{ color:#ff8c4d; } .howto code{ background:#000; padding:1px 6px; border-radius:4px; color:#ffd; }
+  .howto .warn{ color:#ff6b6b; font-weight:700; }
+  h1{ font-size:19px; margin:0 0 4px; color:#fff; }
+  .toggle{ text-align:center; margin:6px 0 22px; }
+  .toggle button{ background:#2a2a30; color:#eee; border:1px solid #444; border-radius:8px; padding:8px 16px; cursor:pointer; font-size:13px; }
+  .toggle button:hover{ border-color:#ff8c4d; }
+  .scene{ display:flex; justify-content:center; }
+  /* L-stand: faccia verticale + base inclinata */
+  .stand{ position:relative; }
+  .face{ width:190px; height:289px; background:#0c0c0d; border-radius:12px 12px 4px 4px;
+    box-shadow:0 14px 30px rgba(0,0,0,.55); border:1px solid #222; overflow:hidden; transform:perspective(900px) rotateX(4deg); }
+  .face.gold svg g{ fill:var(--gold) !important; }
+  .face.gold svg [stroke]{ stroke:var(--gold) !important; }
+  .face.gold svg circle{ fill:var(--gold) !important; }
+  .face svg{ width:100%; height:100%; display:block; }
+  .base{ width:150px; height:14px; margin:-2px auto 0; background:#151517; border-radius:0 0 8px 8px; box-shadow:0 8px 14px rgba(0,0,0,.5); }
+  .cap{ text-align:center; font-size:12px; color:#a7a29b; margin-top:16px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="howto">
+    <h1>Stand NFC 76mm — Black Edition</h1>
+    <p>Versione <b>verticale</b> della black edition, per lo stand NFC nero all-in-one. File di produzione: <code>nfc-stand-black-76mm-front.svg</code>.</p>
+    <p><span class="warn">⚠ Verifica la misura esatta della faccia</span> del tuo stand (varia per listing) e <b>scala l'SVG</b> di conseguenza — il file è impostato a 50×76 mm.</p>
+    <p><b>Produzione:</b> incisione laser (mono) · stampa UV (bianco) · vinile. Converti i <b>testi in tracciati</b>. Oro → fill <code>#C9A227</code>. <span class="warn">Tutta la faccia è antenna NFC: non incidere in profondità.</span></p>
+    <p><b>Nota:</b> questo stand è brandizzato trovatemi.it perché è il tuo <b>prop da demo</b> (lo porti tu). Per lo stand da lasciare al cliente resta meglio l'acrilico A6 + inserto stampato (comunica + QR + per-cliente).</p>
+  </div>
+
+  <div class="toggle">
+    <button onclick="document.querySelector('.face').classList.toggle('gold')">Anteprima: bianco ⇄ oro</button>
+  </div>
+
+  <div class="scene">
+    <div class="stand">
+      <div class="face" id="face"></div>
+      <div class="base"></div>
+    </div>
+  </div>
+  <div class="cap">Simulazione — faccia verticale dello stand NFC nero</div>
+</div>
+
+<script>
+  document.getElementById('face').innerHTML = `
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 760">
+  <g fill="#FFFFFF" stroke="none" font-family="Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(250,86) scale(0.8)">
+      <path d="M0,-26 L5.88,-8.09 L24.7,-8.03 L9.51,3.09 L15.28,21.03 L0,10 L-15.28,21.03 L-9.51,3.09 L-24.7,-8.03 L-5.88,-8.09 Z"/>
+    </g>
+    <text x="250" y="150" font-size="40" font-weight="800" letter-spacing="1">TROVATEMI.IT</text>
+    <g fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round">
+      <path d="M212,360 Q250,320 288,360"/>
+      <path d="M196,340 Q250,286 304,340" opacity="0.8"/>
+      <path d="M181,321 Q250,255 319,321" opacity="0.6"/>
+    </g>
+    <circle cx="250" cy="382" r="10" fill="#FFFFFF"/>
+    <text x="250" y="500" font-size="62" font-weight="800">Tocca qui</text>
+    <text x="250" y="548" font-size="30" font-weight="400" letter-spacing="1">col telefono</text>
+    <text x="250" y="642" font-size="26" font-weight="700">Lasciaci una recensione</text>
+    <text x="250" y="700" font-size="20" font-weight="400" opacity="0.8" letter-spacing="1">Ti facciamo trovare dove conta.</text>
+  </g>
+</svg>`;
+</script>
+</body>
+</html>

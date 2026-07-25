@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  TROVATEMI.IT — Stand NFC "Black Edition" · formato VERTICALE 76mm
+  Arte MONO su sfondo TRASPARENTE per stand NFC neri (tipo AliExpress L-stand 76mm).
+  viewBox 0 0 500 760 = 50 x 76 mm (0.1mm/unita).  ⚠ VERIFICA la misura esatta
+  della faccia del tuo stand e scala il file di conseguenza (la larghezza varia).
+  Colore bianco (#FFFFFF) — versione ORO: #C9A227. Outline dei testi prima del laser.
+  Metodi: incisione laser (mono, sicura) · stampa UV (bianco) · vinile.
+  ⚠ Tutta la faccia dello stand E l'antenna NFC: non incidere in profondita.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 760" width="50mm" height="76mm">
+  <g fill="#FFFFFF" stroke="none" font-family="Helvetica, Arial, sans-serif" text-anchor="middle">
+
+    <!-- wordmark in alto: stella + TROVATEMI.IT -->
+    <g transform="translate(250,86) scale(0.8)">
+      <path d="M0,-26 L5.88,-8.09 L24.7,-8.03 L9.51,3.09 L15.28,21.03 L0,10 L-15.28,21.03 L-9.51,3.09 L-24.7,-8.03 L-5.88,-8.09 Z"/>
+    </g>
+    <text x="250" y="150" font-size="40" font-weight="800" letter-spacing="1">TROVATEMI.IT</text>
+
+    <!-- icona onde NFC (segnale che sale da un punto) -->
+    <g fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round">
+      <path d="M212,360 Q250,320 288,360"/>
+      <path d="M196,340 Q250,286 304,340" opacity="0.8"/>
+      <path d="M181,321 Q250,255 319,321" opacity="0.6"/>
+    </g>
+    <circle cx="250" cy="382" r="10" fill="#FFFFFF"/>
+
+    <!-- headline -->
+    <text x="250" y="500" font-size="62" font-weight="800">Tocca qui</text>
+    <text x="250" y="548" font-size="30" font-weight="400" letter-spacing="1">col telefono</text>
+
+    <!-- claim -->
+    <text x="250" y="642" font-size="26" font-weight="700">Lasciaci una recensione</text>
+    <text x="250" y="700" font-size="20" font-weight="400" opacity="0.8" letter-spacing="1">Ti facciamo trovare dove conta.</text>
+
+  </g>
+</svg>
