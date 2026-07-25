@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  TROVATEMI.IT — Card NFC "Black Edition" · FRONTE
+  Arte MONO su sfondo TRASPARENTE per card PVC/metallo NERE.
+  Formato: CR80 tessera 85.6 x 54 mm (viewBox 0 0 856 540, 0.1mm/unita).
+  Colore: bianco (#FFFFFF). Per la versione ORO cambia i fill/stroke in #C9A227.
+  PRIMA di inviare a laser/plotter: converti i TESTI in TRACCIATI (outline).
+  Metodi: incisione laser (mono, sicura per l'NFC) · stampa UV (bianco pieno) ·
+  taglio vinile (bianco/oro). NON forare/incidere in profondita: c'e la bobina.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 856 540" width="85.6mm" height="54mm">
+  <g fill="#FFFFFF" stroke="none" font-family="Helvetica, Arial, sans-serif" font-weight="700">
+
+    <!-- wordmark: stella + TROVATEMI.IT (top-left) -->
+    <g transform="translate(92,74) scale(0.85)">
+      <path d="M0,-26 L5.88,-8.09 L24.7,-8.03 L9.51,3.09 L15.28,21.03 L0,10 L-15.28,21.03 L-9.51,3.09 L-24.7,-8.03 L-5.88,-8.09 Z"/>
+    </g>
+    <text x="120" y="86" font-size="44" letter-spacing="1">TROVATEMI.IT</text>
+
+    <!-- headline: Tocca qui (center-left) -->
+    <text x="70" y="300" font-size="96" font-weight="800">Tocca qui</text>
+    <text x="74" y="350" font-size="34" font-weight="400" letter-spacing="2">col telefono per lasciarci una recensione</text>
+
+    <!-- tagline (bottom-left) -->
+    <text x="74" y="500" font-size="26" font-weight="400" fill="#FFFFFF" opacity="0.85">Ti facciamo trovare dove conta.</text>
+
+    <!-- icona onde NFC (bottom-right) -->
+    <g fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round">
+      <path d="M735,382 Q705,415 735,448"/>
+      <path d="M752,368 Q712,415 752,462" opacity="0.8"/>
+      <path d="M769,356 Q718,415 769,474" opacity="0.6"/>
+    </g>
+    <circle cx="792" cy="415" r="9" fill="#FFFFFF"/>
+
+  </g>
+</svg>

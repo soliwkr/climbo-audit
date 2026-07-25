@@ -53,6 +53,7 @@ Lo sticker si scrive in 1 secondo con l'app **NFC Tools** (gratis, iOS/Android):
 
 > 📄 **Template pronti** in `trovatemi-assets/`:
 > - `nfc-card-template.html` — la card-eroe (fronte/retro, CR80 con abbondanza) → design da mandare al fornitore NFC / Vistaprint.
+> - `nfc-card-black-edition.html` + `nfc-card-black-front.svg` / `nfc-card-black-back.svg` — versione **mono** (bianco/oro su trasparente) per card **nere**: file vettoriali per incisione laser / stampa UV / taglio vinile.
 > - `stand-insert-a6-template.html` — l'inserto dello stand (A6) → **da stampare in casa con l'EcoTank** su cartoncino 250-300g. Neutro/personalizzabile col nome del cliente (nessun brand trovatemi.it: lo stand è del cliente).
 > - `flyer-a5-leaflet-drop.html` — flyer A5 **brandizzato trovatemi.it** per il leaflet-drop e i walk-in (destinatario: il titolare). Hook del concorrente + offerta 5 recensioni gratis + QR. Stampabile in casa.
 > - `facebook-groups-copy.md` — post pronti-da-incollare per i gruppi Facebook + script commento/DM (metodo che ha portato 4 clienti nella community).

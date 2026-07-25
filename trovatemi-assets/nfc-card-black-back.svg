@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  TROVATEMI.IT — Card NFC "Black Edition" · RETRO
+  Arte MONO su sfondo TRASPARENTE per card PVC/metallo NERE.
+  Formato: CR80 tessera 85.6 x 54 mm (viewBox 0 0 856 540).
+  Colore: bianco (#FFFFFF) — versione oro: #C9A227. Outline dei testi prima del laser.
+  NOTA QR: su card nera il QR inciso a laser ha poco contrasto e spesso NON scansiona.
+  Sul retro si punta sul TAP (NFC). Vuoi un QR? Solo con stampa UV (bianco pieno):
+  in quel caso aggiungi qui il QR bianco. Per laser/vinile, lascia il tap come unico canale.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 856 540" width="85.6mm" height="54mm">
+  <g fill="#FFFFFF" stroke="none" font-family="Helvetica, Arial, sans-serif" text-anchor="middle">
+
+    <!-- wordmark centrato -->
+    <text x="428" y="180" font-size="50" font-weight="800" letter-spacing="1">&#9733; TROVATEMI.IT</text>
+
+    <!-- cinque stelle -->
+    <text x="428" y="280" font-size="58" font-weight="700" letter-spacing="8">&#9733;&#9733;&#9733;&#9733;&#9733;</text>
+
+    <!-- claim -->
+    <text x="428" y="350" font-size="34" font-weight="700">La tua opinione ci fa crescere.</text>
+
+    <!-- call to action -->
+    <text x="428" y="450" font-size="30" font-weight="400" letter-spacing="1">Tocca la card col telefono</text>
+    <text x="428" y="492" font-size="24" font-weight="400" opacity="0.8" letter-spacing="1">Niente app · 20 secondi</text>
+
+  </g>
+</svg>
