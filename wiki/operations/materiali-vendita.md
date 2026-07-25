@@ -51,7 +51,9 @@ Lo sticker si scrive in 1 secondo con l'app **NFC Tools** (gratis, iOS/Android):
 
 > 🖨️ **Cosa puoi stampare in casa (e cosa no).** Una inkjet domestica (es. Epson EcoTank) **non** stampa le card NFC rigide in PVC — quelle si ordinano già stampate dal fornitore. Ma stampa benissimo, a costo quasi zero, tutto il resto: **i cartoncini-inserto degli stand** (su cartoncino 250-300g, ritagli col cutting mat), i **flyer** e i **fogli QR**. Lo stand fai-da-te diventa quindi davvero ~€3: acrilico + inserto stampato in casa + sticker NFC dietro.
 
-> 📄 **Template pronto:** in `trovatemi-assets/nfc-card-template.html` trovi il layout stampabile della card-eroe (fronte/retro, formato tessera CR80 con abbondanza) — da usare come design da mandare al fornitore NFC / Vistaprint.
+> 📄 **Template pronti** in `trovatemi-assets/`:
+> - `nfc-card-template.html` — la card-eroe (fronte/retro, CR80 con abbondanza) → design da mandare al fornitore NFC / Vistaprint.
+> - `stand-insert-a6-template.html` — l'inserto dello stand (A6) → **da stampare in casa con l'EcoTank** su cartoncino 250-300g. Neutro/personalizzabile col nome del cliente (nessun brand trovatemi.it: lo stand è del cliente).
 
 ---
 
