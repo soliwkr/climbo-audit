@@ -54,6 +54,8 @@ Lo sticker si scrive in 1 secondo con l'app **NFC Tools** (gratis, iOS/Android):
 > 📄 **Template pronti** in `trovatemi-assets/`:
 > - `nfc-card-template.html` — la card-eroe (fronte/retro, CR80 con abbondanza) → design da mandare al fornitore NFC / Vistaprint.
 > - `stand-insert-a6-template.html` — l'inserto dello stand (A6) → **da stampare in casa con l'EcoTank** su cartoncino 250-300g. Neutro/personalizzabile col nome del cliente (nessun brand trovatemi.it: lo stand è del cliente).
+> - `flyer-a5-leaflet-drop.html` — flyer A5 **brandizzato trovatemi.it** per il leaflet-drop e i walk-in (destinatario: il titolare). Hook del concorrente + offerta 5 recensioni gratis + QR. Stampabile in casa.
+> - `facebook-groups-copy.md` — post pronti-da-incollare per i gruppi Facebook + script commento/DM (metodo che ha portato 4 clienti nella community).
 
 ---
 
@@ -78,15 +80,27 @@ Il necessario per fare le prime demo (Vittorio + walk-in nei bar/ristoranti dell
 
 ## 📦 Kit di benvenuto per cliente (per ogni cliente firmato)
 
-Il PLAYBOOK prevede la targhetta NFC **inclusa nel piano come "kit di benvenuto"**. Per ogni cliente:
+Il PLAYBOOK prevede la targhetta NFC **inclusa nel piano come "kit di benvenuto"**. Ma il kit non è solo una scatola: è **una scatola + una settimana** — è il tuo strumento anti-churn n°1. Il repo è netto: *«onboarding is not optional — the better you set them up, the longer they stay»*.
+
+**Parte fisica** (consegnata alla call di onboarding, giorno 1-2):
 
 | Articolo | Quantità/cliente |
 |----------|------------------|
-| Stand da banco brandizzato (acrilico + cartoncino + sticker) | 1-2 (reception + cassa) |
-| NFC card PVC (da lasciare allo staff / da tavolo) | 2-3 |
-| Sticker NFC di scorta | 3-5 |
+| Stand da banco brandizzato col nome del cliente (acrilico + inserto stampato in casa + sticker NFC) | 1-2 (reception + cassa) |
+| NFC card già encodate col review link del cliente (staff / da tavolo) | 2-3 |
+| Sticker NFC di scorta pre-encodati | 3-5 |
+| QR kiosk laminato (Climbo genera la pagina → stampi e lamini) | 1 |
+| Cartoncino "Come chiedere la recensione in 5 secondi" per lo staff | 1 |
 
-Costo vivo per kit: **~€10-15/cliente** — trascurabile su un abbonamento da €100-500/mese.
+> ⚠️ Il cartoncino istruzioni staff **non è un extra**: il repo avverte che *lo stand sul bancone non fa nulla se i dipendenti non nominano la recensione a voce*. Il 90% del risultato è la raccolta.
+
+**Parte digitale** (giorno 0-2):
+- **Welcome Email** brandizzata trovatemi.it (template Climbo personalizzato)
+- Accesso al pannello **os.trovatemi.it** (il cliente vede solo il contatore)
+- **Prima campagna di riattivazione** su 10-20 contatti già partita → recensioni entro 24h = effetto WOW
+- Screenshot **"contatore zero"** come baseline + call giorno 14 già fissata
+
+Costo vivo per kit fisico: **~€10-15/cliente** — trascurabile su un abbonamento da €100-500/mese.
 
 ---
 
