@@ -49,6 +49,10 @@ Espositore acrilico A6 inclinato (porta-foto/porta-menu da bancone)  ~€2-4
 
 Lo sticker si scrive in 1 secondo con l'app **NFC Tools** (gratis, iOS/Android): Write → Add a Record → URL → incolli il review link del cliente da Climbo → avvicini il telefono. Fatto. La **lamination non interferisce** con l'NFC (confermato dalla community).
 
+> 🖨️ **Cosa puoi stampare in casa (e cosa no).** Una inkjet domestica (es. Epson EcoTank) **non** stampa le card NFC rigide in PVC — quelle si ordinano già stampate dal fornitore. Ma stampa benissimo, a costo quasi zero, tutto il resto: **i cartoncini-inserto degli stand** (su cartoncino 250-300g, ritagli col cutting mat), i **flyer** e i **fogli QR**. Lo stand fai-da-te diventa quindi davvero ~€3: acrilico + inserto stampato in casa + sticker NFC dietro.
+
+> 📄 **Template pronto:** in `trovatemi-assets/nfc-card-template.html` trovi il layout stampabile della card-eroe (fronte/retro, formato tessera CR80 con abbondanza) — da usare come design da mandare al fornitore NFC / Vistaprint.
+
 ---
 
 ## 🎯 Fase 0 — Kit minimo per partire (comprare SUBITO)
