@@ -58,6 +58,9 @@ Lo sticker si scrive in 1 secondo con l'app **NFC Tools** (gratis, iOS/Android):
 > - `facebook-groups-copy.md` — post pronti-da-incollare per i gruppi Facebook + script commento/DM (metodo che ha portato 4 clienti nella community).
 > - `staff-instructions-a6-template.html` — cartoncino "recensione in 5 secondi" per lo staff del cliente. Va nel kit di benvenuto, neutro, **conforme alle policy Google aprile 2026** (no gating/incentivi/copioni). Stampabile in casa.
 > - `checklist-acquisti.md` — checklist del **primo ordine** con query di ricerca (Amazon/AliExpress), specifiche da verificare e prezzi indicativi.
+> - `scoreboard-attivita-a4.html` — scoreboard mensile stampabile (funnel dei €3k: 30→10→3, termometro MRR, streak). Da appendere al muro.
+> - `tracker-attivita.xlsx` — tracker con formule (cruscotto + registro), importabile in Google Sheets. Si aggiorna da solo compilando il registro.
+> - `playbook-personale.md` — il manuale operativo personale: regola n°1, funnel, settimana tipo, script, obiezioni, calendario cliente, mindset.
 
 ---
 
