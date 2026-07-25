@@ -94,6 +94,7 @@ nav:
     - Onboarding Clients: operations/onboarding-clients.md
     - Retention: operations/retention.md
     - SMTP Setup: operations/smtp-setup.md
+    - Materiali di Vendita: operations/materiali-vendita.md
   - Compliance:
     - Google Review Policy 2026: compliance/google-review-policy-2026.md
     - GDPR (EU): compliance/gdpr-eu.md
