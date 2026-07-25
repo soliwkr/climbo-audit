@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>Inserto Stand A6 — Recensioni Google (stampabile in casa)</title>
+<style>
+  /* ===========================================================
+     INSERTO STAND DA BANCO — formato A6 (105 × 148 mm)
+     Da stampare in casa (Epson EcoTank o qualsiasi inkjet),
+     ritagliare lungo la cornice e infilare nell'espositore
+     acrilico A6, con lo sticker NFC incollato dietro.
+
+     NOTA MODELLO WHITE-LABEL:
+       Questo inserto sta sul bancone del CLIENTE e lo vedono i
+       SUOI clienti. Per questo NON porta il brand trovatemi.it:
+       è neutro e personalizzabile col nome dell'attivita.
+       Modifica il testo tra «virgolette» prima di stampare.
+
+     COME STAMPARE:
+       Stampa (Ctrl/Cmd+P) → Salva come PDF o stampa diretta
+       → Dimensioni: 100% (Actual size) → Margini: Nessuno.
+       Su A4 esce centrato: ritaglialo lungo la cornice sottile.
+     =========================================================== */
+
+  :root{
+    --paper:#faf8f4;
+    --ink:#151319;
+    --accent:#ff6a1a;
+    --accent-dk:#e2560c;
+    --muted:#7c766e;
+    --gold:#f5b400;
+    --line:#e7e1d8;
+  }
+
+  @page{ size:105mm 148mm; margin:0; }
+  html,body{ margin:0; padding:0; background:#8a8a8a; }
+  *{ box-sizing:border-box; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+
+  .howto{
+    max-width:640px; margin:22px auto 6px; padding:14px 18px;
+    font-family:Arial,system-ui,sans-serif; color:#eee; background:#1d1d22;
+    border:1px solid #333; border-radius:10px; line-height:1.5; font-size:13px;
+  }
+  .howto b{ color:#ff8c4d; } .howto code{ background:#000; padding:1px 6px; border-radius:4px; color:#ffd; }
+
+  .sheet{ display:flex; justify-content:center; padding:20px; }
+
+  .insert{
+    position:relative; width:105mm; height:148mm; background:var(--paper);
+    font-family:'Helvetica Neue',Arial,system-ui,sans-serif; color:var(--ink);
+    overflow:hidden;
+  }
+  /* cornice-guida di taglio (stampata, sottile) */
+  .frame{ position:absolute; inset:5mm; border:.3mm solid var(--line); border-radius:3mm; }
+  /* accento in alto */
+  .insert::before{ content:""; position:absolute; top:5mm; left:5mm; right:5mm; height:8mm;
+    background:linear-gradient(90deg,var(--accent),var(--accent-dk)); border-radius:3mm 3mm 0 0; }
+
+  .content{ position:absolute; inset:5mm; padding:12mm 9mm 8mm; display:flex; flex-direction:column; align-items:center; text-align:center; z-index:2; }
+
+  .top-tap{ position:absolute; top:1.4mm; left:0; right:0; display:flex; align-items:center; justify-content:center; gap:2mm;
+    color:#fff; font-size:2.7mm; font-weight:800; letter-spacing:1.5px; text-transform:uppercase; }
+
+  .biz{ font-size:3mm; font-weight:700; letter-spacing:.5px; color:var(--muted); text-transform:uppercase; }
+  .biz .edit{ color:var(--accent-dk); }
+
+  .headline{ font-size:9mm; font-weight:800; line-height:1.02; margin:3mm 0 2mm; }
+  .headline .g{ color:var(--accent-dk); }
+  .stars{ color:var(--gold); font-size:7mm; letter-spacing:2px; }
+
+  .qr{
+    width:52mm; height:52mm; margin:5mm 0 3mm; background:#fff; border-radius:3mm;
+    border:.5mm dashed #c4bdb2; display:flex; flex-direction:column; align-items:center; justify-content:center;
+    color:#8a837a; font-weight:800; font-size:3.4mm; text-align:center;
+  }
+  .qr small{ display:block; font-weight:400; font-size:2.4mm; color:#a49c92; margin-top:1.5mm; padding:0 3mm; }
+
+  .cta{ font-size:4mm; font-weight:800; line-height:1.25; }
+  .cta .accent{ color:var(--accent-dk); }
+  .cta-sub{ font-size:2.9mm; color:var(--muted); margin-top:1.5mm; line-height:1.35; }
+
+  .foot{ margin-top:auto; font-size:3.2mm; font-weight:700; color:var(--ink); }
+  .foot .thanks{ color:var(--accent-dk); }
+
+  /* icona onde NFC piccola vicino alla CTA */
+  .nfc{ width:6mm; height:6mm; vertical-align:-1mm; }
+
+  @media print{ .howto{ display:none !important; } }
+</style>
+</head>
+<body>
+
+  <div class="howto">
+    <p><b>Inserto stand A6 — stampa casalinga.</b> Va bene qualsiasi inkjet (Epson EcoTank incluso). Usa <b>cartoncino 250-300g</b> per rigidità.</p>
+    <p><b>Stampa:</b> <code>Ctrl/Cmd+P</code> → Dimensioni <b>100% (Actual size)</b> → Margini <b>Nessuno</b> → stampa/PDF. Su A4 esce centrato: ritaglialo lungo la cornice sottile col cutting mat, poi infilalo nell'espositore acrilico A6 con lo <b>sticker NFC incollato dietro</b>.</p>
+    <p><b>Prima di stampare</b> sostituisci il testo tra «virgolette» (nome attività) e il riquadro QR col QR del cliente. Puoi aggiungere il logo del cliente al posto della riga nome. <b>Niente brand trovatemi.it qui:</b> lo stand è del cliente.</p>
+  </div>
+
+  <div class="sheet">
+    <div class="insert">
+      <div class="frame"></div>
+      <div class="top-tap">
+        <svg class="nfc" viewBox="0 0 100 100" fill="none"><path d="M28 34c-8 10-8 22 0 32" stroke="#fff" stroke-width="8" stroke-linecap="round"/><path d="M46 26c-13 15-13 33 0 48" stroke="#fff" stroke-width="8" stroke-linecap="round" opacity=".7"/><circle cx="66" cy="50" r="8" fill="#fff"/></svg>
+        Tocca o inquadra
+      </div>
+
+      <div class="content">
+        <div class="biz">«<span class="edit">Nome della tua attività</span>»</div>
+
+        <div class="headline">Lasciaci una<br>recensione <span class="g">su Google</span></div>
+        <div class="stars">★★★★★</div>
+
+        <div class="qr">
+          INSERISCI QR
+          <small>sostituisci con il QR recensione del cliente</small>
+        </div>
+
+        <div class="cta">
+          <span class="accent">Inquadra il QR</span> con la fotocamera<br>oppure <span class="accent">tocca la card</span> col telefono
+        </div>
+        <div class="cta-sub">Niente app, niente registrazione. Ci vogliono 20 secondi.</div>
+
+        <div class="foot">Grazie mille! <span class="thanks">La tua opinione conta ★</span></div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

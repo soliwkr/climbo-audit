@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>Cartoncino Istruzioni Staff A6 — Chiedere una recensione</title>
+<style>
+  /* ===========================================================
+     CARTONCINO ISTRUZIONI STAFF — A6 (105 × 148 mm)
+     Va nel KIT DI BENVENUTO del cliente. E uno strumento INTERNO
+     per il team del cliente: come chiedere una recensione in 5s.
+     Neutro (nessun brand trovatemi.it). Da tenere alla cassa,
+     nel retro, o plastificato come promemoria.
+     CONFORME alle policy Google aprile 2026 (vedi box "Le regole"):
+     no gating, no incentivi, no copioni imposti, no nomi dipendenti.
+     Stampa: 100% (Actual size), margini Nessuno. Inkjet OK.
+     =========================================================== */
+  :root{
+    --paper:#faf8f4; --ink:#151319; --accent:#ff6a1a; --accent-dk:#e2560c;
+    --muted:#7c766e; --gold:#f5b400; --line:#e7e1d8; --soft:#fff4ec;
+    --green:#1a7f4b; --greensoft:#e9f6ee; --red:#b1341f; --redsoft:#fbeeeb;
+  }
+  @page{ size:105mm 148mm; margin:0; }
+  html,body{ margin:0; padding:0; background:#8a8a8a; }
+  *{ box-sizing:border-box; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+
+  .howto{ max-width:640px; margin:22px auto 6px; padding:14px 18px; font-family:Arial,system-ui,sans-serif;
+    color:#eee; background:#1d1d22; border:1px solid #333; border-radius:10px; line-height:1.5; font-size:13px; }
+  .howto b{ color:#ff8c4d; } .howto code{ background:#000; padding:1px 6px; border-radius:4px; color:#ffd; }
+  @media print{ .howto{ display:none !important; } }
+
+  .sheet{ display:flex; justify-content:center; padding:20px; }
+  .card{ position:relative; width:105mm; height:148mm; background:var(--paper);
+    font-family:'Helvetica Neue',Arial,system-ui,sans-serif; color:var(--ink); overflow:hidden; }
+  .frame{ position:absolute; inset:5mm; border:.3mm solid var(--line); border-radius:3mm; }
+
+  .content{ position:absolute; inset:5mm; padding:7mm 8mm; display:flex; flex-direction:column; z-index:2; }
+
+  .tagbar{ display:inline-flex; align-self:flex-start; align-items:center; gap:1.5mm; background:var(--ink); color:#fff;
+    font-size:2.5mm; font-weight:800; letter-spacing:1.5px; text-transform:uppercase; padding:1.4mm 3mm; border-radius:1.5mm; }
+  .title{ font-size:6mm; font-weight:800; line-height:1.05; margin:3mm 0 1mm; }
+  .title .hl{ color:var(--accent-dk); }
+  .subtitle{ font-size:2.9mm; color:var(--muted); line-height:1.35; }
+
+  .script{ background:var(--soft); border-left:1mm solid var(--accent); border-radius:0 2mm 2mm 0;
+    padding:3.5mm 4mm; margin:4mm 0; }
+  .script .lab{ font-size:2.4mm; font-weight:800; text-transform:uppercase; letter-spacing:1px; color:var(--accent-dk); margin-bottom:1.5mm; }
+  .script .q{ font-size:3.5mm; line-height:1.4; font-style:italic; font-weight:600; }
+
+  .steps{ display:flex; flex-direction:column; gap:2.4mm; margin-bottom:3.5mm; }
+  .step{ display:flex; gap:2.8mm; align-items:flex-start; font-size:3mm; line-height:1.3; }
+  .step .n{ flex:0 0 auto; width:5mm; height:5mm; border-radius:50%; background:var(--accent); color:#fff;
+    font-weight:800; font-size:2.8mm; display:flex; align-items:center; justify-content:center; }
+  .step b{ color:var(--ink); }
+
+  .why{ background:var(--greensoft); border-radius:2mm; padding:3mm 3.5mm; font-size:2.9mm; line-height:1.35; color:#14532d; margin-bottom:3mm; }
+  .why b{ color:var(--green); }
+
+  .rules{ background:var(--redsoft); border-radius:2mm; padding:3mm 3.5mm; margin-top:auto; }
+  .rules .rlab{ font-size:2.5mm; font-weight:800; text-transform:uppercase; letter-spacing:.8px; color:var(--red); margin-bottom:1.5mm; }
+  .rules ul{ margin:0; padding-left:4mm; }
+  .rules li{ font-size:2.6mm; line-height:1.4; color:#5b1a10; margin-bottom:.6mm; }
+</style>
+</head>
+<body>
+  <div class="howto">
+    <p><b>Cartoncino istruzioni staff (A6).</b> Va nel kit di benvenuto del cliente — strumento interno per il suo team. Neutro, nessun brand trovatemi.it.</p>
+    <p><b>Stampa</b> 100% su cartoncino, ritaglia lungo la cornice, plastificalo e tienilo alla cassa/nel retro. <b>Conforme alle policy Google aprile 2026</b> (box rosso).</p>
+  </div>
+
+  <div class="sheet">
+    <div class="card">
+      <div class="frame"></div>
+      <div class="content">
+        <div class="tagbar">★ Per il team</div>
+        <div class="title">Una recensione in <span class="hl">5 secondi</span></div>
+        <div class="subtitle">A fine servizio, con <b>ogni</b> cliente. Bastano una frase e un gesto.</div>
+
+        <div class="script">
+          <div class="lab">Di' semplicemente:</div>
+          <div class="q">«Se le fa piacere, può lasciarci una recensione: le basta avvicinare il telefono qui o inquadrare il QR. Ci vogliono 20 secondi e per noi è un grande aiuto.»</div>
+        </div>
+
+        <div class="steps">
+          <div class="step"><span class="n">1</span><div><b>A fine servizio</b>, quando saluti il cliente.</div></div>
+          <div class="step"><span class="n">2</span><div><b>Di' la frase</b> qui sopra, con il sorriso.</div></div>
+          <div class="step"><span class="n">3</span><div><b>Indica lo stand</b>: «tocca qui col telefono o inquadra». Poi lascialo fare a lui.</div></div>
+        </div>
+
+        <div class="why">💡 <b>Perché conta:</b> ogni recensione ci fa salire su Google → più persone ci trovano → più lavoro per tutti noi. È il gesto più veloce con più impatto della giornata.</div>
+
+        <div class="rules">
+          <div class="rlab">⚠ Le regole (importanti)</div>
+          <ul>
+            <li>Chiedila a <b>tutti</b>, non solo a chi sembra contento.</li>
+            <li><b>Mai</b> offrire sconti, omaggi o premi in cambio.</li>
+            <li>Non dire cosa scrivere: l'opinione è la sua.</li>
+            <li>Lascia che sia <b>il cliente</b> a scansionare, senza pressione.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

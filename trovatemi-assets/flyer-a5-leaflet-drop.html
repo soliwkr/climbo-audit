@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>Flyer A5 leaflet-drop — trovatemi.it (per titolari)</title>
+<style>
+  /* ===========================================================
+     FLYER A5 (148 × 210 mm) — LEAFLET DROP / PROSPECTING B2B
+     Destinatario: il TITOLARE dell'attivita locale.
+     Da infilare sotto la porta fuori orario, lasciare al banco,
+     o consegnare a mano nei walk-in (tattica Jason Leigh).
+     Questo flyer PORTA il brand trovatemi.it: e la TUA pubblicita
+     verso i prospect (diverso dall'inserto stand, che e neutro).
+     Stampa: 100% (Actual size), margini Nessuno. Inkjet OK.
+     =========================================================== */
+  :root{
+    --paper:#ffffff; --ink:#14121a; --accent:#ff6a1a; --accent-dk:#e2560c;
+    --muted:#6f6a63; --gold:#f5b400; --dark:#131319; --soft:#fff4ec; --line:#ece6dd;
+  }
+  @page{ size:148mm 210mm; margin:0; }
+  html,body{ margin:0; padding:0; background:#8a8a8a; }
+  *{ box-sizing:border-box; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+
+  .howto{ max-width:640px; margin:22px auto 6px; padding:14px 18px; font-family:Arial,system-ui,sans-serif;
+    color:#eee; background:#1d1d22; border:1px solid #333; border-radius:10px; line-height:1.5; font-size:13px; }
+  .howto b{ color:#ff8c4d; } .howto code{ background:#000; padding:1px 6px; border-radius:4px; color:#ffd; }
+  @media print{ .howto{ display:none !important; } }
+
+  .sheet{ display:flex; justify-content:center; padding:20px; }
+  .flyer{ position:relative; width:148mm; height:210mm; background:var(--paper);
+    font-family:'Helvetica Neue',Arial,system-ui,sans-serif; color:var(--ink); overflow:hidden; }
+
+  /* header scuro */
+  .head{ background:var(--dark); color:#fff; padding:9mm 11mm 8mm; }
+  .brand{ display:flex; align-items:center; gap:2mm; font-weight:800; font-size:5mm; letter-spacing:.3px; }
+  .brand .star{ color:var(--accent); } .brand .it{ color:#ff8c4d; }
+  .brand-sub{ color:#a7a29b; font-size:2.9mm; margin-top:1mm; letter-spacing:.3px; }
+
+  .hook{ padding:9mm 11mm 0; }
+  .hook h1{ font-size:11mm; line-height:1.0; font-weight:800; margin:0; }
+  .hook h1 .hl{ color:var(--accent-dk); }
+  .hook .lead{ font-size:3.6mm; color:var(--muted); line-height:1.4; margin:4mm 0 0; }
+
+  /* confronto recensioni */
+  .versus{ display:flex; gap:4mm; padding:7mm 11mm 0; }
+  .vbox{ flex:1; border:.4mm solid var(--line); border-radius:2.5mm; padding:4mm; text-align:center; }
+  .vbox.win{ background:var(--soft); border-color:var(--accent); }
+  .vbox .lab{ font-size:2.6mm; font-weight:700; text-transform:uppercase; letter-spacing:.8px; color:var(--muted); }
+  .vbox .num{ font-size:9mm; font-weight:800; line-height:1.1; margin:1mm 0; }
+  .vbox.win .num{ color:var(--accent-dk); }
+  .vbox .st{ color:var(--gold); font-size:3.4mm; letter-spacing:1px; }
+  .vsmid{ display:flex; align-items:center; font-weight:800; color:var(--muted); font-size:3.2mm; }
+
+  .how{ padding:7mm 11mm 0; }
+  .how h2{ font-size:4mm; margin:0 0 3mm; }
+  .steps{ display:flex; flex-direction:column; gap:2.6mm; }
+  .step{ display:flex; gap:3mm; align-items:flex-start; font-size:3.2mm; line-height:1.35; }
+  .step .n{ flex:0 0 auto; width:5.5mm; height:5.5mm; border-radius:50%; background:var(--accent); color:#fff;
+    font-weight:800; font-size:3mm; display:flex; align-items:center; justify-content:center; }
+  .step b{ color:var(--ink); }
+
+  /* offerta */
+  .offer{ margin:7mm 11mm 0; background:linear-gradient(90deg,var(--accent),var(--accent-dk)); color:#fff;
+    border-radius:3mm; padding:5mm 6mm; display:flex; align-items:center; gap:5mm; }
+  .offer .big{ font-size:6.6mm; font-weight:800; line-height:1.05; }
+  .offer .small{ font-size:2.9mm; opacity:.95; margin-top:1mm; }
+
+  /* cta / contatti */
+  .cta{ position:absolute; left:11mm; right:11mm; bottom:8mm; display:flex; align-items:center; gap:5mm; }
+  .qr{ width:30mm; height:30mm; flex:0 0 auto; background:#fff; border:.5mm dashed #c4bdb2; border-radius:2.5mm;
+    display:flex; flex-direction:column; align-items:center; justify-content:center; color:#8a837a; font-weight:800;
+    font-size:2.7mm; text-align:center; padding:2mm; }
+  .qr small{ display:block; font-weight:400; font-size:2mm; color:#a49c92; margin-top:1mm; }
+  .contact{ font-size:3.4mm; line-height:1.6; }
+  .contact .l{ font-weight:800; } .contact .accent{ color:var(--accent-dk); font-weight:800; }
+  .contact .edit{ color:#b06; font-weight:700; }
+  .tag{ margin-top:1.5mm; color:var(--muted); font-size:2.7mm; }
+</style>
+</head>
+<body>
+  <div class="howto">
+    <p><b>Flyer A5 leaflet-drop (per titolari).</b> Questo porta il brand trovatemi.it — è la tua pubblicità verso i prospect. Stampa su carta lucida o cartoncino 200g.</p>
+    <p><b>Prima di stampare:</b> sostituisci il QR (→ tua landing/WhatsApp trovatemi.it) e i campi <span style="color:#e79">«contatto»</span> (numero WhatsApp, nome). <b>Stampa 100%, margini Nessuno.</b></p>
+  </div>
+
+  <div class="sheet">
+    <div class="flyer">
+      <div class="head">
+        <div class="brand"><span class="star">★</span>TROVATEMI<span class="it">.IT</span></div>
+        <div class="brand-sub">Ti facciamo trovare dove conta — su Google e sull'AI</div>
+      </div>
+
+      <div class="hook">
+        <h1>I tuoi concorrenti hanno <span class="hl">300 recensioni.</span><br>Tu quante?</h1>
+        <div class="lead">Quando qualcuno cerca la tua attività su Google, in alto compare chi ha più recensioni. Non il migliore — quello con più recensioni. Ecco perché li perdi.</div>
+      </div>
+
+      <div class="versus">
+        <div class="vbox"><div class="lab">Il concorrente</div><div class="num">287</div><div class="st">★★★★★</div></div>
+        <div class="vsmid">vs</div>
+        <div class="vbox win"><div class="lab">La tua attività oggi</div><div class="num">34</div><div class="st">★★★★☆</div></div>
+      </div>
+
+      <div class="how">
+        <h2>Come ti aiutiamo (in automatico, tu non tocchi niente):</h2>
+        <div class="steps">
+          <div class="step"><span class="n">1</span><div><b>Raccogliamo recensioni</b> dai tuoi clienti con un semplice tap / QR — niente app, niente fatica.</div></div>
+          <div class="step"><span class="n">2</span><div><b>L'AI risponde</b> a ogni recensione con le parole giuste per Google → sali nelle ricerche.</div></div>
+          <div class="step"><span class="n">3</span><div><b>Le trasformiamo in post</b> sul tuo profilo Google e social, e ti facciamo comparire su ChatGPT.</div></div>
+        </div>
+      </div>
+
+      <div class="offer">
+        <div>
+          <div class="big">Le prossime 5 recensioni?<br>Te le porto GRATIS.</div>
+          <div class="small">Nessun contratto, nessun impegno. Le vedi arrivare, poi decidi.</div>
+        </div>
+      </div>
+
+      <div class="cta">
+        <div class="qr">INSERISCI QR<small>→ trovatemi.it / WhatsApp</small></div>
+        <div class="contact">
+          <div><span class="l">Scrivimi su WhatsApp:</span> <span class="edit">«+39 3xx xxx xxxx»</span></div>
+          <div><span class="accent">Inquadra il QR</span> o tocca col telefono</div>
+          <div class="tag">★ TROVATEMI.IT · <span class="edit">«Chris Fioravanti»</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

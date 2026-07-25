@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>Scoreboard Attività A4 — trovatemi.it</title>
+<style>
+  /* ===========================================================
+     SCOREBOARD ATTIVITA — A4 (210 × 297 mm) — 1 al mese
+     Strumento INTERNO per Chris: rende visibile il funnel dei
+     €3k (30 contatti → 10 trial → 3 clienti). Da stampare con
+     l'EcoTank e appendere al muro. Segna una casella per ogni
+     azione: ogni casella vuota e un titolare non ancora incontrato.
+     Stampa: 100% (Actual size), margini Nessuno.
+     =========================================================== */
+  :root{
+    --paper:#ffffff; --ink:#14121a; --accent:#ff6a1a; --accent-dk:#e2560c;
+    --muted:#7c766e; --line:#e2ddd4; --soft:#fff4ec; --dark:#131319; --gold:#f5b400;
+    --green:#1a7f4b; --greensoft:#e9f6ee;
+  }
+  @page{ size:210mm 297mm; margin:0; }
+  html,body{ margin:0; padding:0; background:#8a8a8a; }
+  *{ box-sizing:border-box; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+
+  .howto{ max-width:680px; margin:22px auto 6px; padding:14px 18px; font-family:Arial,system-ui,sans-serif;
+    color:#eee; background:#1d1d22; border:1px solid #333; border-radius:10px; line-height:1.5; font-size:13px; }
+  .howto b{ color:#ff8c4d; }
+  @media print{ .howto{ display:none !important; } }
+
+  .sheet{ display:flex; justify-content:center; padding:20px; }
+  .page{ position:relative; width:210mm; height:297mm; background:var(--paper);
+    font-family:'Helvetica Neue',Arial,system-ui,sans-serif; color:var(--ink); overflow:hidden; padding:0; }
+
+  /* header */
+  .head{ background:var(--dark); color:#fff; padding:9mm 14mm; display:flex; justify-content:space-between; align-items:flex-end; }
+  .head h1{ font-size:9mm; font-weight:800; margin:0; letter-spacing:.3px; }
+  .head .brand{ font-size:3.4mm; color:#a7a29b; }
+  .head .brand .star{ color:var(--accent); }
+  .month{ text-align:right; font-size:3.2mm; color:#cfcac2; }
+  .month .box{ display:inline-block; min-width:34mm; border-bottom:.4mm solid #6a6560; margin-left:2mm; }
+
+  .body{ padding:7mm 14mm; }
+
+  /* target strip */
+  .target{ display:flex; gap:4mm; margin-bottom:6mm; }
+  .tcard{ flex:1; background:var(--soft); border:.4mm solid var(--accent); border-radius:2.5mm; padding:3.5mm 4mm; text-align:center; }
+  .tcard .n{ font-size:7mm; font-weight:800; color:var(--accent-dk); line-height:1; }
+  .tcard .l{ font-size:2.7mm; color:var(--muted); margin-top:1mm; font-weight:700; text-transform:uppercase; letter-spacing:.5px; }
+  .tcard .arrow{ align-self:center; font-weight:800; color:var(--muted); }
+
+  .sec{ margin-bottom:6mm; }
+  .sec h2{ font-size:4.4mm; margin:0 0 3mm; display:flex; align-items:baseline; gap:2mm; }
+  .sec h2 .cap{ font-size:3mm; color:var(--muted); font-weight:600; }
+
+  /* griglie caselle */
+  .grid{ display:grid; gap:2.4mm; }
+  .g30{ grid-template-columns:repeat(10,1fr); }
+  .g10{ grid-template-columns:repeat(10,1fr); }
+  .cell{ aspect-ratio:1/1; border:.4mm solid var(--line); border-radius:1.5mm; }
+  .cell.big{ aspect-ratio:auto; height:16mm; border-width:.5mm; border-color:var(--accent); background:var(--soft);
+    display:flex; flex-direction:column; justify-content:flex-end; padding:2mm; }
+  .cell.big .euro{ font-size:2.5mm; color:var(--accent-dk); font-weight:700; border-top:.3mm solid #e7cbb5; padding-top:1mm; }
+  .g3{ grid-template-columns:repeat(3,1fr); }
+  .hint{ font-size:2.7mm; color:var(--muted); margin-top:2mm; }
+
+  /* termometro MRR */
+  .thermo{ margin-top:1mm; }
+  .track{ position:relative; height:10mm; background:#f3efe8; border:.4mm solid var(--line); border-radius:2mm; overflow:hidden; display:flex; }
+  .mile{ flex:1; border-right:.3mm dashed #d8d2c8; position:relative; }
+  .mile:last-child{ border-right:none; }
+  .mlabels{ display:flex; margin-top:1.5mm; }
+  .mlab{ flex:1; text-align:right; font-size:2.5mm; color:var(--muted); font-weight:700; padding-right:1mm; }
+  .today{ margin-top:3mm; font-size:3.4mm; font-weight:800; }
+  .today .w{ display:inline-block; min-width:26mm; border-bottom:.4mm solid var(--ink); }
+
+  /* streak calendario */
+  .streak{ display:grid; grid-template-columns:repeat(16,1fr); gap:1.6mm; }
+  .day{ aspect-ratio:1/1; border:.35mm solid var(--line); border-radius:1mm; display:flex; align-items:center; justify-content:center;
+    font-size:2.1mm; color:#b7b1a8; }
+
+  .foot{ position:absolute; left:14mm; right:14mm; bottom:8mm; text-align:center; font-size:3.2mm; font-weight:700; color:var(--accent-dk); }
+</style>
+</head>
+<body>
+  <div class="howto">
+    <p><b>Scoreboard attività (A4, 1 al mese).</b> Stampalo, appendilo dove lo vedi ogni mattina. Ogni azione = una casella segnata.</p>
+    <p><b>Regola d'oro:</b> almeno 1 contatto al giorno (walk-in, DM, flyer). La leva del business sei tu che esci, non i grafici. Stampa 100%, margini Nessuno.</p>
+  </div>
+
+  <div class="sheet">
+    <div class="page">
+      <div class="head">
+        <div>
+          <h1>SCOREBOARD ATTIVITÀ</h1>
+          <div class="brand"><span class="star">★</span> TROVATEMI.IT — il funnel dei €3.000</div>
+        </div>
+        <div class="month">Mese:<span class="box">&nbsp;</span></div>
+      </div>
+
+      <div class="body">
+        <div class="target">
+          <div class="tcard"><div class="n">30</div><div class="l">Contatti</div></div>
+          <div class="arrow">→</div>
+          <div class="tcard"><div class="n">10</div><div class="l">Trial gratis</div></div>
+          <div class="arrow">→</div>
+          <div class="tcard"><div class="n">3</div><div class="l">Clienti nuovi</div></div>
+          <div class="arrow">→</div>
+          <div class="tcard"><div class="n">€3k</div><div class="l">MRR a 12 mesi</div></div>
+        </div>
+
+        <div class="sec">
+          <h2>1 · CONTATTI <span class="cap">— 1 al giorno · obiettivo 30 · martedì-giovedì i migliori</span></h2>
+          <div class="grid g30">
+            <div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div>
+            <div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div>
+            <div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div>
+          </div>
+        </div>
+
+        <div class="sec">
+          <h2>2 · TRIAL ATTIVATI <span class="cap">— ~30% dei contatti dice sì · obiettivo 10</span></h2>
+          <div class="grid g10">
+            <div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div><div class="cell"></div>
+          </div>
+        </div>
+
+        <div class="sec">
+          <h2>3 · CLIENTI CHIUSI <span class="cap">— ~30% dei trial converte · scrivi il piano €/mese</span></h2>
+          <div class="grid g3">
+            <div class="cell big"><div class="euro">€______/mese</div></div>
+            <div class="cell big"><div class="euro">€______/mese</div></div>
+            <div class="cell big"><div class="euro">€______/mese</div></div>
+          </div>
+          <div class="hint">Ne bastano 3 al mese: dopo 12 mesi sono ~36 clienti × €100 = €3.600 MRR.</div>
+        </div>
+
+        <div class="sec thermo">
+          <h2>4 · TERMOMETRO MRR <span class="cap">— colora fino a dove sei arrivato</span></h2>
+          <div class="track">
+            <div class="mile"></div><div class="mile"></div><div class="mile"></div><div class="mile"></div><div class="mile"></div><div class="mile"></div>
+          </div>
+          <div class="mlabels">
+            <div class="mlab">€500</div><div class="mlab">€1.000</div><div class="mlab">€1.500</div><div class="mlab">€2.000</div><div class="mlab">€2.500</div><div class="mlab">€3.000</div>
+          </div>
+          <div class="today">MRR oggi: €<span class="w">&nbsp;</span> &nbsp;·&nbsp; mancano <span class="w">&nbsp;</span> clienti a €3.000</div>
+        </div>
+
+        <div class="sec">
+          <h2>5 · STREAK <span class="cap">— segna ogni giorno in cui hai fatto ≥1 contatto</span></h2>
+          <div class="streak">
+            <div class="day">1</div><div class="day">2</div><div class="day">3</div><div class="day">4</div><div class="day">5</div><div class="day">6</div><div class="day">7</div><div class="day">8</div><div class="day">9</div><div class="day">10</div><div class="day">11</div><div class="day">12</div><div class="day">13</div><div class="day">14</div><div class="day">15</div><div class="day">16</div>
+            <div class="day">17</div><div class="day">18</div><div class="day">19</div><div class="day">20</div><div class="day">21</div><div class="day">22</div><div class="day">23</div><div class="day">24</div><div class="day">25</div><div class="day">26</div><div class="day">27</div><div class="day">28</div><div class="day">29</div><div class="day">30</div><div class="day">31</div><div class="day">&nbsp;</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="foot">Ogni casella vuota è un titolare che non hai ancora incontrato. Esci. ★</div>
+    </div>
+  </div>
+</body>
+</html>
