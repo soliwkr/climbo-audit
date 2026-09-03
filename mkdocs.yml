@@ -65,6 +65,7 @@ extra:
 
 nav:
   - Home: index.md
+  - Trovatemi Current Overlay: trovatemi-current-overlay.md
   - Overview: overview.md
   - Getting Started:
     - What is Climbo: getting-started/what-is-climbo.md
