@@ -1,124 +1,247 @@
-# TROVATEMI.IT — CHEATSHEET OPERATIVA
+# TROVATEMI.IT — Lean cheatsheet
 
-> Una pagina che riassume tutto quello di cui abbiamo parlato: modello, cosa comprare, come personalizzare, come produrre, come vendere. Il resto sono i file di dettaglio in `trovatemi-assets/` e `wiki/`.
+**Current state: 2026-09-03**
+
+> Questa pagina è la scorciatoia operativa. Per delivery Climbo leggere anche `../TROVATEMI-DELIVERY-OVERLAY.md` e `../PLAYBOOK.md`.
+
+Governance owner: `soliwkr/trovatemi-os`.
 
 ---
 
-## 1. Il modello (in 4 righe)
+## 1. Il prodotto
 
-- Paghi **Climbo €99/mese** (clienti illimitati) → incassi **€100/300/500** per cliente.
-- Break-even al **1° cliente**, profitto dal 2°.
-- Il cliente vede **TROVATEMI.IT**, non sa che esiste Climbo.
-- Vendi **il contatore recensioni che sale**, non un software.
+**Un solo prodotto.**
 
-## 2. La regola n°1 + il funnel
+- €149/mese;
+- trial 21 giorni;
+- €0 durante trial;
+- carta richiesta all'attivazione;
+- per location;
+- Starter Review Kit digitale nel trial;
+- Welcome Kit fisico solo dopo primo pagamento riuscito.
 
-> **≥1 contatto al giorno.** Sempre. Se procrastini con tool/dashboard, ti manca un contatto, non uno strumento.
+Niente piani ★/★★/★★★.
 
+---
+
+## 2. La macchina
+
+```text
+acquisition
+→ D1 / Audit Engine
+→ report
+→ activation / binding
+→ Climbo
+→ onboarding
+→ first value
 ```
-30 contatti → 10 trial gratis → 3 clienti/mese → dopo 12 mesi ≈ €3.600 MRR
+
+D1 prima. Climbo dopo activation.
+
+---
+
+## 3. La prima campaign
+
+**Beauty & Wellness** è la prima campaign layer.
+
+Beauty Check = funnel dedicato.
+
+Master Trovatemi resta cross-verticale.
+
+Lead non-Beauty possono essere founder pilots con lo stesso prodotto senza aprire Food Check o nuove verticali.
+
+---
+
+## 4. Messaging
+
+Headline:
+
+> **Hai già clienti felici. Fai in modo che si veda.**
+
+Tesi:
+
+> **Il passaparola c'è. Solo che gira male.**
+
+Problema:
+
+> **Passaparola perso**
+
+Firma:
+
+> **Il passaparola che hai già. Messo al lavoro. ★**
+
+Tre meme madre:
+
+1. **Il complimento fantasma**;
+2. **Le recensioni scomparse**;
+3. **Quello peggiore che vince**.
+
+Punchline ricorrente:
+
+> **Peccato che Google non era lì.**
+
+`Fiducia / Visibilità / Scelta` = backbone interno, non testo da mettere automaticamente sugli asset.
+
+---
+
+## 5. Design
+
+### Master
+
+- nero/antracite;
+- giallo/oro;
+- `★`;
+- fotografia reale, calda, locale;
+- layout editoriale;
+- headline/numeri grandi;
+- un'idea in 1–2 secondi;
+- no SaaS-zoo/dashboard decorative.
+
+### Beauty
+
+- cream / wine / hot-pink / acid;
+- art direction Beauty;
+- stessa famiglia progettuale, altro set grafico.
+
+---
+
+## 6. H0 — adesso
+
+**CURRENT BUILD = master home top-quality.**
+
+La home deve vendere la convinzione prima del software:
+
+```text
+Hai già clienti felici...
+↓
+Complimento fantasma
+↓
+Recensioni scomparse
+↓
+Quello peggiore che vince
+↓
+Cosa fa Trovatemi
+↓
+21 giorni / €0 / €149 mese
+↓
+Beauty Check / demo altra attività
 ```
 
-## 3. Cosa comprare — primo ordine (~€90-130)
-
-| Articolo | Q.tà | Note |
-|----------|------|------|
-| Card NFC custom/nere (card-eroe da demo) | 5-10 | Ordinata stampata / doming |
-| Card PVC bianche NTAG215 (funzionali) | 10 | Le encodi tu |
-| Sticker NFC NTAG215 (rotolo) | 50 | Consumabile nascosto |
-| Espositori acrilici A6 | 3-5 | Per stand fai-da-te |
-| Cartoncino 250-300g A4 | 100 | Per l'EcoTank |
-| Ricarica Balance Climbo | — | ~$20 |
-
-→ Dettaglio + query di ricerca: `checklist-acquisti.md`
-
-## 4. I 3 tipi di NFC + i chip
-
-| Tipo | Ruolo | Lo mostri? |
-|------|-------|-----------|
-| Sticker a rotolo | Consumabile nascosto (dietro card/stand) | ❌ |
-| Card PVC bianca | Funzionale (staff/scorta) | ⚠️ dietro le quinte |
-| Card custom/nera + stand | Card-eroe / prop premium | ✅ è il WOW |
-
-**Chip:** NTAG **213** (URL, economico) · **215** (URL+vCard, standard) · **216** (solo più memoria). **424 DNA** = crittografia/anti-clone → **non ti serve**. Per un link recensione, il 213/215 basta.
-
-## 5. Personalizzare le card NERE (regole d'oro)
-
-- ⚠️ **PVC + laser = NO** → rilascia cloro tossico, rovina la macchina.
-- ⚠️ **Mai forare/incidere in profondità** → dentro c'è la bobina NFC.
-
-| Metodo | Resa | Note |
-|--------|------|------|
-| **Doming** (adesivo resina 3D oro) | ⭐⭐⭐ **La migliore** | Su PVC/stand nero: premium, sicuro, economico, no attrezzatura |
-| Incisione laser | ⭐⭐⭐ | **Solo su METALLO** (no PVC). Mono argento |
-| Stampa UV | ⭐⭐ | Bianco/colore coprente su nero |
-| Vinile ritagliato | ⭐ | DIY, piatto |
-
-→ File design: `nfc-card-black-edition.html` (card) · `nfc-stand-black-76mm.html` (stand) · versione solo-logo per doming da fare al bisogno.
-
-## 6. Chi produce cosa
-
-| Cosa | Produzione |
-|------|-----------|
-| Inserti stand, flyer, QR, cartoncino staff | 🖨️ **EcoTank** (carta, no PVC rigido) |
-| Card-eroe, card nere, doming | 🏭 **Fornitore** (stampa/UV/doming) |
-| Card bianche funzionali | ⚪ **Vuote + NFC Tools** (encoding) |
-
-> La tua EcoTank NON stampa card PVC rigide. Stampante per tessere (€800+) solo a volume.
-
-## 7. Il kit di benvenuto = scatola + settimana
-
-**Fisico:** 1-2 stand da banco (nome cliente + QR) · 2-3 NFC card encodate · sticker di scorta · QR kiosk laminato · cartoncino istruzioni staff.
-**Digitale:** Welcome Email · pannello os.trovatemi.it · prima campagna riattivazione · screenshot "contatore zero" · call giorno 14 fissata.
-
-→ Template d'ordine ripetibile (logo + QR = uniche variabili): `kit-cliente-spec.md`
-
-## 8. Prospecting (come trovo clienti)
-
-- **Walk-in** (mar-gio): «Ho un regalo» → tap NFC → gap col concorrente → 5 recensioni gratis.
-- **Flyer leaflet-drop** (brandizzato trovatemi.it): `flyer-a5-leaflet-drop.html`
-- **Gruppi Facebook**: post + DM pronti in `facebook-groups-copy.md`
-
-## 9. Compliance Google (aprile 2026) — usala come selling point
-
-- Chiedi a **tutti**, non solo ai contenti (no gating).
-- **Mai** incentivi (sconti/premi per recensioni).
-- Niente copioni imposti, niente richiesta nomi dipendenti.
-- QR/NFC stand = OK (il cliente sceglie di scansionare).
-
-## 10. Non distrarti (adesso)
-
-NON servono: dashboard CF Workers, webhook, Zapier, API, stampante tessere, mini-laser, piani ★★/★★★. Si costruiscono **quando hai i clienti**. La leva è uscire e parlare.
-
-## 11. Fornitori
-
-- **Locali** (Formia/Fondi/Terracina): `fornitori-locali.md` → chiedi doming + card + adesivi.
-- **Brief da consegnare**: `brief-fornitore.md`
-- **Doming online** (brand one-time): Centroresina, Sticker.it, StickerPrinting, FlyerAlarm.
+No production cutover senza founder approval.
 
 ---
 
-## 📁 Indice di tutti gli asset
+## 7. Dopo H0
 
-| File | Cos'è |
-|------|-------|
-| `PLAYBOOK.md` | Mappa Climbo ↔ offerta trovatemi.it |
-| `playbook-personale.md` | Il tuo manuale operativo (regola n°1, funnel, script, obiezioni) |
-| `wiki/operations/materiali-vendita.md` | Guida completa acquisti + kit |
-| `checklist-acquisti.md` | Primo ordine con query di ricerca |
-| `nfc-card-template.html` | Card-eroe fronte/retro (fornitore NFC) |
-| `nfc-card-black-edition.html` + `.svg` | Card nera mono (laser/UV/vinile/doming) |
-| `nfc-stand-black-76mm.html` + `.svg` | Stand nero verticale mono |
-| `stand-insert-a6-template.html` | Inserto stand (EcoTank) |
-| `flyer-a5-leaflet-drop.html` | Flyer prospecting (EcoTank) |
-| `staff-instructions-a6-template.html` | Cartoncino staff (kit, conforme Google) |
-| `facebook-groups-copy.md` | Post + script DM |
-| `scoreboard-attivita-a4.html` | Scoreboard funnel €3k (muro) |
-| `tracker-attivita.xlsx` | Tracker con formule (Google Sheets) |
-| `brief-fornitore.md` | Scheda preventivo fornitore |
-| `kit-cliente-spec.md` | Template d'ordine kit cliente |
-| `fornitori-locali.md` | Lead fornitori zona Formia/Fondi/Terracina |
+```text
+L2 audit reale + lead
+→ M0 measurement/privacy/compliance
+→ C0.1B onboarding/delivery deep gate
+→ L3 report → trial → first value
+→ L4 first batch
+```
+
+Non saltare i gate.
 
 ---
 
-*Se dubiti su cosa fare: guarda lo scoreboard. Una casella vuota = un titolare che non hai ancora incontrato. Esci. ★*
+## 8. Climbo baseline
+
+- Reviews ON;
+- Requests ON;
+- Reminders ON;
+- AI Sentiment ON;
+- Review Filter OFF;
+- Google-first;
+- SEO Agent ON where verified;
+- Social Agent ON where tested;
+- Performance ON;
+- Website / Widgets / GEO / AI Chat fuori Lean MVP per default.
+
+Portal: `app.trovatemi.it`.
+
+---
+
+## 9. Review compliance
+
+Chiedi a tutti in modo neutrale.
+
+No:
+
+- review gating;
+- incentivi;
+- filtrare gli insoddisfatti verso privato per proteggere il rating.
+
+Vendor evidence non cambia questa policy.
+
+---
+
+## 10. Onboarding
+
+> **Onboarding is not optional.**
+
+Direzione:
+
+- preset prima;
+- OAuth/consent al cliente;
+- touchpoint umano standardizzato ammesso;
+- recurring delivery automatizzata;
+- niente recurring manual service come core.
+
+C0.1B matrix:
+
+`PRESET / API / UI-AUTO / CLIENTE / UMANO / ELIMINARE`
+
+API first. Browser automation last mile.
+
+---
+
+## 11. Physical kit
+
+Non comprare stock per sentirti produttivo.
+
+Current rule:
+
+- digital Starter Kit during trial;
+- physical Welcome Kit only after first payment;
+- target €25 all-in;
+- hard cap €40 shipping included.
+
+NFC/QR sono strumenti, non il prodotto e non il current gate.
+
+---
+
+## 12. Cost rule
+
+Prima di ogni tool/integration/acquisto:
+
+1. upfront;
+2. recurring;
+3. downstream mandatory;
+4. free-tier limits;
+5. maintenance;
+6. il goal si raggiunge senza pagare oppure no?.
+
+---
+
+## 13. Non usare più
+
+- 3-tier pricing;
+- €100/€300/€500;
+- coupon founder forever;
+- Reportly;
+- `os.trovatemi.it` come portale corrente;
+- review gating;
+- 30 NFC come first move;
+- GHL;
+- seller network prima dei gate;
+- dashboard/demo zoo;
+- content machine continua.
+
+---
+
+## 14. Regola finale
+
+> **Una branch. Una preview. Un build block. Una decisione founder quando serve.**
+
+Se un file storico in `trovatemi-assets/` contraddice questa cheatsheet, trattalo come history/evidence e verifica TROVATEMI OS prima di agire.
