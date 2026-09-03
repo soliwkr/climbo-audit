@@ -8,6 +8,9 @@ hide:
 **The community knowledge base for Climbo agency owners.**  
 Built from 30 YouTube AMAs + 933 Skool community posts. Maintained by the community.
 
+!!! warning "Using this wiki for Trovatemi?"
+    Climbo/community material is evidence, not current Trovatemi product policy. Read the [Trovatemi Current Overlay](trovatemi-current-overlay.md) first. Current Trovatemi governance lives in `soliwkr/trovatemi-os`.
+
 ---
 
 ## New here? Start in order.
@@ -69,6 +72,9 @@ More visibility → more walk-ins → more customers → more reviews
 ```
 
 [:octicons-arrow-right-24: See how the AI agents work](ai-agents/overview.md)
+
+!!! note "Evidence, not a Trovatemi guarantee"
+    The flywheel above reflects Climbo/community framing. Trovatemi does not convert vendor SEO/AI claims into guaranteed ranking or customer-acquisition claims without verification.
 
 ---
 
@@ -150,6 +156,7 @@ More visibility → more walk-ins → more customers → more reviews
 
 | I need to... | Go to |
 |---|---|
+| Apply Climbo knowledge to Trovatemi | [Trovatemi Current Overlay](trovatemi-current-overlay.md) |
 | Understand what Climbo is | [Overview](overview.md) |
 | See all pricing | [Pricing & Plans](getting-started/pricing-and-plans.md) |
 | Know what to say to a prospect | [Demo Script](sales/demo-script.md) |
